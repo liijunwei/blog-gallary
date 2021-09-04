@@ -4,56 +4,56 @@ date: 2021-09-04 19:02:06
 tags: [hexo, first-time]
 ---
 
-# 今天开始使用hexo公开自己的文章
+### 今天开始使用hexo公开自己的文章
 
 还有很多问题没解决掉, 慢慢来
 
-# 部署步骤
+### 部署步骤
 
-## 本地启动安装hexo
-
-
-
-## 本地用hexo新建一个项目
++ 本地启动安装hexo
 
 
 
-## 安装依赖
++ 本地用hexo新建一个项目
 
 
 
-## 安装部署工具(hexo-deployer-git)
++ 安装依赖
 
 
 
-## 修改配置
++ 安装部署工具(hexo-deployer-git)
 
 
 
-## 在VPS上新建一个 bare git仓库(下面称为 bare-git-repo)(使用github也可以, 一样的)
++ 修改配置
 
 
 
-## 本地提交代码(不一定提交到到github, 本地存着也可以)
++ 在VPS上新建一个 bare git仓库(下面称为 bare-git-repo)(使用github也可以, 一样的)
 
 
 
-## 使用 hexo deploy, 把代码部署到VPS的 bare-git-repo
++ 本地提交代码(不一定提交到到github, 本地存着也可以)
 
 
 
-## 在VPS上的 /srv/www 目录下clone bare-git-repo
++ 使用 hexo deploy, 把代码部署到VPS的 bare-git-repo
 
 
 
-## 配置dns解析
++ 在VPS上的 /srv/www 目录下clone bare-git-repo
 
 
 
-## 配置nginx
++ 配置dns解析
 
 
 
-## 访问
++ 配置nginx
+
+
+
++ 访问
 
 
