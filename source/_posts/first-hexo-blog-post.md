@@ -57,3 +57,18 @@ tags: [hexo, first-time]
 + 访问
 
 
+### Basic Workflow
+
+```bash
+# local
+cd ~/OuterGitRepo/blog-gallary
+hexo new title_xxx
+git add .; git commit -am 'Added blog post title_xxx.'
+hexo clean && hexo deploy
+
+# VPS
+cd /srv/www/blog-gallary && git pull # TODO 这步自动化后就比较舒服了
+
+# visit
+http://blog.bxzy.top
+```
