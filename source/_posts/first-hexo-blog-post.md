@@ -64,10 +64,7 @@ tags: [hexo, first-time]
 cd ~/OuterGitRepo/blog-gallary
 hexo new title_xxx
 git add .; git commit -am 'Added blog post title_xxx.'
-hexo clean && hexo deploy
-
-# VPS
-cd /srv/www/blog-gallary && git pull # TODO 这步自动化后就比较舒服了
+hexo clean && hexo deploy && ssh webuser@xiaoli "cd /srv/www/blog-gallary && git pull"
 
 # visit
 http://blog.bxzy.top
