@@ -3,6 +3,7 @@ title: disk.usage.scanning
 date: 2021-09-05 23:35:41
 tags:
   - bash
+  - ops
 ---
 
 ####usage:
