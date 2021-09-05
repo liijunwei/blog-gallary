@@ -6,11 +6,11 @@ tags:
   - ops
 ---
 
-####usage:
+#### Usage
 
 ```bash
 sudo -s
-vi /tmp/disk_scan.sh
+vi /tmp/disk_scan.sh # scipt content see below
 (nohup /bin/bash /tmp/disk_scan.sh >> /tmp/disk_clean.log 2>&1 &)
 ```
 
@@ -55,5 +55,5 @@ result="${result:-BigFileNotFound}"
 echo_with_timestamp "Disk usage scanning.end $dir_path"
 echo "$result"
 
-notice_admin "Disk usage scanning" "$result"
+notice_admin "Disk usage scanning" "$result" # optional
 ```
