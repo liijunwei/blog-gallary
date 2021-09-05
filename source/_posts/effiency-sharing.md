@@ -9,25 +9,30 @@ tags:
   - bash
 ---
 
-本篇记录了我如何使用命令行+编辑器提高工作效率
+### 本篇记录了我如何使用命令行+编辑器提高工作效率
 
-+ 编辑器
+### 关键点
+
++ 编辑器(我主用sublime)
     + 多光标
     + markdown
-    + 编辑器
     + 快捷键
+
 + 思维方式
     + 文本
     + 信息冗余
     + 清晰
+
 + worklog
     + 工作流(TODO OK)
     + 文件目录
+
 + 命令行(软件)
     + git
     + template/套路
     + 能否自动化
     + mkdir cp mv open alias
+
 + 一维表
     + 数据组织方式
     + 字段
@@ -41,9 +46,33 @@ tags:
     + git分支
 
 + "一致性 大于 正确性"
+
 + 命令行+编辑器(文本型 二进制型)
     + 转变思维方式: 尽量使用文本型文件
     + markdown
     + IDE / EDITOR
     + 使用文本的优点
 
+### notebook目录结构
+
+当前做笔记用的是一个目录(名为notebook)+markdown, 用git管理
+
+```bash
+lijunwei@bxzy:notebook(master)$ tree . -L 1
+.
+├── README.md
+├── TODO.md
+├── effiency
+├── fun
+├── goal
+├── learn
+├── log
+├── notes
+├── questions.note
+├── read
+├── share
+├── tmp
+└── work
+
+11 directories, 2 files
+```
