@@ -1,7 +1,7 @@
 ---
 title: effiency-sharing
 date: 2021-09-05 22:36:51
-tags: 
+tags:
   - effiency
   - sublime
   - terminal
