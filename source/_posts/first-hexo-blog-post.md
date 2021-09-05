@@ -1,7 +1,9 @@
 ---
 title: first-hexo-blog-post
 date: 2021-09-04 19:02:06
-tags: [hexo, first-time]
+tags:
+  - hexo
+  - first-time
 ---
 
 ### 今天开始使用hexo公开自己的文章
