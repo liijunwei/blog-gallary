@@ -12,7 +12,7 @@ Name:       李俊伟
 Location:   北京
 Age:        25
 Email:      ljw532344863@sina.com
-Experience: 近两年的Ruby-On-Rails开发经验
+Experience: 近两年的Ruby-On-Rails开发经验; 一年交换生经验;
 Skills:     Ruby/Rails
             Linux/Shell/monit/systemd
             Network-fundamentals/HTTP/RESTful-API
