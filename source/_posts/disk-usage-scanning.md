@@ -10,7 +10,7 @@ tags:
 
 ```bash
 sudo -s
-vi /tmp/disk_scan.sh # scipt content attached below
+vi /tmp/disk_scan.sh # Script content attached below
 (nohup /bin/bash /tmp/disk_scan.sh >> /tmp/disk_clean.log 2>&1 &)
 ```
 
