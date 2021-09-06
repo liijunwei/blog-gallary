@@ -14,7 +14,8 @@ vi /tmp/disk_scan.sh # scipt content attached below
 (nohup /bin/bash /tmp/disk_scan.sh >> /tmp/disk_clean.log 2>&1 &)
 ```
 
-#### Scipt
+#### Script
+
 ```bash
 #!/bin/bash
 
