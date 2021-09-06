@@ -8,9 +8,9 @@ tag:
 ### Basic Intro
 
 ```markdown
-Name:       李俊伟/lijunwei
+Name:       李俊伟
 Location:   北京
 Age:        25
 Email:      ljw532344863@sina.com
-Experience: An 2 years of Ruby On Rails Developer
+Experience: 近两年的Ruby-On-Rails开发经验
 ```
