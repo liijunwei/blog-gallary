@@ -6,7 +6,6 @@ tags:
   - sublime
   - terminal
   - shell
-  - bash
 ---
 
 ### 本篇记录了我如何使用命令行+编辑器提高工作效率
