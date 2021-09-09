@@ -9,9 +9,9 @@ tags:
 
 > `命令行+编辑器` 的使用受雷哥影响, 感谢指导. [**ref: REPO**](https://github.com/ery/suitup)
 
-今天整理了一下常用的git相关的helper-functions, 原本是放在`notebook`的某个目录里, 每增加一个, 就去 `~/.zshrc`里source一下
+今天整理了一下常用的git相关的helper-functions, 原本是放在`notebook`的某个目录里, 每增加一个, 就去 `$HOME/.zshrc`里source一下
 
-虽然脚本很好用, 但是每次去修改`~/.zshrc`太蛋疼了
+虽然脚本很好用, 但是每次去修改`$HOME/.zshrc`太蛋疼了
 
 ## Old way
 
@@ -28,13 +28,13 @@ source $HOME/Documents/notebook/learn/git/git.open.repo.in.browser.sh
 ## Better way
 
 ```bash
-cd ~/.oh-my-zsh/custom/plugins/
+cd $HOME/.oh-my-zsh/custom/plugins/
 git init
 git add .; git commit -am 'Init';
 git remote add origin git@github.com:liijunwei/custom-omz-plugins.git
 git push
 
-# Add plugin in ~/.zshrc
+# Add plugin in $HOME/.zshrc
 plugins=(
   git
   gitfast
@@ -45,11 +45,10 @@ plugins=(
   git-ljw # and there
 )
 
-source ~/.zshrc
-
-# And... enjoy your custom functions~
-
+source $HOME/.zshrc
 ```
+And... enjoy your custom functions~
+
 
 ## Thought
 
