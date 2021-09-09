@@ -47,5 +47,7 @@ source ~/.zshrc
 
 ```
 
-体会: 做正确的事, 找到最佳实践, 并且遵守最佳实践, Your life will be a lot easier.
+体会: 做正确的事, 找到最佳实践, 并且遵守最佳实践.
+
+> Your life will be a lot easier
 
