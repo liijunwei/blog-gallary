@@ -1,0 +1,5 @@
+#!/bin/bash
+
+git add .
+git commit -m "$(prepend_commit_message)Commit manually."
+git push
