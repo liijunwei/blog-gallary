@@ -5,6 +5,7 @@ tags:
   - thoughts
 ---
 
+2021-09-10 22:00:47 哎哎哎,小猫你还会打字呢?
 2021-09-10 21:44:31 哎哎哎,小猫你还会打字呢?.
 2021-09-10 17:11:13 add what you're thinking.
 2021-09-10 17:10:55 Simple, Elegant, Flexible, Nothing....
