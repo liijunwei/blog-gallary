@@ -1,7 +1,8 @@
 ---
 title: sublime-text-and-merge
 date: 2021-09-07 23:02:11
-tags: sublime
+tags:
+  - sublime
 ---
 
 今天购买了sublime+sublime-merge的证书
