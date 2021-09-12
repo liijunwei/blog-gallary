@@ -3,6 +3,7 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+2021-09-12 22:27:44 大佬是不是都有自己的dotfiles仓库? 我也要hhh
 2021-09-12 22:25:50 发现一个北大的大佬, https://github.com/XuehaiPan/Dev-Setup 这个仓库真厉害,很有启发性
 2021-09-12 22:02:07 Simple, Elegant, Flexible, Nothing...
 2021-09-12 21:58:40 错了,不再瞎玩了...
