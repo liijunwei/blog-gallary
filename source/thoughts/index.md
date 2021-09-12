@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-09-13 01:37:53 Simple, Elegant, Flexible, Nothing...
+
 2021-09-13 01:37:30 Simple, Elegant, Flexible, Nothing...
 
 - 2021-09-13 01:30:32 以后用rails-mailer生成并且发送周报, 只需要填写yaml就行.
