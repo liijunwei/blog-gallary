@@ -3,10 +3,6 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
-- 2021-09-13 01:37:53 Simple, Elegant, Flexible, Nothing...
-
-2021-09-13 01:37:30 Simple, Elegant, Flexible, Nothing...
-
 - 2021-09-13 01:30:32 以后用rails-mailer生成并且发送周报, 只需要填写yaml就行.
 
 - 2021-09-12 22:29:18 慢慢接受了git把主分支由master改为main的做法了, 没办法, 对抗改变就会有分裂, 分裂是很痛苦的.
