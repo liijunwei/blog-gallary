@@ -7,6 +7,8 @@ tags:
   - oh-my-zsh
 ---
 
+> **当前不公开, 因为涉及到敏感信息**
+
 > `命令行+编辑器` 的使用受雷哥影响, 感谢指导. [**ref: REPO**](https://github.com/ery/suitup)
 
 今天整理了一下常用的git相关的helper-functions, 原本是放在`notebook`的某个目录里, 每增加一个, 就去 `$HOME/.zshrc`里source一下
