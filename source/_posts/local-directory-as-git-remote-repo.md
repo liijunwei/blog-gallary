@@ -14,7 +14,7 @@ tags:
 ### local repo on my mac
 
 ```bash
-alias local_repo='cd /Users/lijunwei/local.repo/api-provider.git'
+alias local_repo='cd $HOME/local.repo/api-provider.git'
 ```
 
 ### 将本地目录当做git仓库...步骤
@@ -30,10 +30,10 @@ $ git init --bare test.git
 
 ```bash
 # 如果 origin已存在, 可以换个别的名字(例如 demo_origin), 只是推送代码的时候要注意 向demo_origin推
-$ git remote add origin file:///Users/lijunwei/local.repo/api-provider.git # local directory
+$ git remote add origin file://$HOME/local.repo/api-provider.git # local directory
 ```
 
-如果就像用origin, 那么可以先删掉原先的, 再添加origin
+如果就想用origin, 那么可以先删掉原先的, 再添加origin
 
 ```bash
 $ git remote remove origin
