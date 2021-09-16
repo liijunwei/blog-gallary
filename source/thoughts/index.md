@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-09-16 11:24:28 Put First Thing First
+
 - 2021-09-15 22:22:30 小犹太啊小犹太, 形象又可爱.
 
 - 2021-09-15 22:06:50 好, 这就给《大时代》的编剧寄刀片j!(https://www.bilibili.com/video/BV1Z64y1z7tM/?spm_id_from=autoNext)
