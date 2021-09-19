@@ -12,4 +12,5 @@ ssh webuser@xiaoli "cd /srv/www/blog-gallary &&
 open_tag=$1
 [[ $open_tag != "" ]] && open http://blog.bxzy.top
 
+echo
 echo $BLOG_DOMAIN | tee /dev/tty | pbcopy
