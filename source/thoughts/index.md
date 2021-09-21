@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-09-21 19:23:33 It's gone up from practically nothing to next to nothing...(https://www.youtube.com/watch?v=caTKQr57B8o)老爷子真有你的...
+
 - 2021-09-20 16:05:08 小猫要开始两周起的康复疗程了,一切顺利~
 
 - 2021-09-20 16:03:22 假期的午睡有种回到高中时期的感觉, 昏黄, 漫长, 无法反抗的力量...
