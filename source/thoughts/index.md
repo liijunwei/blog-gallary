@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-09-21 21:25:11 Long list don't get done.
+
 - 2021-09-21 19:24:13 迷恋清醒, 怕死了恍惚
 
 - 2021-09-21 19:23:33 It's gone up from practically nothing to next to nothing...(https://www.youtube.com/watch?v=caTKQr57B8o)老爷子真有你的...
