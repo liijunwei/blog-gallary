@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-09-23 17:16:58 撕裂靠近成长
+
 - 2021-09-23 15:03:07 Anyways, I got the answer. Keep Trying.
 
 - 2021-09-23 09:27:39 小猫恢复得不错hhh
