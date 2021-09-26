@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-09-26 22:13:40 通读了一篇关于hostname的RFC, 1990年的文章, 看起来并不过时...
+
 - 2021-09-26 22:07:30 Don't use digits at the beginning of the name; Don't use non-alphanumeric characters in a name; Don't expect case to be preserved;It may seem appropriate to capitalize a name the same way you might do it in English, but convention dictates that computer names appear all lowercase.  (And it saves holding down the shift key.)
 
 - 2021-09-26 21:58:31 **Don't use long names** This is hard to quantify, but experience has shown that names longer than eight characters simply annoy people. Most systems will allow prespecified abbreviations, but why not choose a name that you don't have to abbreviate to begin with? This removes any chance of confusion.
