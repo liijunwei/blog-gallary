@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-09-26 21:54:53 In reality, names are just arbitrary tags.  You cannot tell what a person does for living, what their hobbies are, and so on. (https://www.rfc-editor.org/rfc/rfc1178.html)
+
 - 2021-09-26 21:45:30 最近小猫踩奶现象很频繁 -.-
 
 - 2021-09-26 21:45:08 出去面试一下果然大有益处: 认识到自己的问题, 认识到自己的舒适区, 认识到自己的不足, 积累了经验...太好了
