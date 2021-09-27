@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-09-27 08:22:18 最近要把docker一套搞定, 提升开发效率
+
 - 2021-09-27 08:21:36 顿悟时有多舒畅, 顿悟前就有多愚昧, 有多蹩脚
 
 - 2021-09-26 22:13:40 通读了一篇关于hostname的RFC: [Choosing a Name for Your Computer](https://www.rfc-editor.org/rfc/rfc1178.html), 1990年的文章, 看起来并不过时...
