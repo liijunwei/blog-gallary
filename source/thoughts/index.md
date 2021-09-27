@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-09-27 08:21:36 顿悟时有多舒畅, 顿悟前就有多愚昧, 有多蹩脚
+
 - 2021-09-26 22:13:40 通读了一篇关于hostname的RFC: [Choosing a Name for Your Computer](https://www.rfc-editor.org/rfc/rfc1178.html), 1990年的文章, 看起来并不过时...
 
 - 2021-09-26 22:07:30 Don't use digits at the beginning of the name; Don't use non-alphanumeric characters in a name; Don't expect case to be preserved;It may seem appropriate to capitalize a name the same way you might do it in English, but convention dictates that computer names appear all lowercase.  (And it saves holding down the shift key.)
