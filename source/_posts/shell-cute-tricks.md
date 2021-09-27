@@ -2,6 +2,8 @@
 title: shell-cute-tricks
 date: 2021-09-27 22:56:20
 tags:
+  - shell
+  - fun
 ---
 
 [shebang line defination offered a cute-trick...](https://tldp.org/LDP/abs/html/abs-guide.html#FTN.AEN242)
