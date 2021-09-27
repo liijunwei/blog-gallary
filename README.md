@@ -1,5 +1,9 @@
 # blog-gallary
 
+### Welcome to my blog post
+
+http://blog.bxzy.top
+
 ### my github page
 
 ```bash
