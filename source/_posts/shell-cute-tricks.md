@@ -6,7 +6,7 @@ tags:
   - fun
 ---
 
-[shebang line defination offered a cute-trick...](https://tldp.org/LDP/abs/html/abs-guide.html#FTN.AEN242)
+[shebang line definition offered a cute-trick...](https://tldp.org/LDP/abs/html/abs-guide.html#FTN.AEN242)
 
 ```bash
 #!/bin/rm
