@@ -19,3 +19,9 @@ Inspired by https://github.com/aasm/aasm_graph
 tldr dot
 brew install graphviz
 ```
+
+类似的工具
+
++ https://mermaid-js.github.io/mermaid/#/
++ https://mermaid-js.github.io/mermaid-live-editor
+
