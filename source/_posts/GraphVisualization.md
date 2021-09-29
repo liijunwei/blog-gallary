@@ -27,3 +27,10 @@ brew install graphviz
 + https://mermaid-js.github.io/mermaid/#/
 + https://mermaid-js.github.io/mermaid-live-editor
 
+
+使用类似工具的理由
+
++ 文本占用空间小
++ 修改灵活, 成本低
++ 文本可以用`git`之类的版本管理工具做记录
+
