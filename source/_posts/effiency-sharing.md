@@ -1,8 +1,8 @@
 ---
-title: effiency-sharing
+title: efficiency-sharing
 date: 2021-09-05 22:36:51
 tags:
-  - effiency
+  - efficiency
   - sublime
   - terminal
   - shell
@@ -61,7 +61,7 @@ lijunwei@bxzy:notebook(master)$ tree . -L 1
 .
 ├── README.md
 ├── TODO.md
-├── effiency
+├── efficiency
 ├── fun
 ├── goal
 ├── learn
