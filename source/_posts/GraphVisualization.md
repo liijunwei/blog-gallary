@@ -27,6 +27,7 @@ brew install graphviz
 
 类似的工具
 
++ gs - Ghostscript (PostScript and PDF language interpreter and previewer) `man gs # on macos`
 + https://mermaid-js.github.io/mermaid/#/
 + https://mermaid-js.github.io/mermaid-live-editor
 
