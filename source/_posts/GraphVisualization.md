@@ -1,0 +1,21 @@
+---
+title: GraphVisualization
+date: 2021-09-29 22:48:03
+tags:
+  - efficiency
+---
+
+Graph Visualization
+https://graphviz.org/about/
+
+
+将代码转换为图片...
+
+Inspired by https://github.com/aasm/aasm_graph
+
+```bash
+# Macos Installation
+
+tldr dot
+brew install graphviz
+```
