@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-09-30 10:22:29 Hard code is simple code, basically if you can write really simple code that gets the job done,  that's a sure sign of a master developer.
+
 - 2021-09-30 10:22:02 Simple code is superior code(我所追求的)
 
 - 2021-09-30 08:27:50 Simple, Elegant, Flexible, Nothing...
