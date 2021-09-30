@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-09-30 18:23:54 工作的时候, 其实很需要一种归属感, 如果公司能够给予, 那真是太好了...
+
 - 2021-09-30 10:22:41 If you can break down a complex Situation into something simple, that's another indicator of somebody who's at a very high level in the game.
 
 - 2021-09-30 10:22:29 Hard code is simple code, basically if you can write really simple code that gets the job done,  that's a sure sign of a master developer.
