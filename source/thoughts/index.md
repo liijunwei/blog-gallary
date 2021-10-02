@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-10-02 11:43:49 透过ruby-china的这个页面(https://ruby-china.org/sites), 可以看到很多不同的生活, 有益的思考 
+
 - 2021-10-02 11:42:44 当然我不是在这里打击 Linux 和 Mac 而鼓吹 Windows。这些系统的纷争基本上已经不关我什么事。我只是想告诉新人们，去除头脑里的宗教，偏激，仇恨和鄙视。每次仇恨一个东西，你就失去了向它学习的机会。 --- https://www.yinwang.org/blog-cn/2013/03/07/linux-windows-mac
 
 - 2021-10-02 11:36:31 一个好的工具，应该只有少数几条需要记忆的规则，就像象棋一样。 --- https://www.yinwang.org/blog-cn/2013/03/07/linux-windows-mac
