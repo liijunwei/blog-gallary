@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-10-14 13:30:31 捡到一张拍立得的照片, 女孩还挺好看
+
 - 2021-10-14 13:30:01 用过好用的键盘以后, 回不去了...
 
 - 2021-10-13 11:45:17 ruby  的作用是 pass parameter to block(if any) and call the block
