@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-10-15 22:25:17 谁又想得到, 小李有一天也会有甲沟炎呢
+
 - 2021-10-15 08:05:47 来自大佬的鼓励 https://github.com/jwasham/coding-interview-university
 
 - 2021-10-15 08:01:01 Spaced repetition is the key to memorization. 
