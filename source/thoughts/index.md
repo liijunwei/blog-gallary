@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-10-15 08:01:01 Spaced repetition is the key to memorization. 
+
 - 2021-10-15 08:00:31 "I should have stopped reading books and watching videos earlier and started on coding problems sooner. I would have been able to spend more time applying the topics I learned."
 
 - 2021-10-15 07:58:18 It’s good to ask, not assume.
