@@ -3,13 +3,13 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
-- 2021-10-16 14:13:37  x.x
+- 2021-10-16 14:13:37 `function ljw_fix_bug(bug) -> new_bug` x.x
 
 - 2021-10-15 22:25:17 谁又想得到, 小李有一天也会有甲沟炎呢
 
 - 2021-10-15 08:05:47 来自大佬的鼓励 https://github.com/jwasham/coding-interview-university
 
-- 2021-10-15 08:01:01 Spaced repetition is the key to memorization. 
+- 2021-10-15 08:01:01 Spaced repetition is the key to memorization.
 
 - 2021-10-15 08:00:31 "I should have stopped reading books and watching videos earlier and started on coding problems sooner. I would have been able to spend more time applying the topics I learned."
 
@@ -39,7 +39,7 @@ date: 2021-09-10 15:55:20
 
 - 2021-10-09 09:44:21 服务器的磁盘空间满了, RDS的空间满了, 这种很低级的错误, 为什么总会出现呢
 
-- 2021-10-08 09:11:31 所以在设计程序的时候，我们最好是先把手上的问题解决好。如果发现这段代码还可以被用在很多别的地方，到时候再把框架从中抽象出来也不迟。https://www.yinwang.org/blog-cn/2013/04/13/generality 
+- 2021-10-08 09:11:31 所以在设计程序的时候，我们最好是先把手上的问题解决好。如果发现这段代码还可以被用在很多别的地方，到时候再把框架从中抽象出来也不迟。https://www.yinwang.org/blog-cn/2013/04/13/generality
 
 - 2021-10-05 18:58:17 刀锋1937 全剧终
 
