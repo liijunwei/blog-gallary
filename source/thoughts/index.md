@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-10-23 18:38:08 github上的wikipage, 好像是每个人都可以直接编辑的, 甚至不用发pull request... (from rack wiki).
+
 - 2021-10-23 18:35:08 又摸到一个大佬的个人网站 https://leahneukirchen.org/
 
 - 2021-10-23 15:11:14 压力来源是哪里
