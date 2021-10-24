@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-10-24 23:53:43 感觉在这里把amg做好, 就安心了
+
 - 2021-10-23 18:57:10 Fun project: https://github.com/leahneukirchen/nq
 
 - 2021-10-23 18:38:08 github上的wikipage, 好像是每个人都可以直接编辑的, 甚至不用发pull request... (from rack wiki).
