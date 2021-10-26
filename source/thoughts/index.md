@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-10-26 16:37:43 代码要多看多谢多想怎么能写好, 才有可能写好
+
 - 2021-10-24 23:53:43 感觉在这里把amg做好, 就安心了
 
 - 2021-10-23 18:57:10 Fun project: https://github.com/leahneukirchen/nq
