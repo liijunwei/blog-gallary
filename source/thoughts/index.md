@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-10-30 23:41:33 打扰了
+
 - 2021-10-30 23:35:19 印象笔记 配合 马克飞象 好像还不错嗷
 
 - 2021-10-30 23:16:29 最小必要知识 MAKE： Minimal Actionable Knowledge & Experience
