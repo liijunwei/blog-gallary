@@ -3,8 +3,6 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
-- 2021-11-04 22:41:13 在无关紧要的部分花了太多时间, 反思实际上应该先完成最重要的任务.
-
 - 2021-11-04 22:41:02 在无关紧要的部分花了太多时间, 反思实际上应该先完成最重要的任务.
 
 - 2021-11-04 21:23:29 https://skorks.com/2011/02/the-greatest-developer-fallacy-or-the-wisest-words-youll-ever-hear/
