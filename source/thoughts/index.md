@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-11-09 11:10:41 "My taste of music is simple...the one which gives me goosebumps like this --- https://www.youtube.com/watch?v=4Q46xYqUwZQ (Legends Never Die )"
+
 - 2021-11-09 00:25:11 再提醒自己一次: 有很多事我主动做了, 就不会有人催着我做; 两者之间是有很大的区别的
 
 - 2021-11-09 00:08:01 尽快把AMG交出去, 不然它会成为我的借口.
