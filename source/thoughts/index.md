@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-11-10 09:51:55 调整状态, 切忌原地打转
+
 - 2021-11-10 08:20:51 反思: 当观察和试验 得到的现象, 显得矛盾的时候, 很可能是因为遗漏了什么关键信息; 抓住他, 就很有可能把这矛盾的现象统一起来, 答案也就近在眼前了
 
 - 2021-11-09 11:10:41 "My taste of music is simple...the one which gives me goosebumps like this --- https://www.youtube.com/watch?v=4Q46xYqUwZQ (Legends Never Die )"
