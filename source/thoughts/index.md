@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-11-16 23:50:13 "I love hardware, I like interacting with hardware from a software prospective. https://www.youtube.com/watch?v=CYvJPra7Ebk"
+
 - 2021-11-16 21:09:16 边界之上是对抗
 
 - 2021-11-13 22:40:04 今天的这种复盘, 可能是天堂也可能是地狱; 比较幸运, 今天对我来说一切顺利
