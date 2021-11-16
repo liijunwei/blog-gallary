@@ -3,6 +3,8 @@ title: gallery
 date: 2021-09-13 08:19:33
 ---
 
+![Learning Pyrimid](./demo-images/learning.pyrimid.jpg)
+
 ![unknown-beauty](./demo-images/logo.jpg)
 
 ![Pulp Fiction-lol](./demo-images/two-fool.png)
