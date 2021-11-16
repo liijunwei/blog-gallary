@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-11-17 07:52:52 根据 "Learning Pyrimid" 展示的结论和实际经验来看, 学习的时候, 只要动手了, 效率就会有很大的提升
+
 - 2021-11-16 23:51:15 "If you think like a computer, writing C actually makes sense."
 
 - 2021-11-16 23:50:13 "I love hardware, I like interacting with hardware from a software prospective. https://www.youtube.com/watch?v=CYvJPra7Ebk"
