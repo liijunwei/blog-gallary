@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-11-17 11:05:12 把自己的工具分享给别人的时候, 才发现他们耦合得这么厉害 x.x
+
 - 2021-11-17 09:48:11 又发现大佬一枚: https://github.com/linyiqun
 
 - 2021-11-17 08:35:03 "Debt may be a burden, but it is more likely to be an incentive(激励). --- Everybody-Ought-to-Be-Rich"
