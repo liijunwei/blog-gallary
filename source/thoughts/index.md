@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-11-17 08:35:03 "Debt may be a burden, but it is more likely to be an incentive(激励). --- Everybody-Ought-to-Be-Rich"
+
 - 2021-11-17 07:52:52 根据 "Learning Pyrimid" 展示的结论和实际经验来看, 学习的时候, 只要动手了, 效率就会有很大的提升
 
 - 2021-11-16 23:51:15 "If you think like a computer, writing C actually makes sense."
