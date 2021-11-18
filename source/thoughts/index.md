@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-11-18 10:45:30 好神奇的观察者模式! https://ruby-doc.org/stdlib-2.0.0/libdoc/observer/rdoc/Observable.html#top
+
 - 2021-11-18 00:28:37 数组和指针有点搞脑子
 
 - 2021-11-17 13:45:33 学习了C以后, 很多代码都能开始尝试着读一读, 学习一下了 嘿嘿嘿
