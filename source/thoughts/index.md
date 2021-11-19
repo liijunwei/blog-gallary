@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-11-19 08:46:12 数组名相当于指向数组第一个元素的指针
+
 - 2021-11-18 19:29:24 Get off pity party.
 
 - 2021-11-18 10:45:30 好神奇的观察者模式! https://ruby-doc.org/stdlib-2.0.0/libdoc/observer/rdoc/Observable.html#top
