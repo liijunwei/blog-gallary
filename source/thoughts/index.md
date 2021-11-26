@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-11-26 22:08:14 看输出仔细点... 那么大的 http协议, 还往ssh身上找原因... (还是毅哥眼光老辣)
+
 - 2021-11-26 21:29:27 终于搞懂了 ssh-add ssh-agent ssh -A user@host 实现的SSO 真是太好了!
 
 - 2021-11-26 20:55:55 ssh -A xxx 和 配置文件里增加 ForwardAgent 是等价的
