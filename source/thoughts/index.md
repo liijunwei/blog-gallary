@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-11-26 21:29:27 终于搞懂了 ssh-add ssh-agent ssh -A user@host 实现的SSO 真是太好了!
+
 - 2021-11-26 20:55:55 ssh -A xxx 和 配置文件里增加 ForwardAgent 是等价的
 
 - 2021-11-26 20:40:18 "Sudo is a tool for privilege escalation in Linux. It can be used to grant ordinary users the right to execute certain commands as root." --- https://www.ssh.com/academy/iam/sudo
