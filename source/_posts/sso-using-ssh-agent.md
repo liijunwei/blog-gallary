@@ -7,6 +7,8 @@ tags:
 
 终于搞懂了 ssh-add ssh-agent ssh -A user@host 实现的SSO
 
++ keyword: SSH + SSO
+
 https://www.ssh.com/academy/ssh/agent
 
 ```sh
