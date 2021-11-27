@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-11-27 17:28:25 APM又因为和grape的兼容问题回滚了😤😤😤
+
 - 2021-11-27 10:31:11 通读了一遍 man mysql, 浑身舒畅
 
 - 2021-11-27 10:26:47 "Disabling mysql Auto-Reconnect" might be a good practice (see man mysql)
