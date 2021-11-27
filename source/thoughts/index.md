@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-11-27 10:26:47 "Disabling mysql Auto-Reconnect" might be a good practice (see man mysql)
+
 - 2021-11-26 23:55:02 发现了个客服系统竞品: https://www.eiisys.com/
 
 - 2021-11-26 22:08:14 看输出仔细点... 那么大的 http协议, 还往ssh身上找原因... (还是毅哥眼光老辣)
