@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-01 20:39:25 这好像是个好东西啊 https://github.com/ruanyf/weekly/issues/2092
+
 - 2021-12-01 19:50:19 阮一峰的教程 https://github.com/wangdoc
 
 - 2021-12-01 09:28:15 "数据存放的规则是：只要是局部的、占用空间确定的数据，一般都存放在stack里面，否则就放在heap里面" --- http://www.ruanyifeng.com/blog/2013/11/stack.html
