@@ -17,3 +17,28 @@ echo "hello :-)"
 + [clean-blog](https://github.com/klugjo/hexo-theme-clean-blog)
 + [anodyne](https://github.com/klugjo/hexo-theme-anodyne)
 
+### deploy
+
+#### setup
+```sh
+# remote
+blog_bare_repo="/srv/www/blog-gallary.git"
+
+mkdir $blog_bare_repo
+cd $blog_bare_repo
+git init --bare
+
+mkdir /srv/www/blog-gallary
+git remote add origin file://$blog_bare_repo
+
+# local
+rm -rf .deploy_git && hexo clean && hexo deploy
+```
+
+#### afterwards
+
+bin/deploy
+thought
+thought -e
+thought "xxx"
+

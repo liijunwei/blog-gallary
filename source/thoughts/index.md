@@ -3,6 +3,16 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-02 19:56:30 Simple, Elegant, Flexible, Nothing...
+
+- 2021-12-02 19:41:04 Simple, Elegant, Flexible, Nothing...
+
+- 2021-12-02 19:40:36 Simple, Elegant, Flexible, Nothing...
+
+- 2021-12-02 19:00:17 之前看不明白的东西, 现在一眼就懂了... 😶 https://shopify.github.io/liquid/
+
+- 2021-12-02 14:14:06 发现大佬一枚: https://github.com/aceld https://github.com/aceld
+
 - 2021-12-02 10:45:30 查到一个奇怪的问题, 暂时没搞懂原因: sublime打开的某个文件, 某个字符串里面包含了 <0x08>, 导致sublime的搜索结果里, 把这个文件标识为了 **binary**, 解决办法是 用 **[^\x00-\x7F]** 在这个异常的文件里找到这个特殊字符, 然后删掉 --- https://www.reddit.com/r/SublimeText/comments/6wesyt/st3_why_find_in_all_says_text_file_is_binary/
 
 - 2021-12-02 09:37:13 刚发现github上有个follower🤣
