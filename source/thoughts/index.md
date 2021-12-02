@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-02 09:30:14 取法于上，仅得为中，取法于中，故为其下。
+
 - 2021-12-01 20:39:25 这好像是个好东西啊 https://github.com/ruanyf/weekly/issues/2092
 
 - 2021-12-01 19:50:19 阮一峰的教程 https://github.com/wangdoc
