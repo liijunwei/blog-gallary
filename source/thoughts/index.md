@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-03 22:49:42 ruby Array#permutation 排列组合
+
 - 2021-12-02 19:56:30 Simple, Elegant, Flexible, Nothing...
 
 - 2021-12-02 19:41:04 Simple, Elegant, Flexible, Nothing...
