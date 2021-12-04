@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-04 20:39:36 https://theuselessweb.com/
+
 - 2021-12-04 17:12:59 RubyConf里大佬如云o.o
 
 - 2021-12-04 17:05:50 It's so damn hard.:
