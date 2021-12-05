@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-05 19:27:36 TODO: MySQL必知必会搞定后, 再过一遍极客时间上的课程
+
 - 2021-12-05 19:18:46 计划: MySQL搞定后, 把C语言学完, 做足够的习题, 算法和数据结构; 其中穿插着学习ElasticSearch(预计耗时3个月...)
 
 - 2021-12-05 19:09:50 mysql的联结查询基本明白了(inner-join/left-outer-join/right-outer-join)
