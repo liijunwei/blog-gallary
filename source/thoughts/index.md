@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-05 21:49:01 testing interactively post my thoughts
+
 - 2021-12-05 21:39:26 读这种文章可以学到native的表达 o.o --- https://news.ycombinator.com/item?id=17235832
 
 - 2021-12-05 21:35:00 两小时的空闲时间, 看看书, 浏览一下大佬的博客, 读读文章, 和玩游戏比起来哪个更好呢...
