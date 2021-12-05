@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-05 21:55:30 "所谓看内核的东西，究竟是看看博客当小说，还是带着问题，特别去深究一些功能究竟在干什么，要解决什么问题。这些信息往往在解决特定问题的时候会变得非常实用。" --- https://coderemixer.com/2018/06/06/coding-tutorial/
+
 - 2021-12-05 21:49:01 testing interactively post my thoughts
 
 - 2021-12-05 21:39:26 读这种文章可以学到native的表达 o.o --- https://news.ycombinator.com/item?id=17235832
