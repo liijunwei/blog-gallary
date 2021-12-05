@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-05 18:21:49 第一次参加RubyConf, 感觉挺好 ;D
+
 - 2021-12-05 17:33:31 FUN: https://smaug.dev/
 
 - 2021-12-05 17:27:32 https://github.com/Eric-Guo/wechat
