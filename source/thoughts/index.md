@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-05 13:34:59 加了workstream大佬的微信...  o.o Max Wang 真帅啊
+
 - 2021-12-05 13:00:44 创始人的直觉之 <就是这个人> https://www.youtube.com/watch?v=uurtyMtRPs4
 
 - 2021-12-05 12:55:23 远程工作的核心问题是 建立良好的沟通和互信
