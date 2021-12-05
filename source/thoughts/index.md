@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-05 14:36:29 2019-12-05至2021-12-05 两年了
+
 - 2021-12-05 13:34:59 加了workstream大佬的微信...  o.o Max Wang 真帅啊
 
 - 2021-12-05 13:00:44 创始人的直觉之 <就是这个人> https://www.youtube.com/watch?v=uurtyMtRPs4
