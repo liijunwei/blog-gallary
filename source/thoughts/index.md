@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-06 20:13:07 这里好多宝贝呀 https://formulae.brew.sh/formula/
+
 - 2021-12-06 19:53:52 读一读这安装homebrew的脚本, 能学到不少写shell脚本时的技巧 "https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh"
 
 - 2021-12-05 22:04:37 "如果一个男孩子，看起来像女孩子，游泳像女孩子，叫声像女孩子，那么他可以……编程吗？" 不要调皮... --- https://coderemixer.com/2018/06/06/coding-tutorial/"
