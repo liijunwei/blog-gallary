@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-06 23:21:09 发现个好东西: https://betterexplained.com/cheatsheet/
+
 - 2021-12-06 20:13:07 这里好多宝贝呀 https://formulae.brew.sh/formula/
 
 - 2021-12-06 19:53:52 读一读这安装homebrew的脚本, 能学到不少写shell脚本时的技巧 "https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh"
