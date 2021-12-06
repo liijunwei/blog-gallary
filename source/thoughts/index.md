@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-07 00:28:06 超级大牛: https://mikemcquaid.com/cv/
+
 - 2021-12-06 23:21:09 发现个好东西: https://betterexplained.com/cheatsheet/
 
 - 2021-12-06 20:13:07 这里好多宝贝呀 https://formulae.brew.sh/formula/
