@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-06 19:53:52 读一读这安装homebrew的脚本, 能学到不少写shell脚本时的技巧 "https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh"
+
 - 2021-12-05 22:04:37 "如果一个男孩子，看起来像女孩子，游泳像女孩子，叫声像女孩子，那么他可以……编程吗？" 不要调皮... --- https://coderemixer.com/2018/06/06/coding-tutorial/"
 
 - 2021-12-05 22:01:00 "无论是 C 语言、计算机组成原理、数据结构、操作系统都是非常基础的课程，他们是构成软件构成非常底层的内容。当我们谈论某一些具体的技术的时候，通常很碎片，并不会直接讨论这些东西。举例来说，如果我们要讨论非阻塞 I/O，那么我们会举例一些实际的技术，比如 Linux 上的 epoll。至于需要弄清 epoll 的实现，了解 epoll 为什么快，就可以通过比较 epoll 和比如 Windows 上的 IOCP。而比较过程就需要对操作系统、算法有比较好的理解。而这些在你单独上这几门课的时候都不会讲得非常具体。" --- https://coderemixer.com/2018/06/06/coding-tutorial/
