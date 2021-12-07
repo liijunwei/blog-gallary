@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-07 10:02:11 "e is the base rate of growth shared by all continually growing processes" --- https://betterexplained.com/articles/an-intuitive-guide-to-exponential-functions-e/
+
 - 2021-12-07 01:09:40 Audio: https://podcast.staffeng.com/1687069/8247672-mike-mcquaid-github
 
 - 2021-12-07 00:52:31 之前不是纠结没见过好代码嘛, 好好学吧小李~ https://github.com/github/opensourcefriday
