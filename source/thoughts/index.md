@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-07 17:49:57 任务有关联时, 一定要拆开做, 千万别混在一起
+
 - 2021-12-07 15:42:51 不清晰就搞清晰, 不明白就搞明白
 
 - 2021-12-07 10:02:11 "e is the base rate of growth shared by all continually growing processes" --- https://betterexplained.com/articles/an-intuitive-guide-to-exponential-functions-e/
