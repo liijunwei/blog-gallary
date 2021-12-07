@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-07 22:23:44 Good Ideatig! https://webring.xxiivv.com/#
+
 - 2021-12-07 22:01:14 另一枚大佬 https://yiming.dev/
 
 - 2021-12-07 17:49:57 任务有关联时, 一定要拆开做, 千万别混在一起
