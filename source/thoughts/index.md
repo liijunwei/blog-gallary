@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-09 00:12:19 Music: Tube & Berger
+
 - 2021-12-08 22:51:56 Music... https://www.youtube.com/watch?v=_E1ouvJXROg
 
 - 2021-12-08 20:55:37 巨洗脑: https://www.youtube.com/watch?v=FITjBet3dio
