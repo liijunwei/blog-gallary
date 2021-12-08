@@ -9,7 +9,7 @@ date: 2021-09-10 15:55:20
 
 - 2021-12-07 22:28:15 先学mysql 再看大佬的博客...
 
-- 2021-12-07 22:23:44 Good Ideatig! https://webring.xxiivv.com/#
+- 2021-12-07 22:23:44 Good Idea! https://webring.xxiivv.com/#
 
 - 2021-12-07 22:01:14 另一枚大佬 https://yiming.dev/
 
