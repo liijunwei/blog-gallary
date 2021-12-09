@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-09 21:09:12 "Instead, you should strive to go outside your limits every single day. "
+
 - 2021-12-09 21:06:18 "During the inflection phase, you will be coding 10-20 times SLOWER than in the previous phase." --- http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/
 
 - 2021-12-09 20:59:43 "Unfortunately, tutorials will only take you so far, and true confidence isn’t found in tutorials or guides. True confidence comes from struggling through a problem you have no idea how to solve, and discovering a solution on your own." --- http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/
