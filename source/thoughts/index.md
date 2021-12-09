@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-09 20:59:43 "Unfortunately, tutorials will only take you so far, and true confidence isn’t found in tutorials or guides. True confidence comes from struggling through a problem you have no idea how to solve, and discovering a solution on your own." --- http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/
+
 - 2021-12-09 17:34:56 先看测试如何复现问题, 不要直接上手开始查
 
 - 2021-12-09 13:56:32 Good feature found: "https://gist.github.com/" "Instantly share code, notes, and snippets."
