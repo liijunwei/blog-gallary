@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-09 21:13:43 "1. The web development inflection point. 2. The algorithm and data structures inflection point. --- http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/"
+
 - 2021-12-09 21:09:12 "Instead, you should strive to go outside your limits every single day. "
 
 - 2021-12-09 21:06:18 "During the inflection phase, you will be coding 10-20 times SLOWER than in the previous phase." --- http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/
