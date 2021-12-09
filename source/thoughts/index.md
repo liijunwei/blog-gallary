@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-09 17:34:56 先看测试如何复现问题, 不要直接上手开始查
+
 - 2021-12-09 13:56:32 Good feature found: "https://gist.github.com/" "Instantly share code, notes, and snippets."
 
 - 2021-12-09 10:42:41 不要抱怨
