@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-09 21:19:43 "Become self-reliant. Having the ability to learn new coding skills without structured guidance means you no longer need to wait for anyone to help you out. This means that for the majority of what you need to learn, you can simply search the internet and read the various material on what you need to know."
+
 - 2021-12-09 21:18:55 "When you’re learning how to program, your singular goal should be to find the inflection point and annihilate it. Once you do, learning that new, sexy fad won’t be a difficult task at all."
 
 - 2021-12-09 21:13:43 "1. The web development inflection point. 2. The algorithm and data structures inflection point. --- http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/"
