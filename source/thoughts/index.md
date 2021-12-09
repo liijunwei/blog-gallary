@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-09 09:39:08 https://yiming.dev/blog/2017/12/08/book-review-99-bottles-of-oop/
+
 - 2021-12-09 00:12:19 Music: Tube & Berger
 
 - 2021-12-08 22:51:56 Music... https://www.youtube.com/watch?v=_E1ouvJXROg
