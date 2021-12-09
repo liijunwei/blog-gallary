@@ -37,8 +37,10 @@ rm -rf .deploy_git && hexo clean && hexo deploy
 
 #### afterwards
 
+```sh
 bin/deploy
 thought
 thought -e
 thought "xxx"
+```
 
