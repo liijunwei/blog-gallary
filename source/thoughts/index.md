@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-10 23:40:43 买了本"数据结构与算法分析C语言描述"
+
 - 2021-12-10 14:52:55 小李求求你,仔细点
 
 - 2021-12-09 21:22:48 figure-out-able --- http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/
