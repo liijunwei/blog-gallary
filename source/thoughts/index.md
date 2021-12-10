@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-10 14:52:55 小李求求你,仔细点
+
 - 2021-12-09 21:22:48 figure-out-able --- http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/
 
 - 2021-12-09 21:19:43 "Become self-reliant. Having the ability to learn new coding skills without structured guidance means you no longer need to wait for anyone to help you out. This means that for the majority of what you need to learn, you can simply search the internet and read the various material on what you need to know."
