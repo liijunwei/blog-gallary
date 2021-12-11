@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-11 17:13:04 "Read the entire book, work the problems, and only then decide whether to integrate these ideas into your daily practice."
+
 - 2021-12-11 12:18:28 情不自禁地发光么
 
 - 2021-12-10 23:40:43 买了本"数据结构与算法分析C语言描述" 开始涉猎数据结构和算法
