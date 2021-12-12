@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-12 14:43:45 "https://www.youtube.com/watch?v=suZ5Bph99hQ
+
 - 2021-12-12 00:01:59 人接触多了以后会发现大家很不一样; 有的人成熟稳重, 脑袋清醒; 有的人看起来很没溜实则可靠至极; 有的人看起来呆呆的, 实际上在积蓄力量; 我希望能尽早成为一个能独立思考并且思考质量很高的人
 
 - 2021-12-11 17:13:04 "Read the entire book, work the problems, and only then decide whether to integrate these ideas into your daily practice."
