@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-12 15:59:05 今天发现 小猫和我玩的时候还是控制了嘴巴的咬合力的...
+
 - 2021-12-12 15:06:28 大佬的博客 https://yafeilee.com/about
 
 - 2021-12-12 14:43:45 "https://www.youtube.com/watch?v=suZ5Bph99hQ
