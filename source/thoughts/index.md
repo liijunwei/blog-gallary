@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-15 14:28:53 person.pets.create([{name: 'Spook'}, {name: 'Choo-Choo'}]) 还是生成2条插入的sql语句(而不是一条), 这不河里...
+
 - 2021-12-15 13:55:34 以后类似的场景, 要记得用STI
 
 - 2021-12-15 13:48:57 Gem: default_value_for
