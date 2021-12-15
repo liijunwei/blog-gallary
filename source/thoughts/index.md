@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-15 23:31:04 ES -> "newline-delimited JSON (NDJSON)"
+
 - 2021-12-15 23:20:47 这周强度太高 + 发现自己成为了不给力的一部分, 真让人难受
 
 - 2021-12-15 14:28:53 person.pets.create([{name: 'Spook'}, {name: 'Choo-Choo'}]) 还是生成2条插入的sql语句(而不是一条), 这不河里...
