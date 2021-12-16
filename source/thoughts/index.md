@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-16 09:25:11 压力 错误 盲目自信 信任危机 真可怕
+
 - 2021-12-15 23:40:54 Q: What is "runtime fields" in ES ?
 
 - 2021-12-15 23:31:04 ES -> "newline-delimited JSON (NDJSON)"
