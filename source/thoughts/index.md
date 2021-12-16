@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-16 13:38:17 常听人说的 "正确的做法" "最佳实践" 和 "Thinking Straight" 好像有点相似之处
+
 - 2021-12-16 09:44:25 更新xcode-command-line 后, 注意 "sudo xcode-select --switch /Library/Developer/CommandLineTools/"
 
 - 2021-12-16 09:25:11 压力 错误 盲目自信 信任危机 真可怕
