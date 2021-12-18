@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-18 20:02:59 "关键在于 “提问的方式” 而不是 “问题的深浅”。" --- https://ruby-china.org/topics/33417
+
 - 2021-12-18 19:17:40 大佬的CV: http://www.catb.org/~esr/resume.html
 
 - 2021-12-18 19:10:47 http://www.catb.org/~esr/
