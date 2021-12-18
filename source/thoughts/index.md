@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-18 19:17:40 大佬的CV: http://www.catb.org/~esr/resume.html
+
 - 2021-12-18 19:10:47 http://www.catb.org/~esr/
 
 - 2021-12-18 18:56:46 被自己整笑了... "packaging" 被我看成了 pack-aging
