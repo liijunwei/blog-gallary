@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-18 20:07:23 目前对thor的需求好像并不强... 似乎是质疑他的可移植性, 更愿意用shell解决问题
+
 - 2021-12-18 20:02:59 "关键在于 “提问的方式” 而不是 “问题的深浅”。" --- https://ruby-china.org/topics/33417
 
 - 2021-12-18 19:17:40 大佬的CV: http://www.catb.org/~esr/resume.html
