@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-19 09:39:33 说自己再学C语言, 算不算双关[旺柴]
+
 - 2021-12-18 20:43:26 read again http://www.catb.org/esr/faqs/smart-questions.html
 
 - 2021-12-18 20:07:23 目前对thor的需求好像并不强... 似乎是质疑他的可移植性, 更愿意用shell解决问题
