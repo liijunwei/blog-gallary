@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-19 11:48:57 StackOverflow 上关于mutex的解释, 让我想起来看过的哪部电视剧里的 "Talking pillow" 绝命毒师? 一回事... https://stackoverflow.com/questions/34524/what-is-a-mutex
+
 - 2021-12-19 11:46:23 Q: What is "Mutex"? A: "Mutual exclusion"
 
 - 2021-12-19 09:39:33 说自己再学C语言, 算不算双关[旺柴]
