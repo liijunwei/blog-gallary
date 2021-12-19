@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-19 23:57:10 https://coolshell.cn/articles/3281.html
+
 - 2021-12-19 23:32:47 我好喜欢听大佬讲话... https://www.youtube.com/watch?v=9kaTRKWpuvQ
 
 - 2021-12-19 23:02:52 我是一个莫得感情的大佬blog搜寻机器
