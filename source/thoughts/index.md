@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-20 13:43:25 不怕不会, 不懂, 看不明白, 就怕只看一遍, 不肯多花点时间去理解...
+
 - 2021-12-20 10:55:50 自测时, 一定要考虑为空的情况
 
 - 2021-12-20 00:03:19 CoolSite: https://www.toptal.com/developers/sorting-algorithms
