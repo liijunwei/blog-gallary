@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-21 09:55:34 "Full GC (Ergonomics)" 导致了JIRA7无响应, 是啥原因呢?
+
 - 2021-12-21 08:53:10 TODO read: http://wiki.c2.com/?CeePlusPlus
 
 - 2021-12-21 08:19:39 TDD会影响开发时的思维方式
