@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-21 13:36:04 遇到了一个rails里, 文件名和类名不一致导致的在rails console里加载不到类的问题(它坑在直接进rails console时能加载到, 在console里reload时加载不到); 前人埋坑后人填, 一定要注意尽量不要埋坑, 埋坑后要及时填平
+
 - 2021-12-21 09:55:34 "Full GC (Ergonomics)" 导致了JIRA7无响应, 是啥原因呢?
 
 - 2021-12-21 08:53:10 TODO read: http://wiki.c2.com/?CeePlusPlus
