@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-22 08:11:34 我怀疑小猫在教我做事😤
+
 - 2021-12-21 14:17:57 马总让我知道了个隐形大佬: seamon lhf
 
 - 2021-12-21 13:48:38 "This means you can’t call private methods from outside the class that defines them."
