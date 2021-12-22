@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-22 14:27:05 全是大佬, 世界真美好 https://blog.k8s.li/friends.html
+
 - 2021-12-22 13:56:40 原来shellfunction的命名里可以用::...  https://github.com/k8sli/kubeplay
 
 - 2021-12-22 12:03:30 looping happens everywhere
