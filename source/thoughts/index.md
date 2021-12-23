@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-23 10:32:56 My Code in 2019/2020 is Full of Newbie Practices
+
 - 2021-12-22 22:00:12 "Freelancer" 是我想成为的样子吗
 
 - 2021-12-22 21:00:05 啥时候能听到南京李志的演唱会
