@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-24 09:35:41 TODO 好像用得到 https://webp.sh/#/
+
 - 2021-12-24 00:17:46 发现好物: https://github.com/timqian/chinese-independent-blogs
 
 - 2021-12-23 23:39:33 TODO: ruby thor bash/zsh command completion, how?
