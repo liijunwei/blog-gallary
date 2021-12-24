@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-24 18:45:06 postman current value vs initial value: "Initial values are shared when you share a collection or environment. Current values are local and not synced or shared." --- https://learning.postman.com/docs/sending-requests/variables/
+
 - 2021-12-24 13:49:22 RubyChina好像受到DDoS攻击了 o.o
 
 - 2021-12-24 10:30:40 分分合合是规律吧
