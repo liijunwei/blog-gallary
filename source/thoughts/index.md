@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-24 23:56:06 翻出来一年前写的代码, 简单倒是简单, 也好重构(没有取巧的地方), 只是很明显 那个代码没有想清楚就开始写了, 思路不清晰, 数据传输不清晰, 没有经过重构, 不好测试... 进步空间还很多, 最近花点时间重构一下
+
 - 2021-12-24 22:40:55 Funny expression heard on quora: "it's kind of a pain in the as..neck though"
 
 - 2021-12-24 22:36:32 Read: "https://wiki.c2.com/?TestDrivenDevelopment" TDD
