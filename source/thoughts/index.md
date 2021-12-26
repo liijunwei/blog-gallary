@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-26 18:01:02 Global data is bad. Global, mutable data is even worse
+
 - 2021-12-26 17:58:43 "Manipulating the Thread local variables is a really bad idea and is going to lead to nothing but sadness, heartache, and pain. There's no guarantee that different parts of the request processing will be handled by the same thread, and because of this, your variables might end up getting lost." --- https://stackoverflow.com/questions/4217911/why-are-my-thread-variables-intermittent-in-rails
 
 - 2021-12-25 22:34:31 早有人完整的做完了C程序设计语言的习题, 耗时80天, 作为参考: https://github.com/fool2fish/the-c-programming-language-exercise-answers
