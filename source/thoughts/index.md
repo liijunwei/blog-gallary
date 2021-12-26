@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-26 19:19:03 sublime: ctrl + - navigate back
+
 - 2021-12-26 18:57:22 开始关注 release note
 
 - 2021-12-26 18:42:32 blog: https://zhaolion.com/
