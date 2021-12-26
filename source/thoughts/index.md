@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-26 17:58:43 "Manipulating the Thread local variables is a really bad idea and is going to lead to nothing but sadness, heartache, and pain. There's no guarantee that different parts of the request processing will be handled by the same thread, and because of this, your variables might end up getting lost." --- https://stackoverflow.com/questions/4217911/why-are-my-thread-variables-intermittent-in-rails
+
 - 2021-12-25 22:34:31 早有人完整的做完了C程序设计语言的习题, 耗时80天, 作为参考: https://github.com/fool2fish/the-c-programming-language-exercise-answers
 
 - 2021-12-24 23:56:06 翻出来一年前写的代码, 简单倒是简单, 也好重构(没有取巧的地方), 只是很明显 那个代码没有想清楚就开始写了, 思路不清晰, 数据传输不清晰, 没有经过重构, 不好测试... 进步空间还很多, 最近花点时间重构一下
