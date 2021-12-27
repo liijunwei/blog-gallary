@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-27 08:48:24 Helper: `for i in ch4-Functions-and-Program-Structure/EX4-{1..13}.c; do cp ch3-Control-Flow/EX3-2.c $i; done`
+
 - 2021-12-26 19:19:03 sublime: ctrl + - navigate back
 
 - 2021-12-26 18:57:22 开始关注 release note
