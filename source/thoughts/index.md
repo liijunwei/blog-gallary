@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-27 13:53:12 抽时间学一下DataGrid怎么使用, navicat的体验有点差了
+
 - 2021-12-27 13:33:24 Navivat mysql里数据库连接的配置, encoding要设置成 "Auto"
 
 - 2021-12-27 08:48:24 Helper: `for i in ch4-Functions-and-Program-Structure/EX4-{1..13}.c; do cp ch3-Control-Flow/EX3-2.c $i; done`
