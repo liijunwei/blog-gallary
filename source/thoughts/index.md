@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-29 22:51:37 macos sublime ctrl+shift+m
+
 - 2021-12-29 22:50:18 macos sublime cmd+shift+space; cmd+shift+a
 
 - 2021-12-29 22:45:56 大家互相之间都是有期待的,对吧
