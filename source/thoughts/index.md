@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-30 00:04:48 https://rubyonrails.org/的网站做的真好看
+
 - 2021-12-30 00:02:32 Question: how to use github action?
 
 - 2021-12-29 23:58:04 TODO 使用rails项目或者jekyll重建blog
