@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-29 22:55:32 macos sublime cmd+option+v -> paste from history
+
 - 2021-12-29 22:53:16 macos sublime cmd+shift+l -> to multiple/single lines
 
 - 2021-12-29 22:51:37 macos sublime ctrl+shift+m
