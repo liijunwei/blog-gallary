@@ -3,9 +3,10 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
-- 2021-12-30 19:40:35 echo work/worklog/holiday/202201{01..03}.day{01..03}.md | tr ' ' '
+- 2021-12-30 20:21:17 $LOAD_PATH.unshift File.expand_path("./lib", __dir__)
 
-'
+- 2021-12-30 19:40:35 echo work/worklog/holiday/202201{01..03}.day{01..03}.md | tr ' ' '\n'
+
 - 2021-12-30 19:39:45 for i in {01..03} ;do echo touch work/worklog/holiday/202201.day.md; done
 
 - 2021-12-30 19:39:27 for i in {1..3} ;do echo touch work/worklog/holiday/2022010.day0.md; done
