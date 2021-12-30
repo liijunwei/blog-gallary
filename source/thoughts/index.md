@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-30 10:08:15 graylog: subdomain + api -> request duration 真好用
+
 - 2021-12-30 00:07:45 https://jekyllrb.com/showcase/ 这里的showcase一眼看上去就让人觉得喜欢
 
 - 2021-12-30 00:04:48 https://rubyonrails.org/的网站做的真好看
