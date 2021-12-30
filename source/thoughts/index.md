@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-30 19:39:27 for i in {1..3} ;do echo touch work/worklog/holiday/2022010.day0.md; done
+
 - 2021-12-30 10:40:03 用了一下SequelPro, 有点后悔买了Navicat
 
 - 2021-12-30 10:08:15 graylog: subdomain + api -> request duration 真好用
