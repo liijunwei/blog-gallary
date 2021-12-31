@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-31 13:56:40 "What's the 'environment' task in Rake?" ---> You can get access to your models, and in fact, your whole environment by making tasks dependent on the environment task.
+
 - 2021-12-31 09:33:44 察觉到自己的[牢骚满腹], 及时停止
 
 - 2021-12-31 00:16:29 可定可以的...
