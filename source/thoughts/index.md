@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2021-12-31 14:16:04 ruby rake work with optparse
+
 - 2021-12-31 14:14:08 https://www.seancdavis.com/posts/4-ways-to-pass-arguments-to-a-rake-task/
 
 - 2021-12-31 14:06:13 Good stuff: https://github.com/junegunn/fzf
