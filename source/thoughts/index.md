@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-01 18:31:35 diff [software engineer] [devops engineer] (https://www.geeksforgeeks.org/difference-between-software-engineer-and-devops-engineer/)
+
 - 2022-01-01 18:08:09 https://teahour.fm/
 
 - 2022-01-01 16:41:45 DRY (Don't repeat yourself) promotes the orthogonality of the code.
