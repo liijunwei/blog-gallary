@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-01 19:02:20 不能看太多博客, 信息太多; 应该总结一下2021年, 然后多读会儿书
+
 - 2022-01-01 18:37:28 很喜欢这位大佬 https://terrytai.me/
 
 - 2022-01-01 18:31:35 diff [software engineer] [devops engineer] (https://www.geeksforgeeks.org/difference-between-software-engineer-and-devops-engineer/)
