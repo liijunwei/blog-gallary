@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-01 16:41:45 DRY (Don't repeat yourself) promotes the orthogonality of the code.
+
 - 2022-01-01 16:41:28 DAMP (Descriptive And Meaningful Phrases) promotes the readability of the code.
 
 - 2022-01-01 16:17:42 捕获大佬: http://blog.xdite.net/
