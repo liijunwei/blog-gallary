@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-04 23:57:59 "You can’t create the right abstraction until you fully understand the code, but the existence of the wrong abstraction may prevent you from ever doing so. This suggests that you should not reach for abstractions, but instead, you should resist them until they absolutely insist upon being created."
+
 - 2022-01-04 23:40:29 On to the book(99 bottles of oop)
 
 - 2022-01-04 21:39:23 今年去四川过年
