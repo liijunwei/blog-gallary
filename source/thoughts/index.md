@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-05 11:51:22 similiar to fzf: https://github.com/lotabout/skim
+
 - 2022-01-05 08:15:19 "嘴角起泡，是口唇疱疹的表现。中医被称为“上火”，好发于口唇、口角，经常是因为睡眠不足、心情抑郁、紧张焦虑由于发热或机体在某一阶段疲劳过度，体能消耗过大，体内各种营养物质供给不足等因素，致使免疫力下降，使潜伏于体内的疱疹病毒大量繁殖，导致嘴角起泡而发玻开始有灼热感，继而群集水泡、糜烂。" 得了, 全占, 多喝水, 保持睡眠充足, 吃清淡点, 涂点红霉素眼膏
 
 - 2022-01-04 23:57:59 "You can’t create the right abstraction until you fully understand the code, but the existence of the wrong abstraction may prevent you from ever doing so. This suggests that you should not reach for abstractions, but instead, you should resist them until they absolutely insist upon being created."
