@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-05 18:18:30 https://github.com/hashie/hashie 好可爱是小🐷(🐑?)
+
 - 2022-01-05 15:34:21 ruby literals_rdoc <Percent Strings> %w %i %q %s %r
 
 - 2022-01-05 11:51:22 similiar to fzf: https://github.com/lotabout/skim
