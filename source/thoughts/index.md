@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-06 15:58:55 在马总的协助下, 用rvm装好了ruby-3.1 + rails7-stable, 开启了一个小项目
+
 - 2022-01-06 15:41:34 params.require(key) , if key found, then return, else ActionController::ParameterMissing exception is raised
 
 - 2022-01-06 14:16:21 和菜头的菜店客服中午给我打电话了, 声音真好听😊
