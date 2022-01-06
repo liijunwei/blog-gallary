@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-07 00:24:21 Think about the <domain questions> and the <value/cost questions>
+
 - 2022-01-06 23:33:19 "Drawing a distinction between messages and methods improves your OO mindset."
 
 - 2022-01-06 23:27:02 企业微信的chat-label名字里也可以加入emoji, 快乐+1
