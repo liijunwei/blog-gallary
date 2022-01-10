@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-10 11:04:36 今早的体会: 很瞌睡的时候, 多睡5分钟是没有用的; 所以 要么多睡15-20分钟, 要么就起床吧; 当然, 早睡才是解药
+
 - 2022-01-08 17:29:40 Keyword: "conditional git configuration" Leads to: "git config includeIf"
 
 - 2022-01-08 14:58:40 马总告诫: PG一定要好好学一学
