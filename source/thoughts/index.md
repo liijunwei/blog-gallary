@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-12 00:24:41 "when you name a method after its current implementation, you can never change that internal implementation without ruining the method name."
+
 - 2022-01-12 00:17:38 Ditto 🤣
 
 - 2022-01-11 21:40:31 https://blog.cleancoder.com/ 好像很不错的样子
