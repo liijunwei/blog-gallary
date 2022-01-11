@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-12 00:26:15 "Naming the method at this slightly higher level of abstraction isolates the code from changes in the implementation details. "
+
 - 2022-01-12 00:25:07 "You should name methods not after what they do, but after what they mean, what they represent in the context of your domain. "
 
 - 2022-01-12 00:24:41 "when you name a method after its current implementation, you can never change that internal implementation without ruining the method name."
