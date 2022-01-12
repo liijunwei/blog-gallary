@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-12 08:37:36 "When you DRY out duplication or create a method to name a bit of code, you add levels of indirection that make it more abstract. In theory these abstractions make code easier to understand and change, but in practice they often achieve the opposite. One of the biggest challenges of design is knowing when to stop, and deciding well requires making judgments about code."
+
 - 2022-01-12 08:27:01 "Therefore, one lesson to be gleaned from this solution is that you should name methods after the concept they represent rather than how they currently behave. "
 
 - 2022-01-12 00:26:15 "Naming the method at this slightly higher level of abstraction isolates the code from changes in the implementation details. "
