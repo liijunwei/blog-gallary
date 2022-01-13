@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-13 22:00:57 今天遇到了一个`<Empty>` 被富文本转换为html标签, 导致内容被隐藏的问题, 查了好久, 基础太差...
+
 - 2022-01-13 13:13:23 不好意思, 没(点)这个技能
 
 - 2022-01-12 08:43:35 "Any pile of code can be made to work; good code not only works, but is also simple, understandable, expressive and changeable."
