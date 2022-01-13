@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-14 00:25:54 什么样的叫大型rails项目: https://ruby-china.org/topics/32456
+
 - 2022-01-14 00:10:25 收藏: https://ruby-china.org/topics/32504
 
 - 2022-01-13 23:50:58 不要相信任何二手信息可以提升你的认知能力 https://www.youtube.com/watch?v=rQiu8PqPvGI
