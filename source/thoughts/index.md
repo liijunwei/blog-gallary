@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-13 23:50:58 不要相信任何二手信息可以提升你的认知能力 https://www.youtube.com/watch?v=rQiu8PqPvGI
+
 - 2022-01-13 23:38:05 听到一个新词: mindfuck https://www.youtube.com/watch?v=rQiu8PqPvGI
 
 - 2022-01-13 22:00:57 今天遇到了一个`<Empty>` 被富文本转换为html标签, 导致内容被隐藏的问题, 查了好久, 基础太差...
