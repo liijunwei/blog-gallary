@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-14 15:30:20 context
+
 - 2022-01-14 00:39:43 https://github.com/airbnb/ruby#no-class-self
 
 - 2022-01-14 00:25:54 什么样的叫大型rails项目: https://ruby-china.org/topics/32456
