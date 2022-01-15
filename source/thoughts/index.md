@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-15 21:56:01 VSCode tutorial: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
+
 - 2022-01-15 21:41:51 VSCode tutorial: https://geek-docs.com/vscode/vscode-tutorials/introduction-to-vscode.html
 
 - 2022-01-15 21:00:17 我的 thought 命令行工具, 其实是一个接口, 可以做成一个项目... ruby-cli 相关
