@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-17 08:33:04 Markdown: 通过变量来设置一个链接，变量赋值在文档末尾进行 https://www.runoob.com/markdown/md-link.html
+
 - 2022-01-15 21:56:01 VSCode tutorial: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
 
 - 2022-01-15 21:41:51 VSCode tutorial: https://geek-docs.com/vscode/vscode-tutorials/introduction-to-vscode.html
