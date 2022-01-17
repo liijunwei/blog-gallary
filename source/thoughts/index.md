@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-17 11:23:33 随着自我认知的加深, 我意识到我还没发照顾好自己
+
 - 2022-01-17 08:34:21 Markdown 支持部分html元素
 
 - 2022-01-17 08:33:04 Markdown: 通过变量来设置一个链接，变量赋值在文档末尾进行 https://www.runoob.com/markdown/md-link.html
