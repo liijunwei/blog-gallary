@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-19 00:28:29 能看明白whenever的源码了, 我真牛
+
 - 2022-01-18 23:56:15 进入低潮...
 
 - 2022-01-18 00:03:45 "When used alone, belongs_to produces a one-directional one-to-one connection. " https://guides.rubyonrails.org/association_basics.html#choosing-between-has-many-through-and-has-and-belongs-to-many
