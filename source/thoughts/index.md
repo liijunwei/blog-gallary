@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-20 00:36:51 看到了whenever对于crontab的转译后, 我觉得这种dsl完全没必要, 写纯的crontab表达式清晰易懂... 解析一遍好像没啥必要...
+
 - 2022-01-20 00:06:46 招人喜欢真的是能力 https://space.bilibili.com/19526512
 
 - 2022-01-19 23:47:27 "the-c-programming-language" 再次突破100页大关 Congrats!!!
