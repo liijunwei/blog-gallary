@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-19 22:34:39 职位加一级
+
 - 2022-01-19 21:06:19 请您享用... https://www.bilibili.com/video/BV1gS4y1f7mN?spm_id_from=333.999.0.0
 
 - 2022-01-19 20:37:42 《The Pencil of Nature》
