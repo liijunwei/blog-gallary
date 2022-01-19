@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-19 20:26:53 发现宝藏up主, 北京人天然让人有种亲近感... https://space.bilibili.com/19526512
+
 - 2022-01-19 18:42:51 Do not think your code is self-explanatory
 
 - 2022-01-19 18:42:14 Commit Message: "Do not assume the reviewer understands what the original problem was, ensure you add it."
