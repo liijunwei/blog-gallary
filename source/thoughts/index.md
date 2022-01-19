@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-19 18:42:14 Commit Message: "Do not assume the reviewer understands what the original problem was, ensure you add it."
+
 - 2022-01-19 00:28:29 能看明白whenever的源码了, 我真牛
 
 - 2022-01-18 23:56:15 进入低潮...
