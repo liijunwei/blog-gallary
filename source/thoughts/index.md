@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-20 00:06:46 招人喜欢真的是能力 https://space.bilibili.com/19526512
+
 - 2022-01-19 23:47:27 "the-c-programming-language" 再次突破100页大关 Congrats!!!
 
 - 2022-01-19 22:34:39 职位加一级
