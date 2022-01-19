@@ -3,7 +3,7 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
-- 2022-01-19 20:26:53 发现宝藏up主, 北京人天然让人有种亲近感... https://space.bilibili.com/19526512
+- 2022-01-19 20:26:53 发现宝藏up主, 北京人天然让人有种亲近感(不对, 应该说是我知道的或者认识的3-5个)... https://space.bilibili.com/19526512
 
 - 2022-01-19 18:42:51 Do not think your code is self-explanatory
 
