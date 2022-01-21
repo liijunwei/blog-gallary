@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-22 00:11:16 大明王朝 实在好剧...
+
 - 2022-01-21 21:56:57 和wudi一路聊下来, 抱怨太多了; 结论好像是, 韭菜在被收割和消耗. 没什么新鲜事
 
 - 2022-01-21 13:39:55 naming madman https://www.runoob.com/cssref/css-colornames.html
