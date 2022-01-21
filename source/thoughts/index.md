@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-21 13:39:55 naming madman https://www.runoob.com/cssref/css-colornames.html
+
 - 2022-01-21 10:39:56 Simple, Elegant, Flexible, Nothing...
 
 - 2022-01-21 10:38:42 Simple, Elegant, Flexible, Nothing...
