@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-21 10:35:19 Simple, Elegant, Flexible, Nothing...
+
 - 2022-01-21 10:33:26 Simple, Elegant, Flexible, Nothing...
 
 - 2022-01-21 10:26:22 Damn on unqualified hidden complexity!!!
