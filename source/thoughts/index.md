@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-22 22:07:15 商业成功的重点不是测试你的代码, 是测试你的 idea
+
 - 2022-01-22 21:38:01 Refactor: https://www.youtube.com/watch?v=NAu0JDMSHI0
 
 - 2022-01-22 20:47:50 ruby: `array.grep regexp` and.... you're all set
