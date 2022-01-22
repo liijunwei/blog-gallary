@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-22 21:38:01 Refactor: https://www.youtube.com/watch?v=NAu0JDMSHI0
+
 - 2022-01-22 20:47:50 ruby: `array.grep regexp` and.... you're all set
 
 - 2022-01-22 20:25:49 条件不允许时, 不得已使用盗版的话, 要心怀内疚; 我已经跳出来了, 支持了很多正版. 很好
