@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-24 20:25:16 使用命令行和使用GUI 是一个平衡问题, 极端是不可取的
+
 - 2022-01-24 20:01:19 傲慢的体现之一: 看别人做某事, 发现自己也会, 并且觉得自己也能做好; 实际上, 看到的很可能只是一件事的很小一部分
 
 - 2022-01-24 18:46:34 "The before_save occurs slightly before the before_create. To the best of my knowledge, nothing happens between them; but before_save will also fire on Update operations, while before_create will only fire on Creates."
