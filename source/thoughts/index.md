@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-24 18:46:34 "The before_save occurs slightly before the before_create. To the best of my knowledge, nothing happens between them; but before_save will also fire on Update operations, while before_create will only fire on Creates."
+
 - 2022-01-24 10:13:07 网易云音乐首页推荐歌单封面上女孩子都是我的爱😊
 
 - 2022-01-24 08:38:02 刚反应过来: C里面的指向函数的指针, 和ruby/python/java... 里面的lambda好像是一回事吧(TODO 确认一下异同)
