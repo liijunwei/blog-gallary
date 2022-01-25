@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-25 17:21:27 薅吧
+
 - 2022-01-25 13:43:41 history -> hi-story🤣
 
 - 2022-01-25 00:26:08 如何调试BASH脚本: https://coolshell.cn/articles/1379.html
