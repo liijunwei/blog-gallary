@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-26 23:18:24 https://stackexchange.com/sites
+
 - 2022-01-26 23:15:43 "Understandably, skilled hackers and authors of popular software are already receiving more than their fair share of mis-targeted messages. By adding to the flood, you could in extreme cases even be the straw that breaks the camel's back — quite a few times, contributors to popular projects have withdrawn their support because collateral damage in the form of useless e-mail traffic to their personal accounts became unbearable." http://www.catb.org/~esr/faqs/smart-questions.html
 
 - 2022-01-26 22:05:24 发现好物: macos MonitorControl
