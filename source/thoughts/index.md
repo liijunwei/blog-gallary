@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-26 22:05:24 发现好物: macos MonitorControl
+
 - 2022-01-26 09:26:25 “故障驱动式”软件开发... https://coolshell.cn/articles/11656.html
 
 - 2022-01-26 09:19:30 "有问题就有挑战，我每天都在思考，如何在不完美甚至残缺的环境下，解决这些公司的技术问题。" https://coolshell.cn/articles/17446.html
