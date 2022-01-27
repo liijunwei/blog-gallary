@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-27 13:48:34 Read The Fucking Manual(RTFM)
+
 - 2022-01-27 13:47:03 linux-kernel mailing list (lkml)
 
 - 2022-01-27 13:45:42 “Please help me figure out what additional diagnostics I can run to achieve enlightenment.” http://www.catb.org/~esr/faqs/smart-questions.html#idm551
