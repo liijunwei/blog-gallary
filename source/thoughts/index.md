@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-27 13:48:43 Search The Fucking Web(STFW)
+
 - 2022-01-27 13:48:34 Read The Fucking Manual(RTFM)
 
 - 2022-01-27 13:47:03 linux-kernel mailing list (lkml)
