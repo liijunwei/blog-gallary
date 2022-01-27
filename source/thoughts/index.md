@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-27 13:47:03 linux-kernel mailing list (lkml)
+
 - 2022-01-27 13:45:42 “Please help me figure out what additional diagnostics I can run to achieve enlightenment.” http://www.catb.org/~esr/faqs/smart-questions.html#idm551
 
 - 2022-01-27 13:45:09 电视剧 大明王朝里的赵贞吉被戏称[不粘锅], 我觉得应该是[不沾锅], 甩锅侠, 一点不沾(是不是我看错了...
