@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-27 19:22:18 model里, validate配合errors
+
 - 2022-01-27 16:52:55 类方法也可以覆写... 我草率了
 
 - 2022-01-27 13:48:43 Search The Fucking Web(STFW)
