@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-28 21:58:17 "Github is Your New Resume" Maybe blog as well http://mindhacks.cn/2011/11/04/how-to-interview-a-person-for-two-years/
+
 - 2022-01-28 21:13:58 "在计算机领域待得越久，越发现自己的浅薄。" https://mednoter.com/unblock.html
 
 - 2022-01-28 21:04:19 满级大佬... https://www.joelonsoftware.com/
