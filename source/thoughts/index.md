@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-28 21:04:19 满级大佬... https://www.joelonsoftware.com/
+
 - 2022-01-28 20:48:26 看到好几次 [mindhacks] 这个字眼, 到底是什么意思?
 
 - 2022-01-28 20:45:02 https://mednoter.com/what-happens-to-a-programmer-as-he-gets-older.html
