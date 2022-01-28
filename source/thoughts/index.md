@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-28 22:18:21 https://github.com/gib/gibify 这个界面真好看, 我也需要一个(TODO)
+
 - 2022-01-28 22:11:41 https://code.dblock.org/2011/07/14/github-is-your-new-resume.html
 
 - 2022-01-28 22:05:19 大佬... http://mindhacks.cn/
