@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-28 20:24:47 容错和速错 https://ruby-china.org/topics/23924
+
 - 2022-01-28 15:43:32 原来2012年笑来老是就活跃在ruby-china社区了...
 
 - 2022-01-28 11:55:18 查了个bug, 发现自己对ruby里一写常用的lib熟悉程度很低, regexp, match, rjust, gsub(今天暴露了这几个
