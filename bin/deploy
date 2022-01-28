@@ -1,9 +1,9 @@
 #!/bin/bash
 
-git add . && git commit -m "Commit manually." && git push
+git add . && git commit -m "Commit manually." --quiet && git push
 
-hexo clean  &&
-hexo deploy &&
+hexo clean  >/dev/null &&
+hexo deploy >/dev/null &&
 ssh webuser@xiaoli "cd /srv/www/blog-gallary &&
                     git fetch         &&
                     git checkout main &&
