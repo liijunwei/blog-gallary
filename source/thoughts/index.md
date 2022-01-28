@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-28 11:55:18 查了个bug, 发现自己对ruby里一写常用的lib熟悉程度很低, regexp, match, rjust, gsub(今天暴露了这几个
+
 - 2022-01-28 11:34:37 gsub 传入块的时候, match的结果会自动调用to_s
 
 - 2022-01-27 19:22:18 model里, validate配合errors
