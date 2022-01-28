@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-28 20:48:26 看到好几次 [mindhacks] 这个字眼, 到底是什么意思?
+
 - 2022-01-28 20:45:02 https://mednoter.com/what-happens-to-a-programmer-as-he-gets-older.html
 
 - 2022-01-28 20:44:01 "尽量找一个好公司。好公司把程序员当作资产，而不是成本。"
