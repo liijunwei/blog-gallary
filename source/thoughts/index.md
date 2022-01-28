@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-28 22:11:41 https://code.dblock.org/2011/07/14/github-is-your-new-resume.html
+
 - 2022-01-28 22:05:19 大佬... http://mindhacks.cn/
 
 - 2022-01-28 21:58:17 "Github is Your New Resume" Maybe blog as well http://mindhacks.cn/2011/11/04/how-to-interview-a-person-for-two-years/
