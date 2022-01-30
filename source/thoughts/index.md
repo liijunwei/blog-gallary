@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-30 21:52:58 fun videos with p5js: https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA
+
 - 2022-01-30 19:37:53 test tutorial: https://github.com/leahneukirchen/nq/blob/master/tests
 
 - 2022-01-30 18:17:38 《贞观之治》看完啦
