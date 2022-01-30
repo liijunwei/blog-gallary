@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-30 19:37:53 test tutorial: https://github.com/leahneukirchen/nq/blob/master/tests
+
 - 2022-01-30 18:17:38 《贞观之治》看完啦
 
 - 2022-01-28 22:18:21 https://github.com/gib/gibify 这个界面真好看, 我也需要一个(TODO)
