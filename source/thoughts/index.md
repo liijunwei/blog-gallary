@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-01 00:29:34 Top Ten Tips for Bug Tracking --- https://www.joelonsoftware.com/2000/11/08/painless-bug-tracking/
+
 - 2022-02-01 00:27:52 "If you’re a manager, and nobody seems to be using the bug database that you installed at great expense, start assigning new features to people using bugs. A bug database is also a great “unimplemented feature” database, too." --- https://www.joelonsoftware.com/2000/11/08/painless-bug-tracking/ So, some bugs are orignally features hahaha
 
 - 2022-01-31 23:04:55 fun: https://p5js.org/reference/
