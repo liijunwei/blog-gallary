@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-31 10:39:52 "Conway's Game of Life" is so fun!!! (https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+
 - 2022-01-30 22:35:18 假期在家得趴着睡午觉, 尽量不要躺着睡
 
 - 2022-01-30 21:52:58 fun videos with p5js: https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA
