@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-31 16:01:00 "The idea that new code is better than old is patently absurd. " https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/
+
 - 2022-01-31 15:59:07 "It’s harder to read code than to write it."(?)
 
 - 2022-01-31 15:49:56 万不可生念...
