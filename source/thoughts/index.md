@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-01 00:34:34 才注意到一直折腾我的这本the c programming languate的作者之一 Dennis M.Ritchie 是个很厉害的人... --- http://www.ruanyifeng.com/blog/2011/10/dennis_ritchie.html
+
 - 2022-02-01 00:31:07 bug is [fixed, won’t fix, postponed, not repro, duplicate, or by design]
 
 - 2022-02-01 00:29:34 Top Ten Tips for Bug Tracking --- https://www.joelonsoftware.com/2000/11/08/painless-bug-tracking/
