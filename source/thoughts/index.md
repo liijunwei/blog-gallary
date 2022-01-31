@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-31 21:23:04 `sizeof` is an operator in clang, not a function(?
+
 - 2022-01-31 16:12:45 "It’s important to remember that when you start from scratch there is absolutely no reason to believe that you are going to do a better job than you did the first time." https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/
 
 - 2022-01-31 16:01:00 "The idea that new code is better than old is patently absurd. " https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/
