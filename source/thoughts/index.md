@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-31 15:59:07 "It’s harder to read code than to write it."(?)
+
 - 2022-01-31 15:49:56 万不可生念...
 
 - 2022-01-31 11:05:52 https://p5js.org/examples/simulate-game-of-life.html
