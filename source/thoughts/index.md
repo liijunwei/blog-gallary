@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-31 22:54:22 应该意识到, 自己在和谁竞争, 心态不该还是学生状态了
+
 - 2022-01-31 21:23:04 `sizeof` is an operator in clang, not a function(?
 
 - 2022-01-31 16:12:45 "It’s important to remember that when you start from scratch there is absolutely no reason to believe that you are going to do a better job than you did the first time." https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/
