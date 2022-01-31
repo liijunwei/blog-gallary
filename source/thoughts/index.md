@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-01-31 23:04:55 fun: https://p5js.org/reference/
+
 - 2022-01-31 22:54:22 应该意识到, 自己在和谁竞争, 心态不该还是学生状态了
 
 - 2022-01-31 21:23:04 `sizeof` is an operator in clang, not a function(?
