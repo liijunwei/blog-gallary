@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-01 17:03:32 "When you’re using source control, sometimes one programmer accidentally checks in something that breaks the build. " that's why we need a daily build https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/
+
 - 2022-02-01 16:13:24 看大庆赶海有种开盲盒的感觉, 怪不得这么吸引人... 当然, 招人喜欢也是一种本事...
 
 - 2022-02-01 00:34:34 才注意到一直折腾我的这本the c programming languate的作者之一 Dennis M.Ritchie 是个很厉害的人... --- http://www.ruanyifeng.com/blog/2011/10/dennis_ritchie.html
