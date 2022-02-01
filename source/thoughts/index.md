@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-02 00:19:02 逛echarts官网的时候知道了之前看到视频里的柱状图名字叫: [bar race]
+
 - 2022-02-02 00:13:35 https://apexcharts.com/
 
 - 2022-02-01 22:06:32 "Roses Are Red" https://en.wikipedia.org/wiki/Roses_Are_Red
