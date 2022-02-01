@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-01 20:52:51 "Git auto-fetch" 这个插件的原理是什么?
+
 - 2022-02-01 18:30:25 fun stuff: https://www.myphysicslab.com/
 
 - 2022-02-01 18:20:34 `set --help`
