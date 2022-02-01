@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-01 17:41:39 一个人乐是233333, 俩人乐是466666 哈哈哈哈 https://www.bilibili.com/video/BV15X4y157SJ
+
 - 2022-02-01 17:14:52 "The common belief is that when you’re building a software company, the goal is to find a neat idea that solves some problem which hasn’t been solved before, implement it, and make a fortune. We’ll call this the build-a-better-mousetrap belief. But the real goal for software companies should be converting capital into software that works." https://www.joelonsoftware.com/2005/07/25/hitting-the-high-notes/
 
 - 2022-02-01 17:03:32 "When you’re using source control, sometimes one programmer accidentally checks in something that breaks the build. " that's why we need a daily build https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/
