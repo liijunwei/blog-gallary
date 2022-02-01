@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-01 18:02:53 字符串比较原理: 从两个字符串的第一个字符开始逐个进行比较（按字符的ASCII值进行大小比较），直到出现不同的字符或遇到“0”为止。如果全部字符都相同，就认为两字符串相等，返回0，若出现了不相同的字符，则以第一个不相同的字符比较结果为准，若前者字符大于后者，则返回1，否则返回-1
+
 - 2022-02-01 17:41:39 一个人乐是233333, 俩人乐是466666 哈哈哈哈 https://www.bilibili.com/video/BV15X4y157SJ
 
 - 2022-02-01 17:14:52 "The common belief is that when you’re building a software company, the goal is to find a neat idea that solves some problem which hasn’t been solved before, implement it, and make a fortune. We’ll call this the build-a-better-mousetrap belief. But the real goal for software companies should be converting capital into software that works." https://www.joelonsoftware.com/2005/07/25/hitting-the-high-notes/
