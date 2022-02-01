@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-01 18:18:55 "<<<" is "Here Strings" in bash
+
 - 2022-02-01 18:18:16 `cat <<< 'hi there'`
 
 - 2022-02-01 18:13:35 https://www.youtube.com/channel/UCJXuQ9aRkS_HaFEBhiHFpWw
