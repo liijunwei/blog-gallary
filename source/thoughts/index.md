@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-01 18:30:25 fun stuff: https://www.myphysicslab.com/
+
 - 2022-02-01 18:20:34 `set --help`
 
 - 2022-02-01 18:18:55 "<<<" is "Here Strings" in bash
