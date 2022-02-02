@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-02 10:56:22 ruby3.0终于装上了...
+
 - 2022-02-02 10:41:29 ruby installation is pain in the ass
 
 - 2022-02-02 09:45:02 "Answering one good question is like feeding a hungry person one meal, but teaching them research skills by example is showing them how to grow food for a lifetime."
