@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-02 21:36:30 紧急问题??? zzz
+
 - 2022-02-02 21:15:05 `export SUBLIME_SNIPPET_PATH="$HOME/Library/ApplicationSupport/Sublime Text 3/Packages/User"`
 
 - 2022-02-02 20:53:45 年前在家敲键盘, 老是感觉手指干燥; 借了是有的加湿器用了几天, 干燥感消失了, 太好了.
