@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-02 09:45:02 "Answering one good question is like feeding a hungry person one meal, but teaching them research skills by example is showing them how to grow food for a lifetime."
+
 - 2022-02-02 09:39:47 "Try to turn the bad question into a good one; remember we were all newbies once." --- http://www.catb.org/~esr/faqs/smart-questions.html#idm551
 
 - 2022-02-02 00:19:02 逛echarts官网的时候知道了之前看到视频里的柱状图名字叫: [bar race]
