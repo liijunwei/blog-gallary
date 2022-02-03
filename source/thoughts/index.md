@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-03 14:29:51 music: V.K - Wings Of Piano
+
 - 2022-02-03 14:00:19 竟然有这种节目...我是井底之蛙蛙  https://www.bilibili.com/video/BV1oa4y1J7DH
 
 - 2022-02-03 13:47:06 OP乔巴赏金100贝利哈哈哈哈哈哈
