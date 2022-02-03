@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-03 10:00:49 "数组名代表数组首元素的地址" int a[10] 第一个元素a[0]是一个整型数; int a[2][3] 第一个元素a[0]是一个一维数组
+
 - 2022-02-02 21:36:30 紧急问题??? zzz
 
 - 2022-02-02 21:15:05 `export SUBLIME_SNIPPET_PATH="$HOME/Library/ApplicationSupport/Sublime Text 3/Packages/User"`
