@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-03 17:27:39 不好意思就是很好笑 https://www.bilibili.com/video/BV1Qf4y1T7sr
+
 - 2022-02-03 17:22:13 回家的诱惑: https://www.bilibili.com/video/BV1QK4y1D7yK
 
 - 2022-02-03 15:24:20 以后用bash写cli的时候, 可以参考这个 https://github.com/ohmyzsh/ohmyzsh/blob/master/lib/cli.zsh
