@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-03 15:24:20 以后用bash写cli的时候, 可以参考这个 https://github.com/ohmyzsh/ohmyzsh/blob/master/lib/cli.zsh
+
 - 2022-02-03 15:24:02 今天巡检
 
 - 2022-02-03 14:29:51 music: V.K - Wings Of Piano
