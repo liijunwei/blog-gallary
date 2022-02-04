@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-04 15:01:57 Get your hand dirty...
+
 - 2022-02-04 14:29:39 分析了一下自己的花销, 有点吓人... 好能吃啊
 
 - 2022-02-04 12:56:06 expense analyser requirements: 1. 趋势 2. 占比 3. 使用量
