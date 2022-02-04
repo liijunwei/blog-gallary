@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-04 23:36:03 捕获大佬一枚: https://www.youtube.com/watch?v=4sosXZsdy-s ---> https://github.com/bradtraversy
+
 - 2022-02-04 23:24:59 util website: https://randomuser.me/
 
 - 2022-02-04 22:44:29 拖延来自于不会,不行,搞不定...
