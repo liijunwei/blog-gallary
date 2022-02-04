@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-05 00:11:45 good stuff: https://tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/
+
 - 2022-02-04 23:50:05 jquery: selector/events/dom/effects/ajax
 
 - 2022-02-04 23:41:35 fun: https://github.com/bradtraversy/50projects50days
