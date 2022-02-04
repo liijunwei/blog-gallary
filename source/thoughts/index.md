@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-04 23:24:59 util website: https://randomuser.me/
+
 - 2022-02-04 22:44:29 拖延来自于不会,不行,搞不定...
 
 - 2022-02-04 21:33:52 试着把登录功能和github集成起来 https://github.com/octokit/octokit.rb
