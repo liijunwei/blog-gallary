@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-05 00:16:46 "However, when normal people talk to nerds, the nerds often get frustrated because the normal people seem to be dodging the real issues and not saying what they really mean. " --- [Tact Filters](http://www.mit.edu/~jcb/tact.html)
+
 - 2022-02-05 00:11:45 good stuff: https://tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/
 
 - 2022-02-04 23:50:05 jquery: selector/events/dom/effects/ajax
