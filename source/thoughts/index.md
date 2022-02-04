@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-04 23:50:05 jquery: selector/events/dom/effects/ajax
+
 - 2022-02-04 23:41:35 fun: https://github.com/bradtraversy/50projects50days
 
 - 2022-02-04 23:36:03 捕获大佬一枚: https://www.youtube.com/watch?v=4sosXZsdy-s ---> https://github.com/bradtraversy
