@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-04 12:56:06 expense analyser requirements: 1. 趋势 2. 占比 3. 使用量
+
 - 2022-02-04 00:12:22 金广发我的快乐源泉...
 
 - 2022-02-03 17:27:39 不好意思就是很好笑 https://www.bilibili.com/video/BV1Qf4y1T7sr
