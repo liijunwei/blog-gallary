@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-04 18:23:24 OK Stacked Horizontal Bar is exactly what I want
+
 - 2022-02-04 17:29:54 贪多嚼不烂
 
 - 2022-02-04 16:09:27 一句异地登录笑死我了...
