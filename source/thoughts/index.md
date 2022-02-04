@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-04 21:00:18 之前其实悟到过了: 有些有意义的事 唯有在极其无聊的时候才会开始做
+
 - 2022-02-04 18:25:26 适可而止
 
 - 2022-02-04 18:23:24 OK Stacked Horizontal Bar is exactly what I want
