@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-05 11:13:23 "Roses are red, Violets are blue, Sugar is sweet, And so are you."
+
 - 2022-02-05 11:13:04 "
 
 - 2022-02-05 00:16:46 "However, when normal people talk to nerds, the nerds often get frustrated because the normal people seem to be dodging the real issues and not saying what they really mean. " --- [Tact Filters](http://www.mit.edu/~jcb/tact.html)
