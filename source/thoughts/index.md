@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-05 20:37:42 "To behave like a hacker, you have to believe this enough to want to automate away the boring bits as much as possible, not just for yourself but for everybody else (especially other hackers)." http://www.catb.org/~esr/faqs/hacker-howto.html
+
 - 2022-02-05 20:10:14 "Boredom and drudgery are evil." [How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)
 
 - 2022-02-05 16:42:21 参与翻译工作可以加深对文章的理解
