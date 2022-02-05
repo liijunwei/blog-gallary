@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-05 15:56:58 "Most intermittent faults are not truly intermittent. " [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
+
 - 2022-02-05 15:52:01 "Programmers like problems that they can reproduce more than once."
 
 - 2022-02-05 15:51:27 "Try to develop a reflex reaction - if a computer does anything unexpected, freeze."
