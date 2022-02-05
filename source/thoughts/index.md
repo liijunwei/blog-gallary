@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-05 20:10:14 "Boredom and drudgery are evil." [How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)
+
 - 2022-02-05 16:42:21 参与翻译工作可以加深对文章的理解
 
 - 2022-02-05 16:15:49 问题: 自己有能力阅读英文的好文章时, 是应该去做翻译类的事扩大文章影响范围, 还是应该去做推动英语学习的事以扩大文章影响范围呢? 还是说这也是个tradeooff问题, 都得做...?
