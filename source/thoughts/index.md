@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-05 16:15:49 问题: 自己有能力阅读英文的好文章时, 是应该去做翻译类的事扩大文章影响范围, 还是应该去做推动英语学习的事以扩大文章影响范围呢? 还是说这也是个tradeooff问题, 都得做...?
+
 - 2022-02-05 16:00:41 "I get bug reports from all around the world. Many of them are from non-native English speakers, and a lot of those apologise for their poor English. In general, the bug reports with apologies for their poor English are actually very clear and useful. All the most unclear reports come from native English speakers who assume that I will understand them even if they don't make any effort to be clear or precise." https://www.chiark.greenend.org.uk/~sgtatham/bugs.html  哈哈哈哈哈有点意思
 
 - 2022-02-05 15:56:58 "Most intermittent faults are not truly intermittent. " [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
