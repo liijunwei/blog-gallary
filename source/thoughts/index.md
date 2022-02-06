@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-07 00:10:39 "This book is not meant to be read as a reference manual. It's more of a walkthrough."
+
 - 2022-02-07 00:04:43 马总今天给我推荐了本书: working with unix processes  看起来很合胃口...
 
 - 2022-02-07 00:04:10 Unix programming in Ruby/C/Java/Bash...?
