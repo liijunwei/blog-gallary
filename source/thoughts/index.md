@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-07 00:22:57 C语言的API很容易查看, 直接man xxx就好了...
+
 - 2022-02-07 00:15:42 good stuff: https://workingwithruby.com/
 
 - 2022-02-07 00:10:39 "This book is not meant to be read as a reference manual. It's more of a walkthrough."
