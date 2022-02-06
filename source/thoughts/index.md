@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-06 18:46:26 想起来海贼王里的雷利很硬核的从一个岛游到另一个到, 要知道正常人都是坐船的...
+
 - 2022-02-06 18:45:08 一直没明白, 海贼王里的人好多人用的是刀, 但却叫剑士, 功夫叫剑术... 该怎么解释呢
 
 - 2022-02-05 20:37:42 "To behave like a hacker, you have to believe this enough to want to automate away the boring bits as much as possible, not just for yourself but for everybody else (especially other hackers)." http://www.catb.org/~esr/faqs/hacker-howto.html
