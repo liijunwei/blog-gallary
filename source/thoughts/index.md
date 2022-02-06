@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-07 00:04:43 马总今天给我推荐了本书: working with unix processes  看起来很合胃口...
+
 - 2022-02-07 00:04:10 Unix programming in Ruby/C/Java/Bash...?
 
 - 2022-02-06 21:58:03 今年春节的10天, 可以说是这么些年来我最美好的时光之一了
