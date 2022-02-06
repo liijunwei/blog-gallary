@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-07 00:33:21 使用man查看文档后, 要注意 SEE ALSO里是否有重名的关键字, 因为当前的文档可能不是你需要的
+
 - 2022-02-07 00:22:57 C语言的API很容易查看, 直接man xxx就好了...
 
 - 2022-02-07 00:15:42 good stuff: https://workingwithruby.com/
