@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-07 14:57:01 `HTTP Origin header didn’t match request.base_url` fixed by modify nginx config file: `proxy_set_header X-Forwarded-Proto http;` -> `proxy_set_header X-Forwarded-Proto $scheme;`
+
 - 2022-02-07 14:08:00 直接原因: Rails redirect_to loses the https protocol and goes to http
 
 - 2022-02-07 13:32:15 碰到了个问题: HTTP Origin header didn't match request.base_url
