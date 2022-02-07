@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-07 16:55:57 "技术雷达" 生动形象~ 想起来昨天听到的 9边形全能战士罗宾, 挺有意思
+
 - 2022-02-07 16:54:16 把事情做到100分或者接近100分 是一种人生体验, 应该有
 
 - 2022-02-07 16:42:57 可以说很懂程序员 哈哈哈哈 https://github.com/sg552/happy_book_developer_career/blob/master/chapters/hao_zhuang_bei.md
