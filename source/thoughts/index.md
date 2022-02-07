@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-07 14:08:00 直接原因: Rails redirect_to loses the https protocol and goes to http
+
 - 2022-02-07 13:32:15 碰到了个问题: HTTP Origin header didn't match request.base_url
 
 - 2022-02-07 11:15:42 "rspec 咱是肉测流，超强精力（任何时间收到报警立即处理）+反应能力+极强自信 - -" 看到这硬核+自信的话真是笑坏我了哈哈哈哈(https://chloerei.com/2013/11/22/you-do-not-need-these-gems/)
