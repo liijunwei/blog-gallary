@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-07 20:54:10 先实现最核心的需求
+
 - 2022-02-07 20:51:00 [接项目务必慎重-避坑指南](https://github.com/sg552/happy_book_developer_career/blob/master/chapters/xiang_mu_hen_zhong_yao.md)
 
 - 2022-02-07 20:36:19 "小心你的膨胀期"
