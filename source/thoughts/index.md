@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-07 16:54:16 把事情做到100分或者接近100分 是一种人生体验, 应该有
+
 - 2022-02-07 16:42:57 可以说很懂程序员 哈哈哈哈 https://github.com/sg552/happy_book_developer_career/blob/master/chapters/hao_zhuang_bei.md
 
 - 2022-02-07 16:39:56 "如果要排名的话，我现在越来越倾向于 沟通能力比技术能力重要。"
