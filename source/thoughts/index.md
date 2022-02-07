@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-07 17:19:30 [程序员的工作习惯](https://github.com/sg552/happy_book_developer_career/blob/master/chapters/jian_kang.md)
+
 - 2022-02-07 17:14:34 很讨厌鄙视链
 
 - 2022-02-07 16:55:57 "技术雷达" 生动形象~ 想起来昨天听到的 9边形全能战士罗宾, 挺有意思
