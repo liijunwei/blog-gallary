@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-07 19:55:56 "粗略的讲: 如果一门语言不需要使用什么设计模式,就能工作的很好,那么这门语言就是比较轻盈的." https://github.com/sg552/happy_book_developer_career/blob/master/chapters/kai_fa_zhi_shang--quan_zhan_gong_cheng_shi.md
+
 - 2022-02-07 18:12:26 哇, 百团的以藏有5亿多赏金呐 https://www.bilibili.com/video/BV1MY411b7JB
 
 - 2022-02-07 18:09:19 海贼王和之国大战里大佬太多, 赏金动不动就5亿/10亿, 我都忘了多弗朗明哥赏金才3亿多...
