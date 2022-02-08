@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-08 18:00:45 caveat in man page: 警告
+
 - 2022-02-08 16:38:52 <我在干嘛>
 
 - 2022-02-08 13:20:41 the-c-programming-language 每天4页, Mission Complete!
