@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-08 11:54:13 [刚debug并修复了一个因为line buffer size过小导致的`off by 1`的错误, 开心](https://github.com/liijunwei/practice/blob/main/clang/the-c-programming-language/ch7-Input-and-Output/EX7-07-debug.sh)
+
 - 2022-02-07 20:54:10 先实现最核心的需求
 
 - 2022-02-07 20:51:00 [接项目务必慎重-避坑指南](https://github.com/sg552/happy_book_developer_career/blob/master/chapters/xiang_mu_hen_zhong_yao.md)
