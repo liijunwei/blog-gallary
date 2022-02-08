@@ -1,6 +1,7 @@
 #!/bin/bash
 
-git add . && git commit -m "Commit manually." --quiet && git push
+git add . && git commit -m "Commit manually." --quiet
+git push --force
 
 hexo clean  >/dev/null &&
 hexo deploy >/dev/null &&

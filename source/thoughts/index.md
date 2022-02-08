@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-08 16:38:52 <我在干嘛>
+
 - 2022-02-08 13:20:41 the-c-programming-language 每天4页, Mission Complete!
 
 - 2022-02-08 11:54:13 [刚debug并修复了一个因为line buffer size过小导致的`off by 1`的错误, 开心](https://github.com/liijunwei/practice/blob/main/clang/the-c-programming-language/ch7-Input-and-Output/EX7-07-debug.sh)
