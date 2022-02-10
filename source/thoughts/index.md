@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-10 22:02:37 "It's hard to tell that the world we live is either a reality or a dream."
+
 - 2022-02-10 21:56:03 这种安静的电影看得人想哭...(好
 
 - 2022-02-10 21:50:08 《空房间》
