@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-10 18:54:05 1. 任务在待发布状态下, 如果有改动, 需要重新测试; 2. begin end 块之间不能加入 do关键字
+
 - 2022-02-10 14:32:23 要注意**先把流程跑通**
 
 - 2022-02-10 14:18:23 `gsed "4s/.*/  host: $(ipconfig getifaddr en0)/" config/database.yml`
