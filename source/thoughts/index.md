@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-10 14:32:23 要注意**先把流程跑通**
+
 - 2022-02-10 14:18:23 `gsed "4s/.*/  host: $(ipconfig getifaddr en0)/" config/database.yml`
 
 - 2022-02-10 13:48:59 [github发言成功哈哈哈](https://github.com/Vonng/ddia/pull/183)
