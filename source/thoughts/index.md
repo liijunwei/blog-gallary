@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-10 13:42:17 个人体会: 心里对好的代码风格有印象, 有追求, 写着写着风格会自然地变过去
+
 - 2022-02-10 11:24:04 [The-Directory-Stack](https://www.gnu.org/software/bash/manual/html_node/The-Directory-Stack.html)
 
 - 2022-02-09 20:06:23 学习一下大佬怎么把一个文档做得很规范: https://github.com/Vonng/ddia
