@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-10 11:24:04 [The-Directory-Stack](https://www.gnu.org/software/bash/manual/html_node/The-Directory-Stack.html)
+
 - 2022-02-09 20:06:23 学习一下大佬怎么把一个文档做得很规范: https://github.com/Vonng/ddia
 
 - 2022-02-09 16:51:57 [使用Slide的方式展示简历也挺好](https://github.com/hakimel/reveal.js)
