@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-13 22:14:38 幂等设计很有价值!
+
 - 2022-02-13 21:27:01 说简单是高估, 说太难是找借口; 唯一的解药是get your hands dirty 做就好了
 
 - 2022-02-13 20:25:03 https://github.com/StevenBaby
