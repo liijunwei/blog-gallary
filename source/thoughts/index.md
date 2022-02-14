@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-14 20:08:06 [First PR-Accepted](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/pull/145)
+
 - 2022-02-14 00:39:00 事情都不简单
 
 - 2022-02-13 22:14:38 幂等设计很有价值!
