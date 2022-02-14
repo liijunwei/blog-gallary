@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-14 23:03:31 jeklly + pdf https://ognjen.io/generate-pdf-of-jekyll-page/
+
 - 2022-02-14 21:24:18 "我在华为还学会 “做没技术含量的事情”。我原来很看不起打补丁的工作，觉得没什么技术含量，后来发现，重复做简单的事情太有价值了。一个很简单的事情，当它的规模上去之后，就容易出现各种各样的问题。管理一台服务器和管理 100 台服务器不一样，而量变一定会产生质变。" --- https://ruby-china.org/topics/14740
 
 - 2022-02-14 20:08:06 [First PR-Accepted](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/pull/145)
