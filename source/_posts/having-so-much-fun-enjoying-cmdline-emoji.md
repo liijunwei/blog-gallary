@@ -20,7 +20,7 @@ tags:
 
 ZSH_THEME="ys"
 function parse_git_dirty {
-  [[ -d .git ]] && [[ $(git status 2> /dev/null | tail -n1) != "nothing to commit, working tree clean" ]] && echo "🤣"
+  command git rev-parse --is-inside-work-tree &> /dev/null && [[ $(git status 2> /dev/null | tail -n1) != "nothing to commit, working tree clean" ]] && echo "🤣"
 }
 export PS1='%n@%m:%1~%$(__git_ps1 " (%s)")$(parse_git_dirty)$ ' # with git branch, 配合 iterm的(smart selection)
 ```
