@@ -37,10 +37,13 @@ rm -rf .deploy_git && hexo clean && hexo deploy
 
 #### afterwards
 
+[thougut util](https://github.com/liijunwei/custom-omz-plugins/blob/main/thought/thought.plugin.zsh)
+
 ```sh
 bin/deploy
 thought
 thought -e
 thought "xxx"
+thought -i
 ```
 
