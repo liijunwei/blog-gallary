@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-18 14:02:16 "The GET method is safe, meaning that applying it to a resource does not result in a state change of the resource (read-only semantics).The GET, PUT, and DELETE methods are idempotent, meaning that applying them multiple times to a resource results in the same state change of the resource as applying them once, though the response might differ. The GET and POST methods are cacheable, meaning that responses to them are allowed to be stored for future reuse." [Representational state transfer](https://en.wikipedia.org/wiki/Representational_state_transfer)
+
 - 2022-02-18 11:08:17 日志文件写入失败会导致程序异常 不确定合不合理
 
 - 2022-02-18 00:01:07 减体重提上日程, 目标: 77.2 -> 70, 3-5个月
