@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-19 15:24:55 erb是rails的默认模板引擎, 能不能理解为多数情况下它是最佳实践? (https://www.honeybadger.io/blog/ruby-template-performance-erb-haml-slim/)
+
 - 2022-02-19 15:22:12 [hey is a tiny program that sends some load to a web application.](https://github.com/rakyll/hey)
 
 - 2022-02-18 14:02:16 "The GET method is safe, meaning that applying it to a resource does not result in a state change of the resource (read-only semantics).The GET, PUT, and DELETE methods are idempotent, meaning that applying them multiple times to a resource results in the same state change of the resource as applying them once, though the response might differ. The GET and POST methods are cacheable, meaning that responses to them are allowed to be stored for future reuse." [Representational state transfer](https://en.wikipedia.org/wiki/Representational_state_transfer)
