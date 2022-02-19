@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-19 18:48:21 坑要及时填
+
 - 2022-02-19 15:43:59 tig filename # 就是我需要的功能, 为啥之前看文档的时候漏掉了呢
 
 - 2022-02-19 15:24:55 erb是rails的默认模板引擎, 能不能理解为多数情况下它是最佳实践? (https://www.honeybadger.io/blog/ruby-template-performance-erb-haml-slim/)
