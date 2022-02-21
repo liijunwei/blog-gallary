@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-22 00:05:55 Liquid tutorial: https://jekyllrb.com/docs/step-by-step/02-liquid/
+
 - 2022-02-21 18:26:03 "utf8mb4 is 100% backwards compatible with utf8." ---
 
 - 2022-02-21 18:10:21 生产环境万不可使用vim查看日志, 截止目前, 已经遇到了两次差点因为这个导致故障的例子了
