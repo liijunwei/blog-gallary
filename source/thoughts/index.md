@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-22 10:32:45 high quality articles: https://www.mikeperham.com/
+
 - 2022-02-22 09:31:29 good stuff: jekyll
 
 - 2022-02-22 09:19:59 填坑的过程有痛苦也有愉快
