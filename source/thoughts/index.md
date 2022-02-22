@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-22 09:19:59 填坑的过程有痛苦也有愉快
+
 - 2022-02-22 00:05:55 Liquid tutorial: https://jekyllrb.com/docs/step-by-step/02-liquid/
 
 - 2022-02-21 18:26:03 "utf8mb4 is 100% backwards compatible with utf8." ---
