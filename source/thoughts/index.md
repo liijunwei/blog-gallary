@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-23 09:34:36 event sourcing: https://www.eventstore.com/event-sourcing
+
 - 2022-02-23 09:33:27 event sourcing: https://www.eventstore.com/event-sourcing
 
 - 2022-02-22 22:25:43 说不好是不好改还是不好用... https://simonecarletti.com/blog/2009/12/inside-ruby-on-rails-rescuable-and-rescue_from/
