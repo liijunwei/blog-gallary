@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-23 22:03:02 用了这么久omz, 竟然没仔细了解过他的功能... https://ruby-china.org/topics/2013
+
 - 2022-02-23 15:50:08 restclient发送请求, 服务端返回bad request, 如果不用block接收响应结果, 只会返回一个400, 并抛异常, 得不到响应信息
 
 - 2022-02-23 09:34:36 event sourcing: https://www.eventstore.com/event-sourcing
