@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-23 23:18:01 "Sidekiq's mantra is simple and efficient. Redis is both. Abstracting data storage is neither." --- https://github.com/mperham/sidekiq/wiki/FAQ
+
 - 2022-02-23 23:02:31 good stuff: https://github.com/mperham/sidekiq/wiki/Error-Handling
 
 - 2022-02-23 22:27:14 自己的域名不在使用后, 一定要记得从各个贴过链接的地方清理掉... 不然很可能会被导向乱七八糟的网页...
