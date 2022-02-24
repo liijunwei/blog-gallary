@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-24 09:39:28 根据sonar的扫描结果和newrelic的报错日志做调整都有助于提高代码质量
+
 - 2022-02-23 23:18:01 "Sidekiq's mantra is simple and efficient. Redis is both. Abstracting data storage is neither." --- https://github.com/mperham/sidekiq/wiki/FAQ
 
 - 2022-02-23 23:02:31 good stuff: https://github.com/mperham/sidekiq/wiki/Error-Handling
