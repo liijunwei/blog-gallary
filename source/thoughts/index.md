@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-24 20:57:11 黑魂系列 艾尔登法环 画面真实没的说...
+
 - 2022-02-24 18:53:52 TODO read: https://github.com/sunym1993/flash-linux0.11-talk
 
 - 2022-02-24 09:39:28 根据sonar的扫描结果和newrelic的报错日志做调整都有助于提高代码质量
