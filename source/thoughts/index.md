@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-25 08:28:07 good stuff: https://github.com/huijing/slides
+
 - 2022-02-25 00:40:57 搞明白了github-page的route+indexpage和jekyll-cv, 接下来需要用html/css/js优化一下就好了
 
 - 2022-02-24 20:57:11 黑魂系列 艾尔登法环 画面真实没的说...
