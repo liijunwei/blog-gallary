@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-25 09:35:04 word: Lint (software), a tool to analyze and find problems in source code https://en.wikipedia.org/wiki/Lint
+
 - 2022-02-25 08:35:52 很有意思的博客... https://chenhuijing.com/
 
 - 2022-02-25 08:28:07 good stuff: https://github.com/huijing/slides
