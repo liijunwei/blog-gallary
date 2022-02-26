@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-26 20:07:52 rails routes -E
+
 - 2022-02-26 19:33:12 good stuff: https://bootstrapmade.com/
 
 - 2022-02-26 11:09:31 "管理者的信息量是比基层员工大很多的"
