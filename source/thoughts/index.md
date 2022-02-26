@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-26 23:21:50 https://www.pocketcasts.com/
+
 - 2022-02-26 20:07:52 rails routes -E
 
 - 2022-02-26 19:33:12 good stuff: https://bootstrapmade.com/
