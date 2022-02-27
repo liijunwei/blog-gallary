@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-27 14:01:59 util for fake data: https://mockaroo.com/
+
 - 2022-02-27 11:04:19 sidekiq里注册的error_handlers不会把异常吞没, 可以用来做一些处理和通知 --- https://github.com/mperham/sidekiq/wiki/Error-Handling#error-handlers
 
 - 2022-02-26 23:21:50 https://www.pocketcasts.com/
