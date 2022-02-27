@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-27 23:39:21 worth read: https://www.mikeperham.com/2017/04/20/monitoring-redis/
+
 - 2022-02-27 20:08:19 我早干什么去了...
 
 - 2022-02-27 14:01:59 util for fake data: https://mockaroo.com/
