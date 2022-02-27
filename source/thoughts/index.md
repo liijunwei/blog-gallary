@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-28 00:02:38 40hrs/wk * 50 wk/yr * 5 = 10000hours
+
 - 2022-02-27 23:57:01 [Simplify, simplify, simplify.](https://www.mikeperham.com/2016/02/09/kill-your-dependencies/)
 
 - 2022-02-27 23:43:19 https://www.mikeperham.com/2017/02/06/five-years/
