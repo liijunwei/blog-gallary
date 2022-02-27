@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-27 23:57:01 [Simplify, simplify, simplify.](https://www.mikeperham.com/2016/02/09/kill-your-dependencies/)
+
 - 2022-02-27 23:43:19 https://www.mikeperham.com/2017/02/06/five-years/
 
 - 2022-02-27 23:39:21 worth read: https://www.mikeperham.com/2017/04/20/monitoring-redis/
