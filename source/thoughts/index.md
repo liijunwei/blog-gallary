@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-02-28 08:38:45 [talking to individuals privately does not scale.](https://www.mikeperham.com/2017/06/07/helping-others/)
+
 - 2022-02-28 00:27:24 "Remove all that error logging and just use an error service – it’s the sane and healthy thing to do." --- https://www.mikeperham.com/2013/08/25/please-use-an-error-service/
 
 - 2022-02-28 00:02:38 40hrs/wk * 50 wk/yr * 5 = 10000hours
