@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-01 16:44:21 注意越界检查, 取数据时, 记得加上租户id
+
 - 2022-03-01 13:49:13 做一个接皮球的人
 
 - 2022-03-01 09:32:10 [Paper: Is Programming Knowledge Related To Age?](https://people.engr.ncsu.edu/ermurph3/papers/msr13.pdf)
