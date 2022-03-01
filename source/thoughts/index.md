@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-01 09:32:10 [Paper: Is Programming Knowledge Related To Age?](https://people.engr.ncsu.edu/ermurph3/papers/msr13.pdf)
+
 - 2022-02-28 13:32:43 和硕哥聊了1小时, 胜过自己瞎琢磨
 
 - 2022-02-28 11:00:57 Codebase should be cleaned up on a regular basis. Nobody wants to read your deprecated code.
