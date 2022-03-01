@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-01 22:27:18 [程序命名的一些提示](https://haoel.blog.csdn.net/article/details/5461669?spm=1001.2014.3001.5502)
+
 - 2022-03-01 22:25:26 "Your job is to put yourself out of work." --- https://coolshell.cn/articles/2424.html
 
 - 2022-03-01 22:24:18 https://coolshell.cn/articles/2424.html
