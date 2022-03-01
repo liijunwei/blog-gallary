@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-01 22:25:26 "Your job is to put yourself out of work." --- https://coolshell.cn/articles/2424.html
+
 - 2022-03-01 22:24:18 https://coolshell.cn/articles/2424.html
 
 - 2022-03-01 22:17:08 "记录下你所知道的一切会是一个好的习惯。" --- https://coolshell.cn/articles/222.html
