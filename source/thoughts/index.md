@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-01 22:24:18 https://coolshell.cn/articles/2424.html
+
 - 2022-03-01 22:17:08 "记录下你所知道的一切会是一个好的习惯。" --- https://coolshell.cn/articles/222.html
 
 - 2022-03-01 21:50:32 "你总需要在一个环节上认真，这个环节越往前就越有效率，越往后你就越没效率。" --- https://coolshell.cn/articles/11656.html
