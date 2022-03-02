@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-02 10:49:58 [How does Unix implement file permissions?](https://unix.stackexchange.com/questions/202880/how-does-unix-implement-file-permissions)
+
 - 2022-03-02 08:35:33 Forked GitHub Repo can be detached via [GitHub Support System](https://support.github.com/).
 
 - 2022-03-01 22:27:18 [程序命名的一些提示](https://haoel.blog.csdn.net/article/details/5461669?spm=1001.2014.3001.5502)
