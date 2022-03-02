@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-02 16:02:05 https://github.com/acmesh-official/acme.sh  what is this project for???
+
 - 2022-03-02 10:49:58 [How does Unix implement file permissions?](https://unix.stackexchange.com/questions/202880/how-does-unix-implement-file-permissions)
 
 - 2022-03-02 08:35:33 Forked GitHub Repo can be detached via [GitHub Support System](https://support.github.com/).
