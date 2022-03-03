@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-04 00:21:05 "connection pool exhausted"
+
 - 2022-03-03 22:18:13 No one stops me from reviewing my notes...
 
 - 2022-03-03 19:52:03 一个设计得不好的功能, 会有很多人掉进坑去; 一个实现得不好的需求也一样...
