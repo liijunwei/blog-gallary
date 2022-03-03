@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-03 08:43:20 "就怕你什么都想要"
+
 - 2022-03-02 16:02:05 https://github.com/acmesh-official/acme.sh  what is this project for???
 
 - 2022-03-02 10:49:58 [How does Unix implement file permissions?](https://unix.stackexchange.com/questions/202880/how-does-unix-implement-file-permissions)
