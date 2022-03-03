@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-03 17:40:10 处理有类型的方法时要小心...
+
 - 2022-03-03 08:43:20 "就怕你什么都想要"
 
 - 2022-03-02 16:02:05 https://github.com/acmesh-official/acme.sh  what is this project for???
