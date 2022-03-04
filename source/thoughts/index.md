@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-04 13:38:22 util: https://everytimezone.com/
+
 - 2022-03-04 00:21:05 "connection pool exhausted"
 
 - 2022-03-03 22:18:13 No one stops me from reviewing my notes...
