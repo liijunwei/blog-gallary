@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-04 14:15:43 keyword: libevent
+
 - 2022-03-04 14:15:30 connection pool -> [Object pool pattern](https://en.wikipedia.org/wiki/Object_pool_pattern)
 
 - 2022-03-04 14:12:36 good stuff: https://libevent.org/
