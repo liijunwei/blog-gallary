@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-05 11:11:05 生产变更的范围不只是发版, 执行发版脚本修改生产数据也是生产变更. 要注意理解本质
+
 - 2022-03-04 22:44:48 "你Eleaticsearch的文档完整的读完了吗? 你MySQL的文档完整的读完了吗? ..."
 
 - 2022-03-04 15:00:02 Object pool pattern Pitfalls: "Care must be taken to ensure the state of the objects returned to the pool is reset back to a sensible state for the next use of the object, otherwise the object may be in an state unexpected by the client, which may cause it to fail." --- https://en.wikipedia.org/wiki/Object_pool_pattern
