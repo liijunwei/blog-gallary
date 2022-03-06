@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-06 16:48:35 如果经常提醒自己GOF里Ned Stark说过的"Everything before a but is horse shit.", 会有更多的清醒时刻
+
 - 2022-03-06 16:20:01 去信息的源头... 对比一下这两篇就知道区别其实很大 https://www.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/  https://www.zhihu.com/question/477909242/answer/2120054141?utm_source=wechat_session&utm_medium=social&utm_oi=36396584665088&utm_content=group3_Answer&utm_campaign=shareopn
 
 - 2022-03-06 15:48:09 螺旋上升
