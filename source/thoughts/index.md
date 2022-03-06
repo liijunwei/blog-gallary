@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-06 15:38:28 IO模型: BIO/NIO/多路复用器 ... EPOLL 慢慢开始理解了 非常好
+
 - 2022-03-06 12:06:21 tig filepath; tig folderpath; IS SOOOOO PRACTICAL
 
 - 2022-03-06 12:04:54 Simple, Elegant, Flexible, Nothing...
