@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-06 12:06:21 tig filepath; tig folderpath; IS SOOOOO PRACTICAL
+
 - 2022-03-06 12:04:54 Simple, Elegant, Flexible, Nothing...
 
 - 2022-03-06 11:22:17 简历自评: 6/10 😶
