@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-06 15:48:09 螺旋上升
+
 - 2022-03-06 15:44:27 background music: https://www.bilibili.com/video/BV12E411D77B/?p=8&spm_id_from=pageDriver
 
 - 2022-03-06 15:38:28 IO模型: BIO/NIO/多路复用器 ... EPOLL 慢慢开始理解了 非常好
