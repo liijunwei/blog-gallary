@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-07 08:19:20 man 2 sigaction
+
 - 2022-03-06 23:44:32 看来, 看懂一点沙丘DUNE需要不少背景知识
 
 - 2022-03-06 16:48:35 如果经常提醒自己GOF里Ned Stark说过的"Everything before a but is horse shit.", 会有更多的清醒时刻
