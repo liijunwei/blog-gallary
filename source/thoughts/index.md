@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-07 09:26:37 high QPS system -> efficient request processing(fast system); high concurrent connection system -> efficient scheduling of connections
+
 - 2022-03-07 09:23:56 "Note that concurrent connections are not the same as requests per second, though they are similar: handling many requests per second requires high throughput (processing them quickly), while a high number of concurrent connections requires efficient scheduling of connections." --- https://en.wikipedia.org/wiki/C10k_problem
 
 - 2022-03-07 08:19:20 man 2 sigaction
