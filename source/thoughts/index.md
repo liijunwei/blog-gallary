@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-08 18:43:14 It's not an orignial story.
+
 - 2022-03-08 18:33:16 you're too big an asset to screw around with --- The News Room S01E01
 
 - 2022-03-08 15:34:27 [get your english checked!](https://textranch.com/)
