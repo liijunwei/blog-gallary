@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-09 00:02:05 podcast is good resource
+
 - 2022-03-08 22:31:52 SIGINT -> Signal Interrupt
 
 - 2022-03-08 19:45:14 fortune favours the brave
