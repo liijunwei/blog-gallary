@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-09 08:52:24 question: what is the difference between Streams and Messages ?
+
 - 2022-03-09 00:02:05 podcast is good resource
 
 - 2022-03-08 22:31:52 SIGINT -> Signal Interrupt
