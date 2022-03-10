@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-10 20:17:02 TODO learn about github trading
+
 - 2022-03-09 16:48:47 Netease music: 黄硕N-Bomb
 
 - 2022-03-09 16:42:23 Netease music: FOX胡天渝
