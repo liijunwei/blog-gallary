@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-10 20:58:41 郭源潮 宋冬野 洗脑循环了...
+
 - 2022-03-10 20:24:36 github -> explore -> trending
 
 - 2022-03-10 20:17:02 TODO learn about github trading
