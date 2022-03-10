@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-10 23:24:01 她会魔法吧 https://i.y.qq.com/v8/playsong.html?songid=337922188#webchat_redirect
+
 - 2022-03-10 22:55:18 她会魔法吧 by DJ小鱼儿
 
 - 2022-03-10 21:10:50 回顾了一下之前写的文章, 有记录的感觉真好
