@@ -3,8 +3,9 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
-- 2022-03-11 23:38:57 "大部分人无意制造垃圾，但是受限于技能，却在一直制造垃圾。" --- https://mednoter.com/nothing-happens.html
+- 2022-03-11 23:49:52 停止抱怨。抱怨无用，且给人留下眼高手低的坏印象。
 
+- 2022-03-11 23:38:57 "大部分人无意制造垃圾，但是受限于技能，却在一直制造垃圾。" --- https://mednoter.com/nothing-happens.html
 
 - 2022-03-11 23:32:21 [吕小荣的FAQ](https://mednoter.com/FAQ.html)
 
