@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-11 23:38:57 "大部分人无意制造垃圾，但是受限于技能，却在一直制造垃圾。" --- https://mednoter.com/nothing-happens.html
+
 - 2022-03-11 23:32:21 [吕小荣的FAQ](https://mednoter.com/FAQ.html)
 
 - 2022-03-11 23:26:38 要对自己有信心
