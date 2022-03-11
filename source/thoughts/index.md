@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-11 23:15:45 西单外婆家 和各位大哥吃饭聊天轧马路, 非常开心
+
 - 2022-03-11 08:28:23 榜样 [吕小荣的博客文章: 我和妻子教育孩子的约定](https://mednoter.com/rules-to-shepherding-the-heart-of-child.html)
 
 - 2022-03-10 23:28:37 word: havoc浩劫/毁灭
