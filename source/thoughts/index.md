@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-12 23:12:34 It's called WAR, you feel it?! --- FURY 01:14:00 Emma died.
+
 - 2022-03-12 09:49:32 megaease科技感十足 --- https://www.megaease.com/products/
 
 - 2022-03-12 09:38:57 了解到一个小玩意儿: Year Progress Bar
