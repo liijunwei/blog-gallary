@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-13 16:43:11 "但请求的核心不在表达方式，而是允许别人拒绝，不强人所难。当别人知道拒绝我不需要承担任何代价时，他们就会相信我真的是在请求。" --- https://mednoter.com/please.html   是时候再读一遍《非暴力沟通》了
+
 - 2022-03-13 16:42:24 -
 
 - 2022-03-13 16:15:21 [我们为什么害怕学习？](https://www.yangzhiping.com/psy/why-do-not-students-like-school.html)
