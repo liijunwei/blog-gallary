@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-13 16:12:51 想明白, 写下来, 讲出去
+
 - 2022-03-13 16:10:29 "他的每篇文章都值得读100遍" https://www.yangzhiping.com/ https://mednoter.com/dirty-tips-about-learn.html
 
 - 2022-03-13 12:26:51 北京通挺好用
