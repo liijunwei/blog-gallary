@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-13 18:58:39 从 https://workingwithruby.com/wwup/resque/#forking-for-memory-management 学了一些unix编程需要的必要知识, 然后从recque worker的入口lib/resque/worker.rb@work 读了一遍, 很清晰, 舒服了...
+
 - 2022-03-13 18:54:27 源代码里 没什么魔法, 观察到了一些抽象和封装, 一些做事的不同方法
 
 - 2022-03-13 16:49:28 [程序员如何工作到60岁？](https://mednoter.com/what-happens-to-a-programmer-as-he-gets-older.html)  要对钱敏感, 要对自己认知加深, 要破除幻觉, 要小心盲目乐观和自信
