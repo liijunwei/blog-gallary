@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-13 16:42:24 -
+
 - 2022-03-13 16:15:21 [我们为什么害怕学习？](https://www.yangzhiping.com/psy/why-do-not-students-like-school.html)
 
 - 2022-03-13 16:12:51 想明白, 写下来, 讲出去
