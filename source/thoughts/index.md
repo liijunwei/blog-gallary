@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-14 01:12:53 restclient没人维护了啊...
+
 - 2022-03-13 19:02:07 感想: 读源码前需要做好这几点功课 1. 源码对应的核心功能是什么(一定要找到入口, 从入口开始读) 2. 必要的语言知识 3. 必要的系统知识(比如读Resque源码前得明白fork) 4. 先读完主流程, 小心被细枝末节带偏
 
 - 2022-03-13 18:58:39 从 https://workingwithruby.com/wwup/resque/#forking-for-memory-management 学了一些unix编程需要的必要知识, 然后从recque worker的入口lib/resque/worker.rb@work 读了一遍, 很清晰, 舒服了...
