@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-14 11:40:30 Sequal Pro 很好用, 为啥要用Navicat呢? 优势是啥?
+
 - 2022-03-14 09:46:25 data visualization util: https://datavizproject.com/
 
 - 2022-03-14 01:16:18 Nice View: https://abrody.com/
