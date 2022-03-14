@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-14 09:46:25 data visualization util: https://datavizproject.com/
+
 - 2022-03-14 01:16:18 Nice View: https://abrody.com/
 
 - 2022-03-14 01:12:53 restclient没人维护了啊...
