@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-15 23:50:00 keep it simple and functioning
+
 - 2022-03-15 22:26:44 tutorials: https://github.com/wangdoc
 
 - 2022-03-15 22:25:30 TODO read: 《悲观者往往正确，乐观者往往成功》
