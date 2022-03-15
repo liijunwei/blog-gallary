@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-16 00:07:37 读完了 [Working With Unix Processes](https://workingwithruby.com/wwup/intro) 再读 [spyglass的代码](https://github.com/d-bot/spyglass)不要太过瘾
+
 - 2022-03-15 23:50:00 keep it simple and functioning
 
 - 2022-03-15 22:26:44 tutorials: https://github.com/wangdoc
