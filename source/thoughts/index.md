@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-15 10:21:42 fail fast when possible and acceptable.
+
 - 2022-03-14 23:25:22 昨天还在犹豫 三块广告牌 有没有必要再看一遍, 今天听到音乐, 我知道我出不去了
 
 - 2022-03-14 11:40:30 Sequal Pro 很好用, 为啥要用Navicat呢? 优势是啥?
