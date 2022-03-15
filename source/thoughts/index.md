@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-15 15:55:01 我可以反复听的歌单 https://i.y.qq.com/n2/m/share/details/taoge.html?id=8396798815
+
 - 2022-03-15 10:21:42 fail fast when possible and acceptable.
 
 - 2022-03-14 23:25:22 昨天还在犹豫 三块广告牌 有没有必要再看一遍, 今天听到音乐, 我知道我出不去了
