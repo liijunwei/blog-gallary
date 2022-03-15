@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-15 22:25:30 TODO read: 《悲观者往往正确，乐观者往往成功》
+
 - 2022-03-15 15:55:01 我可以反复听的歌单 https://i.y.qq.com/n2/m/share/details/taoge.html?id=8396798815
 
 - 2022-03-15 10:21:42 fail fast when possible and acceptable.
