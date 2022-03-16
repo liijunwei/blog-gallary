@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-16 08:47:06 "The rule about doing what you love assumes a certain length of time. It doesn't mean, do what will make you happiest this second, but what will make you happiest over some longer period, like a week or a month." --- http://www.paulgraham.com/love.html
+
 - 2022-03-16 08:45:34 word: perplex困扰
 
 - 2022-03-16 08:43:52 "If you think something's supposed to hurt, you're less likely to notice if you're doing it wrong." --- http://www.paulgraham.com/love.html
