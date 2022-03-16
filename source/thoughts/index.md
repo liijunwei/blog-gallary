@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-16 21:53:04 bug one if need(to myself): https://sandimetz.com/products
+
 - 2022-03-16 21:36:56 有空读读: https://lkml.org/
 
 - 2022-03-16 20:59:17 回顾了一下2018年和2019年的照片, 果然时间过得快起来了
