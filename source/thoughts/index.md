@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-16 08:43:52 "If you think something's supposed to hurt, you're less likely to notice if you're doing it wrong." --- http://www.paulgraham.com/love.html
+
 - 2022-03-16 08:28:20 好久没被噩梦惊醒过了
 
 - 2022-03-16 00:11:47 读代码一定要能找到核心代码, 抓住核心才不会被带偏, 才能真正获得读代码带来的价值
