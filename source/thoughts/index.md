@@ -3,7 +3,7 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
-- 2022-03-16 21:53:04 bug one if need(to myself): https://sandimetz.com/products
+- 2022-03-16 21:53:04 bug one if needed(to myself): https://sandimetz.com/products
 
 - 2022-03-16 21:36:56 有空读读: https://lkml.org/
 
