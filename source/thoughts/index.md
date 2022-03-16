@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-16 20:59:17 回顾了一下2018年和2019年的照片, 果然时间过得快起来了
+
 - 2022-03-16 15:09:47 看大佬吵架也能学东西... https://github.com/javan/whenever/pull/804
 
 - 2022-03-16 08:47:06 "The rule about doing what you love assumes a certain length of time. It doesn't mean, do what will make you happiest this second, but what will make you happiest over some longer period, like a week or a month." --- http://www.paulgraham.com/love.html
