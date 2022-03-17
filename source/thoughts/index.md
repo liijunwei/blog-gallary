@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-17 22:58:48 学到两个表达: xxx is having an incident; xxx is having a service outage;
+
 - 2022-03-17 22:38:26 GitHub出问题了 https://www.githubstatus.com/
 
 - 2022-03-17 21:55:04 fun with ruby2d: https://github.com/tiagopog/flappy_bird
