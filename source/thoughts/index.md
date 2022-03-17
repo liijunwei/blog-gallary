@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-17 18:07:34 稳重
+
 - 2022-03-17 07:51:47 马总推荐好物: 水牙线 莱泽曼（LEATHERMAN）
 
 - 2022-03-16 22:09:14 "DRYing out code inserts a level of indirection between the place that uses behavior and the place that defines it." --- 99 bottles of OOP chapter 1
