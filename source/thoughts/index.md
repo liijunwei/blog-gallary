@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-18 23:15:30 入手了一台ipad air, 读书和看视频😊
+
 - 2022-03-18 14:09:09 graceful shutdown
 
 - 2022-03-18 08:24:26 go to forked repo main page -> Fetch Upstream
