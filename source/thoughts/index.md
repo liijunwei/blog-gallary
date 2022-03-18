@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-18 08:24:26 go to forked repo main page -> Fetch Upstream
+
 - 2022-03-17 23:47:25 unix socket 和 tcp socket 是两回事儿, 我是怎么搞混的...
 
 - 2022-03-17 23:36:32 util: [ruby api](https://rubyapi.org/)
