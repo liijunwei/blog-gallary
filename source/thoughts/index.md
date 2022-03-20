@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-20 22:54:57 我还差得远
+
 - 2022-03-20 17:33:54 mbp + ipad sidebar有点意思
 
 - 2022-03-19 16:55:03 rsync: https://wangdoc.com/ssh/rsync.html
