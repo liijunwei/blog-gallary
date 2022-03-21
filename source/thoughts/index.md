@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-21 14:29:28 next_migration_number
+
 - 2022-03-21 09:30:46 "A major difference between 32-bit processors and 64-bit processors is the number of calculations per second they can perform, which affects the speed at which they can complete tasks." --- https://www.geeksforgeeks.org/difference-32-bit-64-bit-operating-systems/
 
 - 2022-03-20 23:10:17 说坏话没有任何好处, 切记
