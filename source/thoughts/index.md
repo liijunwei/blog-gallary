@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-22 19:13:48 read: https://github.com/kamranahmedse/developer-roadmap
+
 - 2022-03-22 13:55:20 util: http://httpbin.org/
 
 - 2022-03-22 10:10:28 "They’ve figured it all out already."
