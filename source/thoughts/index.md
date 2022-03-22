@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-22 09:49:28  In the ANSI standard, everybody agreed on what to do below 128, which was pretty much the same as ASCII, but there were lots of different ways to handle the characters from 128 and on up, depending on where you lived. 
+
 - 2022-03-21 22:39:39 deepwater horizon 好片
 
 - 2022-03-21 14:29:28 next_migration_number
