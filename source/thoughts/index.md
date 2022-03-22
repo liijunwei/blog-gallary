@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-22 19:57:39 "得心应手"
+
 - 2022-03-22 19:15:22 fun: https://roadmap.sh/
 
 - 2022-03-22 19:13:48 read: https://github.com/kamranahmedse/developer-roadmap
