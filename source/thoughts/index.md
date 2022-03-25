@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-25 13:52:56 It's The Rick Dance~
+
 - 2022-03-25 08:23:28 给小猫换猫粮要一点点换, 不然不适应的话会拉肚子
 
 - 2022-03-24 23:21:12 RFC: JSON(https://datatracker.ietf.org/doc/html/rfc8259)
