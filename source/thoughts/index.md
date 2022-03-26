@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-26 12:33:02 Live with it.
+
 - 2022-03-25 22:47:39 Nice: [update-all-codebases](https://github.com/liijunwei/custom-omz-plugins/blob/main/git-ljw/git-update-codebases.sh)
 
 - 2022-03-25 13:52:56 It's The Rick Dance~
