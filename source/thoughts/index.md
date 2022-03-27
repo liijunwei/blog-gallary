@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-27 11:44:49 刺激遗忘曲线,加深对异常捕获的理解: http://xiewenwei.github.io/blog/2016/02/21/how-to-rescue-exception-in-ruby/
+
 - 2022-03-27 11:42:45 blog: http://xiewenwei.github.io/
 
 - 2022-03-27 11:14:55 book resources: https://www.yuque.com/ruanyf/books/wq85tm
