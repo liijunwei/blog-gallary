@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-27 11:14:55 book resources: https://www.yuque.com/ruanyf/books/wq85tm
+
 - 2022-03-27 11:02:28 [Ruby 在走下坡路吗？Ruby 程序员该何去何从？ --- By https://ruby-china.org/vincent](https://boohee-py1w5d.yuque.com/docs/share/62d11907-4a21-41a4-9e56-0795d7c0f018?)
 
 - 2022-03-26 12:33:02 Live with it.
