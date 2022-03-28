@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-28 21:25:48 [In computer science, marshalling is the process of transforming the memory representation of an object into a data format suitable for storage or transmission.](https://en.wikipedia.org/wiki/Marshalling_(computer_science))
+
 - 2022-03-28 13:34:08 "对生活要降低预期，不顺利乃是常态。"
 
 - 2022-03-27 17:17:56 curl cht.sh/ 
