@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-28 23:15:27 "Note that documentation will treat you like a developer who has passed the inflection point. " --- http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/
+
 - 2022-03-28 22:39:07 "True confidence comes from struggling through a problem you have no idea how to solve, and discovering a solution on your own." --- http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/
 
 - 2022-03-28 21:25:48 [In computer science, marshalling is the process of transforming the memory representation of an object into a data format suitable for storage or transmission.](https://en.wikipedia.org/wiki/Marshalling_(computer_science))
