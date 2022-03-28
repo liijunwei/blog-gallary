@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-28 13:34:08 "对生活要降低预期，不顺利乃是常态。"
+
 - 2022-03-27 17:17:56 curl cht.sh/ 
 
 - 2022-03-27 11:54:11 ["to_s 是对象的字符串表示, inspect 是对象状态的表示"](http://xiewenwei.github.io/blog/2012/07/02/ruby-p-vs-puts/)
