@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-30 00:07:43 https://www.youtube.com/watch?v=dHN_tlBEt2c
+
 - 2022-03-29 16:24:32 来学单词... https://favicon.io/emoji-favicons/
 
 - 2022-03-29 13:52:59 "The goal of REST is to increase performance, scalability, simplicity, modifiability, visibility, portability, and reliability. " --- https://en.wikipedia.org/wiki/Representational_state_transfer   一波学到一堆名词
