@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-29 08:45:16 Question: Is there *broken link* check tool?
+
 - 2022-03-29 08:37:01 runs the risk of corruption
 
 - 2022-03-29 08:25:34 机会: https://jinshuju.net/f/tITdGW
