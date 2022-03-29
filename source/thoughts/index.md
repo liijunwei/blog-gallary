@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-29 08:37:01 runs the risk of corruption
+
 - 2022-03-29 08:25:34 机会: https://jinshuju.net/f/tITdGW
 
 - 2022-03-29 08:07:37 ["不敢表达是这个世界上最愚蠢的事情之一"](https://youtu.be/JGHTcNmCcLU?t=499)
