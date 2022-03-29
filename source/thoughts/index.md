@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-03-29 11:53:37 体重降到了70以下 哈哈哈哈哈 我真行
+
 - 2022-03-29 08:53:55 Good stuff: https://github.com/sindresorhus/awesome#readme
 
 - 2022-03-29 08:45:16 Question: Is there *broken link* check tool?
