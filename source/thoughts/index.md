@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-01 16:04:38 Your job gives you authority. Your behavior gives you respect.
+
 - 2022-04-01 13:28:26 Million-Copy Bestceller: "mindset - changing the way you think to fulfil your potential" recommended by wenhui
 
 - 2022-03-30 16:24:37 fun: file --mime-encoding *
