@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-02 11:25:04 rspec postgresql event-sourcing english, gogogo
+
 - 2022-04-02 11:24:34 有记录可回顾的感觉真是太好了
 
 - 2022-04-01 23:50:49 "keep the code releasable"
