@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-03 09:56:54 准备健身
+
 - 2022-04-02 11:25:46 多复习 多回顾 尊重遗忘曲线
 
 - 2022-04-02 11:25:04 rspec postgresql event-sourcing english, gogogo
