@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-03 23:53:05 理完发真帅 嘿嘿嘿
+
 - 2022-04-03 15:48:31 fun stuff: https://dry-rb.org/
 
 - 2022-04-03 12:05:06 about remote work: https://ruby-china.org/topics/42268#reply2
