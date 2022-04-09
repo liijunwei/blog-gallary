@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-09 15:54:37 "Primitive Obsession is when you use one of these data classes to represent a concept in your domain. Obsessing on a primitive results in code that passes built-in types around, and supplies behavior for them." 99 Bottles of OOP Chapter 5-2
+
 - 2022-04-09 15:15:58 人应该: 勤奋/诚实/认真. --- From 南京李志 (https://mp.weixin.qq.com/s/r9B1Tu0hVfKamcXrwjVOiQ)
 
 - 2022-04-09 14:49:23 数据单向流动很重要, 要有这种做事的思路
