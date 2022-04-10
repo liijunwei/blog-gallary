@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-10 22:11:41 不对的状态快走开
+
 - 2022-04-10 12:07:09 read / work / build / live / loop
 
 - 2022-04-09 15:54:37 "Primitive Obsession is when you use one of these data classes to represent a concept in your domain. Obsessing on a primitive results in code that passes built-in types around, and supplies behavior for them." 99 Bottles of OOP Chapter 5-2
