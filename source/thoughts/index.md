@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-11 22:05:26 "Expect the output of every program to become the input to another, as yet unknown, program. Don't clutter output with extraneous information. Avoid stringently columnar or binary input formats. Don't insist on interactive input." --- https://www.youtube.com/watch?v=1ILEw6Qca3U
+
 - 2022-04-11 22:01:56 good stuff: http://www.faqs.org/faqs/
 
 - 2022-04-11 21:52:53 TODO 找时间读读巨佬的文章: https://martinfowler.com/aboutMe.html
