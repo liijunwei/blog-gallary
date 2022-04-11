@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-11 22:42:04 asdf真好用, 之前好像被nvm和rvm蒙蔽了双眼
+
 - 2022-04-11 22:05:26 "Expect the output of every program to become the input to another, as yet unknown, program. Don't clutter output with extraneous information. Avoid stringently columnar or binary input formats. Don't insist on interactive input." --- https://www.youtube.com/watch?v=1ILEw6Qca3U
 
 - 2022-04-11 22:01:56 good stuff: http://www.faqs.org/faqs/
