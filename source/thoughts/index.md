@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-11 23:11:46 talk's slide: https://speakerdeck.com/davetron5000/build-awesome-command-line-applications-with-ruby?slide=4
+
 - 2022-04-11 22:44:08 worth watching: https://www.youtube.com/watch?v=1ILEw6Qca3U
 
 - 2022-04-11 22:42:04 asdf真好用, 之前好像被nvm和rvm蒙蔽了双眼
