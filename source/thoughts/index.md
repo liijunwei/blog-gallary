@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-11 22:01:56 good stuff: http://www.faqs.org/faqs/
+
 - 2022-04-11 21:52:53 TODO 找时间读读巨佬的文章: https://martinfowler.com/aboutMe.html
 
 - 2022-04-11 21:49:15 github新来了个follwer, 点过去一看, 好家伙, 这个印度兄弟follow了13.8k人, 乖乖
