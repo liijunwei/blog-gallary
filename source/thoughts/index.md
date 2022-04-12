@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-13 00:38:15 实践出真知
+
 - 2022-04-13 00:02:51 Rename: "AUTO COMMIT." -> "Commit automatically."
 
 - 2022-04-13 00:00:11 TODO write ruby cmdline application with [bundle gem foobar](https://bundler.io/v2.3/guides/creating_gem.html)
