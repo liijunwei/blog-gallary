@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-13 00:02:51 Rename: "AUTO COMMIT." -> "Commit automatically."
+
 - 2022-04-13 00:00:11 TODO write ruby cmdline application with [bundle gem foobar](https://bundler.io/v2.3/guides/creating_gem.html)
 
 - 2022-04-12 23:44:45 asdf 这么好的工具, 竟然才开始用, 太怪了
