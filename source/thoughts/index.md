@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-12 23:41:53 今天在公司share的电子书里看到了 99 bottles of OOP 的完全体, 真好
+
 - 2022-04-11 23:11:46 talk's slide: https://speakerdeck.com/davetron5000/build-awesome-command-line-applications-with-ruby?slide=4
 
 - 2022-04-11 22:44:08 worth watching: https://www.youtube.com/watch?v=1ILEw6Qca3U
