@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-13 00:00:11 TODO write ruby cmdline application with [bundle gem foobar](https://bundler.io/v2.3/guides/creating_gem.html)
+
 - 2022-04-12 23:44:45 asdf 这么好的工具, 竟然才开始用, 太怪了
 
 - 2022-04-12 23:41:53 今天在公司share的电子书里看到了 99 bottles of OOP 的完全体, 真好
