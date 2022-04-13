@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-13 08:45:21 问题: 命令行工具, 应该在全局生效(login session)还是在某些领域(workding directory)生效?
+
 - 2022-04-13 00:38:15 实践出真知
 
 - 2022-04-13 00:02:51 Rename: "AUTO COMMIT." -> "Commit automatically."
