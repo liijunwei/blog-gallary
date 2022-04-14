@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-15 07:57:17 [Using GNU Stow to manage your dotfiles](http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html) By Brandon Invergo
+
 - 2022-04-15 07:56:20 GNU Stow: https://www.gnu.org/software/stow/
 
 - 2022-04-15 00:30:20 Unexpected sharing section LOL
