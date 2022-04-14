@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-15 00:30:20 Unexpected sharing section LOL
+
 - 2022-04-13 23:19:52 Done migration from custom-omz-plugins to omz-git/omz-thought/omz-misc. What a relief😊
 
 - 2022-04-13 22:51:34 Simple, Elegant, Flexible, Nothing...
