@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-18 00:12:10 "Make the changes easy(warning: this may be hard), then make the easy change" --- Kent Beck
+
 - 2022-04-17 22:58:38 "a sense of deja vu"
 
 - 2022-04-17 22:39:11 心理很难调整身体, 但是身体却很容易带动心态转变
