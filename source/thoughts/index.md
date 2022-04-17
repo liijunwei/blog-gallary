@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-17 22:39:11 心理很难调整身体, 但是身体却很容易带动心态转变
+
 - 2022-04-16 11:54:58 妙啊 OOP
 
 - 2022-04-16 08:56:37 Come on morty, Please morty, you have to do it morty. S01E01
