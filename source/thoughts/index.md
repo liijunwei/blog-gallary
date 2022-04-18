@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-18 23:31:17 ["make your program output grepable/cutable, use standard exit codes, stderr and stdout for your command line application"](https://youtu.be/1ILEw6Qca3U?t=444)
+
 - 2022-04-18 23:02:46 [这些事看起来都很有趣, 我可能永远追不上, 但是这是榜样, 小李加油](https://ruby.sadi.st/About_Us.html)
 
 - 2022-04-18 08:01:56 处于困难外的我, 看到这里才意识到问题的严重性... https://github.com/R-r-riddikulus/riddikulus-shanghai-2022
