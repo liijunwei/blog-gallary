@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-18 08:01:56 处于困难外的我, 看到这里才意识到问题的严重性... https://github.com/R-r-riddikulus/riddikulus-shanghai-2022
+
 - 2022-04-18 00:12:10 "Make the changes easy(warning: this may be hard), then make the easy change" --- Kent Beck
 
 - 2022-04-17 22:58:38 "a sense of deja vu"
