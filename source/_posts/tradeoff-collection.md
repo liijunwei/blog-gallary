@@ -3,6 +3,7 @@ title: Tradeoff Collection
 date: 2022-01-29 00:01:46
 tags:
   - art
+  - tradeoff
 ---
 
 > I observed a lot of trade-offs.
@@ -22,5 +23,9 @@ hint from "99-bottles-of-oop"
 + abstraction -> changeability(hard to understand)
 + concrete -> easy to read(hard to change)
 
-### TODO
+### Security | Effiency Tradeoff
+
+cryptography
+
++ The more complex the encryption algorithm is, the more secure it will be, while it'll take more time to encrypt/dencrypt
 
