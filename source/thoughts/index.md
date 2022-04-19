@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-19 23:16:33 linux: `mktemp` | ruby:  `Tempfile.create`
+
 - 2022-04-19 23:16:06 I don't need dual monitor, I need a big/wide monitor!!!
 
 - 2022-04-18 23:31:17 ["make your program output grepable/cutable, use standard exit codes, stderr and stdout for your command line application"](https://youtu.be/1ILEw6Qca3U?t=444)
