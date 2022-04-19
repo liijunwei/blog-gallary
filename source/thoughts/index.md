@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-20 00:02:50 good stuff: https://github.com/red-data-tools/YouPlot
+
 - 2022-04-19 23:56:34 写命令行工具时, 翻出unix哲学看看, 受益匪浅, 比如写输出到stdout, 而不是输出到文件, 想输出到文件时, 使用重定向来实现; 比如使输出变得 grepable/cutable
 
 - 2022-04-19 23:17:02 fn to open emoji on mbp
