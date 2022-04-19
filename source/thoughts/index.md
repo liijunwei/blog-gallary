@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-19 23:17:02 fn to open emoji on mbp
+
 - 2022-04-19 23:16:33 linux: `mktemp` | ruby:  `Tempfile.create`
 
 - 2022-04-19 23:16:06 I don't need dual monitor, I need a big/wide monitor!!!
