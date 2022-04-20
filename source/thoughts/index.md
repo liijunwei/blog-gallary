@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-20 23:18:00 [register 这玩意儿在自己实现过之前就是魔法啊...](https://github.com/liijunwei/practice/commit/869bf59320ccbbc87a38ebf0582d3310dc98b272#diff-5d4f815a2e5b24b72384c2d206bf2598bc39a3488fd82bf19a1371d3c0d02ddf)
+
 - 2022-04-20 19:21:52 第一次最难, 之后就好了
 
 - 2022-04-20 09:20:46 migration is dangerous, get well prepared
