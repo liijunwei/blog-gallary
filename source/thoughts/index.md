@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-20 19:21:52 第一次最难, 之后就好了
+
 - 2022-04-20 09:20:46 migration is dangerous, get well prepared
 
 - 2022-04-20 09:07:06 good notes: https://github.com/marina-ferreira/99_bottles_of_oop
