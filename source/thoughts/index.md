@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-20 09:20:46 migration is dangerous, get well prepared
+
 - 2022-04-20 09:07:06 good notes: https://github.com/marina-ferreira/99_bottles_of_oop
 
 - 2022-04-20 08:37:09 钱钟书的《围城》和歌德的《亲和力》都是隔一段时间再读, 会有新意味的书😊
