@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-21 23:53:26 fun: [Kids' Amusements](http://www.cuug.ab.ca/dewara/kids.html)
+
 - 2022-04-21 23:44:27 game of life: http://www.cuug.ab.ca/dewara/life/life.html
 
 - 2022-04-21 22:50:28 "Programmers add blank lines to indicate changes of topic, and changes of topic suggest multiple responsibilities. Blank lines smell." --- "99 Bottles Beer Ch8-1"
