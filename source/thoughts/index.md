@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-21 21:52:22 TODO TDD+GameOfLife+graph-engine
+
 - 2022-04-21 21:51:51 TODO racing bar + git-commit-analyser + time-serice-data driven
 
 - 2022-04-20 23:34:29 一致性 很重要, 不一定要强一致性, 但得有一致性, 不然会有冲突, 会有分裂, 会很痛苦, 或者不自在
