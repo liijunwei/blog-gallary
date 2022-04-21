@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-21 23:58:29 This game makes me feel like I am a madman🤣: http://www.cuug.ab.ca/dewara/eliza/eliza.html
+
 - 2022-04-21 23:53:26 fun: [Kids' Amusements](http://www.cuug.ab.ca/dewara/kids.html)
 
 - 2022-04-21 23:44:27 game of life: http://www.cuug.ab.ca/dewara/life/life.html
