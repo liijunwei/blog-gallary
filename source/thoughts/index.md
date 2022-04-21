@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-21 22:50:28 "Programmers add blank lines to indicate changes of topic, and changes of topic suggest multiple responsibilities. Blank lines smell." --- "99 Bottles Beer Ch8-1"
+
 - 2022-04-21 21:52:22 TODO TDD+GameOfLife+graph-engine
 
 - 2022-04-21 21:51:51 TODO racing bar + git-commit-analyser + time-serice-data driven
