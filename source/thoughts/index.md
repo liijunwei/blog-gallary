@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-22 23:32:23 God, I'm good at duplication in sublime hhh
+
 - 2022-04-22 23:32:22 Good documentation on rspec: https://www.betterspecs.org/
 
 - 2022-04-22 23:32:11 Good tool for git branch syncing: https://pypi.org/project/git-up/
