@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-22 23:36:46 source code is uncountable, so avoid using "codes"
+
 - 2022-04-22 23:36:00 Simplicity is the extreme end of complexity, Minimalism is unreachable
 
 - 2022-04-22 23:33:12 roadmap: self-written-script-syncing-branch -> git-up(Yachi) -> grit(gem) -> rugged(gem) -> libgit2(github)
