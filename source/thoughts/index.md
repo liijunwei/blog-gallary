@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-22 23:32:41 有问题及时问清楚， 效率最高
+
 - 2022-04-22 23:32:32 Testing is a good practice, but if you do not test the edge cases, it will not be useful. Test valid, edge and invalid case. --- https://www.betterspecs.org/
 
 - 2022-04-22 23:32:23 God, I'm good at duplication in sublime hhh
