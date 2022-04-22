@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-22 09:27:02 诱惑太多啦
+
 - 2022-04-22 09:13:10 https://ruby-china.org/topics/42333
 
 - 2022-04-21 23:58:29 This game makes me feel like I am a madman🤣: http://www.cuug.ab.ca/dewara/eliza/eliza.html
