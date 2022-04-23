@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-23 08:23:47 2022: year of review
+
 - 2022-04-22 23:53:01 [awesome enough?](https://github.com/geekan/awesome-awesome-awesome)
 
 - 2022-04-22 23:36:46 source code is uncountable, so avoid using "codes"
