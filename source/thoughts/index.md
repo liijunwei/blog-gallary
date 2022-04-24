@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-24 23:28:26 This is not right
+
 - 2022-04-23 08:24:46 "what is your nerd path?" --- https://alphalist.com/podcast/49-mike-perham-creator-of-sidekiq-faktory
 
 - 2022-04-23 08:23:47 2022: year of review
