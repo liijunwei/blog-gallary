@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-25 09:10:34 应该有这样一个列表, 里面记录了所有我觉得应该少做, 甚至不做的事, 定期添加/回顾和反思
+
 - 2022-04-24 23:28:26 This is not right
 
 - 2022-04-23 08:24:46 "what is your nerd path?" --- https://alphalist.com/podcast/49-mike-perham-creator-of-sidekiq-faktory
