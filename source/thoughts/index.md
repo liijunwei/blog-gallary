@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-28 09:02:42 梦醒后向找老朋友聊天
+
 - 2022-04-27 08:36:05 tool for git: https://github.com/dandavison/delta
 
 - 2022-04-26 22:41:02 [Writing a Ruby Gem With C Extension](http://chris911.github.io/blog/2014/08/10/writing-a-ruby-gem-with-c-extension/)
