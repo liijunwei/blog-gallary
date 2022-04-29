@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-30 00:49:54 最近用微信听书回顾了一遍钱钟书先生的 围城, 好书耐看呐
+
 - 2022-04-30 00:46:46 花里胡哨........... https://www.toptal.com/ruby/ruby-dsl-metaprogramming-guide
 
 - 2022-04-28 22:43:47 it's not a matter of whether private github repo is safe, it's data will leak
