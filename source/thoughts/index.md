@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-30 12:29:16 Your code should not know it'll be tested(no conditions on wheter it's a test mode), meanwhile it should be testable
+
 - 2022-04-30 12:23:11 "把事情交给别人前, 一定要把事情 定义清楚, 简化好, 不然事情只会越做越歪; 如果我们自己都想不清楚, 交出去以后, 别人就更不可能做得好了"
 
 - 2022-04-30 12:22:11 LoD 只关心和你直接相关的东西
