@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-30 09:16:59 YAGNI (You Aren’t Going To Need It) --- https://codeclimate.com/blog/why-ruby-class-methods-resist-refactoring/
+
 - 2022-04-30 09:15:28 之前以为用ruby的人叫做 Rubyist, 直到昨天看到另一种叫法 Rubyer, 哈哈哈哈哈哈哈
 
 - 2022-04-30 00:50:21 最近听了一门密码学课程, 贴合工作主题
