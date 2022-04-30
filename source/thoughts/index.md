@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-30 20:43:25 good doc: [gnu coreutils](https://www.gnu.org/software/coreutils/manual/coreutils.html)
+
 - 2022-04-30 20:35:51 发现一个yes to everything的gnu工具.... [yes | sudo apt-get install fortune-mod](https://www.howtogeek.com/415535/how-to-use-the-yes-command-on-linux/) [gun-yes](https://www.gnu.org/software/coreutils/manual/coreutils.html#yes-invocation)
 
 - 2022-04-30 20:26:15 The rc at the end of a file(.bashrc .zshrc .vimrc .irbrc .pryrc...) is related to the phrase "run commands"
