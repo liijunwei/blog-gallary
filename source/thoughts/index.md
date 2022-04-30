@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-30 20:23:55 good doc: https://www.gnu.org/software/coreutils/manual/
+
 - 2022-04-30 20:21:17 ruby 和 bash里 都有内置的 timeout机制, 写工具和写代码的时候都要注意考虑超时问题
 
 - 2022-04-30 20:12:23 无意间闯入了 infinity blade 的 discord channel 很有趣啊
