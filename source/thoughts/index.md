@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-30 19:27:16 "别人的缺点和你没关系"
+
 - 2022-04-30 19:25:55 要直面问题
 
 - 2022-04-30 12:29:16 Your code should not know it'll be tested(no conditions on wheter it's a test mode), meanwhile it should be testable
