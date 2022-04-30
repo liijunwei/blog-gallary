@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-30 12:12:06 notebook里有个[向大家学习learn.everyone]的目录, 应该时常回顾, 才会真的有效, 否则就是左耳朵进, 右耳朵出
+
 - 2022-04-30 09:57:47 为啥我的小猫在床上老是蹲着 而不是舒服的躺着
 
 - 2022-04-30 09:23:33 good article: [Why Ruby Class Methods Resist Refactoring](https://codeclimate.com/blog/why-ruby-class-methods-resist-refactoring/)
