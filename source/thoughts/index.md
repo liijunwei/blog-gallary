@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-04-30 09:57:47 为啥我的小猫在床上老是蹲着 而不是舒服的躺着
+
 - 2022-04-30 09:23:33 good article: [Why Ruby Class Methods Resist Refactoring](https://codeclimate.com/blog/why-ruby-class-methods-resist-refactoring/)
 
 - 2022-04-30 09:20:39 ["Optimizing object creation to lessen the stress on the Ruby garbage collector is a legitimate technique, but do it where it counts. You can only find out where it counts by measuring. It’s inconceivable that the single additional object that the instance variant creates will have a measurable impact on the performance of your system."](https://codeclimate.com/blog/why-ruby-class-methods-resist-refactoring/)
