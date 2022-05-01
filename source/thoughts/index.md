@@ -3,7 +3,7 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
-- 2022-05-01 19:10:25 0
+- 2022-05-01 19:10:31 借助[这个js脚本](https://zhuanlan.zhihu.com/p/396861814)把bilibili上900多个关注的up主清理了一下, 减少到120个; 发现后来怎么回事, 关注的up主都不是那种能长期看的... 标准低了... 还要就是,js这玩意儿竟然用的这么不顺手, 得多练练
 
 - 2022-04-30 20:43:25 good doc: [gnu coreutils](https://www.gnu.org/software/coreutils/manual/coreutils.html)
 
