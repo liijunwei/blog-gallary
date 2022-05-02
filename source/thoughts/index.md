@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-02 10:53:53 用刷子给门栓上了一点食物油, 开关门时的吱吱声消失了, 舒服~
+
 - 2022-05-02 10:53:08 读懂了[redis_scanner](https://github.com/xiewenwei/redis_scanner)的核心代码, 但是距离自己实现这样的工具 还有点距离, 加油
 
 - 2022-05-02 09:17:10 too abstract to understand for me...
