@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-02 09:17:10 too abstract to understand for me...
+
 - 2022-05-01 23:01:01 关注 的意思是说, 要时常翻出来看看; 不该无止境的寻求新的东西
 
 - 2022-05-01 23:00:24 Single source of truth
