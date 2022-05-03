@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-03 11:31:31 keyword: github + awesome
+
 - 2022-05-02 13:08:42 ["You can learn a lot by looking at how other people set up their dotfiles."](https://dotfiles.github.io/inspiration/)
 
 - 2022-05-02 12:55:20 [General-purpose dotfiles utilities](https://dotfiles.github.io/utilities/) This is wow. But my choice is just try GNU Stow or chezmoi(I choose GNU Stow)
