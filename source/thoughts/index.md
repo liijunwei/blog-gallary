@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-03 22:13:16 git - event sourcing
+
 - 2022-05-03 21:35:35 [macos Option+Click Everything](https://lifehacker.com/option-click-everything-15-os-x-tricks-enabled-with-th-1480673176)
 
 - 2022-05-03 11:31:31 keyword: github + awesome
