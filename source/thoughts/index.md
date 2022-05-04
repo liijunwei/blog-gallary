@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-04 23:36:16 "Hold high standards, but judge yourself gently." --- "99 bottles of OOP - afterwords"
+
 - 2022-05-04 23:17:16 多逛github trending, 多多学习
 
 - 2022-05-04 08:28:43 [design pattern --- command pattern](https://github.com/davidgf/design-patterns-in-ruby/blob/master/command.md)
