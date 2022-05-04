@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-04 23:40:23 读完啦, [99 Bottles of OOP](https://github.com/sandimetz/99bottles_ruby/tree/2.0-c9-revisit-tests-360) 2021-12-11 -> 2022-05-04 收获很多, 值得常常翻阅
+
 - 2022-05-04 23:36:16 "Hold high standards, but judge yourself gently." --- "99 bottles of OOP - afterwords"
 
 - 2022-05-04 23:17:16 多逛github trending, 多多学习
