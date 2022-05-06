@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-06 22:28:53 tool: [generates fake data](https://github.com/ffaker/ffaker/)
+
 - 2022-05-05 08:28:33 good article: [Unobtrusive Ruby](https://thoughtbot.com/blog/unobtrusive-ruby#take-objects-not-classes)
 
 - 2022-05-05 08:05:06 [美团技术团队blog](https://tech.meituan.com/)
