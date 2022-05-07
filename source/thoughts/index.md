@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-07 09:52:35 RTFM: RT(fucking|friendly|full)M
+
 - 2022-05-06 23:05:04 [honeybadger blog](https://www.honeybadger.io/blog/tags/ruby/)
 
 - 2022-05-06 22:28:53 tool: [generates fake data](https://github.com/ffaker/ffaker/)
