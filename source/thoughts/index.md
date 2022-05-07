@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-07 17:24:52 sublime settings: encoding related
+
 - 2022-05-07 17:24:38 sublime settings: control_character_style
 
 - 2022-05-07 16:52:08 `eureka` 从文件里找non-printable字符的通用方法 找到啦,就是 **regexp + POSIX Bracket Expressions**
