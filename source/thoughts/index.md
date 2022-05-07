@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-07 17:31:25 sublime 里面, "A null byte is a byte with the value zero, i.e. 0x00 in hex." 因此, 如果文件里包含了这种"null byte", 编辑器打开这个文件时, 会使用`hexadecimal`这种编码方式打开, 看到的就不是文本了, 文件也就被视为了二进制文件, 而非普通文本, 需要手动把encoding改为utf-8才能看到正常的文本 和一些奇怪的控制字符
+
 - 2022-05-07 17:24:52 sublime settings: encoding related
 
 - 2022-05-07 17:24:38 sublime settings: control_character_style
