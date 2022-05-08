@@ -64,6 +64,10 @@ tags:
 ### 感觉有价值的的参考资料
 
 + [Make awesome command line apps with ruby by Dave Copeland](https://www.youtube.com/watch?v=1ILEw6Qca3U&t=495s)
-
-
+    + 提醒我好的命令行工具需要学习"the unix way", 注意把自己的事做好, 注意和其他程序配合
+        + greable
+        + cutable
+        + exit
+        + messaging
++ 
 
