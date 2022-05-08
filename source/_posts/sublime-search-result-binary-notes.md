@@ -48,10 +48,10 @@ tags:
 + 过程中使用TDD简化了一些的设计, 清理了接口里不必要的东西, 拒绝了一些不必要的功能
     + [例子: 清理了接口里不需要返回的数据(filename)](https://github.com/liijunwei/char_detector/commit/68cccb818c6659f3043ccbc34c3df06ca3659edd)
     + [例子: 清理了测试用例里, 对匹配到的行里内容的断言](https://github.com/liijunwei/char_detector/commit/7c0fa5442233f795a5e7024817cc6abe78fc44a4)
-    + [例子: 拒绝扫描一个目录里所有的文件的feature, 借助 find命令和xargs或parallel命令实现](https://github.com/liijunwei/char_detector/issues/2)
+    + [例子: 拒绝扫描一个目录里所有的文件的feature, 借助 find命令和xargs或parallel命令实现](https://github.com/liijunwei/char_detector/commit/85cd8a24792ed5a7a9dedf5fac8db4aecf2cde97)
 + 虽然要实现的功能是很简单的, 但是沿途有太多的诱惑(实现其他功能, 实现得很复杂, 做点别的更有趣的事儿, 玩会儿游戏?), 让这个工具好用是要下功夫的
 + 之前读到过王垠的博客, 里面讲到 ["很多人以为看大型项目可以提升自己，而没有看到大型项目不过是几十行核心代码的扩展，很多部分是低水平重复。"](https://www.yinwang.org/blog-cn/2020/02/05/how-to-read-code), 这次有了实际的体会
-    + `CharDetector`这个应用很简单, 核心代码就只有10行左右, 它完成的事情很简单, 它的实现很简单, 这是它简单的方面
+    + `CharDetector`这个应用很简单, 核心代码就只有[10行左右](), 它完成的事情很简单, 它的实现很简单, 这是它简单的方面
     + 相应的, 他也有复杂的一面, 我理解的是:
         1. 从无到有是困难的
         2. 从无到有的过程中, 做得越多, 对问题越了解, 越接近最初的目标, 此时想法(idea)会源源不断的冒出来(昨晚甚至有点失眠...), 那些想法都是**诱惑**, 一不小心就会走偏, 没能做出最初想要的工具, 或者工具做的太复杂, *实现了臆想出的需求*...
