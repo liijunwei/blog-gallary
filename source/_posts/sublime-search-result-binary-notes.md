@@ -24,13 +24,13 @@ tags:
 
 ### 学习过程
 
-+ 遇到的问题: 之后这类的问题又遇到了几次, 但是这次文件很长, 没法快速找到这样的"特殊字符"
-+ 这时候最要命的问题是, 不确定它是原因, 不知道这个东西叫什么, 所以在搜索的时候没有头绪
++ 遇到的问题: 之后这类的问题又遇到了几次, 但是这次文件很长, 没法快速找到会导致问题的"特殊字符"
++ 最要命的问题是: 不确定它是原因, 不知道这个东西叫什么, 所以在搜索的时候没有头绪
 + 搜索结果中, 多次提到了"字符编码", utf-8, unicode, ascii这些概念, 我发现我对这些概念了解的很含混, 于是开始找相关的资料
     + [极客时间 - 左耳听风 - 字符编码方面](https://time.geekbang.org/column/article/8217)
     + [关于字符编码，你所需要知道的（ASCII,Unicode,Utf-8,GB2312…）](http://www.imkevinyang.com/2010/06/%E5%85%B3%E4%BA%8E%E5%AD%97%E7%AC%A6%E7%BC%96%E7%A0%81%EF%BC%8C%E4%BD%A0%E6%89%80%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%84.html)
     + [notes](https://github.com/liijunwei/practice/tree/main/unicode)
-+ 读完还是很懵, 直到我捕捉到两条关键信息
++ 读完还是很懵, 直到我捕捉到两条关键信息:
     + [ascii字符集可以分为两类](https://theasciicode.com.ar/): `可打印字符`和`控制字符`
     + [How do I replace or find non-printable characters in vim regex?](https://stackoverflow.com/questions/3844311/how-do-i-replace-or-find-non-printable-characters-in-vim-regex)
 + 接下来就很顺利了, 找到了这两份资料, 介绍正则表达式里 字符的分类
@@ -59,7 +59,6 @@ tags:
 + 为什么传进来了文件名, 我还要给调用者返回回去?
 + 这个工具怎么能和其他(linix)工具配合使用?
 + 我想要实现的功能, 都是必须的吗? 能不能用已有的工具替代?
-
 
 ### 感觉有价值的的参考资料
 
