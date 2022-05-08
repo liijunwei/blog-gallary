@@ -46,8 +46,9 @@ tags:
 + red -> green -> refactor -> loop
 + 设计测试用例的过程, 就是设计程序api的过程, 很痛苦; 好在只需要做一次, 并且可以复用, 还能依靠测试用例保证快速重构
 + 过程中使用TDD简化了一些的设计, 清理了接口里不必要的东西, 拒绝了一些不必要的功能
-    + 例子: 清理了接口里不需要返回的数据(filename)
-    + 例子: 清理了测试用例里, 对匹配到的行里内容的断言
+    + [例子: 清理了接口里不需要返回的数据(filename)](https://github.com/liijunwei/char_detector/commit/68cccb818c6659f3043ccbc34c3df06ca3659edd)
+    + [例子: 清理了测试用例里, 对匹配到的行里内容的断言](https://github.com/liijunwei/char_detector/commit/7c0fa5442233f795a5e7024817cc6abe78fc44a4)
+    + [例子: 拒绝扫描一个目录里所有的文件的feature, 借助 find命令和xargs或parallel命令实现](https://github.com/liijunwei/char_detector/issues/2)
 + 虽然要实现的功能是很简单的, 但是沿途有太多的诱惑(实现其他功能, 实现得很复杂, 做点别的更有趣的事儿, 玩会儿游戏?), 让这个工具好用是要下功夫的
 + 之前读到过王垠的博客, 里面讲到 ["很多人以为看大型项目可以提升自己，而没有看到大型项目不过是几十行核心代码的扩展，很多部分是低水平重复。"](https://www.yinwang.org/blog-cn/2020/02/05/how-to-read-code), 这次有了实际的体会
     + `CharDetector`这个应用很简单, 核心代码就只有10行左右, 它完成的事情很简单, 它的实现很简单, 这是它简单的方面
