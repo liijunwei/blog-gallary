@@ -30,4 +30,6 @@ tags:
         + [notes](https://github.com/liijunwei/practice/tree/main/unicode)
     + 读完还是很懵, 直到我捕捉到两条关键信息
         + [ascii字符集可以分为两类](https://theasciicode.com.ar/): `可打印字符`和`控制字符`
-
+        + [How do I replace or find non-printable characters in vim regex?](https://stackoverflow.com/questions/3844311/how-do-i-replace-or-find-non-printable-characters-in-vim-regex)
+    + 接下来就很顺利了, 找到了这两份资料, 介绍正则表达式里 字符的分类
+        + [POSIX Bracket Expressions](https://www.regular-expressions.info/posixbrackets.html)
