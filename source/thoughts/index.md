@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-08 10:27:54 从flog cli的实现里学到的: 1. 从stdin或者argv里接收输入 2. 输入可以是一个文件, 也可以是一个目录
+
 - 2022-05-08 10:24:55 flog 里用的分析工具是 ruby_parser 生成的抽象语法树(AST) 这句话里包含太多知识点了...
 
 - 2022-05-07 23:47:33 if github action fail, try use "view row logs" on the upper right corner
