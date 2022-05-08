@@ -76,4 +76,11 @@ tags:
 + [POSIX Bracket Expressions](https://www.regular-expressions.info/posixbrackets.html)
     + 手册, 可以多看看; 很多正则表达式不要手写了, 都已经有标准的分类了
 + [flog: 找出应用里里最折磨人的代码](https://github.com/seattlerb/flog)
-    + 用这工具或类似的指标工具, 
+    + 用这工具或类似的指标工具审视自己写的代码, 不要过于自信
+    + 读它的源码, 借鉴了一些它实现cli的思路
+    + 但是也拒绝了一些东西(里面用了很多他们自己实现的东西, 很小众, 不好动 比如 ruby_parser/path_expander)
+        + ruby_parser 是 flog的
+
+
+
+
