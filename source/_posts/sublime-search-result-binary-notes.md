@@ -79,7 +79,7 @@ tags:
     + 用这工具或类似的指标工具审视自己写的代码, 不要过于自信
     + 读它的源码, 借鉴了一些它实现cli的思路
     + 但是也拒绝了一些东西(里面用了很多他们自己实现的东西, 很小众, 不好动 比如 ruby_parser/path_expander)
-        + ruby_parser 是 flog的
+        + ruby_parser 貌似是 flog的核心, 有空仔细看看
 
 
 
