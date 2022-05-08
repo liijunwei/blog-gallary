@@ -35,5 +35,9 @@ tags:
         + [POSIX Bracket Expressions](https://www.regular-expressions.info/posixbrackets.html)
         + [Ruby@Regexp Character Properties](https://ruby-doc.org/core-3.1.2/Regexp.html#class-Regexp-label-Character+Properties)
     + 开始写测试脚本, 验证用正则表达式能否快速定位到我想要的结果(可以)
-    + 最近
+    + 写个gem, 用TDD的方式把它完善一下吧
+
++ 使用TDD实现这个[CharDetector](https://github.com/liijunwei/char_detector)的体会和反思
+    + 虽然要实现的功能是很简单的
+
 
