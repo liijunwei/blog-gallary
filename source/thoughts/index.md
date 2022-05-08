@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-08 10:24:55 flog 里用的分析工具是 ruby_parser 生成的抽象语法树(AST) 这句话里包含太多知识点了...
+
 - 2022-05-07 23:47:33 if github action fail, try use "view row logs" on the upper right corner
 
 - 2022-05-07 18:03:16 今天学到一个正则表达式里的概念: POSIX Bracket Expressions
