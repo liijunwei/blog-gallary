@@ -33,3 +33,7 @@ tags:
         + [How do I replace or find non-printable characters in vim regex?](https://stackoverflow.com/questions/3844311/how-do-i-replace-or-find-non-printable-characters-in-vim-regex)
     + 接下来就很顺利了, 找到了这两份资料, 介绍正则表达式里 字符的分类
         + [POSIX Bracket Expressions](https://www.regular-expressions.info/posixbrackets.html)
+        + [Ruby@Regexp Character Properties](https://ruby-doc.org/core-3.1.2/Regexp.html#class-Regexp-label-Character+Properties)
+    + 开始写测试脚本, 验证用正则表达式能否快速定位到我想要的结果(可以)
+    + 最近
+
