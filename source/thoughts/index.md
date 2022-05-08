@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-08 19:35:40 Rick's Interdimensional Cable is fun
+
 - 2022-05-08 18:41:07 写文章和反思太难了😑 好在没人要求我必须今天做完 这是自己的要求
 
 - 2022-05-08 13:18:09 [CharDetector](https://github.com/liijunwei/char_detector) 真棒👍
