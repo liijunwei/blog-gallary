@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-08 18:41:07 写文章和反思太难了😑 好在没人要求我必须今天做完 这是自己的要求
+
 - 2022-05-08 13:18:09 [CharDetector](https://github.com/liijunwei/char_detector) 真棒👍
 
 - 2022-05-08 12:32:56 [What is the difference between rn, r, and n? ](https://stackoverflow.com/questions/15433188/what-is-the-difference-between-r-n-r-and-n)
