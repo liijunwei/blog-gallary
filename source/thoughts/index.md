@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-08 12:32:56 [What is the difference between rn, r, and n? ](https://stackoverflow.com/questions/15433188/what-is-the-difference-between-r-n-r-and-n)
+
 - 2022-05-08 10:29:19 从flog cli的实现里学到的: 3. 输入和输出要从IO的角度考虑, 结果就是 输入和输出不会被局限为文件
 
 - 2022-05-08 10:27:54 从flog cli的实现里学到的: 1. 从stdin或者argv里接收输入 2. 输入可以是一个文件, 也可以是一个目录
