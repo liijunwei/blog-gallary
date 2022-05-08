@@ -40,11 +40,11 @@ tags:
 + 写个gem, 用TDD的方式把它完善一下吧
 
 ### 使用TDD实现这个[CharDetector](https://github.com/liijunwei/char_detector)的体会和反思
-    + 此前我认真读了[99 Bottles of OOP](https://github.com/liijunwei/practice/tree/main/oop/99-Bottles-of-OOP), 这是一次践行
-    + 跟着书上的例子做和自己独立做区别还是很大的, 它会迫使我去思考, 思考是痛苦的, 做出来以后是开心的
-    + red -> green -> refactor -> loop
-    + 设计测试用例的工程, 就是设计程序api的过程, 很痛苦; 好在只需要做一次, 并且可以复用, 还能依靠测试用例保证快速重构
-    + 过程中使用TDD简化了一些的设计, 清理了接口里不必要的东西, 拒绝了一些不必要的功能
-    + 虽然要实现的功能是很简单的
 
++ 此前我认真读了[99 Bottles of OOP](https://github.com/liijunwei/practice/tree/main/oop/99-Bottles-of-OOP), 这是一次践行
++ 跟着书上的例子做和自己独立做区别还是很大的, 它会迫使我去思考, 思考是痛苦的, 做出来以后很开心
++ red -> green -> refactor -> loop
++ 设计测试用例的过程, 就是设计程序api的过程, 很痛苦; 好在只需要做一次, 并且可以复用, 还能依靠测试用例保证快速重构
++ 过程中使用TDD简化了一些的设计, 清理了接口里不必要的东西, 拒绝了一些不必要的功能
++ 虽然要实现的功能是很简单的
 
