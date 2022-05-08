@@ -41,11 +41,13 @@ tags:
 
 ### 使用TDD实现这个[CharDetector](https://github.com/liijunwei/char_detector)的体会和反思
 
-+ 此前我认真读了[99 Bottles of OOP](https://github.com/liijunwei/practice/tree/main/oop/99-Bottles-of-OOP), 这是一次践行
-+ 跟着书上的例子做和自己独立做区别很大的, 它会迫使我去思考, 思考是痛苦的, 做出来以后很开心
++ 此前我认真读了[99 Bottles of OOP](https://github.com/liijunwei/practice/tree/main/oop/99-Bottles-of-OOP)(好书, 极力推荐), 这是一次践行
++ 跟着书上的例子做和自己独立做区别很大, 它迫使我去进行痛苦的思考, 做出来以后很开心
 + red -> green -> refactor -> loop
 + 设计测试用例的过程, 就是设计程序api的过程, 很痛苦; 好在只需要做一次, 并且可以复用, 还能依靠测试用例保证快速重构
 + 过程中使用TDD简化了一些的设计, 清理了接口里不必要的东西, 拒绝了一些不必要的功能
+    + 例子: 清理了接口里不需要返回的数据(filename)
+    + 例子: 清理了测试用例里, 对匹配到的行里内容的断言
 + 虽然要实现的功能是很简单的, 但是沿途有太多的诱惑(实现其他功能, 实现得很复杂, 做点别的更有趣的事儿, 玩会儿游戏?), 让这个工具好用是要下功夫的
 + 之前读到过王垠的博客, 里面讲到 ["很多人以为看大型项目可以提升自己，而没有看到大型项目不过是几十行核心代码的扩展，很多部分是低水平重复。"](https://www.yinwang.org/blog-cn/2020/02/05/how-to-read-code), 这次有了实际的体会
     + `CharDetector`这个应用很简单, 核心代码就只有10行左右, 它完成的事情很简单, 它的实现很简单, 这是它简单的方面
