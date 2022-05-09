@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-09 21:51:24 [release了第一个gem](https://rubygems.org/gems/char_detector) (～￣▽￣)～
+
 - 2022-05-09 21:49:28 写工具时要注意兼容性
 
 - 2022-05-09 21:18:07 [How to publish your ruby gem?](https://guides.rubygems.org/publishing/)
