@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-09 21:18:07 [How to publish your ruby gem?](https://guides.rubygems.org/publishing/)
+
 - 2022-05-09 09:05:49 [Ruby | String grapheme_clusters Method](https://www.geeksforgeeks.org/ruby-string-grapheme_clusters-method/), the concept here: "grapheme clusters"
 
 - 2022-05-08 23:49:44 R & M S01E08 is interesting
