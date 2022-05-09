@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-09 22:50:16 gem发布后,不到30分钟, 就有40个下载, 应该是有人定时扫描吧; 一定要注意个人隐私保护
+
 - 2022-05-09 22:49:06 Microsoft TODO 不支持多个电脑设备同时登录?
 
 - 2022-05-09 21:51:24 [release了第一个gem](https://rubygems.org/gems/char_detector) (～￣▽￣)～
