@@ -1,5 +1,5 @@
 ---
-title: "记录 从sublime搜索结果显示为binary引发的思考和行动"
+title: "记录 从sublime搜索结果显示为binary引发的思考和行动(WIP)"
 date: 2022-05-08 16:43:07
 tags:
   - efficiency
@@ -81,7 +81,7 @@ PS. 越写越长可不是好习惯!
 
 ### 回答最初问题
 
-
+WIP
 
 
 
