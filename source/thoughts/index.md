@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-09 22:49:06 Microsoft TODO 不支持多个电脑设备同时登录?
+
 - 2022-05-09 21:51:24 [release了第一个gem](https://rubygems.org/gems/char_detector) (～￣▽￣)～
 
 - 2022-05-09 21:49:28 写工具时要注意兼容性
