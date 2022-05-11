@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-11 20:04:56 too many requests
+
 - 2022-05-11 18:47:19 找到事情做不完对原因了，没有计算，没有量化，没有进度表，不知道在哪，不停的有新事加入，没有持之以恒... 时间是有限的，可以量化的时候，先做好预算
 
 - 2022-05-10 13:40:30 I don't need to write my own tool: https://rubygems.org/gems/gitalytics
