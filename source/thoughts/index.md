@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-13 00:48:20 I don't understand...
+
 - 2022-05-13 00:48:02 benchmark result shows that parallel gem can't speed up https://github.com/pepito2k/gitalytics speed... :sad:
 
 - 2022-05-12 23:44:35 the fork bomb
