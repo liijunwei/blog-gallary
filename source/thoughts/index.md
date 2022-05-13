@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-13 09:19:18 [open in browser from commnand line](https://github.com/pepito2k/gitalytics/blob/9ee507dafd92251b06266f4054daf5500078a3dc/lib/gitalytics.rb#L57)
+
 - 2022-05-13 08:32:35 这个代码写的真好
 
 - 2022-05-13 00:48:20 I don't understand...
