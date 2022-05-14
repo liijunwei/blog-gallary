@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-14 10:36:36 终于看懂元编程里讲的作用域是什么意思了
+
 - 2022-05-13 23:55:49 Rick and Morty S01E10: the rickest Rick and the mortyest Morty and .... the Eval Morty first show up
 
 - 2022-05-13 14:42:56 [List of ISO 3166 country codes](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes)
