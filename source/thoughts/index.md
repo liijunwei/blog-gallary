@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-15 16:13:38 当你调用一个方法时,实际上是给一个对象发送了一条消息
+
 - 2022-05-15 10:40:06 [Both pipes and socket pairs are useful abstractions for communicating between processes. They’re fast and easy. They’re often used as a communication channel instead of a more brute force approach such as a shared database or log file.](https://workingwithruby.com/wwup/ipc/#in-the-real-world)
 
 - 2022-05-15 10:38:58 越来越理解`boilerplate code`是什么意思了
