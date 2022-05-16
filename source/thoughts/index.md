@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-17 00:06:34 [forwardable demo...](https://github.com/resque/resque/blob/master/lib/resque/data_store.rb)
+
 - 2022-05-16 22:40:24 [fun avatar](https://en.gravatar.com/)
 
 - 2022-05-16 21:43:24 ["I read, ~~I forget~~ I record"](https://github.com/yfractal/blog/issues/8) hhh
