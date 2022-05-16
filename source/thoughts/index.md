@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-16 22:40:24 [fun avatar](https://en.gravatar.com/)
+
 - 2022-05-16 21:43:24 ["I read, ~~I forget~~ I record"](https://github.com/yfractal/blog/issues/8) hhh
 
 - 2022-05-16 09:06:42 quiet... https://qianqian-ye.com/watch-now/
