@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-16 09:06:42 quiet... https://qianqian-ye.com/watch-now/
+
 - 2022-05-16 09:05:30 哇 https://qianqian-ye.com/
 
 - 2022-05-16 08:55:30 https://processing.org/ and https://p5js.org/ is so interesting
