@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-17 00:26:06 应该看懂了Resque的核心部分代码了
+
 - 2022-05-17 00:25:40 增加和维护hook真是太复杂辣
 
 - 2022-05-17 00:14:32 how to start a resque worker: `worker = Resque::Worker.new` -> `worker.prepare` -> `worker.work` -> looping in `work`
