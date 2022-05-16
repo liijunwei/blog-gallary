@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-16 08:55:30 https://processing.org/ and https://p5js.org/ is so interesting
+
 - 2022-05-15 21:09:02 it is the rick dance S01E11
 
 - 2022-05-15 16:13:38 当你调用一个方法时,实际上是给一个对象发送了一条消息
