@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-17 00:25:40 增加和维护hook真是太复杂辣
+
 - 2022-05-17 00:14:32 how to start a resque worker: `worker = Resque::Worker.new` -> `worker.prepare` -> `worker.work` -> looping in `work`
 
 - 2022-05-17 00:11:02 how to enque a job in Resque: api call -> `Resque.enqueue(Job, params)` -> `Job.create(queue, klass, *args)` -> `Resque.push(queue, :class => klass.to_s, :args => args)` -> `QueueAccess@push_to_queue`
