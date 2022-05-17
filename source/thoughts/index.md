@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-17 23:20:31 啥玩意儿...干啥用的 bash的库??? https://yhbt.net/unicorn.git/tree/t/my-tap-lib.sh
+
 - 2022-05-17 23:15:49 精妙啊Spyglass
 
 - 2022-05-17 09:23:26 ["**Requirements and scope for applications change frequently and drastically.** Thus languages like Ruby and frameworks like Rails were built to give developers fewer things to worry about in the face of rapid change. **On the other hand, stable protocols which host your applications (HTTP and TCP) only change rarely.** This is why we recommend you NOT tie your rapidly-changing application logic directly into the processes that deal with the stable outside world. Instead, use HTTP as a common RPC protocol to communicate between your frontend and backend."](https://yhbt.net/unicorn/PHILOSOPHY.html)
