@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-18 11:23:05 ruby default_gems: `JSON.parse(RestClient.get("https://stdgems.org/default_gems.json"))["gems"].pluck("gem").sort`
+
 - 2022-05-18 11:18:07 tool: https://stdgems.org/
 
 - 2022-05-17 23:20:31 啥玩意儿...干啥用的 bash的库??? https://yhbt.net/unicorn.git/tree/t/my-tap-lib.sh
