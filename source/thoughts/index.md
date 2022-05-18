@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-18 23:31:06 使用stow+PATH+folder 完成了一个小目标: 在一个目录里放置的ruby脚本可以直接加到命令行里使用...
+
 - 2022-05-18 22:32:14 tool: [cmdline password manager](https://github.com/janlelis/pws)
 
 - 2022-05-18 22:31:36 [All Emoji](https://character.construction/) and click to copy...
