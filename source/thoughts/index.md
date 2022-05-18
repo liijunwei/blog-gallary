@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-18 22:32:14 tool: [cmdline password manager](https://github.com/janlelis/pws)
+
 - 2022-05-18 22:31:36 [All Emoji](https://character.construction/) and click to copy...
 
 - 2022-05-18 14:57:55 和ruby一起发布的很多gem在github上的star数好像都不算高，是什么原因呢？估计原因之一是 不知道这些常用的工具是独立的gem吧 哈哈哈
