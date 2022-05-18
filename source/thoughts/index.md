@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-18 14:57:55 和ruby一起发布的很多gem在github上的star数好像都不算高，是什么原因呢？估计原因之一是 不知道这些常用的工具是独立的gem吧 哈哈哈
+
 - 2022-05-18 11:23:05 ruby default_gems: `JSON.parse(RestClient.get("https://stdgems.org/default_gems.json"))["gems"].pluck("gem").sort`
 
 - 2022-05-18 11:18:07 tool: https://stdgems.org/
