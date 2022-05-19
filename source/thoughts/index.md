@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-19 22:41:11 book ["The reference for writing fantastic Rails applications"](https://thoughtbot.gumroad.com/l/ruby-science)
+
 - 2022-05-19 22:37:02 [Ruby+Clang](https://thoughtbot.com/blog/get-your-c-on)
 
 - 2022-05-19 22:34:45 [coding without ifs](https://thoughtbot.com/blog/coding-without-ifs)
