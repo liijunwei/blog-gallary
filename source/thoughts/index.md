@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-19 18:08:21 asd the right question will save your time
+
 - 2022-05-19 16:52:30 "过程就是奖励"
 
 - 2022-05-19 09:10:55 http://github.com/pry/pry.git 里面的rspec测试用例写得和挺好的,模仿一下
