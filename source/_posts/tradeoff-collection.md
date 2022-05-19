@@ -29,3 +29,8 @@ cryptography
 
 + The more complex the encryption algorithm is, the more secure it will be, while it'll take more time to encrypt/dencrypt
 
+### even good (or trendy) solutions add complexity
+
++ [Everything is a trade-off, even good (or trendy) solutions add complexity.](https://thoughtbot.com/blog/testing-null-objects)
+
++ [null-object pattern is not silver bullet](https://github.com/liijunwei/practice/blob/main/ruby/design-pattern/null-object-pattern2.rb)
