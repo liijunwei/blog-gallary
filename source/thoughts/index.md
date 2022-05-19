@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-19 22:44:20 TODO read [Practical Object-Oriented Design, An Agile Primer Using Ruby (POODR)](https://www.poodr.com/)
+
 - 2022-05-19 22:41:11 book ["The reference for writing fantastic Rails applications"](https://thoughtbot.gumroad.com/l/ruby-science)
 
 - 2022-05-19 22:37:02 [Ruby+Clang](https://thoughtbot.com/blog/get-your-c-on)
