@@ -18,6 +18,10 @@ Skills:     Ruby/Rails
             Network-fundamentals/HTTP/RESTful-API
             OOP/SOLID/DesignPattern(a-little-bit)
             Frontend Basics: HTML-CSS-JS-fundamentals
-Lately:     学习99-bottles-of-oop中
-            玩命理解业务需求中
+Lately:     玩命理解业务需求
+            重学"Ruby元编程"
+            读"史蒂夫乔布斯传"
+            看youtube"p5js+processing"videos
+Next:       读CSAPP
+            work on pet projects
 ```
