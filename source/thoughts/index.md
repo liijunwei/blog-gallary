@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-19 08:38:54 [deal with macos updrage problem, solu: `xcode-select --install`](https://stackoverflow.com/questions/52522565/git-is-not-working-after-macos-update-xcrun-error-invalid-active-developer-pa#:~:text=The%20problem%20is%20that%20Xcode,Tools%20needs%20to%20be%20updated.&text=Open%20a%20new%20terminal%20window,Check%20Xcode%20with%20any%20update.)
+
 - 2022-05-19 00:22:15 这么多数据, 该相信谁
 
 - 2022-05-18 23:31:06 使用stow+PATH+folder 完成了一个小目标: 在一个目录里放置的ruby脚本可以直接加到命令行里使用...
