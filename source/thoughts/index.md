@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-19 22:27:12 ["Shotgun surgery"](https://en.wikipedia.org/wiki/Shotgun_surgery)
+
 - 2022-05-19 22:21:12 [any? != ! empty?](https://thoughtbot.com/blog/any-empty)
 
 - 2022-05-19 18:08:21 asd the right question will save your time
