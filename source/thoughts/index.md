@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-19 22:50:42 Pain in your tests should push you to change the design of objects being tested
+
 - 2022-05-19 22:50:20 good advices: https://thoughtbot.com/blog/simplify-tests-by-extracting-side-effects
 
 - 2022-05-19 22:44:20 TODO read [Practical Object-Oriented Design, An Agile Primer Using Ruby (POODR)](https://www.poodr.com/)
