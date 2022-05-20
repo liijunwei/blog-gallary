@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-20 22:09:06 zzx UCLA Congratulations
+
 - 2022-05-20 16:04:42 Bob Dylan 好帅啊
 
 - 2022-05-20 12:21:38 每一行代码都需要维护，["你不一定要写代码"](https://sideproject.guide/build#%E4%BD%A0%E4%B8%8D%E4%B8%80%E5%AE%9A%E8%A6%81%E5%86%99%E4%BB%A3%E7%A0%81)
