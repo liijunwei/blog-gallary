@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-20 23:53:14 ruby的eigenclass太难懂了,放弃...
+
 - 2022-05-20 22:09:06 zzx UCLA Congratulations
 
 - 2022-05-20 16:04:42 Bob Dylan 好帅啊
