@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-21 14:33:11 cool website: https://www.3blue1brown.com/
+
 - 2022-05-21 14:32:08 tool: [Animation engine for explanatory math videos](https://github.com/3b1b/manim)
 
 - 2022-05-21 10:59:01 "没有什么元编程, 只有编程而已" ruby元编程 page 167, 大师,啥意思...
