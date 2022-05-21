@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-21 15:49:32 ["Bugs usually come from flawed assumptions"](https://thoughtbot.com/blog/getting-up-and-running-quickly)
+
 - 2022-05-21 15:48:22 chrome -> menu -> file -> share -> airdrop
 
 - 2022-05-21 15:40:16 哈哈哈哈刚刚看到一条好笑的评论: 草率了,付钱开了会员,还有会员专属广告
