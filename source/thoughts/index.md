@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-21 15:24:53 看起来AST也是必须得会的东西啊... https://thoughtbot.com/blog/rubocop-custom-cops-for-custom-needs
+
 - 2022-05-21 15:21:53 [The opportunity will find you](https://thoughtbot.com/blog/the-opportunity-will-find-you)
 
 - 2022-05-21 15:08:13 [计算fibonacci sequence不同实现方法之间差异好大...](https://github.com/liijunwei/practice/tree/main/algorithms/fibonacci_sequence)
