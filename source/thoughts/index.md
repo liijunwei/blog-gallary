@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-21 15:54:10 good resource: https://craftinginterpreters.com/
+
 - 2022-05-21 15:49:32 ["Bugs usually come from flawed assumptions"](https://thoughtbot.com/blog/getting-up-and-running-quickly)
 
 - 2022-05-21 15:48:22 chrome -> menu -> file -> share -> airdrop
