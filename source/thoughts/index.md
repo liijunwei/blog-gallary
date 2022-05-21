@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-21 16:35:17 https://github.com/1milligram/csslayout
+
 - 2022-05-21 15:56:26 "You must have a map, no matter how rough."
 
 - 2022-05-21 15:54:10 good resource: https://craftinginterpreters.com/
