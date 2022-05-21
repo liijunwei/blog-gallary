@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-21 15:25:41 ["Every now and then one’s mind is stretched by a new idea or sensation, and never shrinks back to its former dimensions."](https://thoughtbot.com/blog/the-opportunity-will-find-you#okay-what-is-the-point)
+
 - 2022-05-21 15:24:53 看起来AST也是必须得会的东西啊... https://thoughtbot.com/blog/rubocop-custom-cops-for-custom-needs
 
 - 2022-05-21 15:21:53 [The opportunity will find you](https://thoughtbot.com/blog/the-opportunity-will-find-you)
