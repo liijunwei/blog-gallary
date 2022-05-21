@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-21 22:37:53 是时候开始用用 Jupyter Notebook了吧?
+
 - 2022-05-21 16:41:56 找到了需要的东西,浑身舒畅 https://csslayout.io/sticky-table-headers/
 
 - 2022-05-21 16:35:17 https://github.com/1milligram/csslayout
