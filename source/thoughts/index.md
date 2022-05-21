@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-21 10:59:01 "没有什么元编程, 只有编程而已" ruby元编程 page 167, 大师,啥意思...
+
 - 2022-05-21 10:31:12 GIT_EDITOR env variable helps
 
 - 2022-05-21 09:25:19 [timeout](https://github.com/ruby/timeout/)里面学问很多呀...
