@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-21 15:48:22 chrome -> menu -> file -> share -> airdrop
+
 - 2022-05-21 15:40:16 哈哈哈哈刚刚看到一条好笑的评论: 草率了,付钱开了会员,还有会员专属广告
 
 - 2022-05-21 15:25:41 ["Every now and then one’s mind is stretched by a new idea or sensation, and never shrinks back to its former dimensions."](https://thoughtbot.com/blog/the-opportunity-will-find-you#okay-what-is-the-point)
