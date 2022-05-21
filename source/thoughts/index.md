@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-21 14:46:03 good article: [Working in my native language requires empathy](https://thoughtbot.com/blog/working-in-my-native-language-requires-empathy)
+
 - 2022-05-21 14:33:11 cool website: https://www.3blue1brown.com/
 
 - 2022-05-21 14:32:08 tool: [Animation engine for explanatory math videos](https://github.com/3b1b/manim)
