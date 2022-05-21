@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-22 07:59:17 有这个系列真是太好了 https://github.com/sindresorhus/awesome
+
 - 2022-05-21 23:53:47 jupyter notebook | jupyter-lab 目前体验尚可, 如果用python的话会更舒服
 
 - 2022-05-21 22:37:53 是时候开始用用 Jupyter Notebook了吧?
