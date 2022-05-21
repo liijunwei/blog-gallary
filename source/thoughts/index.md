@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-21 10:31:12 GIT_EDITOR env variable helps
+
 - 2022-05-21 09:25:19 [timeout](https://github.com/ruby/timeout/)里面学问很多呀...
 
 - 2022-05-20 23:53:14 ruby的eigenclass太难懂了,放弃...
