@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-22 21:45:13 S01E06 ricksgiving
+
 - 2022-05-22 21:43:18 S01E06 Peace among world...
 
 - 2022-05-22 14:37:45 Rick and Morty S02Eo3 Unity... and sad Rick'
