@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-22 14:37:45 Rick and Morty S02Eo3 Unity... and sad Rick'
+
 - 2022-05-22 08:10:16 [Slide: What the AST?](https://speakerdeck.com/dkundel/sinnerschrader-tech-session-18-what-the-ast)
 
 - 2022-05-22 07:59:17 有这个系列真是太好了 https://github.com/sindresorhus/awesome
