@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-24 09:10:13 Change GitHub Bio from "Eat my own dog food forces me to optimize." to "The Journey Is the Reward(过程就是奖励)"
+
 - 2022-05-24 09:02:20 RubyGems上, 腾讯云的机器人好像在刷屏...(太多gem了 =.=) https://rubygems.org/releases
 
 - 2022-05-24 08:56:42 清理了一下gem, 打包后的大小从254KB 降到了8KB 哈哈哈 好意外 https://rubygems.org/gems/char_detector
