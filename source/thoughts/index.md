@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-24 22:34:24 问题: 算账的时候, 如果有一笔钱花出去了,又退回来了, 这笔钱怎么记录?
+
 - 2022-05-24 21:40:45 没有人限制书只能看一遍, 练习只能做一次
 
 - 2022-05-24 13:41:41 好像是不错对资源: https://eng.libretexts.org/Bookshelves/Computer_Science/Programming_Languages
