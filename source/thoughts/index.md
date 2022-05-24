@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-24 11:50:55 [Why Learn Assembly Language](https://eng.libretexts.org/Bookshelves/Computer_Science/Programming_Languages/Book%3A_x86-64_Assembly_Language_Programming_with_Ubuntu_(Jorgensen)/01%3A_Introduction/1.03%3A_Why_Learn_Assembly_Language)
+
 - 2022-05-24 09:10:13 Change GitHub Bio from "Eat my own dog food forces me to optimize." to "The Journey Is the Reward(过程就是奖励)"
 
 - 2022-05-24 09:02:20 RubyGems上, 腾讯云的机器人好像在刷屏...(太多gem了 =.=) https://rubygems.org/releases
