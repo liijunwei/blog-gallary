@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-25 22:25:58 music: Closer by Majik
+
 - 2022-05-25 21:46:47 用了一下, 真的有效
 
 - 2022-05-25 08:40:56 power english AJ Hoge, 头发和胡子都白啦, 声音还是这么有能量 https://www.youtube.com/watch?v=GfCCSTjLpLg&t=5s
