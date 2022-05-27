@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-27 21:39:00 csapp 浮点数部分太难懂了...
+
 - 2022-05-27 21:38:42 真 刷存在感; 体验很差
 
 - 2022-05-27 10:04:44 might be fun? https://tenderlovemaking.com/
