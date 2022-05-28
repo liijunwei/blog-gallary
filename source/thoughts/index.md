@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-28 23:57:33 R&M S03E02 wind wisper loser... to jerry
+
 - 2022-05-28 13:32:38  S02E08 Rick's Interdimensional Cable Part 2
 
 - 2022-05-27 21:39:00 csapp 浮点数部分太难懂了...
