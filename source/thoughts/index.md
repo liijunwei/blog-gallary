@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-29 23:52:06 icon tool: https://icons8.com/icons
+
 - 2022-05-29 23:08:14 每个加入到项目里的gem, 都有必要看下他们的文档, 对他们的用法只有一个模糊的印象是不够的的
 
 - 2022-05-29 22:37:09 https://www.rubyguides.com/2018/12/ruby-vcr-gem/
