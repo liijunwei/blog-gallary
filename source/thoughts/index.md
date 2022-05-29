@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-29 22:31:47 使用vcr模拟请求和响应的时候, 如果api变了, 只需要删掉对应的cassette, 再重新生成一个就好了
+
 - 2022-05-29 22:13:39 api类的测试用例可以参考这种写法 https://github.com/sferik/twitter/blob/master/spec/helper.rb
 
 - 2022-05-29 21:58:12 webmock
