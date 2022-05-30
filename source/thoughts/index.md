@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-30 22:07:44 目标以外都是诱惑
+
 - 2022-05-30 09:20:32 大佬的reading list: https://hashref.com/reading
 
 - 2022-05-29 23:52:06 icon tool: https://icons8.com/icons
