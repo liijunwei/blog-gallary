@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-05-31 21:59:16 孟岩先生(骨灰级程序员...): https://blog.csdn.net/myan/article/details/3247071
+
 - 2022-05-31 21:27:25 榜样 https://mark24code.github.io/%E7%A8%8B%E5%BA%8F%E6%80%9D%E8%80%83/2022/04/09/%E6%80%9D%E8%80%83-%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%9C%AC%E8%B4%A8%E5%92%8C%E7%A8%8B%E5%BA%8F%E6%9C%AC%E8%B4%A8.html
 
 - 2022-05-31 19:21:11 原来git commit里的-m可以用多个 `git commit -m "Subject" -m "Description..."`
