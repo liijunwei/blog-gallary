@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-06-02 08:51:11 有限制是好事
+
 - 2022-05-31 22:16:49 [Lua让我脸红 by myan](https://blog.csdn.net/myan/article/details/490?spm=1001.2014.3001.5502) 突然觉得lua很迷人
 
 - 2022-05-31 21:59:16 孟岩先生(骨灰级程序员...): https://blog.csdn.net/myan/article/details/3247071
