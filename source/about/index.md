@@ -14,13 +14,13 @@ Age:        26
 Email:      ljw532344863@sina.com
 Experience: 两年的Ruby-On-Rails开发经验; 一年交换生经验;
 Skills:     Ruby/Rails
-            Linux/Shell/monit/systemd
-            Network-fundamentals/HTTP/RESTful-API
-            OOP/SOLID/DesignPattern(a-little-bit)
-            Frontend Basics: HTML-CSS-JS-fundamentals
 Lately:     玩命理解业务
-            读"史蒂夫乔布斯传"
             读CSAPP
-            看youtube"p5js+processing"videos
-Next:       work on pet projects
+            读"暗时间"
+            学习"郭冬白的架构课"
+For Fun:    work on pet projects
+            learn golang
+            learn haskell tutorial
+            learn lua tutorial
+            Rick And Morty
 ```
