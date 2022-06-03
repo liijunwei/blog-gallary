@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-06-03 12:24:13 原来这种感觉叫做 信息过载
+
 - 2022-06-03 09:56:43 who need this and why... https://github.com/dandavison/delta
 
 - 2022-06-03 09:45:15 rick and morty S04E05 snake time travel 有点绕啊
