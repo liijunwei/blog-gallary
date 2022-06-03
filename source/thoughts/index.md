@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-06-03 09:45:15 rick and morty S04E05 snake time travel 有点绕啊
+
 - 2022-06-02 22:44:27 了解 概念 和 概念背后的场景
 
 - 2022-06-02 18:15:22 里面有些很不错的概念: https://github.com/mperham/sidekiq/wiki/Ent-Rate-Limiting
