@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-06-03 09:56:43 who need this and why... https://github.com/dandavison/delta
+
 - 2022-06-03 09:45:15 rick and morty S04E05 snake time travel 有点绕啊
 
 - 2022-06-02 22:44:27 了解 概念 和 概念背后的场景
