@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-06-08 09:42:58 begin again
+
 - 2022-06-04 20:07:20 bad day
 
 - 2022-06-03 13:22:34 rick and morty S04E08 存档机器和morty的完美爱情故事
