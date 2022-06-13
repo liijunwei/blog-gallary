@@ -6,6 +6,8 @@ tags:
   - ruby
 ---
 
+[20220613 update] better use robocop auto-correct to handle this issue.
+
 I've read a blog post written by [Mike Perham](https://github.com/mperham) introducing the **Magic Comment**, and I tried it out in my project.
 
 The `# frozen_string_literal: true`
