@@ -157,6 +157,7 @@ end
     + 一定要理解`rescue Exception => e` 和 `rescue => e`的区别, 多数情况下前者是万万不可的
         + ref: https://www.mikeperham.com/2012/03/03/the-perils-of-rescue-exception/
         + ref: https://www.honeybadger.io/blog/ruby-exception-vs-standarderror-whats-the-difference/
+        + [20220615 update] add `Lint/RescueException` to your .rubocop.yml and run `bundle exec rubocop`
     + 必要的地方要做容错处理, 不能崩; 但是这种地方如果崩了, 要能及时发出告警, 记录好现场数据以备排查和修复, 绝对不能简单吞了完事
     + 捕获的异常越具体, 或者说处理异常的代码越少, 说明写代码时考虑的越周到(前提是这种异常确实会发送), 代码会干净很多, 这样的代码无论是使用、阅读还是维护, 都会很舒服
 
