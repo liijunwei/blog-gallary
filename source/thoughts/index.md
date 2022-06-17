@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-06-17 22:33:31 [github: Why are my contributions not showing up on my profile?](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile)
+
 - 2022-06-14 09:35:18 tool/fun website: https://ossinsight.io/collections/web-framework
 
 - 2022-06-13 16:43:31 状态心态回归
