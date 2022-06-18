@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-06-19 01:02:34 commit message tool: https://github.com/conventional-changelog/commitlint
+
 - 2022-06-19 00:55:35 [How to write good commit messages](https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/)
 
 - 2022-06-17 22:33:31 [github: Why are my contributions not showing up on my profile?](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile)
