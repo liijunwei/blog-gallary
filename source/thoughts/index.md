@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-06-20 21:46:02 gem的维护者应该尽量避免这种问题: https://bugs.ruby-lang.org/issues/17866
+
 - 2022-06-19 01:02:34 commit message tool: https://github.com/conventional-changelog/commitlint
 
 - 2022-06-19 00:55:35 [How to write good commit messages](https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/)
