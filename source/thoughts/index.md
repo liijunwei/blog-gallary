@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-06-21 08:38:58 [可以去b站纯黑的主页看电影](https://space.bilibili.com/585267)
+
 - 2022-06-21 08:37:08 The Last of Us + Roads Untraveled By Linkin Park
 
 - 2022-06-20 21:46:02 gem的维护者应该尽量避免这种问题: https://bugs.ruby-lang.org/issues/17866
