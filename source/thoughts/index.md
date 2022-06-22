@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-06-22 23:56:37 查问题/修问题 过程中会学到很多东西
+
 - 2022-06-22 23:54:28 困难的路 走的人少，可能是因为它本身很难；还可能是因为简单的事，简单的路诱惑太多
 
 - 2022-06-22 23:53:54 macos -> preference -> Keyboard -> Dictation -> Shortcut -> do not use `Press Control Key Twice`
