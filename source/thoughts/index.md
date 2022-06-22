@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-06-22 23:53:54 macos -> preference -> Keyboard -> Dictation -> Shortcut -> do not use `Press Control Key Twice`
+
 - 2022-06-22 12:15:44 找到一个popular的 github repo， 然后看哪些star数高的项目使用了它， 是一个发掘好项目的方法
 
 - 2022-06-22 09:30:52 encoding 这事儿怎么才能搞明白呢
