@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-06-24 14:52:14 命令行里遇到问题，先别想急着想自己实现，想想能不能用已有工具快速实现 --- 由linux tac 想到的
+
 - 2022-06-24 10:49:54 rspec的文档写的很容易懂
 
 - 2022-06-24 09:14:17 just noticed that ["macOS uses a case-insensitive file system.  So if you pass the full file name to the lowest level file system calls, the macOS file system drivers will do a case-insensitive lookup."](https://discussions.apple.com/thread/251191099#:~:text=macOS%20uses%20a%20case%2Dinsensitive,you%20are%20doing%20a%20search.)
