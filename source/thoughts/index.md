@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-06-24 09:14:17 just noticed that ["macOS uses a case-insensitive file system.  So if you pass the full file name to the lowest level file system calls, the macOS file system drivers will do a case-insensitive lookup."](https://discussions.apple.com/thread/251191099#:~:text=macOS%20uses%20a%20case%2Dinsensitive,you%20are%20doing%20a%20search.)
+
 - 2022-06-23 23:45:20 命令行工具结合 状态机 好像也很好玩, 行得通
 
 - 2022-06-22 23:56:37 查问题/修问题 过程中会学到很多东西
