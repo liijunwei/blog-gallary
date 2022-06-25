@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-06-25 16:45:03 fakefs好处很明显, 劣势是有问题很难查...
+
 - 2022-06-24 22:32:47 好东西呀 https://github.com/rubygems/rubygems/blob/master/Rakefile
 
 - 2022-06-24 14:52:14 命令行里遇到问题，先别想急着想自己实现，想想能不能用已有工具快速实现 --- 由linux tac 想到的
