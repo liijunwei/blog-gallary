@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-06-26 18:19:51 看起来望而却步 http://github.com/flyerhzm/rails_best_practices.git
+
 - 2022-06-26 18:08:27 https://huangzhimin.com/presentations.html
 
 - 2022-06-26 12:17:03 thor的代码看了很多了, 可以写出不错的命令行工具了
