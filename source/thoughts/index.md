@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-06-26 12:16:21 操作文件系统的测试用例怎么构造呢?
+
 - 2022-06-25 16:45:03 fakefs好处很明显, 劣势是有问题很难查...
 
 - 2022-06-24 22:32:47 好东西呀 https://github.com/rubygems/rubygems/blob/master/Rakefile
