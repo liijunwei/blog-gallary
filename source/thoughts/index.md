@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-06-28 23:35:34 [正义联盟：扎克·施奈德版](https://www.bilibili.com/bangumi/play/ss38552?from_spmid=666.23.0.0) 感觉这可比复仇者联盟好看多了
+
 - 2022-06-28 17:10:53 和身体健康相比，带手环的不适感一点也不重要
 
 - 2022-06-28 14:34:07 "It comes in handy when a developer is debugging a gem. bundle pristine is a great way to get rid of experimental changes to a gem that one may not want."
