@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-06-28 17:10:53 和身体健康相比，带手环的不适感一点也不重要
+
 - 2022-06-28 14:34:07 "It comes in handy when a developer is debugging a gem. bundle pristine is a great way to get rid of experimental changes to a gem that one may not want."
 
 - 2022-06-27 23:14:53 环太平洋2 里 纽特演技第一, 其他的都不够看... 还是一样, 世界观吸引人, 但第二部里怪兽的智商好像变低了; btw 怪兽大脑操纵的机甲太帅了, 纽特真有一套啊
