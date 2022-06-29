@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-06-29 22:46:20 无间道 真不错
+
 - 2022-06-29 13:49:52 https://github.com/topics/ is amazing
 
 - 2022-06-29 13:35:59 got a way of locating where alias was defined
