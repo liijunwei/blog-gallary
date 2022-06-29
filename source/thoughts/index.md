@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-06-29 13:49:52 https://github.com/topics/ is amazing
+
 - 2022-06-29 13:35:59 got a way of locating where alias was defined
 
 - 2022-06-28 23:35:34 [正义联盟：扎克·施奈德版](https://www.bilibili.com/bangumi/play/ss38552?from_spmid=666.23.0.0) 感觉这可比复仇者联盟好看多了
