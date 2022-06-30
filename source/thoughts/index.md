@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-06-30 13:59:36 https://github.com/sharkdp/bat 的语法高亮很合胃口
+
 - 2022-06-30 13:57:19 better cat, 还不错 https://github.com/sharkdp/bat
 
 - 2022-06-29 22:46:20 无间道 真不错
