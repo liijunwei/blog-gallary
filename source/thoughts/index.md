@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-01 23:49:12 ["TLDR: When developing a gem, do not check your Gemfile.lock into version control, when developing an app, check in your Gemfile.lock"](https://yehudakatz.com/2010/12/16/clarifying-the-roles-of-the-gemspec-and-gemfile/)
+
 - 2022-07-01 22:36:29 tigrc config for large repo: https://github.com/jonas/tig/blob/master/contrib/large-repo.tigrc
 
 - 2022-07-01 16:52:47 alias sshconfig="cd ~/.ssh && vi $(fzf)"
