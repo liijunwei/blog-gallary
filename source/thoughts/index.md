@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-02 00:13:28 ruby gem 里的 development_dependency 写在gemspec里 和 写在Gemfile里是等价的
+
 - 2022-07-01 23:55:42 当一款开源软件做得很好的时候, 你会很希望有人维护着他
 
 - 2022-07-01 23:49:12 ["TLDR: When developing a gem, do not check your Gemfile.lock into version control, when developing an app, check in your Gemfile.lock"](https://yehudakatz.com/2010/12/16/clarifying-the-roles-of-the-gemspec-and-gemfile/)
