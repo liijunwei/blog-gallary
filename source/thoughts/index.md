@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-02 00:15:54 有一点区别: 如果写在gemspec里, 可以被rubygem.org 或者说gem解析, 写在Gemfile里则没有这个
+
 - 2022-07-02 00:13:28 ruby gem 里的 development_dependency 写在gemspec里 和 写在Gemfile里是等价的
 
 - 2022-07-01 23:55:42 当一款开源软件做得很好的时候, 你会很希望有人维护着他
