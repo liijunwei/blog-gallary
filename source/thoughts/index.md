@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-01 10:43:39 tig app/settings --author="$(git config --get user.email)"
+
 - 2022-07-01 08:57:29 "You know what's the biggest tragedy in software engineering? --- The customers gave up and learnt to speak CRUD to developers"
 
 - 2022-06-30 17:20:10 ["Any uncaught exceptions will trigger a notification to be sent to your Bugsnag project."](https://github.com/bugsnag/bugsnag-ruby/)
