@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-02 21:43:10 [Manage Ruby dependencies with Dependabot](https://docs.publishing.service.gov.uk/manual/manage-ruby-dependencies.html): github repo -> Insights -> "Dependency graph" -> Dependabot -> "Enable Dependabot"
+
 - 2022-07-02 21:35:05 good option for configurable when things getting more complicated: https://dry-rb.org/gems/dry-configurable/0.14/
 
 - 2022-07-02 20:43:24 命令行工具用的够多了, 也会写一些了; 接下来 要了解命令行程序如何 配合标准输入/标准输出/错误码/管道等基本元素和其他程序配合完成工作
