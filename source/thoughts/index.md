@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-02 11:09:56 https://github.com/fakefs/fakefs 魔法含量太高, 不敢使用... 怕遇到问题解决不了, 最后总是在解决工具的问题, 没有解决真正的问题
+
 - 2022-07-02 11:02:22 https://github.com/gregorym/bump/blob/master/spec/spec_helper.rb 可以参考
 
 - 2022-07-02 00:15:54 有一点区别: 如果写在gemspec里, 可以被rubygem.org 或者说gem解析, 写在Gemfile里则没有这个
