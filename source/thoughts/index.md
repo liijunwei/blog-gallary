@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-03 15:39:05 fun: https://github.com/521xueweihan/OneFile
+
 - 2022-07-03 14:48:52 让changelog-rb摆脱了对 https://github.com/fakefs/fakefs/ 的依赖, 感觉很不错...
 
 - 2022-07-03 14:46:53 gem help owner
