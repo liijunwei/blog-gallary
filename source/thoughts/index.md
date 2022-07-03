@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-03 14:46:53 gem help owner
+
 - 2022-07-03 14:02:43 头文字D 里的音乐很不错
 
 - 2022-07-02 21:43:10 [Manage Ruby dependencies with Dependabot](https://docs.publishing.service.gov.uk/manual/manage-ruby-dependencies.html): github repo -> Insights -> "Dependency graph" -> Dependabot -> "Enable Dependabot"
