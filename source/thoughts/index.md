@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-04 23:35:39 https://www.conventionalcommits.org/en/v1.0.0/ 使用下来感觉好麻烦, 没动力继续使用
+
 - 2022-07-04 13:55:14 util: [generators](https://openapi-generator.tech/docs/generators)
 
 - 2022-07-04 09:42:34 RTFM: https://bundler.io/v2.3/man/gemfile.5.html#GEMSPEC
