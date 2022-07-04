@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-04 13:55:14 util: [generators](https://openapi-generator.tech/docs/generators)
+
 - 2022-07-04 09:42:34 RTFM: https://bundler.io/v2.3/man/gemfile.5.html#GEMSPEC
 
 - 2022-07-04 08:53:40 立了两个为期一个月的flag: 1. 每天读5页CSAPP 2. 每天7000-8000步, 加油
