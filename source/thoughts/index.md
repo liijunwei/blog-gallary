@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-05 22:54:24 p "👍".bytes
+
 - 2022-07-05 22:30:44 少说 多听
 
 - 2022-07-05 09:54:57 "When you focus on YOU, YOU grow; When you focus on SHIT, SHIT grows" --- 3dd13
