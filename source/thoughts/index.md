@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-06 21:08:53 don't starv: butterfly - fly = butter
+
 - 2022-07-06 19:17:52 和ag类似的grep工具： https://github.com/BurntSushi/ripgrep#installation
 
 - 2022-07-06 16:27:52 经验：立flag时， 给自己留点缓冲(buffer)，会更加顺利一些
