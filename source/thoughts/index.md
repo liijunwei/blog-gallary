@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-07 09:18:20 I don't really need pry-rails gem https://github.com/pry/pry#use-pry-as-your-rails-console
+
 - 2022-07-07 09:08:43 pry everywhere https://lucapette.me/writing/pry-everywhere/
 
 - 2022-07-06 21:08:53 don't starv: butterfly - fly = butter
