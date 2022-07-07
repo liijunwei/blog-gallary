@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-07 09:08:43 pry everywhere https://lucapette.me/writing/pry-everywhere/
+
 - 2022-07-06 21:08:53 don't starv: butterfly - fly = butter
 
 - 2022-07-06 19:17:52 和ag类似的grep工具： https://github.com/BurntSushi/ripgrep#installation
