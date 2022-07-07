@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-07 09:23:03 第一次喝椰子汁(好像是第一次), 体验不好
+
 - 2022-07-07 09:18:20 I don't really need pry-rails gem https://github.com/pry/pry#use-pry-as-your-rails-console
 
 - 2022-07-07 09:08:43 pry everywhere https://lucapette.me/writing/pry-everywhere/
