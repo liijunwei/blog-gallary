@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-07 21:23:12 what I want most now: Complete a personal project
+
 - 2022-07-07 21:19:59 ["It's too easy to turn on a TV and lose hours."](https://matt.might.net/articles/cripple-your-technology/)
 
 - 2022-07-07 09:23:03 第一次喝椰子汁(好像是第一次), 体验不好
