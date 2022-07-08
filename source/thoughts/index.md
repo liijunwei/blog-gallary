@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-08 08:45:21 "递归是神, 循环是人" 是什么意思?
+
 - 2022-07-07 21:24:45 [What every computer science major should know](https://matt.might.net/articles/what-cs-majors-should-know/)
 
 - 2022-07-07 21:23:12 what I want most now: Complete a personal project
