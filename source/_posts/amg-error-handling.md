@@ -40,7 +40,7 @@ class Exception
 end
 ```
 + 由于错误信息太多, 做过几轮收敛, 忽略不重要的错误
-+ 为sidekiq的错误信息写了个`error_handler`, 里面打印错误信息和记录`error_log`, 这步倒问题不到
++ 为sidekiq的错误信息写了个`error_handler`, 里面打印错误信息和记录`error_log`, 这步倒问题不大
 + ... 记不清了
 
 
@@ -48,9 +48,9 @@ end
 
 https://www.mikeperham.com/2013/08/25/please-use-an-error-service/
 
-然而实际上, 对于error handling这个问题早有解决方案了, 就是使用 bugsnag 之类的`Error Service` 帮助收集错误
+error handling这个问题的解决方案是: 使用 bugsnag 之类的`Error Service`
 
-应用里把所有的`unknown exceptions`都不该被捕获, `rescue => e`(`rescue StandardError => e` 甚至 `rescue Exception => e`) 都是不可取的
+应用里不该捕获所有的`unknown exceptions`, `rescue StandardError => e` 甚至 `rescue Exception => e` 都是不可取的
 
 错误应该被暴露出去, 然后及时修复; 由于错误被吞掉导致的问题很让人恼火, 而且有时候会很难排查
 
