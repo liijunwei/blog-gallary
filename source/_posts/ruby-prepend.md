@@ -106,3 +106,16 @@ end
 
 是魔法吗? 不确定; 不知道其他语言有没有这么多hook 和灵活的用法
 
+2022-07-09 09:47:43 update
+
+不是魔法, hook的本质大概是在模块/类的生命周期中 提前定义好"如果存在则会被调用的代码块", 从外部看来就是hook了
+
+用这种视角来看, 其他语言肯定也可以实现
+
+核心大概是: "生命周期" 和 "封装"
+
+很好例子就是 activerecord 里的 ["The Object Life Cycle"](https://guides.rubyonrails.org/active_record_callbacks.html#the-object-life-cycle)
+
+清晰的定义 配合良好的封装, 使得activerecord的hook使用起来很方便
+
+
