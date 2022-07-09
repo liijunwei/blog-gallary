@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-09 10:17:14 TODO how bash/zsh/fish implements command completions?
+
 - 2022-07-09 10:10:01 https://github.com/Homebrew/brew `tig --all --author=XuehaiPan@pku.edu.cn`  大佬给brew提了好多commit, 榜样, 继续努力, 争取尽早能为开源社区做贡献
 
 - 2022-07-08 08:45:21 "递归是神, 循环是人" 是什么意思?
