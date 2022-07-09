@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-09 10:34:36 问题: 加了"# frozen_string_literal: true" 后, 文件里的 "#freeze" 应该是冗余的了吧? https://github.com/Homebrew/brew/commit/d1ea6f38d3ea1ad8d1665ad18267ed1a2ad08b8c
+
 - 2022-07-09 10:17:14 TODO how bash/zsh/fish implements command completions?
 
 - 2022-07-09 10:10:01 https://github.com/Homebrew/brew `tig --all --author=XuehaiPan@pku.edu.cn`  大佬给brew提了好多commit, 榜样, 继续努力, 争取尽早能为开源社区做贡献
