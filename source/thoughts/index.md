@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-09 11:03:18 问题: rubocop(或者其他工具) 能不能检测出来捕获异常时, 更宽的异常被先捕获了, 导致更具体的异常永远没机会被捕获?
+
 - 2022-07-09 11:01:52 每一行代码都需要维护|最好维护的代码是还没写出来的代码|代码量少一点会更好
 
 - 2022-07-09 10:34:36 问题: 加了"# frozen_string_literal: true" 后, 文件里的 "#freeze" 应该是冗余的了吧? https://github.com/Homebrew/brew/commit/d1ea6f38d3ea1ad8d1665ad18267ed1a2ad08b8c
