@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-12 23:37:11 https://learnbyexample.github.io/Ruby_Regexp/unicode.html
+
 - 2022-07-11 20:25:37 good resource: http://guides.railsgirls.com/
 
 - 2022-07-11 12:06:05 当我感觉问题出现在别人身上的时候，一定要小心，因为事实可能恰好相反
