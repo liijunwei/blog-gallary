@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-13 00:06:05 interesting https://www.honeybadger.io/blog/the-rubyist-guide-to-unicode-utf8/
+
 - 2022-07-12 23:39:05 "You have to use curly braces for code points above FFFF: `"\u{1F600}" #=> "😀"`" --- https://stackoverflow.com/questions/24672834/how-do-i-remove-emoji-from-string
 
 - 2022-07-12 23:37:11 https://learnbyexample.github.io/Ruby_Regexp/unicode.html
