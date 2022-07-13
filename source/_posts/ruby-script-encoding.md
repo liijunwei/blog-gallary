@@ -7,7 +7,9 @@ tags:
 
 ref: https://ruby-doc.org/core-3.0.0/Encoding.html#class-Encoding-label-Script+encoding
 
-终于知道了ruby script里encoding这个magic comment是什么作用了
+终于知道了ruby script里`encoding`这个`magic comment`是什么作用了
+
+这个`magic comment`不是被编辑器解析的, 而是由ruby解释器解析的(not 100% sure)
 
 > All Ruby script code has an associated Encoding which any String literal created in the source code will be associated to.
 
