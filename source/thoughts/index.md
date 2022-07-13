@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-14 00:02:47 ["RSA is easy enough to implement that everyone should do it.(???)"](https://matt.might.net/articles/what-cs-majors-should-know/)
+
 - 2022-07-14 00:00:25 "Cryptography is what makes much of our digital lives possible."
 
 - 2022-07-13 23:48:09 "Computer scientists should understand generative programming (macros); lexical (and dynamic) scope; closures; continuations; higher-order functions; dynamic dispatch; subtyping; modules and functors; and monads as semantic concepts distinct from any specific syntax." --- https://matt.might.net/articles/what-cs-majors-should-know/
