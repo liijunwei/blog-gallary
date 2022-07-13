@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-13 22:53:55 "让你不耐烦的声声的召唤, 都发自弱势的一方" 从你的全世界路过
+
 - 2022-07-13 00:20:42 rtfm: https://ruby-doc.org/core-3.0.0/Encoding.html
 
 - 2022-07-13 00:06:05 interesting https://www.honeybadger.io/blog/the-rubyist-guide-to-unicode-utf8/
