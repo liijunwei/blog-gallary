@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-14 21:08:23 提醒自己: 多向不抱怨或者很少抱怨的人学习
+
 - 2022-07-14 11:19:22 用业务(领域)语言写代码
 
 - 2022-07-14 00:02:47 ["RSA is easy enough to implement that everyone should do it.(???)"](https://matt.might.net/articles/what-cs-majors-should-know/)
