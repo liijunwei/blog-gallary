@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-14 11:19:22 用业务(领域)语言写代码
+
 - 2022-07-14 00:02:47 ["RSA is easy enough to implement that everyone should do it.(???)"](https://matt.might.net/articles/what-cs-majors-should-know/)
 
 - 2022-07-14 00:00:25 "Cryptography is what makes much of our digital lives possible."
