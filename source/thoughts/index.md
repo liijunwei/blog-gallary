@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-15 23:57:33 李哥是榜样
+
 - 2022-07-15 16:36:42 echo $EPOCHSECONDS # learned from git-auto-fetch plugin
 
 - 2022-07-15 12:26:29 对产品有了感性认识后，再去通读文档效率会很高
