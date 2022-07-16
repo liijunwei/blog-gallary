@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-16 17:13:00 真·忘了早饭
+
 - 2022-07-15 23:57:33 李哥是榜样
 
 - 2022-07-15 16:36:42 echo $EPOCHSECONDS # learned from git-auto-fetch plugin
