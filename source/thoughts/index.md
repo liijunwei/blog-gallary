@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-18 22:21:11 TODO learn: https://github.com/rubocop/rubocop/pull/3161
+
 - 2022-07-18 21:13:11 情书 也来自于巧合 https://www.bilibili.com/bangumi/play/ep424759?theme=movie&spm_id_from=333.337.0.0
 
 - 2022-07-18 09:34:23 后知后觉得意识到，静态语言里，如果一个函数抛出了异常， 调用者需要选择继续向上抛还是处理异常；当前rails项目里的很多异常，只是抛出去了，但是没有处理，这是bugsnag整天响个不停的原因
