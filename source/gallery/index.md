@@ -3,8 +3,6 @@ title: gallery
 date: 2021-09-13 08:19:33
 ---
 
-![cute Sharkitten in dont starve Shipwrecked DLC](./images/miaosha.JPG)
-
 ![Learning Pyrimid](./images/learning.pyrimid.jpg)
 
 ![unknown-beauty](./images/logo.jpg)
