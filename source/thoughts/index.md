@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-19 23:39:17 工作中, 要把琐事快速处理掉; 集中精力做价值高的事
+
 - 2022-07-18 22:21:11 TODO learn: https://github.com/rubocop/rubocop/pull/3161
 
 - 2022-07-18 21:13:11 情书 也来自于巧合 https://www.bilibili.com/bangumi/play/ep424759?theme=movie&spm_id_from=333.337.0.0
