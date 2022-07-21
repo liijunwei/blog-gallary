@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-22 06:50:38 看了scheme语言的介绍, 有了解了一点AST, 突然发现AST的表示法和scheme语言的写法简直一模一样
+
 - 2022-07-21 21:13:09 做好自己的事, 多做有价值的事; 要有适当的危机感
 
 - 2022-07-21 11:41:30 changelog的另一种实现: https://github.com/whitequark/parser/blob/492871419b298e233bb788ec1793b7af7004e23e/Rakefile#L88
