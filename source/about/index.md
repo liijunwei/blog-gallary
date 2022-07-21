@@ -16,7 +16,8 @@ Experience: 两年的Ruby-On-Rails开发经验; 一年交换生经验;
 Skills:     Ruby/Rails
 Lately:     玩命理解业务
             读CSAPP, 每天5页
-            极客时间-10x程序员工作法
 For Fun:    work on pet projects
             learn golang
+            learn scheme/DDD/AST
+            read "从你的全世界路过"
 ```
