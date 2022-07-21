@@ -72,7 +72,7 @@ coding -> problem -> analysis: can be automated? -> tool available?
 + 动手尝试, 实践
 + 读wiki/manual要仔细一点
 
-## 接下来的TODo
+## 接下来的TODO
 
 rubocop 里的 ShadowedException cop, 没法检查出需要运行时才能判断出的继承关系
 
