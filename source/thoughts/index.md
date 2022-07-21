@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-21 11:41:30 changelog的另一种实现: https://github.com/whitequark/parser/blob/492871419b298e233bb788ec1793b7af7004e23e/Rakefile#L88
+
 - 2022-07-20 23:01:24 https://github.com/rubocop/rubocop/issues/10823#issuecomment-1189714041 作者说的 RuboCop is a static analysis tool, it doesn't know inheritance relationships at runtime 是什么意思, 先搞清楚,再考虑是不是自己实现一个工具
 
 - 2022-07-20 10:59:25 编程语言是 业务 和 机器 之间的粘合层
