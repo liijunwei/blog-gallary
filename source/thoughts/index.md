@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-22 22:24:09 女声太绝啦 https://www.youtube.com/watch?v=px39IB42q-k
+
 - 2022-07-22 21:02:12 巨佬简历: https://www.zenspider.com/ryan/Resume.html
 
 - 2022-07-22 16:27:37 有沟通的欲望，有出门浪的欲望，但不多
