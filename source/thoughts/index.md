@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-23 09:05:01 和老大聊天很开心
+
 - 2022-07-22 22:24:09 《山阴路的夏天》里的女声太绝啦 https://youtu.be/px39IB42q-k
 
 - 2022-07-22 21:02:12 巨佬简历: https://www.zenspider.com/ryan/Resume.html
