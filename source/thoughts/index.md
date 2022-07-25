@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-25 14:05:47 tool: brakeman
+
 - 2022-07-25 13:40:40 有趣的网站... https://www.worldometers.info/
 
 - 2022-07-25 13:26:00 ["Career Advice"](https://www.zenspider.com/ruby/2012/09/career-advice.html)
