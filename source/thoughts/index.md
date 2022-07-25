@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-25 18:00:08 是反应太慢还是基础不牢? ruby里那种不好搜索的 module下再写class的搜索方式, 其实用正则表达式很容易就搜索的出来了... 比如 ag "RuboCop\s+module.Cop"
+
 - 2022-07-25 14:13:33 TODO sponsor Ryan $1/month https://github.com/sponsors/zenspider
 
 - 2022-07-25 14:11:28 [Continuous Conscious Self-Improvement](https://www.zenspider.com/ruby/2018/03/continuous-conscious-self-improvement.html)
