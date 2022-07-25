@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-25 08:54:06 昨天发烧了, 昨晚吃药捂汗后今天退了烧, 身体还有点虚
+
 - 2022-07-23 12:35:13 给PyGitup 提了一个小PR, 体验了一下python, poetry和pytest, 还比较顺畅; 只有文档风格有点不同, 有点抓不住重点, 费了些时间
 
 - 2022-07-23 12:29:09 read the friendly manual carefully...
