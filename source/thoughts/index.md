@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-25 18:55:20 榜样: https://www.zenspider.com/sitemap.html
+
 - 2022-07-25 18:20:23 和大佬学了一招 [CDPATH](https://www.zenspider.com/ruby/2012/06/cdpath.html), 先试试, 不过目测不适合我的工作流
 
 - 2022-07-25 18:16:27 有趣的东西又增加了: https://linux.101hacks.com/
