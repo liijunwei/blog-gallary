@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-25 13:18:25 ["thinking before debugging"](https://www.zenspider.com/ruby/2012/08/thinking-before-debugging.html)
+
 - 2022-07-25 13:01:11 [book: "The Scheme Programming Language Fourth Edition" by Fourth Edition/R. Kent Dybvig](https://www.scheme.com/tspl4/)
 
 - 2022-07-25 08:54:06 昨天发烧了, 昨晚吃药捂汗后今天退了烧, 身体还有点虚
