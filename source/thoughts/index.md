@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-26 00:16:43 rubocop rubucop-ast 写的好呀, 也不对, 应该是 各类业务被梳理清楚后, 然后用业务语言把代码组织好了, 都会给人这种清晰易懂的感觉
+
 - 2022-07-25 19:37:52 Use regexp wisely
 
 - 2022-07-25 18:55:20 榜样: https://www.zenspider.com/sitemap.html
