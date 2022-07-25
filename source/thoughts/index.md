@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-25 14:13:33 TODO sponsor Ryan $1/month https://github.com/sponsors/zenspider
+
 - 2022-07-25 14:11:28 [Continuous Conscious Self-Improvement](https://www.zenspider.com/ruby/2018/03/continuous-conscious-self-improvement.html)
 
 - 2022-07-25 14:05:47 tool: brakeman
