@@ -3,6 +3,10 @@ title: gallery
 date: 2021-09-13 08:19:33
 ---
 
+![20220727花花世界](./images/20220727-huahuashijie.jpg)
+
+![20220727黑水](./images/20220727-heishui.jpg)
+
 ![Perfume gift from friend](./images/202207-perfume-gift-from-friend.jpg)
 
 ![Learning Pyrimid](./images/learning.pyrimid.jpg)
