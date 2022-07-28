@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-29 01:06:50 OK good enough solution !
+
 - 2022-07-28 23:49:27 看源码要仔细一点, 并且要有一点举一反三的能力: ruby 里 exception 可以直接用 < > = 来比较是否是子类的...
 
 - 2022-07-28 22:04:18 https://github.com/astrauka/TestRSpec 这个得花点时间...
