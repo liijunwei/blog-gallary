@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-30 00:31:44 这个主题很合胃口, 找时间定制一下: https://github.com/zhaoo/hexo-theme-zhaoo
+
 - 2022-07-29 22:41:39 同事里有大佬: https://blog.aotoki.me/en/
 
 - 2022-07-29 13:38:31 rubocop-ast 里有一个 changelog的实现，抽空看看 (tasks/changelog.rb)
