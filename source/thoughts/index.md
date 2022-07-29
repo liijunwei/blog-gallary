@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-29 13:38:31 rubocop-ast 里有一个 changelog的实现，抽空看看 (tasks/changelog.rb)
+
 - 2022-07-29 08:59:43 少抱怨，多想办法(sublime plugin or https://github.com/astrauka/TestRSpec)
 
 - 2022-07-29 01:06:50 OK good enough solution !
