@@ -15,11 +15,11 @@ tags:
 
 切下来后已经送检了, 下周应该就有结果了, GoodLuck.
 
-![](./a110ded7f807e9c76bbb4c67cad59d17.jpg)
-> 小机器人
-![](./df28b0413a244df159879196cdcf4656.jpg)
-> 我看剧, 你看我...
-![](./手术后突然粘人.jpg)
-> 手术后突然粘人
-![](./压到我的手啦.jpg)
-> 压到我的手啦
+![小机器人](images/cat-after-surgery/a110ded7f807e9c76bbb4c67cad59d17.jpg)
+
+![我看剧, 你看我...](images/cat-after-surgery/df28b0413a244df159879196cdcf4656.jpg)
+
+![手术后突然粘人](images/cat-after-surgery/手术后突然粘人.jpg)
+
+![压到我的手啦](images/cat-after-surgery/压到我的手啦.jpg)
+

@@ -69,5 +69,5 @@ subl .
 ```
 > OK 大功告成
 
-![](./flow-learn.png)
+![](images/editor-and-terminal-autorun/flow-learn.png)
 

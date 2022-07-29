@@ -5,6 +5,5 @@ tags:
   - fun
 ---
 
+![乔谯 和 郑树森](images/刀锋1937-RushYear/4fe07e3143415ee1ba984eee0e43ff1b.png)
 
-
-![](./4fe07e3143415ee1ba984eee0e43ff1b.png)

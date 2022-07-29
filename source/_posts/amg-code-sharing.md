@@ -52,11 +52,11 @@ FUNCTIONALITY  | IS_ESSENTIAL  | CODE_ENTRY
 
 ### 架构关系
 
-![](./AMG架构-V20210202.png)
+![](images/amg-code-sharing/AMG架构-V20210202.png)
 
 ### 时序图
 
-![](./AMG时序图-V20210906.png)
+![](images/amg-code-sharing/AMG时序图-V20210906.png)
 
 ### 最大的函数做了什么?
 

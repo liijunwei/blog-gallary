@@ -6,5 +6,5 @@ tags:
   - 大佬的世界
 ---
 
-![](./WechatIMG1.jpeg)
+![](images/RubyConf2021/WechatIMG1.jpeg)
 

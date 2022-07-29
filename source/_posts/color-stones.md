@@ -10,6 +10,6 @@ tags:
 
 https://www.bilibili.com/video/BV1wx411a7nF?p=7
 
-![](./WechatIMG1.png)
+![](images/color-stones/WechatIMG1.png)
 
-![](./WechatIMG2.png)
+![](images/color-stones/WechatIMG2.png)

@@ -9,7 +9,7 @@ tags:
 > 命令行里加个小表情足以愉悦自己
 > 当git工作区不是"working tree clean"状态时 放出小表情
 
-![](./cmdline-emoji.png)
+![](images/having-so-much-fun-enjoying-cmdline-emoji/cmdline-emoji.png)
 
 
 实现方法:
