@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-30 23:29:30 不太明白: https://github.com/ruby/shellwords/issues/1
+
 - 2022-07-30 22:44:19 ["formerly @github, creator of the merge button"](https://github.com/tmm1) 厉害嗷
 
 - 2022-07-30 15:33:19 给小猫一个舒服的位置, 她就会经常去踩奶
