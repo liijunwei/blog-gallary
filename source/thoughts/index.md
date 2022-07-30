@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-30 22:44:19 ["formerly @github, creator of the merge button"](https://github.com/tmm1) 厉害嗷
+
 - 2022-07-30 15:33:19 给小猫一个舒服的位置, 她就会经常去踩奶
 
 - 2022-07-30 11:02:16 [youtube: Beautiful Landscapes 4K UltraHD Slideshow 2018](https://www.youtube.com/watch?v=rgZfmWXTqas)
