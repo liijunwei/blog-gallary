@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-30 15:33:19 给小猫一个舒服的位置, 她就会经常去踩奶
+
 - 2022-07-30 11:02:16 [youtube: Beautiful Landscapes 4K UltraHD Slideshow 2018](https://www.youtube.com/watch?v=rgZfmWXTqas)
 
 - 2022-07-30 10:28:56 "C和C++以增加实现时间和(特别是)调试时间为代价来优化效率" --- Unix编程艺术-14.2
