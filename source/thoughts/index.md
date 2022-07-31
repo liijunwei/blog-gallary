@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-07-31 18:47:42 古天乐+孙红雷的 "毒战" 很好看啊
+
 - 2022-07-31 12:11:15 learn your tools
 
 - 2022-07-30 23:45:45 use https://github.com/sickill/rainbow instead of https://github.com/defunkt/colored
