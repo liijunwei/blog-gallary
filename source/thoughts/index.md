@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-01 22:21:42 many help wanted issues: https://github.com/Homebrew/brew/issues
+
 - 2022-07-31 20:38:00 虽然char_detector这个项目花了不少时间,并且现在回头看,完全没必要, 但是过程中学到了很多东西, 这比这个项目本身重要得多. 过程就是奖励
 
 - 2022-07-31 20:36:21 read the manual carefully if you want to save time: https://www.gnu.org/software/grep/manual/html_node/Character-Classes-and-Bracket-Expressions.html
