@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-02 21:46:42 退出怨气过重的群
+
 - 2022-08-01 23:04:34 rubocop 里的命名还挺有趣的, department/badage/cops
 
 - 2022-08-01 22:21:42 many help wanted issues: https://github.com/Homebrew/brew/issues
