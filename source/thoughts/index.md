@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-03 12:18:44 permission and slow network issues are so distracting
+
 - 2022-08-03 00:49:25 debug时一定要注意缓存, 一会儿生效,一会儿失效时一定要考虑是不是缓存干扰
 
 - 2022-08-02 21:46:42 退出怨气过重的群
