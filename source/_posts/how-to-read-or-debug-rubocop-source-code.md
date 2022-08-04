@@ -25,3 +25,9 @@ follow the steps bellow:
 btw, go ahead to see spec/tests is also a good option.
 
 Have fun reading source code
+
+## 20220804 update
+
+use `exe/rubocop --cache false --only Lint/ShadowedException tmp/shawdowed_exception.rb` to avoid odd behaviors while debugging
+
+
