@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-05 00:16:53 免费工具么? https://awesomecode.io/
+
 - 2022-08-05 00:02:19 好像在做这个演讲的时候, rubocop还没有出现 https://speakerdeck.com/flyerhzm/write-ruby-code-to-change-ruby-code 不对,rubocop2012年就发布了0.0.0版本,到2015年应该已经有点名气了,可能还不稳定吧, 没出现在这个PPT里
 
 - 2022-08-04 23:57:48 AST启蒙 https://speakerdeck.com/flyerhzm/write-ruby-code-to-change-ruby-code
