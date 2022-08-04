@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-04 23:07:37 要有能力证明自己搞得定
+
 - 2022-08-04 19:24:52 功能应该加到 rubocop-rails 里
 
 - 2022-08-03 12:18:44 permission and slow network issues are so distracting
