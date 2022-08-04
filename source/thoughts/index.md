@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-04 23:36:47 https://rubygems.org/gems/prettier 似乎是第三个流派
+
 - 2022-08-04 23:31:09 两个ruby ast parser 流派: https://rubygems.org/gems/parser https://rubygems.org/gems/ruby_parser
 
 - 2022-08-04 23:25:38 [2）残酷无情地还债，就算是CEO来了，也无法阻止我还债的脚步。](https://coolshell.cn/articles/11656.html)
