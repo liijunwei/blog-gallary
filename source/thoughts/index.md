@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-04 23:37:23 加分机制 和 减分机制
+
 - 2022-08-04 23:36:47 https://rubygems.org/gems/prettier 似乎是第三个流派
 
 - 2022-08-04 23:31:09 两个ruby ast parser 流派: https://rubygems.org/gems/parser https://rubygems.org/gems/ruby_parser
