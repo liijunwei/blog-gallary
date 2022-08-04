@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-04 23:31:09 两个ruby ast parser 流派: https://rubygems.org/gems/parser https://rubygems.org/gems/ruby_parser
+
 - 2022-08-04 23:25:38 [2）残酷无情地还债，就算是CEO来了，也无法阻止我还债的脚步。](https://coolshell.cn/articles/11656.html)
 
 - 2022-08-04 23:22:38 ["技术债是不能欠的，要残酷无情地还债。很多事情，一开始不会有，那么就永远不会有。一旦一个事情烂了，后面只能跟着一起烂，烂得越多，就越没有人敢去还债。"](https://coolshell.cn/articles/11656.html)
