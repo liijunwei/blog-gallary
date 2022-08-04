@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-05 00:23:21 hoe能看懂就行了, 感觉没必要使用
+
 - 2022-08-05 00:21:19 hoe doc: http://docs.seattlerb.org/hoe/Hoe.pdf
 
 - 2022-08-05 00:16:53 免费工具么? https://awesomecode.io/
