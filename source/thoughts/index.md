@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-05 00:47:31 眼冒金星: https://github.com/flyerhzm/code_analyzer/blob/master/lib/code_analyzer/sexp.rb
+
 - 2022-08-05 00:23:21 hoe能看懂就行了, 感觉没必要使用
 
 - 2022-08-05 00:21:19 hoe doc: http://docs.seattlerb.org/hoe/Hoe.pdf
