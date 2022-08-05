@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-05 22:18:23 晚上少吃一定要配合早早睡觉, 不然22-23点真有要饿死的幻觉
+
 - 2022-08-05 22:17:50 凉度%70
 
 - 2022-08-05 21:22:28 My first github Sponsoring goes to a member of RuboCop core team
