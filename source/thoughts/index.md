@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-05 21:10:52 [人们在这个世界上要么选择独处，要么选择庸俗，除此以外再没有更多别的选择了。 --- 《人生的智慧》](https://www.zhihu.com/question/23654551/answer/75017818) 有必要找时间读一下这本书, 就今年吧
+
 - 2022-08-05 10:25:42 [rubocop 里的这种使用Gemfile.local的方式](https://github.com/rubocop/rubocop/blob/7593ec85d872e526465d7404904d70d08e89c4b8/Gemfile#L30) 只适合 Gemfile.lock 没被加到git里的情况，普通应用不适用
 
 - 2022-08-05 09:35:46 rebase 和 cherry-pick 在checksum的结果会有不同
