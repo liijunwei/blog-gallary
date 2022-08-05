@@ -20,4 +20,5 @@ Lately:     玩命理解业务
 For Fun:    work on pet projects
             learn golang
             learn scheme/DDD/AST
+Favorites:  https://github.com/liijunwei/favorites
 ```
