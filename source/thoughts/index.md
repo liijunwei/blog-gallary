@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-05 10:25:42 [rubocop 里的这种使用Gemfile.local的方式](https://github.com/rubocop/rubocop/blob/7593ec85d872e526465d7404904d70d08e89c4b8/Gemfile#L30) 只适合 Gemfile.lock 没被加到git里的情况，普通应用不适用
+
 - 2022-08-05 09:35:46 rebase 和 cherry-pick 在checksum的结果会有不同
 
 - 2022-08-05 00:47:31 眼冒金星: https://github.com/flyerhzm/code_analyzer/blob/master/lib/code_analyzer/sexp.rb
