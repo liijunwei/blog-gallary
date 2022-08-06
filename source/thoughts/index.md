@@ -5,7 +5,7 @@ date: 2021-09-10 15:55:20
 
 - 2022-08-06 19:13:56 ["1. The world is full of fascinating problems waiting to be solved."](http://www.catb.org/~esr/faqs/hacker-howto.html#believe1)
 
-- 2022-08-06 19:13:14 关注这个 rescue_from 的 PR: https://github.com/rubocop/rubocop-rails/pull/139
+- 2022-08-06 19:13:14 关注这个 rescue_from 的 PR: https://github.com/rubocop/rubocop-rails/pull/139 (等一下, 这个好像不是我想要的功能)
 
 - 2022-08-06 17:55:01 好想给rubocop提交代码,继续努力
 
