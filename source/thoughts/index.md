@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-09 23:15:37 太喜欢这种风格了 https://37signals.com 至繁归于至简 
+
 - 2022-08-09 23:13:24 大佬大佬~ https://dhh.dk/
 
 - 2022-08-09 22:43:52 这种性能优化就像魔术一样, 真有趣 https://blog.hackershare.dev/2021/04/12/dashboard-performance-speedup/
