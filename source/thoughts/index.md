@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-09 22:43:52 这种性能优化就像魔术一样, 真有趣 https://blog.hackershare.dev/2021/04/12/dashboard-performance-speedup/
+
 - 2022-08-08 23:13:16 大佬的gitlab: https://gitlab.com/esr
 
 - 2022-08-08 23:00:53 TODO learn数据驱动编程实例(unix编程艺术9.1.1): http://www.catb.org/~esr/ascii/
