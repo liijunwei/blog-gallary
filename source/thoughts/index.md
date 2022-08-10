@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-11 00:19:59 先看文档, 再看代码; 不要养成直接看代码的坏习惯
+
 - 2022-08-09 23:18:18 ["You can do big things with small teams, but it’s hard to do small things with big teams. And small is often plenty. That’s the power of small — you do what needs to be done rather than overdoing it."](https://37signals.com/03)
 
 - 2022-08-09 23:15:37 太喜欢这种风格了 https://37signals.com 至繁归于至简 
