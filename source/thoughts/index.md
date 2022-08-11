@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-11 14:53:12 饱受奇形怪状的的折磨后，肃然向推进标准化的人致敬, RESPECT
+
 - 2022-08-11 09:44:17 great rubocop development guide: https://docs.rubocop.org/rubocop/development.html
 
 - 2022-08-11 09:22:02 有了感性认识以后, 一定要仔细读文档, 可以省时间
