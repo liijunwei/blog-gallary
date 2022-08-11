@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-11 23:45:13 "一个很好的经验法则是: 提高适应能力, 除非这样做会超过0.7秒的延迟(0.7秒是一个魔术)"
+
 - 2022-08-11 22:29:16 也算间接做了一点开源贡献 嘿嘿嘿 https://github.com/rubocop/rubocop/pull/10887
 
 - 2022-08-11 21:37:33 分不清哪个版本的ruby ast parser更好用了，选择困难症犯了 parser/ruby_parser/syntax_tree/ripper...
