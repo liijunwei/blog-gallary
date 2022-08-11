@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-11 09:16:17 this is the source: https://docs.rubocop.org/rubocop/integration_with_other_tools.html
+
 - 2022-08-11 09:14:57 ruby git commit hook tool: https://github.com/sds/overcommit
 
 - 2022-08-11 00:19:59 先看文档, 再看代码; 不要养成直接看代码的坏习惯
