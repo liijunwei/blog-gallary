@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-11 09:44:17 great rubocop development guide: https://docs.rubocop.org/rubocop/development.html
+
 - 2022-08-11 09:22:02 有了感性认识以后, 一定要仔细读文档, 可以省时间
 
 - 2022-08-11 09:16:17 this is the source: https://docs.rubocop.org/rubocop/integration_with_other_tools.html
