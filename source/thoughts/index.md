@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-12 22:01:52 又一个宝藏up https://space.bilibili.com/2088487272
+
 - 2022-08-12 13:47:09 或许我更应该换掉sublime...
 
 - 2022-08-12 13:46:44 早点用这个就好了: https://github.com/gbaptista/sublime-3-shell-exec
