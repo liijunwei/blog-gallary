@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-12 23:39:01 ["Without maintenance, OSS projects are a snapshot in time: eventually they will become outdated."](https://www.mikeperham.com/2020/06/02/trimming-dependencies-concurrent-ruby/)
+
 - 2022-08-12 22:01:52 又一个宝藏up https://space.bilibili.com/2088487272
 
 - 2022-08-12 13:47:09 或许我更应该换掉sublime...
