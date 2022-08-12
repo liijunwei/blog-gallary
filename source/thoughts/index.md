@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-12 23:51:03 学习大佬工作 https://github.com/mperham/sidekiq/pull/5467
+
 - 2022-08-12 23:45:18 虽然比较喜欢这种做法, 但还是需要很大决心和实力的 https://github.com/stripe/stripe-ruby/pull/813
 
 - 2022-08-12 23:39:01 ["Without maintenance, OSS projects are a snapshot in time: eventually they will become outdated."](https://www.mikeperham.com/2020/06/02/trimming-dependencies-concurrent-ruby/)
