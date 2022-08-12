@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-12 13:47:09 或许我更应该换掉sublime...
+
 - 2022-08-12 13:46:44 早点用这个就好了: https://github.com/gbaptista/sublime-3-shell-exec
 
 - 2022-08-12 09:27:10 马总分享的截图工具: https://shottr.cc/#section-faq
