@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-14 00:08:02 ["What is Ruby DSL" By Ilya Bylich](https://iliabylich.github.io/2015/05/25/what-is-ruby-dsl.html)
+
 - 2022-08-13 23:58:28 大佬blog收集器: https://github.com/iliabylich
 
 - 2022-08-13 23:19:01 My second github Sponsoring goes to a [zenspider](https://github.com/zenspider)
