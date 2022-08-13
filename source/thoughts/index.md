@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-13 23:58:28 大佬blog收集器: https://github.com/iliabylich
+
 - 2022-08-13 23:19:01 My second github Sponsoring goes to a [zenspider](https://github.com/zenspider)
 
 - 2022-08-13 23:14:41 ["Known Issue: Totally awesome." hhh 希望有一天我也能有这么自信的作品](https://github.com/seattlerb/ruby_parser#featuresproblems-)
