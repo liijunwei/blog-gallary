@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-13 23:14:41 ["Known Issue: Totally awesome." hhh 希望有一天我也能有这么自信的作品](https://github.com/seattlerb/ruby_parser#featuresproblems-)
+
 - 2022-08-13 23:05:01 没有简单的事, 但是也别被吓倒
 
 - 2022-08-13 23:03:47 [Exception handling: Rescue body/Rescue statement](https://github.com/whitequark/parser/blob/master/doc/AST_FORMAT.md#exception-handling)
