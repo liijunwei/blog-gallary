@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-13 21:19:57 happy dating hhh
+
 - 2022-08-13 10:59:21 play with this: https://github.com/rayning0/game-of-life-ruby
 
 - 2022-08-12 23:51:03 学习大佬工作 https://github.com/mperham/sidekiq/pull/5467
