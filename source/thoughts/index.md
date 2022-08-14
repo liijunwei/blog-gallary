@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-14 15:22:00 百闻不如一见, 百见不如一试
+
 - 2022-08-14 00:15:12 ast gem 最复杂的部分似乎是这个mixin: http://whitequark.github.io/ast/AST/Processor/Mixin.html
 
 - 2022-08-14 00:08:02 ["What is Ruby DSL" By Ilya Bylich](https://iliabylich.github.io/2015/05/25/what-is-ruby-dsl.html)
