@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-14 15:22:48 20220813 的美好时光 西直门 - 长安记 - 动物园 - 北京海洋馆
+
 - 2022-08-14 15:22:00 百闻不如一见, 百见不如一试
 
 - 2022-08-14 00:15:12 ast gem 最复杂的部分似乎是这个mixin: http://whitequark.github.io/ast/AST/Processor/Mixin.html
