@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-14 19:52:04 ["The silent majority's reply" --- DHH](https://world.hey.com/dhh/the-silent-majority-s-reply-3dcdc03e)
+
 - 2022-08-14 15:35:47 gol engine 好像就一个核心的 tick 方法, 怎么验证它的正确性? 怎么图形化展示呢
 
 - 2022-08-14 15:22:48 20220813 的美好时光 西直门 - 长安记 - 动物园 - 北京海洋馆
