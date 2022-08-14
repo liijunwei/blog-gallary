@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-14 20:59:19 妙啊妙啊
+
 - 2022-08-14 19:52:04 ["The silent majority's reply" --- DHH](https://world.hey.com/dhh/the-silent-majority-s-reply-3dcdc03e)
 
 - 2022-08-14 15:35:47 gol engine 好像就一个核心的 tick 方法, 怎么验证它的正确性? 怎么图形化展示呢
