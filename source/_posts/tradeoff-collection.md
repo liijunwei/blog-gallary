@@ -34,3 +34,9 @@ cryptography
 + [Everything is a trade-off, even good (or trendy) solutions add complexity.](https://thoughtbot.com/blog/testing-null-objects)
 
 + [null-object pattern is not silver bullet](https://github.com/liijunwei/practice/blob/main/ruby/design-pattern/null-object-pattern2.rb)
+
+### Use sidekiq or use sidekiq with rails activejob
+
++ sidekiq: powerful/simple
++ activejob: more rails-favored features
+
