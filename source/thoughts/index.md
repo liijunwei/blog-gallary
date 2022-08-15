@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-15 10:38:05 [Ruby Heroes](https://rubyheroes.com/) sadly not maintained
+
 - 2022-08-15 09:44:01 强迫症/偏执 也可能出自无知
 
 - 2022-08-14 20:59:19 妙啊妙啊
