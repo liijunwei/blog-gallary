@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-15 09:44:01 强迫症/偏执 也可能出自无知
+
 - 2022-08-14 20:59:19 妙啊妙啊
 
 - 2022-08-14 19:52:04 ["The silent majority's reply" --- DHH](https://world.hey.com/dhh/the-silent-majority-s-reply-3dcdc03e)
