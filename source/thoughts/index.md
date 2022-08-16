@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-16 14:10:13 sublime setting -> save_on_focus_lost is what i want
+
 - 2022-08-15 14:23:27 sidekiq流行，api简单；activejob复杂，通用，功能强；不那么讨厌activejob了(之前的厌恶理由不充分，只是为对未知对本能排斥而已), 但是有一个约定更好啊，我有能力推行嘛？
 
 - 2022-08-15 10:38:05 [Ruby Heroes](https://rubyheroes.com/) sadly not maintained
