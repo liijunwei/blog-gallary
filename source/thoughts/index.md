@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-16 23:35:53 有点纠结是否要切换到vscode
+
 - 2022-08-16 16:40:19 sublime setting -> ensure_newline_at_eof_on_save is what i want
 
 - 2022-08-16 14:10:13 sublime setting -> save_on_focus_lost is what i want
