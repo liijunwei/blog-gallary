@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-16 23:48:54 举重若轻 大智若愚 好高的境界啊
+
 - 2022-08-16 23:35:53 有点纠结是否要切换到vscode
 
 - 2022-08-16 16:40:19 sublime setting -> ensure_newline_at_eof_on_save is what i want
