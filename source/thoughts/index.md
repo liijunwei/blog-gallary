@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-18 12:57:08 CST  这个时区简称有那么多相同的，还是+0800 比较直观 https://www.timeanddate.com/time/zones/
+
 - 2022-08-18 10:56:53 应该是因为不熟悉，感觉datadog太复杂了
 
 - 2022-08-17 23:22:28 https://medium.com/rubycademy/refine-and-using-methods-in-ruby-part-i-2aef6d7a4325
