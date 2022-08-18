@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-18 17:48:09 好像是个不错的工具: https://github.com/lovoo/Github-action-confluence-sync
+
 - 2022-08-18 13:00:43 看了很多git仓库，很多大佬在200几年的时候就在写代码，真的好羡慕； 那时候我还在家里看电视呢... 记得2008年的时候第一次接触到海贼王，信息真是够闭塞的...
 
 - 2022-08-18 12:57:45 for time format: https://docs.splunk.com/Documentation/Splunk/9.0.0/SearchReference/Commontimeformatvariables
