@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-19 20:34:55 "There is no such thing as a 5 minute job. It'll always take at least half a day."
+
 - 2022-08-19 16:30:31 第一性原理 是什么意思？
 
 - 2022-08-19 08:01:12 [MegaEase 经验分享：非计算机专业的人如何转行程序员（宿琛）](https://youtu.be/Lc_dWfiBPI8)
