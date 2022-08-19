@@ -40,3 +40,10 @@ cryptography
 + sidekiq: powerful/simple
 + activejob: more rails-favored features
 
+### ease of use | feature rich
+
++ beginners want programs/interface to be easy to use
+
++ advanced users want programs/interface to be more powerful
+
+
