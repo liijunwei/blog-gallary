@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-20 00:33:09 终于看懂rails 里 Rails.logger 的初始化流程了
+
 - 2022-08-20 00:06:01 rails booting process: https://github.com/rails/rails/blob/2f9c84a604b3288504196e23c95348221a298b35/railties/lib/rails/application.rb#L43
 
 - 2022-08-19 20:34:55 "There is no such thing as a 5 minute job. It'll always take at least half a day."
