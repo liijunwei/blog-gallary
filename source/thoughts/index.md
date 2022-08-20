@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-21 00:12:01 trade-off example [ruby logger issue](https://github.com/ruby/logger/pull/37)
+
 - 2022-08-21 00:09:23 动态语言里, 如果不熟悉API, 很容易出现runtime exception, 在我看来这些未被处理的运行时异常都是技术负债, 要借助bugsnag之类的工具逐步清理掉
 
 - 2022-08-21 00:07:11 [breaking changes will make users suffer, but maybe it's necessary sometimes](https://github.com/ruby/logger/pull/37#issuecomment-522317299)
