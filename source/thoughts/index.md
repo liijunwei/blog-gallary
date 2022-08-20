@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-20 22:50:24 happy dating mini boss~
+
 - 2022-08-20 09:30:26 [Status in the Hacker Culture: "Help test and debug open-source software"](http://www.catb.org/~esr/faqs/hacker-howto.html#respect2) https://github.com/ruby-git/ruby-git/pull/588 one more baby step in open source contribution 继续努力
 
 - 2022-08-20 01:15:15 sidekiq的代码懂得更多了一点
