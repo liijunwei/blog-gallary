@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-21 00:01:01 最佳的做法其实存在, 只是比较难而已 https://github.com/ruby/logger/pull/37#issuecomment-522184977
+
 - 2022-08-20 22:50:24 happy dating mini boss~
 
 - 2022-08-20 09:30:26 [Status in the Hacker Culture: "Help test and debug open-source software"](http://www.catb.org/~esr/faqs/hacker-howto.html#respect2) https://github.com/ruby-git/ruby-git/pull/588 one more baby step in open source contribution 继续努力
