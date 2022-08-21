@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-21 12:47:48 plugins seem equivalent to addons
+
 - 2022-08-21 12:41:17 还没用过heroku, 是不是有点可惜?
 
 - 2022-08-21 12:07:16 不要让小猫听到塑料的声音
