@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-21 18:18:04 95后大佬, 小李也继续努力 https://juzhiyuan.me/blog/tools
+
 - 2022-08-21 18:10:37 ["正确的解决问题的优先级: 不写代码 -> 只写前端代码 -> 如果必须有后端服务, 使用可以Serverless方式部署的写法 -> 维护一个服务器"](https://sideproject.guide/build)
 
 - 2022-08-21 18:08:41 感觉很不错的小册子(关于side-project): https://sideproject.guide/
