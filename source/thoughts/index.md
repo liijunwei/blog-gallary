@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-21 12:07:16 不要让小猫听到塑料的声音
+
 - 2022-08-21 00:12:01 trade-off example [ruby logger issue](https://github.com/ruby/logger/pull/37)
 
 - 2022-08-21 00:09:23 动态语言里, 如果不熟悉API, 很容易出现runtime exception, 在我看来这些未被处理的运行时异常都是技术负债, 要借助bugsnag之类的工具逐步清理掉
