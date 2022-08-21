@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-21 12:41:17 还没用过heroku, 是不是有点可惜?
+
 - 2022-08-21 12:07:16 不要让小猫听到塑料的声音
 
 - 2022-08-21 00:12:01 trade-off example [ruby logger issue](https://github.com/ruby/logger/pull/37)
