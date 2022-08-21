@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-21 13:25:41 quick elixir tutorial: https://www.youtube.com/watch?v=ozAdz_k4x30&list=PLjeHh2LSCFrVbXFwZIdYliHFgcUnuQyny&index=2
+
 - 2022-08-21 13:17:53 午睡背景音... https://www.youtube.com/watch?v=uwyODLNh5X8
 
 - 2022-08-21 12:47:48 plugins seem equivalent to addons
