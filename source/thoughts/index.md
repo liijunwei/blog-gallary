@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-21 17:36:26 sidekiq里的重试机制能处理的错误是: 1. 网络波动之类的意外; 2. worker里的逻辑有bug, 需要通过debug, 修复后重新部署和重启worker, 让worker用相同的参数执行修正后的代码; 所以, 如果修改worker的perform方法的签名, 这种变更, 使用retry机制其实处理不了, 需要小心
+
 - 2022-08-21 13:25:41 quick elixir tutorial: https://www.youtube.com/watch?v=ozAdz_k4x30&list=PLjeHh2LSCFrVbXFwZIdYliHFgcUnuQyny&index=2
 
 - 2022-08-21 13:17:53 午睡背景音... https://www.youtube.com/watch?v=uwyODLNh5X8
