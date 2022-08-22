@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-22 09:15:21 You know you’re an addict when ...
+
 - 2022-08-21 18:23:10 进入垃圾时间了, 休息...
 
 - 2022-08-21 18:18:04 95后大佬, 小李也继续努力 https://juzhiyuan.me/blog/tools
