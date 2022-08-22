@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-22 23:21:13 TODO buy this app maybe: https://culturedcode.com/things/mac/appstore/
+
 - 2022-08-22 23:17:05 收藏: https://haoqun.blog/zh/2022/my-new-macbook-pro-setup
 
 - 2022-08-22 23:03:49 打卡有用啊 hhh CSAPP这个月要读的量今天提前完成了, 之后的都是净赚 不愧是我
