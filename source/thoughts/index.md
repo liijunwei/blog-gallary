@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-23 22:59:09 rails logging best practices: https://www.loggly.com/use-cases/ruby-on-rails-logging-best-practices/
+
 - 2022-08-23 22:36:13 第一次自己做了点虾尾, 还不错, 但只吃了一小盘就有点腻了; 还是家常饭比较耐吃啊
 
 - 2022-08-23 16:07:28 need a simple cli to centralize all my commandline work flows, in order not to forget...
