@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-23 22:36:13 第一次自己做了点虾尾, 还不错, 但只吃了一小盘就有点腻了; 还是家常饭比较耐吃啊
+
 - 2022-08-23 16:07:28 need a simple cli to centralize all my commandline work flows, in order not to forget...
 
 - 2022-08-23 14:28:37 随手一搜，没想到真的有啊 https://www.ifixit.com/Guide/Cleaning+Logitech+MX+Master/113126
