@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-23 10:18:20 多用pry的show-source, 少用 source/source_location
+
 - 2022-08-22 23:22:01 TODO buy this app maybe: https://nssurge.com/
 
 - 2022-08-22 23:21:13 TODO buy this app maybe: https://culturedcode.com/things/mac/appstore/
