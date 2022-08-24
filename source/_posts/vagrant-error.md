@@ -72,3 +72,25 @@ vagrant destroy
 vagrant up
 vagrant ssh
 ```
+
+## Error.3 `Remote connection disconnect. Retrying`
+
+https://github.com/hashicorp/vagrant/issues/9834#issuecomment-460061515
+
+### Reason
+
+Seems related to vagrant .vagrant folder cache
+
+### Solution
+
+```bash
+vagrant halt
+vagrant destroy
+rm -rf .vagrant
+
+vagrant up
+vagrant ssh
+```
+
+
+
