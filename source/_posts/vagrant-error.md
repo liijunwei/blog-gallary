@@ -73,13 +73,13 @@ vagrant up
 vagrant ssh
 ```
 
-## Error.3 `Remote connection disconnect. Retrying`
+## Error.3 `Remote connection disconnect. Retrying` and ask for ssh password
 
-https://github.com/hashicorp/vagrant/issues/9834#issuecomment-460061515
+https://github.com/puphpet/puphpet/issues/1253#issuecomment-145429092
 
-### Reason
+> for some dumb people like me, do not use /home/vagrant as your shared folder (in your vm), because the .ssh files are not accesible.
 
-Seems related to vagrant .vagrant folder cache
+don't understand the reason, but this is the cause, remove the `config.vm.synced_folder` resolved the problem
 
 ### How to debug
 
@@ -90,14 +90,4 @@ vagrant ssh --debug
 
 ### Solution
 
-```bash
-vagrant halt
-vagrant destroy
-rm -rf .vagrant
-
-vagrant up
-vagrant ssh
-```
-
-
-
+rm `config.vm.synced_folder` in Vagrantfile and try again
