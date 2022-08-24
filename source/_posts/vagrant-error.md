@@ -81,6 +81,13 @@ https://github.com/hashicorp/vagrant/issues/9834#issuecomment-460061515
 
 Seems related to vagrant .vagrant folder cache
 
+### How to debug
+
+```bash
+vagrant ssh-config
+vagrant ssh --debug
+```
+
 ### Solution
 
 ```bash
