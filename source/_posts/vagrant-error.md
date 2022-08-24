@@ -17,7 +17,7 @@ Tried to use vagrant vm, but I met error while booting the vm
 VBoxManage: error: Details: code NS_ERROR_FAILURE (0x80004005), component MachineWrap, interface IMachine
 ```
 
-### The solution
+### Solution
 
 https://stackoverflow.com/questions/52689672/virtualbox-ns-error-failure-0x80004005-macos
 
@@ -52,3 +52,23 @@ then I can `vagrant ssh` into the machine, seem above error is not a big deal
 
 But I want to make it go away...
 
+### Reason
+
+seems related to vagrant plugin `vagrant-vbguest`
+
+```bash
+vagrant plugin list
+vagrant plugin uninstall vagrant-vbguest
+```
+
+### Solution
+
+
+Unistall the plugin and reboot the vagrant vm
+
+```bash
+vagrant halt
+vagrant destroy
+vagrant up
+vagrant ssh
+```
