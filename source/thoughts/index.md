@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-25 23:57:00 感觉自己变灵活了: 之前用ast的方法从controller里提取rescue_from真是给我气得冒烟, 实际上用动态的方式获取根本毫不费力, 分析一下就知道 rescue_from是 注册handlers而已, 看下api就能取到注册了哪些handlers了
+
 - 2022-08-25 23:39:23 https://rubygems.org/gems/{gemname}/reverse_dependencies
 
 - 2022-08-25 22:45:01 一个不成熟的感悟: 对技术了解越多越深, 会更理解什么是偏执; 在对比过activejob 和 sidekiq的功能后, 我发现此前对sidekiq的偏执来源于对activejob的无知, 这种偏执没什么好处; 我可以在不懂,了解很少的时候无脑先遵守最佳实践,或者前人经验; 但最终一定会越来越熟悉, 要有自己的判断和选择
