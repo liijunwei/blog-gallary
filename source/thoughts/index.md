@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-25 16:31:22 做正确的事+用正确的方法 体验极佳; 可惜很多事很难界定什么事正确，把握好自己能界定的
+
 - 2022-08-25 08:36:51 [TDD example in Elixir](https://youtu.be/xtsR-SjhV28)
 
 - 2022-08-24 21:50:15 好像终于看到了个明白人... https://github.com/puphpet/puphpet/issues/1253#issuecomment-145429092
