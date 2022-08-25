@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-25 08:36:51 [TDD example in Elixir](https://youtu.be/xtsR-SjhV28)
+
 - 2022-08-24 21:50:15 好像终于看到了个明白人... https://github.com/puphpet/puphpet/issues/1253#issuecomment-145429092
 
 - 2022-08-24 09:19:59 做练习时，如果用到了gnu工具，最好别再mac上做，找个虚拟机来做，会少一些意外的麻烦
