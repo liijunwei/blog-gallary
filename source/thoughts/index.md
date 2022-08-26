@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-27 07:24:00 "Any fool can write code that computer can understand. Good programmers write code that humans can understand." - Martin Fowler (where is the original post?)
+
 - 2022-08-27 07:08:23 blog: https://akshaykhot.com/archive/
 
 - 2022-08-27 06:57:07 昨晚和几位大佬吃晚饭聊聊天感觉真好
