@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-27 07:25:49 TODO review: https://akshaykhot.com/useful-ruby-gems/
+
 - 2022-08-27 07:24:00 "Any fool can write code that computer can understand. Good programmers write code that humans can understand." - Martin Fowler (where is the original post?)
 
 - 2022-08-27 07:08:23 blog: https://akshaykhot.com/archive/
