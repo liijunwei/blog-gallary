@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-27 09:17:06 prefer duplication over wrong abstraction --- https://youtu.be/8bZh5LMaSmE?t=2154
+
 - 2022-08-27 09:11:18 inheritance is not evil ... when constraints applied
 
 - 2022-08-27 09:01:05 看完这个, 感觉复习了一遍 99 bottles of OOP, 但是还有必要花时间再看几遍那本书 --- https://www.youtube.com/watch?v=8bZh5LMaSmE
