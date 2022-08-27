@@ -3,6 +3,8 @@ title: gallery
 date: 2021-09-13 08:19:33
 ---
 
+![I apologize](./images/20220827_short_one.png)
+
 ![凡事多用点心](./images/20220826-dinner.jpg)
 
 ![flower](./images/20220825-early-up.jpg)
