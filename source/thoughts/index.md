@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-27 11:56:35 for ruby breaking change of YAML/Psych: https://github.com/contribsys/einhorn/pull/106
+
 - 2022-08-27 11:48:38 ["If you want to use a really old Ruby, you give up any hope of support. That’s a constant trade-off in the software industry: keep up or be left behind."](https://www.mikeperham.com/2022/07/14/modernizing-einhorn/)
 
 - 2022-08-27 10:44:52 没太明白: https://www.mikeperham.com/2022/07/29/sidekiq-and-request-specific-context/
