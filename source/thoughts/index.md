@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-27 08:53:03 duplication is far cheaper than the wrong abstraction --- https://www.youtube.com/watch?v=8bZh5LMaSmE
+
 - 2022-08-27 08:28:11 Readability
 
 - 2022-08-27 08:22:34 aim for clarity --- https://youtu.be/nHIu9b4ny2o?t=48
