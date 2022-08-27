@@ -3,7 +3,7 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
-- 2022-08-27 09:43:50 I like reading manuals: http://www.mikeperham.com/2015/09/24/storing-data-with-redis/
+- 2022-08-27 09:43:50 I like reading manuals: http://www.mikeperham.com/2015/09/24/storing-data-with-redis/ 等一下, 这个不是redis的文档... 眼花了
 
 - 2022-08-27 09:33:44 小猫很喜欢开箱环节, 超喜欢
 
