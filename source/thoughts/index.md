@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-27 12:16:37 TODO youtube + Sandi Metz
+
 - 2022-08-27 12:07:13 这样(被动地)承担起gem的维护责任(也)很了不起: https://www.mikeperham.com/2022/07/14/modernizing-einhorn/
 
 - 2022-08-27 12:01:20 mock: [gopumago](https://twitter.com/gopumago) -> gojunweigo 哈哈哈
