@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-28 23:40:26 **更明智的做法是 几种精力将时间复杂度/空间复杂度从O(n2) 降低至 O(n) 或者 O(nlog(n)), 或者类似的, 从一个更高次的指数将下来**, 线性性能增益往往很快就会被摩尔定律覆盖了 --- unix编程艺术ch12.1
+
 - 2022-08-28 23:17:30 happy dating 🍚🏹 🍵😊ི🤤
 
 - 2022-08-28 22:57:10 https://speakerdeck.com/hsbt/how-to-take-over-oss-project
