@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-29 23:19:33 CSAPP: http://csapp.cs.cmu.edu/
+
 - 2022-08-29 15:21:00 终于找到你... [cmd+shift+p -> close tabs(dismiss unsaved)](https://packagecontrol.io/packages/TabsExtra)
 
 - 2022-08-29 12:28:41 [Principle of least astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment)
