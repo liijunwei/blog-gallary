@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-30 00:40:50 https://github.com/rubygems/bundler-graph
+
 - 2022-08-29 23:24:36 好像打开了新世界: http://csapp.cs.cmu.edu/3e/labs.html
 
 - 2022-08-29 23:19:33 CSAPP: http://csapp.cs.cmu.edu/
