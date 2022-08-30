@@ -46,4 +46,9 @@ cryptography
 
 + advanced users want programs/interface to be more powerful
 
+### top -> down design | bottom -> up design
+
+"the art of unix programming"
+
+
 
