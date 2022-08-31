@@ -54,4 +54,9 @@ cryptography
 
 "the art of unix programming" ch13.1.2
 
+### features/performance | price
+
+["Fast and resilient web apps: Tools and techniques - Google I/O 2016"](https://youtu.be/aqvz5Oqs238?t=1132)
+
+
 
