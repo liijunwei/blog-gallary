@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-31 08:05:50 找到榜样了: https://qiaoin.github.io/re-learning-cs/
+
 - 2022-08-30 23:50:07 ["Bloom Filters in Ruby"](https://www.igvita.com/2008/12/27/scalable-datasets-bloom-filters-in-ruby/)
 
 - 2022-08-30 23:37:33 从 bloomfilter-rb 又发现大佬一枚: ["Ilya Grigorik is a Principal Engineer at Shopify and author of High Performance Browser Networking (O'Reilly)"](https://www.igvita.com/)
