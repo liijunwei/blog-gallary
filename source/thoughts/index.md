@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-31 11:24:18 tagsExtra 这个插件会让 sublime的 cmd+w 失效
+
 - 2022-08-31 10:49:15 在sublime里修改默认的这三个参数真的太舒服了: "ensure_newline_at_eof_on_save save_on_focus_lost trim_trailing_white_space_on_save"
 
 - 2022-08-31 08:05:50 找到榜样了: https://qiaoin.github.io/re-learning-cs/
