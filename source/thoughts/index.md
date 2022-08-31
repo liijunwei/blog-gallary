@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-08-31 23:41:33 [Sidekiq and Request-Specific Context | Mike Perham](https://www.mikeperham.com/2022/07/29/sidekiq-and-request-specific-context/) ---> [Current attributes in Rails - Full Stack Heroes](https://fullstackheroes.com/tutorials/rails/current-attributes/) ---> [ActiveSupport::CurrentAttributes provides a thread-isolated attributes singleton by dhh · Pull Request #29180 · rails/rails](https://github.com/rails/rails/pull/29180)
+
 - 2022-08-31 23:32:58 今天同事分享了一个问题排查的思路, 受益很多. 项目里使用hutch做rabbitmq的消费者, 消费者里使用到了thread local variable, 但是没有注意处理后清理Thread.current[:key], 导致后续的消息无用了之前的变量值; 结合Thread.current request_store 这个gem还有petproj的动手实验, 感觉终于掌握了这个小东西, 也知道了怎么避免问题; 最主要的是注意到自己眼光的局限: 之前只注意到项目中会有app和sidekiq进程, 实际上还有mq进程, 之前为什么完全没注意到呢... 感谢分享
 
 - 2022-08-31 23:08:38 线程 与 线程池, 理解的更深一点了
