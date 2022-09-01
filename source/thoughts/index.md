@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-09-02 07:21:23 羡慕到变形
+
 - 2022-09-01 23:42:21 什么时候能沉下心读完这个吗? https://hpbn.co/http2/
 
 - 2022-09-01 23:38:55 [http2](https://docs.google.com/presentation/d/1_SMrVmiMxW2X1QZ1EcCnLKSosiD0PppP70Q3bw-l5Lg/present?slide=id.gae999cde7_0_29)
