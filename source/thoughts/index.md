@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-09-01 23:38:55 [http2](https://docs.google.com/presentation/d/1_SMrVmiMxW2X1QZ1EcCnLKSosiD0PppP70Q3bw-l5Lg/present?slide=id.gae999cde7_0_29)
+
 - 2022-09-01 21:10:27 沉迷于借助测试用例修改代码的低级快乐了...
 
 - 2022-09-01 16:44:57 琐碎的事一定要做的快，不然会占用远超出想象的时间
