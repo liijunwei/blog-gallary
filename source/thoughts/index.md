@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-09-01 16:44:57 琐碎的事一定要做的快，不然会占用远超出想象的时间
+
 - 2022-09-01 07:59:50 ["在旧学派的unix中, 唯一的框架就是管道/重定向/shell; 整合工作由脚本完成, 而共享上下文环境(本质上)就是文件系统本身; 但这并不是进化的终点"] --- the-art-of-unix-programming/ch13-complexity
 
 - 2022-08-31 23:41:33 [Sidekiq and Request-Specific Context | Mike Perham](https://www.mikeperham.com/2022/07/29/sidekiq-and-request-specific-context/) ---> [Current attributes in Rails - Full Stack Heroes](https://fullstackheroes.com/tutorials/rails/current-attributes/) ---> [ActiveSupport::CurrentAttributes provides a thread-isolated attributes singleton by dhh · Pull Request #29180 · rails/rails](https://github.com/rails/rails/pull/29180)
