@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-09-03 12:23:01 ["unless you're doing test-first, you're not a professional"](https://youtu.be/9LfmrkyP81M?t=2695)
+
 - 2022-09-02 21:38:13 sad/expected ending; gl
 
 - 2022-09-02 07:39:25 觉得概念或者想法难以理解的时候, 要想办法构造一个demo, 快速验证, 避免陷入到: 我看不懂/我搞不定 的状态
