@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-09-05 00:05:26 习惯突然断掉真不好受
+
 - 2022-09-03 12:26:26 Clarity
 
 - 2022-09-03 12:23:01 ["unless you're doing test-first, you're not a professional"](https://youtu.be/9LfmrkyP81M?t=2695)
