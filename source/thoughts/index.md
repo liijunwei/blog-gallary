@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-09-05 22:39:32 看大师写代码... https://github.com/Distrotech/fetchmail
+
 - 2022-09-05 22:18:51 "余下的, 很不幸, 成为了历史" --- Unix编程艺术 ch15
 
 - 2022-09-05 09:37:55 以后如果有需要，可以用这个替代iterm2 https://github.com/alacritty/alacritty
