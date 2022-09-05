@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-09-05 09:37:55 以后如果有需要，可以用这个替代iterm2 https://github.com/alacritty/alacritty
+
 - 2022-09-05 00:05:26 习惯突然断掉真不好受
 
 - 2022-09-03 12:26:26 Clarity
