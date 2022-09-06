@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-09-06 21:36:08 https://andycroll.com/ruby/use-sidekiq-directly-not-through-active-job/
+
 - 2022-09-06 16:07:20 这个系统浑身都是开关 好可怕
 
 - 2022-09-06 07:59:11 昨晚梦到手机丢了, 电脑被黑了... 还挺吓人的, 要有风险意识
