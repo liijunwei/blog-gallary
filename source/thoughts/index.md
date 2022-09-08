@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-09-09 07:14:59 去宁波
+
 - 2022-09-08 23:15:29 good to learn: https://github.com/theicfire/makefiletutorial
 
 - 2022-09-08 22:50:18 "工作是否有趣，往往就在我们的一念之间。" 我很幸运, 所做的工作是我喜欢的 https://mp.weixin.qq.com/s/f9Y0Z9a6fnGeytCJrDIilA
