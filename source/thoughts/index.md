@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-09-08 22:50:18 "工作是否有趣，往往就在我们的一念之间。" 我很幸运, 所做的工作是我喜欢的 https://mp.weixin.qq.com/s/f9Y0Z9a6fnGeytCJrDIilA
+
 - 2022-09-08 14:15:22 发现宝藏啦 https://www.youtube.com/c/ChrisBourkeUNL/playlists
 
 - 2022-09-08 13:20:57 [I like this gdb tutorial, haha(learn gdb with linux distribution, not macos)](https://youtu.be/bWH-nL7v5F4), and the bugs are stupid and fun lol
