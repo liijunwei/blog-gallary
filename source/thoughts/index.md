@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-09-08 13:13:44 tool: https://www.wolframalpha.com/
+
 - 2022-09-08 10:27:22 [C语言变量和函数声明 "Right Left Rule Explanation" 没法更详细了吧...] (https://youtu.be/3zwNIPlrZHQ)
 
 - 2022-09-06 21:36:08 https://andycroll.com/ruby/use-sidekiq-directly-not-through-active-job/
