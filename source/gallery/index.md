@@ -3,6 +3,8 @@ title: gallery
 date: 2021-09-13 08:19:33
 ---
 
+![一别七年的老师和甬城-韩玲老街](./images/20220910/20220911-visit-high-school-en.jpg)
+
 ![I apologize](./images/20220827_short_one.png)
 
 ![凡事多用点心](./images/20220826-dinner.jpg)
