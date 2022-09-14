@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-09-14 23:22:44 ["If I struggle to understand this code, I refactor it so I won't have to struggle again next time I look at it. If there's some functionality buried in there that I need, I refactor so I can easily use it."](https://refactoring.com/)
+
 - 2022-09-14 23:21:26 加入待读的书单... https://refactoring.com/
 
 - 2022-09-14 22:30:27 "愚弄读者, 就是承认自己也是傻瓜"
