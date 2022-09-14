@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-09-14 14:01:09 commit message: Co-authored-by
+
 - 2022-09-13 23:05:52 谨记: https://mikeperham.com/2016/02/09/kill-your-dependencies/
 
 - 2022-09-13 18:17:36 带着问题学习，这个问题就是所有后续学习的入口
