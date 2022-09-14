@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-09-14 22:30:27 "愚弄读者, 就是承认自己也是傻瓜"
+
 - 2022-09-14 22:16:58 [markdown-details-collapsible](https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab)
 
 - 2022-09-14 14:01:09 commit message: Co-authored-by
