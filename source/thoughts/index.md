@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-09-15 23:59:44 https://github.com/mperham/sidekiq/discussions/5424 问题想清楚了以后, 很多杂七杂八的烦恼其实是可以避免的
+
 - 2022-09-15 23:33:42 1. 把自己的代码写好； 2. 抱怨别人的代码一次就好了，要么把它改好，要么就尽量脱敏；3. martin-fowler的先调整代码，让它容易修改，然后再添加功能的重构思维真的太棒了
 
 - 2022-09-14 23:22:44 ["If I struggle to understand this code, I refactor it so I won't have to struggle again next time I look at it. If there's some functionality buried in there that I need, I refactor so I can easily use it."](https://refactoring.com/)
