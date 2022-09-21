@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-09-21 11:27:40 be positive & proactive when possible
+
 - 2022-09-20 23:55:08 有点不确定, 能量低的时候, 该不该出门玩; 两种结果, 一种是出门后变好了, 另一种是出门后能量更低了; 后者很糟糕
 
 - 2022-09-20 21:48:20 代码写多了会遇到这种问题也不奇怪... https://github.com/rspec/rspec-expectations/issues/1063
