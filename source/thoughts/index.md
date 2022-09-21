@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-09-22 01:00:34 RTFM: When someone installs your gem, the `Gemfile` and `Gemfile.lock` files are completely ignored https://bundler.io/guides/faq.html#using-gemfiles-inside-gems
+
 - 2022-09-22 00:51:31 被潜移默化了, 我的行为模式和这个趋同, 挺好, 继续努力 https://brendansterne.com/2013/07/11/do-the-right-thing-wait-to-get-fired/
 
 - 2022-09-22 00:39:59 [ARTS 的任务，每个人每周一个 Algorithm，Review 一篇英文文章，总结一个工作中的技术 Tip，以及 Share 一个传递价值观的东西！](https://time.geekbang.org/column/article/41118) 不知不觉中已经在做了, 算法部分得补起来
