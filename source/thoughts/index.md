@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-09-22 14:03:22 [Slack’s Incident on 2-22-22](https://slack.engineering/slacks-incident-on-2-22-22/)
+
 - 2022-09-22 01:00:34 RTFM: When someone installs your gem, the `Gemfile` and `Gemfile.lock` files are completely ignored https://bundler.io/guides/faq.html#using-gemfiles-inside-gems
 
 - 2022-09-22 00:51:31 被潜移默化了, 我的行为模式和这个趋同, 挺好, 继续努力 https://brendansterne.com/2013/07/11/do-the-right-thing-wait-to-get-fired/
