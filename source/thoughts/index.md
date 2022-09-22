@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-09-23 00:16:29 looking good: `rails routes --expanded`
+
 - 2022-09-23 00:01:16 "Do yourself a favor and make sure your test coverage is good before you start an upgrade."
 
 - 2022-09-22 23:58:56 TODO https://guides.rubyonrails.org/v6.1/upgrading_ruby_on_rails.html#upgrading-from-rails-5-2-to-rails-6-0
