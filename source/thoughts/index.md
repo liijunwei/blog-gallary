@@ -3,7 +3,7 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
-- 2022-09-22 23:38:27 yet another bloger: https://eileencodes.com/
+- 2022-09-22 23:38:27 yet another blog~er~: https://eileencodes.com/
 
 - 2022-09-22 23:16:04 b哥的音乐听着好安心啊(可能是太熟悉了)
 
