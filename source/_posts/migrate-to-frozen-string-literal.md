@@ -7,7 +7,7 @@ tags:
 ---
 
 [20220613 update] better use robocop auto-correct to handle this issue.
-[20220728 update] `be rubocop -A **/*.rb --only Style/FrozenStringLiteralComment`
+[20220728 update] `bundle exec rubocop -A **/*.rb --only Style/FrozenStringLiteralComment`
 
 I've read a blog post written by [Mike Perham](https://github.com/mperham) introducing the **Magic Comment**, and I tried it out in my project.
 
