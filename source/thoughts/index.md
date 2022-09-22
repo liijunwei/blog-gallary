@@ -3,7 +3,7 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
-- 2022-09-23 00:16:29 looking good: `rails routes --expanded`
+- 2022-09-23 00:17:22 [Rails6 feature: `rails routes -h`](https://github.com/rails/rails/pull/32130)
 
 - 2022-09-23 00:01:16 "Do yourself a favor and make sure your test coverage is good before you start an upgrade."
 
