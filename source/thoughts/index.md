@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-09-24 18:19:52 "Separation of mechanism and policy" 机制 而不是 策略 "the art of unix programming"
+
 - 2022-09-24 16:28:45 blog: https://www.justinhoward.org/
 
 - 2022-09-24 12:27:41 This is helpful... https://stackoverflow.com/questions/11619593/how-to-change-the-fork-that-a-repository-is-linked-to
