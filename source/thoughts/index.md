@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-09-24 18:59:39 blog: http://www.catb.org/~esr/ this is ESR
+
 - 2022-09-24 18:47:10 我欲学习unix大道, 但是弄不懂命令行
 
 - 2022-09-24 18:26:09 免费书... 太好了 http://www.catb.org/esr/writings/taoup/
