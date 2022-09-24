@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-09-24 12:27:41 This is helpful... https://stackoverflow.com/questions/11619593/how-to-change-the-fork-that-a-repository-is-linked-to
+
 - 2022-09-24 11:21:18 嘿嘿😜 https://github.com/mperham/connection_pool/pull/164
 
 - 2022-09-24 10:32:59 [Atom Editor is Dead and I am Sad by EM](https://youtu.be/Pcvc9w5CGTw) sublime加油, 我不太想换vscode...
