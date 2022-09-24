@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-09-24 18:47:10 我欲学习unix大道, 但是弄不懂命令行
+
 - 2022-09-24 18:26:09 免费书... 太好了 http://www.catb.org/esr/writings/taoup/
 
 - 2022-09-24 18:19:52 "Separation of mechanism and policy" 机制 而不是 策略 "the art of unix programming"
