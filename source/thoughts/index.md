@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-09-24 09:54:16 [When you need a term meaning (1) to make clean or orderly, or (2) to make oneself clean, use clean up—two words. In American and Canadian English, the one-word cleanup is a noun referring to (1) a thorough cleaning or (2) the act or process of cleaning.](https://grammarist.com/usage/cleanup-clean-up/#:~:text=When%20you%20need%20a%20term,act%20or%20process%20of%20cleaning.)
+
 - 2022-09-23 00:17:22 [Rails6 feature: `rails routes -h`](https://github.com/rails/rails/pull/32130)
 
 - 2022-09-23 00:01:16 "Do yourself a favor and make sure your test coverage is good before you start an upgrade."
