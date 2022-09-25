@@ -8,17 +8,14 @@ tag:
 ### Basic Intro
 
 ```markdown
-Name:       李俊伟
-Location:   北京
-Age:        26
+Name:       lijunwei
+Location:   beijing
 Email:      ljw532344863@sina.com
-Experience: 两年的Ruby-On-Rails开发经验; 一年交换生经验;
-Skills:     Ruby/Rails
-Lately:     玩命理解业务
-            读CSAPP, 每天5页
-            learn pg
+Skills:     ruby/rails | t
+Lately:     coding
+            read "refactoring"
+            learn go
 For Fun:    work on pet projects
-            learn golang
             learn scheme/DDD/AST
 Favorites:  https://github.com/liijunwei/favorites
 ```
