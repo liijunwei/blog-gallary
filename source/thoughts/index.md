@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-09-26 09:33:56 https://teachyourselfcs.com/
+
 - 2022-09-26 09:31:18 可以经常逛逛 [RubyChina 新手问题 非计算机专业程序员补习基础，求推荐书籍](https://ruby-china.org/topics/38861)
 
 - 2022-09-26 09:28:24 书单: [程序员必读书单 1.0](https://blog.lucida.me/blog/developer-reading-list/)
