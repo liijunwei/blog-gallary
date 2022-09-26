@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-09-26 15:49:17 webmock的代码掌握了主线: lib/webmock/http_lib_adapters 里面都是元编程, 不知道其他语言是怎么实现的
+
 - 2022-09-26 09:33:56 https://teachyourselfcs.com/
 
 - 2022-09-26 09:31:18 可以经常逛逛 [RubyChina 新手问题 非计算机专业程序员补习基础，求推荐书籍](https://ruby-china.org/topics/38861)
