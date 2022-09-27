@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-09-27 21:50:32 怎么让两台电脑共享同一个github账号?
+
 - 2022-09-26 23:11:45 https://www.bmc.com/blogs/docker-cmd-vs-entrypoint/
 
 - 2022-09-26 15:49:17 webmock的代码掌握了主线: lib/webmock/http_lib_adapters 里面都是元编程, 不知道其他语言是怎么实现的
