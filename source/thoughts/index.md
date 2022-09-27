@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-09-27 21:52:46 sidekiq6的docker化比我想象中容易得多...
+
 - 2022-09-27 21:50:32 怎么让两台电脑共享同一个github账号?
 
 - 2022-09-26 23:11:45 https://www.bmc.com/blogs/docker-cmd-vs-entrypoint/
