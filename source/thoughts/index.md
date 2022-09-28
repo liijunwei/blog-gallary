@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-09-28 23:14:18 烂代码...
+
 - 2022-09-28 14:51:55 Question: Is it `On Production` or 'In Production` for native speakers?
 
 - 2022-09-28 09:52:26 dependabot有好多open-issue啊
