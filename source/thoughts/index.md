@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-09-28 09:52:26 dependabot有好多open-issue啊
+
 - 2022-09-27 23:37:44 ["A method is a function with a special receiver argument."](https://go.dev/tour/methods/1)
 
 - 2022-09-27 23:08:42 ["Functions are values too. They can be passed around just like other values."](https://go.dev/tour/moretypes/24)
