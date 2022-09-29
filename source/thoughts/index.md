@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-09-29 23:18:34 加入书单(克制买纸质书的冲动...) [《程序员修炼之道》](https://ruby-china.org/topics/42671)
+
 - 2022-09-29 22:58:29 好生的词啊 ubiquitous 无处不在的
 
 - 2022-09-29 22:14:33 unclear: "Under the hood, interface values can be thought of as a tuple of a value and a concrete type"
