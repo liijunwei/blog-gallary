@@ -11,7 +11,7 @@ tag:
 Name:       lijunwei
 Location:   beijing
 Email:      ljw532344863@sina.com
-Skills:     ruby/rails | t
+Skills:     ruby/rails
 Lately:     coding
             read "refactoring"
             learn go
