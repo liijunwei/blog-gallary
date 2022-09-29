@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-09-29 22:58:29 好生的词啊 ubiquitous 无处不在的
+
 - 2022-09-29 22:14:33 unclear: "Under the hood, interface values can be thought of as a tuple of a value and a concrete type"
 
 - 2022-09-29 19:36:33 态度对了，有问题就解决问题，觉得不顺利就去做优化；我该积极参与环境建设了
