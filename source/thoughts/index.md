@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-09-30 16:43:09 question: what are the differences between github and github enterprise ?
+
 - 2022-09-30 15:54:25 ["A goal is an achievable outcome that is generally broad and longer term while an objective is shorter term and defines measurable actions to achieve an overall goal. "](https://asana.com/resources/goal-vs-objective)
 
 - 2022-09-30 08:32:05 [go type parameter: "Go functions can be written to work on multiple types using type parameters. The type parameters of a function appear between brackets, before the function's arguments."](https://go.dev/tour/generics/1)
