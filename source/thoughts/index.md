@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-01 00:46:34 stay foolish
+
 - 2022-10-01 00:23:20 `git-change-origin-repo` this flow works handy
 
 - 2022-09-30 23:32:10 "Creating a beautiful code base should always be a priority; however, creating working software is the number one priority." --- "Refactoring"
