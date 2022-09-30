@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-09-30 08:32:05 [go type parameter: "Go functions can be written to work on multiple types using type parameters. The type parameters of a function appear between brackets, before the function's arguments."](https://go.dev/tour/generics/1)
+
 - 2022-09-29 23:24:26 插眼: https://www.kill-9.fun/postgres-b-plus-tree-structure-note/
 
 - 2022-09-29 23:18:34 加入书单(克制买纸质书的冲动...) [《程序员修炼之道》](https://ruby-china.org/topics/42671)
