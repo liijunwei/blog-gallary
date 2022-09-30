@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-09-30 23:32:10 "Creating a beautiful code base should always be a priority; however, creating working software is the number one priority." --- "Refactoring"
+
 - 2022-09-30 17:45:56 https://support.atlassian.com/jira-software-cloud/docs/reference-issues-in-your-development-work/
 
 - 2022-09-30 16:43:09 question: what are the differences between github and github enterprise ?
