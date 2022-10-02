@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-02 10:25:48 理解了 依赖注入/面向接口编程后, 会发现 策略模式也就那么回事
+
 - 2022-10-01 00:46:34 stay foolish
 
 - 2022-10-01 00:23:20 `git-change-origin-repo` this flow works handy
