@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-02 20:34:22 想起来了一本对我影响挺大的书: "Ruby Data Processing Using map, reduce, and select by Jay Godse"
+
 - 2022-10-02 15:30:12 https://thoughtbot.com/blog/debugging-why-your-specs-have-slowed-down
 
 - 2022-10-02 10:25:48 理解了 依赖注入/面向接口编程后, 会发现 策略模式也就那么回事
