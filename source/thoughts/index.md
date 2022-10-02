@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-02 21:05:32 获得好书推荐: "The Go Programming Language"
+
 - 2022-10-02 20:42:58 竟然才找到耗子叔的github账号... https://github.com/haoel
 
 - 2022-10-02 20:40:04 TODO read "clean code"
