@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-02 20:42:58 竟然才找到耗子叔的github账号... https://github.com/haoel
+
 - 2022-10-02 20:40:04 TODO read "clean code"
 
 - 2022-10-02 20:34:22 想起来了一本对我影响挺大的书: "Ruby Data Processing Using map, reduce, and select by Jay Godse"
