@@ -3,13 +3,15 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-03 11:52:14 found typo in "refactoring": ch06-composing-methods/09-replace-method-with-method-object inportant_value1->important_value1
+
 - 2022-10-02 21:05:32 获得好书推荐: "The Go Programming Language"
 
 - 2022-10-02 20:42:58 竟然才找到耗子叔的github账号... https://github.com/haoel
 
 - 2022-10-02 20:40:04 TODO read "clean code"
 
-- 2022-10-02 20:34:22 想起来了一本对我影响挺大的书: "Ruby Data Processing Using map, reduce, and select by Jay Godse"
+- 2022-10-02 20:34:22 想起来了一本对我影响挺大的书: ["Ruby Data Processing Using map, reduce, and select by Jay Godse"](https://www.oreilly.com/library/view/ruby-data-processing/9781484234747/)
 
 - 2022-10-02 15:30:12 https://thoughtbot.com/blog/debugging-why-your-specs-have-slowed-down
 
