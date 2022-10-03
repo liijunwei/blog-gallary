@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-03 16:21:05 我觉得代码里有太多ruby元编程本身就是坏味道... 怎么refactoring里还介绍这么多呢...
+
 - 2022-10-03 16:07:32 Unused flexibility in software is a bad thing
 
 - 2022-10-03 11:52:14 found typo in "refactoring": ch06-composing-methods/09-replace-method-with-method-object inportant_value1->important_value1
