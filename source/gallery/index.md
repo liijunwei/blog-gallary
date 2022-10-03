@@ -23,7 +23,9 @@ date: 2021-09-13 08:19:33
 
 ![Perfume gift from friend](./images/202207-perfume-gift-from-friend.jpg)
 
-![Learning Pyrimid](./images/learning.pyrimid.jpg)
+![Learning Pyrimid](./images/learning-pyramid1.jpg)
+
+![Learning Pyrimid](./images/learning-pyramid2.jpeg)
 
 ![unknown-beauty](./images/logo.jpg)
 
