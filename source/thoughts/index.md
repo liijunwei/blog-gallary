@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-03 16:07:32 Unused flexibility in software is a bad thing
+
 - 2022-10-03 11:52:14 found typo in "refactoring": ch06-composing-methods/09-replace-method-with-method-object inportant_value1->important_value1
 
 - 2022-10-02 21:05:32 获得好书推荐: "The Go Programming Language"
