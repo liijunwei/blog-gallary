@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-04 16:14:38 https://martinfowler.com/ 真是宝藏
+
 - 2022-10-04 16:13:24 just learned a new phrase in commit message: "Fat fingered in vim :("
 
 - 2022-10-04 16:06:44 ["The whole point of a cache is that you can't tell from its state whether the cache hit or missed - this is a case where behavior verification would be the wise choice for even a hard core classical TDDer"](https://martinfowler.com/articles/mocksArentStubs.html)
