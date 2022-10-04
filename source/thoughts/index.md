@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-04 17:27:48 be wary of 警惕
+
 - 2022-10-04 17:11:41 https://martinfowler.com/articles/mocksArentStubs.html 这篇花了好长时间来读... 不过目的基本达到了, 需要重读
 
 - 2022-10-04 17:08:01 "it's often hard to judge a technique without trying it seriously."
