@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-04 16:42:30 2022/10/04 -> 2022/04/15 172天, 260块, 每天1.52
+
 - 2022-10-04 16:14:38 https://martinfowler.com/ 真是宝藏
 
 - 2022-10-04 16:13:24 just learned a new phrase in commit message: "Fat fingered in vim :("
