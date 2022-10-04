@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-04 17:36:03 [Introducing BDD(not read yet)](https://dannorth.net/introducing-bdd/)
+
 - 2022-10-04 17:33:12 [User Story should be Independent/Negotiable/Valuable/Estimable/Small/Testable, in the format of  "As a ... I want ... So that ..."](https://martinfowler.com/bliki/UserStory.html)
 
 - 2022-10-04 17:27:48 be wary of 警惕
