@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-04 10:29:02 client vs client-server, treat them differently
+
 - 2022-10-04 10:20:36 "A good encapsulation six months ago may be awkward now. Refactoring means you never have to say you're sorry: You just fix it."
 
 - 2022-10-03 16:21:05 我觉得代码里有太多ruby元编程本身就是坏味道... 怎么refactoring里还介绍这么多呢...
