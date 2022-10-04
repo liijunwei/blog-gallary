@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-04 16:57:27 "Avoiding method chains is also known as following the Law of Demeter. "
+
 - 2022-10-04 16:43:53 the granularity of the tests 测试的粒度
 
 - 2022-10-04 16:42:30 2022/10/04 -> 2022/04/15 172天, 260块, 每天1.52
