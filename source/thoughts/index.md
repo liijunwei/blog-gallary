@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-04 10:42:52 ["Uniform Access Principle"](https://martinfowler.com/bliki/UniformAccessPrinciple.html)
+
 - 2022-10-04 10:42:13 it should be one that's been **measured** to be slow, not just **expected** to be slow
 
 - 2022-10-04 10:32:16 顿悟: 学习了 [The "right-left" rule](https://cseweb.ucsd.edu/~ricko/rt_lt.rule.html) 以后, 我发现读go里的变量和函数/方法声明变得流畅多了
