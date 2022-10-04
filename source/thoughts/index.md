@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-04 16:06:44 ["The whole point of a cache is that you can't tell from its state whether the cache hit or missed - this is a case where behavior verification would be the wise choice for even a hard core classical TDDer"](https://martinfowler.com/articles/mocksArentStubs.html)
+
 - 2022-10-04 15:49:42 如果早点有人给我讲清楚依赖注入和测试这两个概念就好了, 我会更早的掌握他们; 越早越好啊
 
 - 2022-10-04 10:42:52 ["Uniform Access Principle"](https://martinfowler.com/bliki/UniformAccessPrinciple.html)
