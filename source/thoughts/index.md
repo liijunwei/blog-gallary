@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-04 18:17:34 TODO [learn DDD](https://martinfowler.com/tags/domain%20driven%20design.html)
+
 - 2022-10-04 18:11:41 "能少学一点就少学一点"(N) vs "能多学一点就多学一点"(Y)
 
 - 2022-10-04 17:36:03 [Introducing BDD(not read yet)](https://dannorth.net/introducing-bdd/)
