@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-05 21:04:18 Array and hash should be used to store a collection of similar objects
+
 - 2022-10-05 18:28:58 TODO learn from google: site: martinfowler.com immutable
 
 - 2022-10-04 18:48:45 真的有风滚草啊, 饥荒没骗我
