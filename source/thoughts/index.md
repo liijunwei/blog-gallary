@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-06 16:11:24 https://ss64.com/osx/caffeinate.html
+
 - 2022-10-06 16:11:11 macos tool: https://ss64.com/osx/syntax.html
 
 - 2022-10-06 09:37:46 20220301 75.7kg -> 20221006 64.75kg 减重目标达成(key: 少吃多动)
