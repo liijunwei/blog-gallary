@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-07 10:55:20 learn a new word: learnings
+
 - 2022-10-06 16:11:24 https://ss64.com/osx/caffeinate.html
 
 - 2022-10-06 16:11:11 macos tool: https://ss64.com/osx/syntax.html
