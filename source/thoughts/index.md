@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-07 15:09:31 终于搞懂95th Percentile 这个概念了，反应这么迟钝，怎么办呢
+
 - 2022-10-07 10:55:20 learn a new word: learnings
 
 - 2022-10-06 16:11:24 https://ss64.com/osx/caffeinate.html
