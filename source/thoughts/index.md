@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-07 22:19:36 又被我混到一个PR: https://github.com/ruby/logger/pull/79
+
 - 2022-10-07 15:09:31 终于搞懂95th Percentile 这个概念了，反应这么迟钝，怎么办呢
 
 - 2022-10-07 10:55:20 learn a new word: learnings
