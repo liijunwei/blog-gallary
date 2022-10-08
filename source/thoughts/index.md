@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-08 17:39:35 Q: 怎么理解 `Replace Exception with Test` 这个重构技巧?
+
 - 2022-10-08 15:54:13 这局 PVZ 太惨烈了 https://www.bilibili.com/video/BV1KB4y1v7a9?share_source=copy_web
 
 - 2022-10-08 12:50:16 Q: what's the point for dependabot "GitHub Actions" Package manager? I don't get it
