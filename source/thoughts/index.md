@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-08 10:46:29 https://martinfowler.com/articles/lmax.html  2011年就有这么先进的系统, 而我刚刚知道...
+
 - 2022-10-07 23:35:49 "Clarity is the key principle"
 
 - 2022-10-07 22:19:36 又被我混到一个PR: https://github.com/ruby/logger/pull/79
