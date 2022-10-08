@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-08 12:50:16 Q: what's the point for dependabot "GitHub Actions" Package manager? I don't get it
+
 - 2022-10-08 11:11:08 ["I've long noticed that people talk a lot about techniques to improve performance, but the one thing that really makes a difference is to test it."](https://martinfowler.com/articles/lmax.html)
 
 - 2022-10-08 11:01:41 [还有一次是我家猫妹，那是一只极为干净，极为娴雅的小猫咪，每天有12小时都坐在床脚洗脸抹头。有一天我躺在床上看书，她躺在我旁边有一搭没一搭地用尾巴扫我，我也有一搭没一搭地抓她的尾巴尖玩。突然之间，猫妹放了个小屁。通常人们会说“放你的狗屁”，但基本没人会说“放你的猫屁”，所以我一度认为猫咪是不会放屁的。但就在那天，猫妹在我身边放了个猫屁，短促响亮，以我四十多年的个人经验判断，那就是个屁。](https://mp.weixin.qq.com/s/zHdoEYBWiQzjCcrEGEvTEQ)
