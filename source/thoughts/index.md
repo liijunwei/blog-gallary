@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-08 15:54:13 这局 PVZ 太惨烈了 https://www.bilibili.com/video/BV1KB4y1v7a9?share_source=copy_web
+
 - 2022-10-08 12:50:16 Q: what's the point for dependabot "GitHub Actions" Package manager? I don't get it
 
 - 2022-10-08 11:11:08 ["I've long noticed that people talk a lot about techniques to improve performance, but the one thing that really makes a difference is to test it."](https://martinfowler.com/articles/lmax.html)
