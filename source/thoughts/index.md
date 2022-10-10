@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-10 21:01:18 什么都想要 就什么都得不到
+
 - 2022-10-08 20:24:58 [书快读完了, 决定还是买正版书支持一下](https://martinfowler.com/articles/access-refactoring-web-edition.html)
 
 - 2022-10-08 17:39:35 Q: 怎么理解 `Replace Exception with Test` 这个重构技巧?
