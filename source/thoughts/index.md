@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-11 23:33:34 maybe learn from this: https://github.com/ice1000/resume/blob/master/update.sh
+
 - 2022-10-11 21:11:29 瞻仰顶级大佬: https://ice1000.org/
 
 - 2022-10-11 21:03:10 hhhh 召唤仪式 开启!! https://github.com/rust-lang/rust-analyzer/pull/1924/#issuecomment-539475521
