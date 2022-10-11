@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-11 23:34:24 maybe i don't need to add pubkey to github, I just need a token to push to repo...
+
 - 2022-10-11 23:33:34 maybe learn from this: https://github.com/ice1000/resume/blob/master/update.sh
 
 - 2022-10-11 21:11:29 瞻仰顶级大佬: https://ice1000.org/
