@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-11 20:49:14 [提好问题也算为dependabot社区做贡献](https://github.com/dependabot/dependabot-core/issues/5810#issuecomment-1273873219)
+
 - 2022-10-11 20:47:32 [美味可口的泰伦](https://www.bilibili.com/video/BV16P411H79Y/?spm_id_from=333.999.0.0&vd_source=8daf5afd59bc6cb1767fd065b1b8e4b4&t=580.8)
 
 - 2022-10-11 14:42:28 TIL: i18n = Internationalization: i, then 18 letters, then n; l10n = Localization: l, then 10 letters, then n
