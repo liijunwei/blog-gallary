@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-11 14:42:28 TIL: i18n = Internationalization: i, then 18 letters, then n; l10n = Localization: l, then 10 letters, then n
+
 - 2022-10-11 10:36:47 我悟了: 人沟通的时候, 用一个问题回答别人的问题, 其实是一种语法糖, 一句话表达好几个意思: 1. 我不确定 2. 可能是xxx 3. 想知道吗？自己去想办法 妙的我头皮发麻
 
 - 2022-10-10 21:33:42 黑门 告一段落
