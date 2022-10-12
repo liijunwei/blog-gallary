@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-12 22:11:57 ["How will you know when you are really getting it? You'll know when you start to calm down. When you feel absolute confidence that no matter how screwed up someone left it, you can make the code better, enough better to keep making progress."] --- Refactoring ch13
+
 - 2022-10-12 21:13:40 感觉有点索然无味
 
 - 2022-10-12 14:53:06 直面问题
