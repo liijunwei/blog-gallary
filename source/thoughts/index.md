@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-12 22:51:38 "Refactoring Ruby Edition" 读完了, 舒畅; 好书, 推荐
+
 - 2022-10-12 22:29:02 For goodness' sake, refactor with someone. **There are many advantages to working in pairs for all kinds of development.**  好像是时候尝试一下结对编程了
 
 - 2022-10-12 22:16:41 "You bed down for the night, sure the sun will rise again in the morning." 要会休息
