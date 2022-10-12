@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-12 21:13:40 感觉有点索然无味
+
 - 2022-10-12 14:53:06 直面问题
 
 - 2022-10-11 23:34:24 maybe i don't need to add pubkey to github, I just need a token to push to repo...
