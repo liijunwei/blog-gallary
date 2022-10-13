@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-13 23:16:46 [Paper: "Algorithm = Logic + Control"](https://www.doc.ic.ac.uk/~rak/papers/algorithm%20=%20logic%20+%20control.pdf)
+
 - 2022-10-13 22:53:10 看懂了以后感觉读起来好顺, https://cseweb.ucsd.edu/~ricko/rt_lt.rule.html
 
 - 2022-10-13 22:05:45 "其实, 了解一个人的情商很简单, 就看他对家人的态度.因为在家人面前, 他会表现出最真实的一面."  这么看来我实际上是个耐心不足的人
