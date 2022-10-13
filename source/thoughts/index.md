@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-13 11:28:02 will this work? not sure... https://docs.github.com/en/organizations/keeping-your-organization-secure/managing-security-settings-for-your-organization/managing-security-and-analysis-settings-for-your-organization#allowing-dependabot-to-access-private-dependencies
+
 - 2022-10-12 22:51:38 "Refactoring Ruby Edition" 读完了, 舒畅; 好书, 推荐
 
 - 2022-10-12 22:29:02 For goodness' sake, refactor with someone. **There are many advantages to working in pairs for all kinds of development.**  好像是时候尝试一下结对编程了
