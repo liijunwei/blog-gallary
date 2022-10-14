@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-14 11:27:12 没有约定，我就会是不稳定的
+
 - 2022-10-13 23:16:46 [Paper: "Algorithm = Logic + Control"](https://www.doc.ic.ac.uk/~rak/papers/algorithm%20=%20logic%20+%20control.pdf)
 
 - 2022-10-13 22:53:10 看懂了以后感觉读起来好顺, https://cseweb.ucsd.edu/~ricko/rt_lt.rule.html
