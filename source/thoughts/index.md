@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-14 15:28:53 我希望我对于细节的关注不被指责为吹毛求疵(nitpick), 自己也要在提出问题前衡量好这么做是不是吹毛求疵, 其实有时候用力过猛自己是感觉得到的，不要放过那种感觉
+
 - 2022-10-14 11:27:12 没有约定，我就会是不稳定的
 
 - 2022-10-13 23:16:46 [Paper: "Algorithm = Logic + Control"](https://www.doc.ic.ac.uk/~rak/papers/algorithm%20=%20logic%20+%20control.pdf)
