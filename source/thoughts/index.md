@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-14 23:44:01 "让你不耐烦的声声召唤, 都发自弱势的一方" --- 从你的全世界路过 河面下的少年
+
 - 2022-10-14 23:03:29 读go标准库的api真过瘾
 
 - 2022-10-14 16:43:21 just get used to the messy git graph, do not try to make it clean on your own
