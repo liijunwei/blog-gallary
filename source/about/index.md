@@ -13,9 +13,8 @@ Location:   beijing
 Email:      ljw532344863@sina.com
 Skills:     ruby/rails
 Lately:     coding
-            read "refactoring"
-            learn go
-For Fun:    work on pet projects
-            learn scheme/DDD/AST
+            learning go
+For Fun:    reading "Different Seasons"
+            learning scheme/DDD
 Favorites:  https://github.com/liijunwei/favorites
 ```
