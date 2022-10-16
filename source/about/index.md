@@ -12,7 +12,7 @@ Name:       lijunwei
 Location:   beijing
 GitHub:     https://github.com/liijunwei
 Skills:     ruby/rails
-Lately:     coding
+Lately:     coding with domain knowledge & language
             learning go
             learning design principles(IoC DIP DI SOLID...)
 For Fun:    reading "Different Seasons"
