@@ -14,6 +14,7 @@ Email:      ljw532344863@sina.com
 Skills:     ruby/rails
 Lately:     coding
             learning go
+            learning design principles(IoC DIP DI SOLID...)
 For Fun:    reading "Different Seasons"
             learning scheme/DDD
 Favorites:  https://github.com/liijunwei/favorites
