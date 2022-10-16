@@ -10,7 +10,7 @@ tag:
 ```markdown
 Name:       lijunwei
 Location:   beijing
-Email:      ljw532344863@sina.com
+GitHub:     https://github.com/liijunwei
 Skills:     ruby/rails
 Lately:     coding
             learning go
