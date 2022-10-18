@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-18 22:49:16 [go strconv package: string conversion package](https://pkg.go.dev/strconv)
+
 - 2022-10-18 18:19:32 `go help packages`
 
 - 2022-10-17 22:49:18 虽然我相信自己做的事是有价值的，但是真的判断不出这个对公司来说 是否重要
