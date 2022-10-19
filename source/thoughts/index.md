@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-19 15:22:12 童子军军规: 让营地比你来的时候更干净
+
 - 2022-10-18 22:53:13 [atoi is a function in the C programming language that converts a string into an integer numerical representation. atoi stands for ASCII to integer.](https://en.wikibooks.org/wiki/C_Programming/stdlib.h/atoi#:~:text=atoi%20is%20a%20function%20in,standard%20library%20header%20file%20stdlib.) 解答了我很久以来的疑惑
 
 - 2022-10-18 22:49:16 [go strconv package: string conversion package](https://pkg.go.dev/strconv)
