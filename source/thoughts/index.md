@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-20 09:52:05 "Non-Sleep Deep Rest(NSDR)"
+
 - 2022-10-20 09:42:49 "OOP对象健身操"
 
 - 2022-10-20 00:18:38 "this feature counter productive"
