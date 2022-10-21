@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-21 20:58:05 [注意网络安全...](https://youtu.be/CB7m8-VMKzw)
+
 - 2022-10-21 18:46:13 "aggressive in learning and self-improvement"
 
 - 2022-10-21 18:43:00 I had so much fun playing slack thread hosted "emoji movie name guessing game"
