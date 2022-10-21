@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-21 18:46:13 "aggressive in learning and self-improvement"
+
 - 2022-10-21 18:43:00 I had so much fun playing slack thread hosted "emoji movie name guessing game"
 
 - 2022-10-21 18:31:48 “Make it work, Make it right, Make it fast !” - Kent Beck
