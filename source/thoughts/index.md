@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-21 22:54:53 blog: https://eregon.me/blog/
+
 - 2022-10-21 21:14:34 ["本人的广东配音既塑料效率又低下..." 哈哈哈好玩](https://youtu.be/RQyUGvFuFVY?list=PLwC-0l7rXmY04YAtiWIaqKz7HzgErbaJj&t=680)
 
 - 2022-10-21 20:58:05 [注意网络安全...](https://youtu.be/CB7m8-VMKzw)
