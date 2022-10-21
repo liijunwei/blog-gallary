@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-21 18:43:00 I had so much fun playing slack thread hosted "emoji movie name guessing game"
+
 - 2022-10-21 18:31:48 “Make it work, Make it right, Make it fast !” - Kent Beck
 
 - 2022-10-21 16:55:39 learning by refactoring existing code...
