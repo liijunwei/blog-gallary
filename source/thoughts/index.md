@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-22 18:25:22 最近接触到的新词, 知识的诅咒... ["Curse of knowledge"](https://en.wikipedia.org/wiki/Curse_of_knowledge)
+
 - 2022-10-22 18:23:20 想起来之前雷哥和我讲过 framework 和 library是不同的, 当时听不懂, 现在却感觉毫不费力, 有进步; 同时也觉得可惜, 如果早点听懂会更好吧, 可以向他学到更多
 
 - 2022-10-22 18:19:54 Q: What is the difference between a framework and library? A: `your code` calls `library code`, and `framework code` calls `your code`, framework contains library
