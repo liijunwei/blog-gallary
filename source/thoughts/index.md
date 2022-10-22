@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-22 10:30:32 ["Connecting the dots"](https://youtu.be/wz0j7z38LIg)
+
 - 2022-10-22 00:49:49 use flog to check whether your refactoring really works
 
 - 2022-10-21 22:54:53 blog: https://eregon.me/blog/
