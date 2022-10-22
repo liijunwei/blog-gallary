@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-22 18:19:54 Q: What is the difference between a framework and library? A: `your code` calls `library code`, and `framework code` calls `your code`, framework contains library
+
 - 2022-10-22 18:13:04 今天重新翻了下Rei的blog, 里面很多文章都读了很多遍, 最想感谢这篇 ["测试指南"](https://chloerei.com/2015/10/26/testing-guide/), 它是我的测试启蒙文章, 让我意识到测试的核心是 `assert`(我是这么理解的), 让我没有纠结很多概念, 围绕着这个核心, 我后面补充了很多知识, 都很顺利, 没有被吓到; 现在测试是我工作中不可缺少的一部分
 
 - 2022-10-22 18:02:20 [嘿嘿 我喜欢这种有理有据的批评](https://chloerei.com/2014/06/04/when-will-alipay-redesign-api/)
