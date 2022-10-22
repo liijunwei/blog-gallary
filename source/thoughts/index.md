@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-22 22:39:23 Opportunity vs Chance
+
 - 2022-10-22 22:29:47 暂时读不懂 https://stlab.cc/tips/about-mvc.html
 
 - 2022-10-22 22:27:46 ["Write all code as if it were a library"](https://stlab.cc/tips/library-coding-style.html)
