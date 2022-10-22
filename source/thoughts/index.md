@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-22 17:36:34 好东西啊... https://www.ruby-toolbox.com/categories
+
 - 2022-10-22 15:34:06 我又悟了, 依赖注入 不一定要通过 类的构造器来注入, 本质是通过函数参数注入的, 可以是构造器, 也可以是普通方法... 说到底 注入的是一个抽象的依赖, 注入的方式不重要(inspired by https://youtu.be/QZkVpZlbM4U?t=1412)
 
 - 2022-10-22 10:30:32 ["Connecting the dots"](https://youtu.be/wz0j7z38LIg)
