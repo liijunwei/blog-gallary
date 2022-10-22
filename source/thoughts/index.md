@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-22 18:02:20 [嘿嘿 我喜欢这种有理有据的批评](https://chloerei.com/2014/06/04/when-will-alipay-redesign-api/)
+
 - 2022-10-22 17:55:18 arch linux... 之前玩dwm的时候安装过, 但还没专门玩过 https://chloerei.com/2014/04/20/talk-about-archlinux/
 
 - 2022-10-22 17:54:59 刚看了一个同事的blog, 从2013年左右开始用rails, 也是一个爱记录和分享的人, 点赞 hxx
