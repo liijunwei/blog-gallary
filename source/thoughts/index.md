@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-22 22:01:19 好像发现了个好玩的, 好多podcast: https://adspthepodcast.com/episodes/
+
 - 2022-10-22 21:49:29 [Papers and Presentations by Sean Parent](https://sean-parent.stlab.cc/papers-and-presentations/)
 
 - 2022-10-22 18:26:52 Framework vs Library: "Frameworks and libraries are code written by third parties to solve regular/common problems or to optimise performance. A key difference between the two is the inversion of control. When using a library, the control remains with the developer who tells the application when to call library functions. When using a framework, the control is reversed, which means that the framework tells the developer where code needs to be provided and calls it as it requires."
