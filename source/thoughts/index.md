@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-22 22:25:14 ["Four Tips for Junior Engineers and Senior Managers"](https://sean-parent.stlab.cc/papers-and-presentations/#four-tips-for-junior-engineers-and-senior-managers)
+
 - 2022-10-22 22:14:34 什么时候专心学一下haskell... https://www.haskell.org/documentation/
 
 - 2022-10-22 22:01:19 好像发现了个好玩的, 好多podcast: https://adspthepodcast.com/episodes/
