@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-22 22:29:47 暂时读不懂 https://stlab.cc/tips/about-mvc.html
+
 - 2022-10-22 22:27:46 ["Write all code as if it were a library"](https://stlab.cc/tips/library-coding-style.html)
 
 - 2022-10-22 22:25:14 ["Four Tips for Junior Engineers and Senior Managers"](https://sean-parent.stlab.cc/papers-and-presentations/#four-tips-for-junior-engineers-and-senior-managers)
