@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-23 21:53:25 希望能早点练就不怕烂代码, 能很自信的把它理清并且重构好的本领;
+
 - 2022-10-22 22:39:23 Opportunity vs Chance
 
 - 2022-10-22 22:29:47 暂时读不懂 https://stlab.cc/tips/about-mvc.html
