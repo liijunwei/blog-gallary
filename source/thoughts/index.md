@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-24 15:08:10 SICP: https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html
+
 - 2022-10-24 12:09:59 挺好玩 哈哈哈 ["Java is a high-performance language. By high-performance, we mean adequate. By adequate, we mean slow."](http://wiki.c2.com/?MrBunny)
 
 - 2022-10-24 11:58:02 只能说 google+http://wiki.c2.com/+link = 宝藏
