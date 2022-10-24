@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-24 11:58:02 只能说 google+http://wiki.c2.com/+link = 宝藏
+
 - 2022-10-24 11:16:00 [Profile Before Optimizing](http://wiki.c2.com/?ProfileBeforeOptimizing)
 
 - 2022-10-24 11:13:10 [Rules Of Optimization](http://wiki.c2.com/?RulesOfOptimization)
