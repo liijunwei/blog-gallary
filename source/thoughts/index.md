@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-24 11:13:10 [Rules Of Optimization](http://wiki.c2.com/?RulesOfOptimization)
+
 - 2022-10-24 10:30:43 突然意识到[Career Advice](https://www.zenspider.com/ruby/2012/09/career-advice.html)里提到的 [the original wiki](http://wiki.c2.com/?StartingPoints) 用法应该是 Google "site: http://wiki.c2.com/ keywords"
 
 - 2022-10-23 21:53:56 血染钟楼 part2 脑子不太够用...
