@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-25 14:31:22 [Bash Brace Expansion](https://www.gnu.org/software/bash/manual/html_node/Brace-Expansion.html)
+
 - 2022-10-25 12:22:00 公司里有个大佬，读过uncle bob的所有书，榜样来了！！！
 
 - 2022-10-25 11:30:57 体会越来越深了，感谢雷哥推荐的书，让我早早就了解到什么是好的实践(虽然那是还看不懂)，但早早脱离 我不知道我不知道但状态也是好的 https://wiki.c2.com/?ExtremeProgrammingPractices
