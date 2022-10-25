@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-25 11:30:57 体会越来越深了，感谢雷哥推荐的书，让我早早就了解到什么是好的实践(虽然那是还看不懂)，但早早脱离 我不知道我不知道但状态也是好的 https://wiki.c2.com/?ExtremeProgrammingPractices
+
 - 2022-10-25 11:17:50 队友对我留在pr里comment的反应 让我感觉自己太过主动，热脸贴冷屁股的感觉真不太好，解法是什么呢
 
 - 2022-10-24 18:36:26 [revealjs + radar chart](https://dvenkatsagar.github.io/prez/reveal-chart.html#/6/1)
