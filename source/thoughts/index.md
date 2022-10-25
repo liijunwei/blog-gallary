@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-25 11:17:50 队友对我留在pr里comment的反应 让我感觉自己太过主动，热脸贴冷屁股的感觉真不太好，解法是什么呢
+
 - 2022-10-24 18:36:26 [revealjs + radar chart](https://dvenkatsagar.github.io/prez/reveal-chart.html#/6/1)
 
 - 2022-10-24 15:08:10 SICP: https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html
