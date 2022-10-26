@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-26 16:32:57 Raycast , a alfred alternative?
+
 - 2022-10-25 14:31:22 [Bash Brace Expansion](https://www.gnu.org/software/bash/manual/html_node/Brace-Expansion.html)
 
 - 2022-10-25 12:22:00 公司里有个大佬，读过uncle bob的所有书，榜样来了！！！
