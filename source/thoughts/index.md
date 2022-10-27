@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-27 14:08:13 ["My Lowest Bookshelf - C2 wiki"](http://wiki.c2.com/?MyLowestBookshelf)
+
 - 2022-10-27 12:44:52 复制粘贴真的有毒啊...
 
 - 2022-10-26 16:32:57 Raycast , a alfred alternative?
