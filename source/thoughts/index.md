@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-27 22:45:32 最近业务压力有点大, 学习有点落下了
+
 - 2022-10-27 14:23:38 https://www.zenspider.com/projects/flay.html 和flog一样，也是一个有力的工具
 
 - 2022-10-27 14:08:13 ["My Lowest Bookshelf - C2 wiki"](http://wiki.c2.com/?MyLowestBookshelf)
