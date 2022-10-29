@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-29 16:17:08 重构真的太有意思啦，看着代码越来越清晰，概念一个个挣脱层层束缚，慢慢长出来，更好的写法在测试+重构的过程中水到渠成的浮现
+
 - 2022-10-29 10:43:19 google extension: Copy as Markdown (set shortcut is even better)
 
 - 2022-10-28 15:06:27 https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf
