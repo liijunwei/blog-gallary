@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-29 10:43:19 google extension: Copy as Markdown (set shortcut is even better)
+
 - 2022-10-28 15:06:27 https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf
 
 - 2022-10-28 09:32:52 计算 存储 网络传输 是不是计算机相关的东西都可以归入这三类里面?
