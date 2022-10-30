@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-31 00:09:27 ["Rules are reactive and punitive. Values are proactive and constructive."](http://seattlerb.org/values)
+
 - 2022-10-31 00:06:24 use ctags
 
 - 2022-10-31 00:06:07 we know our editors WELL
