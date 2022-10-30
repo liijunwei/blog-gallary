@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-31 00:03:04 github似乎升级了, contributions的瓷砖编程黄色的格子了...
+
 - 2022-10-30 23:59:01 一定能从这群人身上学到很多东西: http://seattlerb.org/members
 
 - 2022-10-30 23:24:22 [大佬的工作流](https://www.zenspider.com/pdf/Workflow_-_GoGaRuCo_2010.pdf)
