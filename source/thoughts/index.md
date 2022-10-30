@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-31 00:06:07 we know our editors WELL
+
 - 2022-10-31 00:05:45 project automation with rake and xxx
 
 - 2022-10-31 00:03:04 github似乎升级了, contributions的瓷砖编程黄色的格子了...
