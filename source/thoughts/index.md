@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-30 22:41:40 hard core... https://www.zenspider.com/pdf/ZenHacks_2005.pdf
+
 - 2022-10-30 19:17:51 coding上头... 出门走走 昨晚睡前看了一段代码，结果一晚上都在想这破玩意儿，好在解法已经很清晰了，seperate logic from control
 
 - 2022-10-30 17:48:23 5点多天就这么黑了 这...
