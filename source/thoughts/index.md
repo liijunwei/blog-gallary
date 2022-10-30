@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-30 22:59:22 "Have fun! Otherwise, what’s the point?"
+
 - 2022-10-30 22:58:52 [slide page7: "Focus on Simplicity & Clarity, **Otherwise, you don't fully understand.**"](https://www.zenspider.com/pdf/TDD_With_ZenTest.pdf)
 
 - 2022-10-30 22:56:55 "Attacks the problem at the specification level."
