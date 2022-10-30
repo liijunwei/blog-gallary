@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-31 00:06:24 use ctags
+
 - 2022-10-31 00:06:07 we know our editors WELL
 
 - 2022-10-31 00:05:45 project automation with rake and xxx
