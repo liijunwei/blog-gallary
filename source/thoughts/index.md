@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-30 23:24:22 [大佬的工作流](https://www.zenspider.com/pdf/Workflow_-_GoGaRuCo_2010.pdf)
+
 - 2022-10-30 22:59:22 "Have fun! Otherwise, what’s the point?"
 
 - 2022-10-30 22:58:52 [slide page7: "Focus on Simplicity & Clarity, **Otherwise, you don't fully understand.**"](https://www.zenspider.com/pdf/TDD_With_ZenTest.pdf)
