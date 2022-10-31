@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-10-31 09:08:12 [port 10101 read as lolol 哈哈哈哈](https://youtu.be/sLb7Uz9KOqc?t=1512)
+
 - 2022-10-31 09:05:28 that's actually worse in a better way... lol
 
 - 2022-10-31 09:04:41 Aaron Patterson (@tenderlove) 在["Worst. Ideas. Ever"](https://www.youtube.com/watch?v=sLb7Uz9KOqc)视频里看起来好腼腆(错觉吗...) 感觉很亲切
