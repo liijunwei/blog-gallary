@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-01 23:45:48 记得之前搞明白了怎么在多个upstream的情况下提pull request的做法的时候还沾沾自喜, 别人早就梳理清楚了... https://github.com/rails/globalid/blob/main/CONTRIBUTING.md
+
 - 2022-11-01 23:07:36 刚刚才发现 tenderlove 是这么多gem的作者... http://seattlerb.org/projects https://rubygems.org/profiles/tenderlove 我滴乖乖
 
 - 2022-11-01 22:49:29 https://fsharpforfunandprofit.com/
