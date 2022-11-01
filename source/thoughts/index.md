@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-01 23:07:36 刚刚才发现 tenderlove 是这么多gem的作者... http://seattlerb.org/projects https://rubygems.org/profiles/tenderlove 我滴乖乖
+
 - 2022-11-01 22:49:29 https://fsharpforfunandprofit.com/
 
 - 2022-11-01 22:16:15 哈哈哈哈 很好玩啊 https://youtu.be/E8I19uA-wGY?t=2996
