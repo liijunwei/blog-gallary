@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-01 09:35:12 11月1号，小单身节
+
 - 2022-10-31 10:41:37 https://blog.codinghorror.com/about-me/
 
 - 2022-10-31 09:23:11 ["Phuby on Phails" hhhhh](https://youtu.be/sLb7Uz9KOqc?t=2047)
