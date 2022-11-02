@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-02 22:38:27 基础太弱了，ruby里hash/ENV的fetch方法，可以传块进去，如果没取到值，就会执行块里的代码； Rails.cache.fetch 这个api也是一样的； 可惜由于我不知道前者，导致对后者的理解受到了很大的阻碍...
+
 - 2022-11-02 14:13:58 TIL: [Premature Generalization](https://wiki.c2.com/?PrematureGeneralization); before this, I only knows [Premature Optimization](https://wiki.c2.com/?PrematureOptimization) 要学会举一反三
 
 - 2022-11-02 11:58:05 ask good question: [Find a Pull Request on GitHub where a commit was originally created](https://stackoverflow.com/questions/17818167/find-a-pull-request-on-github-where-a-commit-was-originally-created)
