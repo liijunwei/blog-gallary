@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-02 14:13:58 TIL: [Premature Generalization](https://wiki.c2.com/?PrematureGeneralization); before this, I only knows [Premature Optimization](https://wiki.c2.com/?PrematureOptimization) 要学会举一反三
+
 - 2022-11-02 11:58:05 ask good question: [Find a Pull Request on GitHub where a commit was originally created](https://stackoverflow.com/questions/17818167/find-a-pull-request-on-github-where-a-commit-was-originally-created)
 
 - 2022-11-01 23:48:31 今日最佳 哈哈哈哈 [Short history of Seattle.rb](https://www.youtube.com/watch?v=ICVdf4WidkY)
