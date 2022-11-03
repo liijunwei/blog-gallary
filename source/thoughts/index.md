@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-03 12:53:08 ["Fearless Competence / Conquer the fear with Test."](https://youtu.be/Qjywrq2gM8o?t=2106)
+
 - 2022-11-03 12:49:32 借助测试重构的时候, 对于代码的理解程度逐步加深; 这种感觉很好
 
 - 2022-11-03 10:20:02 we don't rot things, we improve things
