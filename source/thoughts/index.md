@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-03 13:28:22 [honest estimate](https://youtu.be/Qjywrq2gM8o?t=3430)
+
 - 2022-11-03 13:20:38 ["I expect as your new CTO that we would cover for each other, we behave like a team, teams cover each when a player's down"](https://youtu.be/Qjywrq2gM8o?t=3100)
 
 - 2022-11-03 13:12:03 [Uncle Bob真好玩 哈哈哈哈 今日最佳!!!](https://youtu.be/Qjywrq2gM8o?t=2902)
