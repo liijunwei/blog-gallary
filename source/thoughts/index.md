@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-04 23:46:45 找李哥马总他们吃烧烤, 很开心
+
 - 2022-11-04 10:54:57 找到你啦 bob大叔 http://butunclebob.com/
 
 - 2022-11-03 13:28:22 [honest estimate](https://youtu.be/Qjywrq2gM8o?t=3430)
