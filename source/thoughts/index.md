@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-06 18:26:37 pry: `show-source ls` `show-source pwd` `show-source cd` `show-source help` ... this is interesting!!!!
+
 - 2022-11-06 18:23:57 要有能力看api猜出大概的业务流程，不要过于陷入细节
 
 - 2022-11-06 17:51:06 昨天参加血染钟楼的局，感觉越来越好玩了；还有就是能见到很多妹子真的很开心
