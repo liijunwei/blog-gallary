@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-06 17:49:00 刚刚排查一个数据验证错误导致的问题，竟然到了真正执行业务逻辑的时候才抛出错误，并且是第三方服务帮忙抛出错误的... 我们内部服务的数据验证竟然靠第三方服务帮我们验证， 太糟糕了；追查到根本原因是实体缺少数据验证，更准确地说，是缺少消费validation模块结果的步骤；有这几点反思，：1. bugsnag的问题不能仅凭现象判断它不重要就一拖再拖，要先确认根本原因(root cause)，如果明确了根本原因, 确认影响不大，优先级才可以稍降一些，否则应该理解修复，越早越好 2. 我要做一个负责的人，尽量不要给之后的人留下这种坑，尽量做到每个阶段自己能做到的最好，自己留下的技术债要记得回头还掉，不要给别人增加麻烦 3. 大佬说的是真的: [thinking before debugging | zenspider.com | by ryan davis](https://www.zenspider.com/ruby/2012/08/thinking-before-debugging.html) [Career Advice | zenspider.com | by ryan davis](https://www.zenspider.com/ruby/2012/09/career-advice.html) 处理问题时多走几步，尽量找到根本原因，这样才能一下消除多类问题，这应该是一种 "work smart" 的体现吧
+
 - 2022-11-04 23:53:38 https://github.com/zombocom/derailed_benchmarks
 
 - 2022-11-04 23:46:45 找李哥马总他们吃烧烤, 很开心
