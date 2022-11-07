@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-07 22:05:22 DDD 读起来还挺过瘾的, 定个目标, 每天读5页
+
 - 2022-11-07 21:44:14 useful UML cheatsheet: https://jairanjankumar.gitbook.io/cheatsheet/uml-class-diagram
 
 - 2022-11-07 15:34:38 https://github.com/koekeishiya/yabai
