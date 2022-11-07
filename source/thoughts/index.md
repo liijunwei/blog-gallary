@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-07 21:44:14 useful UML cheatsheet: https://jairanjankumar.gitbook.io/cheatsheet/uml-class-diagram
+
 - 2022-11-07 15:34:38 https://github.com/koekeishiya/yabai
 
 - 2022-11-07 14:57:47 我很担心自己有一天 会因为麻烦或者能力不足 做出很多很多妥协; 真心希望这种时候 有人能跳出来指出我是错的，提醒我，告诉我正确的做法是什么
