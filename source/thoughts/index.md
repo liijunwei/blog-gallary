@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-08 08:37:23 经常回顾一下这些建议: https://www.zenspider.com/ruby/2012/09/career-advice.html
+
 - 2022-11-07 22:26:11 也不知道以前在想什么, 竟然没搞明白数学归纳法是什么意思... https://www.youtube.com/watch?v=tHNVX3e9zd0
 
 - 2022-11-07 22:05:22 DDD 读起来还挺过瘾的, 定个目标, 每天读5页
