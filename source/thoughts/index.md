@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-08 19:22:57 [一个好团队](https://sunng.info/blog/yi-ge-hao-tuan-dui.html)
+
 - 2022-11-08 16:10:58 ["Functional programming imposes discipline upon assignment."](https://medium.com/night-shift/discipline-not-dogma-clean-architecture-d2273e586101#:~:text=Functional%20programming%20imposes%20discipline%20upon,and%20return%20a%20new%20value.) Uncle Bob!!!! My superman
 
 - 2022-11-08 15:49:11 虽然暂时没感觉大环境怎么不好了，但是layoff这种事的发生，很有可能和自己的能力强弱无关，提升自己，做正确的事，认真做事，不要过于依赖平台应该是没什么错的..... 加油 https://www.channelnewsasia.com/business/twitter-elon-musk-start-lay-offs-3043211
