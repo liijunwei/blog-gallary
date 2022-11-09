@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-09 22:43:17 [interesting TED talk: "Steven Strogatz The Science of Sync"](https://youtu.be/IiXaZGZqpVI)
+
 - 2022-11-09 21:19:19 可信对象 就是接口
 
 - 2022-11-09 21:18:37 "The idea of reducing the number of dependencies imposed upon message senders by requiring that receivers return trustworthy objects is a generalization of the Liskov Substitution Principle." 通过要求接收者返回可信对象来减少对消息发送者施加的依赖的数量, 是Liskov替换原理的一个推广 --- 99 Bottles of OOP ch04
