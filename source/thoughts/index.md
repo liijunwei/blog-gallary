@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-09 20:57:20 用业务语言写代码, 不要用技术语言写代码
+
 - 2022-11-09 20:57:00 "Naming things after domain concepts improves communication between you and the folks who pay the bills. Only good can come of this."
 
 - 2022-11-09 20:55:36 "The general rule is that the name of a thing should be one level of abstraction higher than the thing itself." --- 99 Bottles of OOP ch03
