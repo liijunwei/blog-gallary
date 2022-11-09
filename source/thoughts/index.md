@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-09 21:14:15 To help you name the new concept, remember the "what would the column header be?" technique.
+
 - 2022-11-09 20:57:20 用业务语言写代码, 不要用技术语言写代码
 
 - 2022-11-09 20:57:00 "Naming things after domain concepts improves communication between you and the folks who pay the bills. Only good can come of this."
