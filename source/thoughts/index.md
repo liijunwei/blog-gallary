@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-10 11:38:45 see what I can do: https://github.com/SublimeText
+
 - 2022-11-09 22:43:17 [interesting TED talk: "Steven Strogatz The Science of Sync"](https://youtu.be/IiXaZGZqpVI)
 
 - 2022-11-09 21:19:19 可信对象 就是接口
