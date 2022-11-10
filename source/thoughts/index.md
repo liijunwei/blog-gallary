@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-10 22:56:25 插眼: https://lukesmith.xyz/programs/
+
 - 2022-11-10 22:50:45 **When you’re confused, don’t try to solve the entire problem straightaway.**
 
 - 2022-11-10 22:06:29 Uncle Bob: [The Last Programming Language](https://youtu.be/P2yr-3F6PQo)
