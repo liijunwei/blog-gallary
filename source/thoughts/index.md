@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-10 22:06:29 Uncle Bob: [The Last Programming Language](https://youtu.be/P2yr-3F6PQo)
+
 - 2022-11-10 16:22:59 逢双十一，不停的收到商家的短信，好烦；也是一个机会一个个退订，但是 退订有什么用呢...
 
 - 2022-11-10 14:13:53 https://clojure.org/guides/getting_started
