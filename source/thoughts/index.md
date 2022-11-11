@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-11 20:25:53 这个up也招人喜欢 https://space.bilibili.com/28861187
+
 - 2022-11-11 20:01:59 前几天小超梦直播事故, 看评论感受到 很多人说话真的好刻薄; 我看了挺久超梦的视频了, 能感受到他情商和智商很高, 属于那种不招人烦, 甚至招人喜欢的人, 但出事后那么多人跳出来东拉西扯, 虽然不意外, 但还是为他感到难过(https://www.bilibili.com/video/BV1XW4y1473n?share_source=copy_web)
 
 - 2022-11-11 18:33:51 write bugfree code
