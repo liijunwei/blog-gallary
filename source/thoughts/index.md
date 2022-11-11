@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-11 21:45:22 让我开开眼儿: [Deletion Driven Development: Code to delete code!](https://chrisarcand.com/talks/deletion-driven-development-code-to-delete-code/)
+
 - 2022-11-11 21:41:24 [Clojure Tutorial](https://www.youtube.com/watch?v=ciGyHkDuPAE) 感觉和scheme非常像
 
 - 2022-11-11 21:22:10 天气阴晴不重要, 重要的是身体要动起来; 阴天更要多出门走走, 用身体活动带动心情舒展
