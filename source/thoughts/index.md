@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-12 16:17:56 不能更快了... https://github.com/amix/vimrc
+
 - 2022-11-12 10:20:41 sequence | selection | iteration
 
 - 2022-11-11 22:37:59 git merge-base 是个好东西啊
