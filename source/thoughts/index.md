@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-13 19:35:10 **The first solution to any problem should avoid caching, use immutable objects, and treat object creation as free.** --- "99 bottles of OOP ch-05"
+
 - 2022-11-13 18:50:56 自我介绍做得太烂
 
 - 2022-11-12 16:17:56 不能更快了... https://github.com/amix/vimrc
