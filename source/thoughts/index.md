@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-15 23:30:58 阿瓦隆(Avalon) 也挺好玩的
+
 - 2022-11-15 23:19:20 [But what is the Fourier Transform? A visual introduction.](https://youtu.be/spUNpyF58BY)
 
 - 2022-11-15 16:27:19 https://github.com/pingcap/awesome-database-learning
