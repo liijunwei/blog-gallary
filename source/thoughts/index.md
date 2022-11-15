@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-15 16:27:19 https://github.com/pingcap/awesome-database-learning
+
 - 2022-11-15 09:43:37 https://iterm2.com/python-api/
 
 - 2022-11-13 19:35:10 **The first solution to any problem should avoid caching, use immutable objects, and treat object creation as free.** --- "99 bottles of OOP ch-05"
