@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-16 22:43:28 ... 怎么吃个瓜, 还有瘾啊 艹 有点没出息了
+
 - 2022-11-16 18:26:49 看得越多，破绽越多；小超梦的鼠标指针稳如狗
 
 - 2022-11-16 16:01:16 比想象中好用的多: [HOWTO parse HTML tables with Nokogiri · ReadySteadyCode](https://readysteadycode.com/howto-parse-html-tables-with-nokogiri)
