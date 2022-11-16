@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-16 23:43:00 [Alan Kay On Messaging](http://wiki.c2.com/?AlanKayOnMessaging)
+
 - 2022-11-16 22:43:28 ... 怎么吃个瓜, 还有瘾啊 艹 有点没出息了
 
 - 2022-11-16 18:26:49 看得越多，破绽越多；小超梦的鼠标指针稳如狗
