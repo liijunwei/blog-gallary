@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-17 09:12:22 [tj/git-extras: GIT utilities -- repo summary, repl, changelog population, author commit percentages and more](https://github.com/tj/git-extras)
+
 - 2022-11-16 23:43:00 [Alan Kay On Messaging](http://wiki.c2.com/?AlanKayOnMessaging)
 
 - 2022-11-16 22:43:28 ... 怎么吃个瓜, 还有瘾啊 艹 有点没出息了
