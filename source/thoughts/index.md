@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-17 12:48:48 多数时候觉得生活在前人建设的美好世界里，有这么多好东西真的太好了；偶尔心情烦躁的时候觉得自己被前人挖的坑所包围，无力突围
+
 - 2022-11-17 09:12:22 [tj/git-extras: GIT utilities -- repo summary, repl, changelog population, author commit percentages and more](https://github.com/tj/git-extras)
 
 - 2022-11-16 23:43:00 [Alan Kay On Messaging](http://wiki.c2.com/?AlanKayOnMessaging)
