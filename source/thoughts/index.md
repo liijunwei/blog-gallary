@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-21 09:18:38 你只能看到你想看到的
+
 - 2022-11-20 23:46:57 ["我不喜欢截图的, 因为我相信我还能上第一个王者"](https://www.bilibili.com/video/BV1uT411j7ow?t=1177.5)
 
 - 2022-11-20 23:41:25 格局也挺招我喜欢的 https://www.bilibili.com/video/BV1uT411j7ow?share_source=copy_web (2022-11-21 09:17:30 update: 我是大傻帽)
