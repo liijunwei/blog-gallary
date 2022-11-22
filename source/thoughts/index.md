@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-22 23:07:34 这一段真有趣 ["Lisp is like zen when you see it for the first time it's like something you already knew."](https://wiki.c2.com/?LispLanguage)
+
 - 2022-11-22 23:02:02 [Programming Language](https://wiki.c2.com/?ProgrammingLanguage)
 
 - 2022-11-22 22:43:32 Lisp (List Processing) 好记多了
