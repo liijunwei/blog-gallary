@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-22 23:02:02 [Programming Language](https://wiki.c2.com/?ProgrammingLanguage)
+
 - 2022-11-22 22:43:32 Lisp (List Processing) 好记多了
 
 - 2022-11-22 21:00:45 棍哥好受粉丝喜爱啊 [我可能拥有全B站最离谱的一批粉丝！](https://www.bilibili.com/video/BV1RU4y1J7wv/?spm_id_from=333.999.0.0&vd_source=8daf5afd59bc6cb1767fd065b1b8e4b4)
