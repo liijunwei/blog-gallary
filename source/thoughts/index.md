@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-23 14:14:05 [Customizing for search_threshold - BracketHighlighter Documentation](https://facelessuser.github.io/BracketHighlighter/customize/#search_threshold)
+
 - 2022-11-23 10:55:42 代码里，还真发现了和理想中相反的做法... 越来越见怪不怪了
 
 - 2022-11-22 23:07:34 这一段真有趣 ["Lisp is like zen when you see it for the first time it's like something you already knew."](https://wiki.c2.com/?LispLanguage)
