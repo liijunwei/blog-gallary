@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-23 15:46:08 [ClickableUrls_SublimeText/Default (OSX).sublime-keymap](https://github.com/leonid-shevtsov/ClickableUrls_SublimeText/blob/master/Default%20(OSX).sublime-keymap)
+
 - 2022-11-23 14:14:05 [Customizing for search_threshold - BracketHighlighter Documentation](https://facelessuser.github.io/BracketHighlighter/customize/#search_threshold)
 
 - 2022-11-23 10:55:42 代码里，还真发现了和理想中相反的做法... 越来越见怪不怪了
