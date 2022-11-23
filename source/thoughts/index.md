@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-23 22:59:17 "Voluntarily altering working code costs money, and doing so declares that you believe that rearranging this code right now is more important than anything else on the backlog." --- 反思一下自己, 这点我做得很不好, 我应该把想做的事 设法说服PM加到backlog里, 而不是自己埋头做
+
 - 2022-11-23 15:46:08 [ClickableUrls_SublimeText/Default (OSX).sublime-keymap](https://github.com/leonid-shevtsov/ClickableUrls_SublimeText/blob/master/Default%20(OSX).sublime-keymap)
 
 - 2022-11-23 14:14:05 [Customizing for search_threshold - BracketHighlighter Documentation](https://facelessuser.github.io/BracketHighlighter/customize/#search_threshold)
