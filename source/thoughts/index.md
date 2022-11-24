@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-24 22:07:38 "Dependencies can’t be avoided but should certainly be minimized."
+
 - 2022-11-24 22:07:26 **Dependencies are vulnerabilities**
 
 - 2022-11-24 21:53:22 好好加油, 努力配得上和更强更好的人一起工作
