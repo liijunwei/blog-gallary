@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-24 22:07:26 **Dependencies are vulnerabilities**
+
 - 2022-11-24 21:53:22 好好加油, 努力配得上和更强更好的人一起工作
 
 - 2022-11-23 22:59:17 "Voluntarily altering working code costs money, and doing so declares that you believe that rearranging this code right now is more important than anything else on the backlog." --- 反思一下自己, 这点我做得很不好, 我应该把想做的事 设法说服PM加到backlog里, 而不是自己埋头做
