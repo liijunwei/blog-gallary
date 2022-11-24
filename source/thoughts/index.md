@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-24 22:32:22 Putting domain behavior on the class side rather than on the instance side places a bet that this domain concept will never involve data that varies.
+
 - 2022-11-24 22:07:38 "Dependencies can’t be avoided but should certainly be minimized."
 
 - 2022-11-24 22:07:26 **Dependencies are vulnerabilities**
