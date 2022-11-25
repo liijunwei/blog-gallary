@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-25 22:21:19 "Listen. **Fixing problems now is not only cheaper than fixing them later, but will improve your code, clarify your tests, and make glad your work.**"
+
 - 2022-11-25 22:16:39 **Insisting on simple tests improved both the tests and the code.**
 
 - 2022-11-24 22:32:22 Putting domain behavior on the class side rather than on the instance side places a bet that this domain concept will never involve data that varies.
