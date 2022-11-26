@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-26 19:58:38 三国故事真好看, 可惜看不进去历史书, 看看剧挺好
+
 - 2022-11-25 22:21:19 "Listen. **Fixing problems now is not only cheaper than fixing them later, but will improve your code, clarify your tests, and make glad your work.**"
 
 - 2022-11-25 22:16:39 **Insisting on simple tests improved both the tests and the code.**
