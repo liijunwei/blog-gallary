@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-30 17:35:35 challenge vs ask, avoid challenge, 感谢点醒我
+
 - 2022-11-29 17:48:28 [Ruby Data Processing: Using Map, Reduce, and Select: Godse, Jay: 9781484234730: Amazon.com: Books](https://www.amazon.com/Ruby-Data-Processing-Reduce-Select/dp/1484234731)
 
 - 2022-11-27 21:27:46 [Semantic Versioning 2.0.0 | Semantic Versioning](https://semver.org/)
