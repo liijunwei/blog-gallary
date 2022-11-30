@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-30 22:45:45 计算 | 存储 | 网络传输
+
 - 2022-11-30 22:39:44 DDD -> closure operation
 
 - 2022-11-30 22:12:36 好烦人的问题啊... https://youtrack.jetbrains.com/issue/IDEA-299219/Right-click-doesnt-bring-up-menu
