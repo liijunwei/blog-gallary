@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-11-30 22:12:36 好烦人的问题啊... https://youtrack.jetbrains.com/issue/IDEA-299219/Right-click-doesnt-bring-up-menu
+
 - 2022-11-30 18:30:31 brew install --build-from-source mit-scheme
 
 - 2022-11-30 17:35:35 challenge vs ask, avoid challenge, 感谢点醒我
