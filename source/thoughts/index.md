@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-12-02 21:52:04 友好/有效的沟通能消除问题，让工作顺利很多
+
 - 2022-12-02 10:10:36 TODO read: [Shopify achieved 99.999+% uptime while averaging 3 Terabytes per minute of egress traffic (with a modular monolith written in Ruby)](https://twitter.com/ShopifyEng/status/1597983918900510720)
 
 - 2022-12-01 23:03:04 好强 https://github.com/TonyCrane
