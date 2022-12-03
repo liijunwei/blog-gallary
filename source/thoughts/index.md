@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-12-03 10:46:10 啊 这些视频真的每个都14刀嘛... https://cleancoders.com/library/all
+
 - 2022-12-02 22:30:28 [Stateless Object](https://wiki.c2.com/?StatelessObject)
 
 - 2022-12-02 21:52:04 友好/有效的沟通能消除问题，让工作顺利很多
