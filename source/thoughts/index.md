@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-12-04 13:33:24 天书奇谈动画里的任务角色确实有特点
+
 - 2022-12-03 10:57:33 "thank you for that question"
 
 - 2022-12-03 10:46:10 啊 这些视频真的每个都14刀嘛... https://cleancoders.com/library/all
