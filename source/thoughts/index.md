@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-12-06 00:00:01 flame graph: [Profile Data Analyzer - A Tool to Analyze the Performance Traces for Both ABAP and Java - Cross Platform Performance - Support Wiki](https://wiki.scn.sap.com/wiki/display/CPP/Profile+Data+Analyzer+-+A+Tool+to+Analyze+the+Performance+Traces+for+Both+ABAP+and+Java)
+
 - 2022-12-05 23:59:56 flame graph: [The Flame Graph - ACM Queue](https://queue.acm.org/detail.cfm?id=2927301)
 
 - 2022-12-05 23:59:51 flame graph: [What is a Flame Graph? How it Works & Use Cases | Datadog](https://www.datadoghq.com/knowledge-center/distributed-tracing/flame-graph/#:~:text=The%20x%2Daxis%20of%20a,data%20for%20that%20service%20call.)
