@@ -3,6 +3,12 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-12-05 23:21:13 ruby profiler: https://ruby-prof.github.io/
+
+- 2022-12-05 23:21:13 ruby profiler: https://github.com/benoittgt/understand_ruby_memory/wiki/Resources
+
+- 2022-12-05 23:21:13 ruby profiler: https://stackify.com/ruby-profiler-types-and-why-you-need-them/
+
 - 2022-12-05 17:59:18 `[{a:1,b:2,c:3}, {a:3,b:2,c:3}, {a:5,b:2,c:3}].map {|e| e.slice(:a, :b)}.index_by {|e| e[:a]}`
 
 - 2022-12-05 13:09:39 "当你准备着要输出的时候，你的输入就会变得很不一样" --- 王建硕
