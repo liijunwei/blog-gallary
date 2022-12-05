@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-12-05 23:59:38 flame graph: [tmm1/stackprof: a sampling call-stack profiler for ruby 2.2+](https://github.com/tmm1/stackprof)
+
 - 2022-12-05 23:21:13 ruby profiler: https://ruby-prof.github.io/
 
 - 2022-12-05 23:21:13 ruby profiler: https://github.com/benoittgt/understand_ruby_memory/wiki/Resources
