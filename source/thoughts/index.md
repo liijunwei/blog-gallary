@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-12-06 21:03:42 DDD "大象"的统一 里面, 这个例子好巧妙, 例子看起来好像很离谱, 但是在真实项目的开发里, 可能真的就是这样的过程: 认识局部, 建模, 集成, 发现冲突, 引入新的概念, 认识加深, 修改, 模型更接近问题的本质... 循环往复
+
 - 2022-12-06 16:11:37 先做完主要工作，一定要养成这个习惯
 
 - 2022-12-06 00:00:01 flame graph: [Profile Data Analyzer - A Tool to Analyze the Performance Traces for Both ABAP and Java - Cross Platform Performance - Support Wiki](https://wiki.scn.sap.com/wiki/display/CPP/Profile+Data+Analyzer+-+A+Tool+to+Analyze+the+Performance+Traces+for+Both+ABAP+and+Java)
