@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-12-07 21:36:11 20191205 -> 20221206 工作三年了, 一切顺利, 感谢所有帮助过我的人 Orz
+
 - 2022-12-07 21:31:38 "有趣的是, 遗留系统设计得越好, 它就越容易被淘汰. 而设计的不好的软件却很难一点一点地去除" DDD 14.14.3 "逐步淘汰遗留系统"
 
 - 2022-12-07 18:18:05 [How to Perform Object Detection With YOLOv3 in Keras - MachineLearningMastery.com](https://machinelearningmastery.com/how-to-perform-object-detection-with-yolov3-in-keras/)
