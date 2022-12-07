@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-12-07 09:44:22 [How can I filter all GitHub pull requests for a specific target branch - Stack Overflow](https://stackoverflow.com/questions/20547198/how-can-i-filter-all-github-pull-requests-for-a-specific-target-branch)
+
 - 2022-12-06 22:43:40 不再需要这个smooze APP了
 
 - 2022-12-06 22:38:54 https://smooze.co/ 这个app导致idea里的鼠标右键不正常, 真可恶; 感谢JetBrains客服邮件支持
