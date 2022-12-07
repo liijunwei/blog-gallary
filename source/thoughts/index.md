@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-12-07 18:18:05 [How to Perform Object Detection With YOLOv3 in Keras - MachineLearningMastery.com](https://machinelearningmastery.com/how-to-perform-object-detection-with-yolov3-in-keras/)
+
 - 2022-12-07 18:04:52 TODO https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC
 
 - 2022-12-07 09:44:22 [How can I filter all GitHub pull requests for a specific target branch - Stack Overflow](https://stackoverflow.com/questions/20547198/how-can-i-filter-all-github-pull-requests-for-a-specific-target-branch)
