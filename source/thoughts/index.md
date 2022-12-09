@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-12-09 23:25:08 为啥你们能请到 尤雨溪 做分享啊... 嫉妒使我面目全非 https://github.com/baixing/BXT/blob/master/history/008.md
+
 - 2022-12-09 23:14:14 http://home.wangjianshuo.com/cn/
 
 - 2022-12-09 14:15:58 2022年6月到底怎么过的?
