@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-12-09 23:34:52 前来考古: [与王建硕的对话 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2010/04/talk_with_wangjianshuo.html)
+
 - 2022-12-09 23:30:47 字太大了... https://johnhax.net/2017/benchmark/slide#96
 
 - 2022-12-09 23:25:08 为啥你们能请到 尤雨溪 做分享啊... 嫉妒使我面目全非 https://github.com/baixing/BXT/blob/master/history/008.md
