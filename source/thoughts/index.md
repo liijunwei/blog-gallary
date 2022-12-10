@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-12-10 10:40:48 ["It doesn't have to be this way"](https://speakerdeck.com/skmetz/magic-tricks-of-testing-railsconf?slide=9)
+
 - 2022-12-09 23:37:47 [R: 最后一个问题，你对10年后的自己，期望是什么？ W：我一直追求的：幸福和智慧。](http://www.ruanyifeng.com/blog/2010/04/talk_with_wangjianshuo.html)
 
 - 2022-12-09 23:34:52 前来考古: [与王建硕的对话 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2010/04/talk_with_wangjianshuo.html)
