@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-12-10 12:23:06 [Magic Tricks of Testing (RailsConf) By Sandi Metz](https://speakerdeck.com/skmetz/magic-tricks-of-testing-railsconf)
+
 - 2022-12-10 10:51:27 [对 stub 和 mock 的理解 · Ruby China](https://ruby-china.org/topics/10977)
 
 - 2022-12-10 10:40:48 ["It doesn't have to be this way"](https://speakerdeck.com/skmetz/magic-tricks-of-testing-railsconf?slide=9)
