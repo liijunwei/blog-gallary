@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-12-10 13:23:02 [A Step-by-Step Guide to Crypto Wallet App Development](https://imaginovation.net/blog/crypto-wallet-app-development-guide/)
+
 - 2022-12-10 12:46:32 TODO learn this modeling tool: https://github.com/plantuml-stdlib/C4-PlantUML
 
 - 2022-12-10 12:23:12 [Sandi Metz (@skmetz) on Speaker Deck](https://speakerdeck.com/skmetz)
