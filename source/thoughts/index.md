@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-12-13 00:20:27 没有人限制我把代码写得更好, 没有人限制我练习, 自己也不要限制自己
+
 - 2022-12-12 23:03:25 第一次读完DDD, 好东西啊, 实践中需要多回顾
 
 - 2022-12-12 16:19:06 这不就是马总之前写的那个`serilized_fields`嘛... 还是重新发明轮子了 [Hidden Gems: ActiveRecord Store - Honeybadger Developer Blog](https://www.honeybadger.io/blog/rails-activerecord-store/?utm_source=rubyweekly&utm_medium=email&utm_campaign=ruby)
