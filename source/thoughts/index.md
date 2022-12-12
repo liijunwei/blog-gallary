@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-12-12 16:19:06 这不就是马总之前写的那个`serilized_fields`嘛... 还是重新发明轮子了 [Hidden Gems: ActiveRecord Store - Honeybadger Developer Blog](https://www.honeybadger.io/blog/rails-activerecord-store/?utm_source=rubyweekly&utm_medium=email&utm_campaign=ruby)
+
 - 2022-12-10 13:23:02 [A Step-by-Step Guide to Crypto Wallet App Development](https://imaginovation.net/blog/crypto-wallet-app-development-guide/)
 
 - 2022-12-10 12:46:32 TODO learn this modeling tool: https://github.com/plantuml-stdlib/C4-PlantUML
