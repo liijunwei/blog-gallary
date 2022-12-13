@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-12-13 23:29:16 [java - IntelliJ - Take standard input from a file - Stack Overflow](https://stackoverflow.com/questions/54360790/intellij-take-standard-input-from-a-file)
+
 - 2022-12-13 16:27:16 [rsync examples](https://rsync.samba.org/examples.html)
 
 - 2022-12-13 15:49:44 [Martin Fowler: "Yet Another Optimization Article"](https://martinfowler.com/ieeeSoftware/yetOptimization.pdf)
