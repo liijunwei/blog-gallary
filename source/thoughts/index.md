@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-12-13 16:27:16 [rsync examples](https://rsync.samba.org/examples.html)
+
 - 2022-12-13 15:49:44 [Martin Fowler: "Yet Another Optimization Article"](https://martinfowler.com/ieeeSoftware/yetOptimization.pdf)
 
 - 2022-12-13 14:38:26 ["Once you’ve found your bottlenecks, you have two choices: speed up the slow things or do the slow things less often."](https://martinfowler.com/ieeeSoftware/yetOptimization.pdf)
