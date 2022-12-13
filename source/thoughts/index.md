@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-12-13 11:58:38 squish api
+
 - 2022-12-13 11:00:14 ["Reading this book("Programming Pearls") convinced me that I need a new job."](https://wiki.c2.com/?ProgrammingPearls)
 
 - 2022-12-13 10:57:03 加深印象 [Rules Of Optimization](https://wiki.c2.com/?RulesOfOptimization)
