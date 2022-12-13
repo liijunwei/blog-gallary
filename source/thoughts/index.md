@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-12-13 14:38:26 ["Once you’ve found your bottlenecks, you have two choices: speed up the slow things or do the slow things less often."](https://martinfowler.com/ieeeSoftware/yetOptimization.pdf)
+
 - 2022-12-13 14:30:33 [Optimize Later](https://wiki.c2.com/?OptimizeLater)
 
 - 2022-12-13 11:58:38 squish api
