@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-12-17 16:59:04 嘿嘿嘿又混了一个助攻 https://github.com/rails/globalid/pull/150
+
 - 2022-12-14 17:39:36 好像中招了，38度，嗓子哑了，但抗原检测还是阴性的
 
 - 2022-12-13 23:29:16 [java - IntelliJ - Take standard input from a file - Stack Overflow](https://stackoverflow.com/questions/54360790/intellij-take-standard-input-from-a-file)
