@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-12-19 16:14:02 发现一名老兵 https://jmbucknall.com/cv/
+
 - 2022-12-19 15:53:49 [Simplest Thing That Could Possibly Work](https://wiki.c2.com/?SimplestThingThatCouldPossiblyWork)
 
 - 2022-12-19 15:10:30 有什么证据支撑这句话嘛？ "Nevertheless stateless is THE one and only way to get high performance" --- https://wiki.c2.com/?StatelessObject
