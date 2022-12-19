@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-12-19 15:53:49 [Simplest Thing That Could Possibly Work](https://wiki.c2.com/?SimplestThingThatCouldPossiblyWork)
+
 - 2022-12-19 15:10:30 有什么证据支撑这句话嘛？ "Nevertheless stateless is THE one and only way to get high performance" --- https://wiki.c2.com/?StatelessObject
 
 - 2022-12-18 22:31:23 二棉裤讲的"三国演义", "正义联盟: 扎克·施奈德版", "扫毒", "扫毒2" 生病了😷好难专注... 明天试试恢复正常工作
