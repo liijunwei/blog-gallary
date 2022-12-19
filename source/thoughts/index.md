@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-12-19 16:16:45 [~stateless~ state-changeless object](https://wiki.c2.com/?StatelessObject)
+
 - 2022-12-19 16:14:02 发现一名老兵 https://jmbucknall.com/cv/
 
 - 2022-12-19 15:53:49 [Simplest Thing That Could Possibly Work](https://wiki.c2.com/?SimplestThingThatCouldPossiblyWork)
