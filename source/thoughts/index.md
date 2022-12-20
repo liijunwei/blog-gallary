@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-12-20 18:44:15 这个不错 https://github.com/bibstha/safe_parser
+
 - 2022-12-19 16:16:45 [~stateless~ state-changeless object](https://wiki.c2.com/?StatelessObject)
 
 - 2022-12-19 16:14:02 发现一名老兵 https://jmbucknall.com/cv/
