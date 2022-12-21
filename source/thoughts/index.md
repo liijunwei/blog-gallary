@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-12-21 14:49:47 无论如何，要努力把接手到的代码变得更简单，更容易懂，更容易维护和查问题；遇到了代码写得好的人要多多交流
+
 - 2022-12-20 18:44:15 这个不错 https://github.com/bibstha/safe_parser
 
 - 2022-12-19 16:16:45 [~stateless~ state-changeless object](https://wiki.c2.com/?StatelessObject)
