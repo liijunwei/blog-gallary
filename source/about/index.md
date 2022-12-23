@@ -13,9 +13,9 @@ Location:   beijing
 GitHub:     https://github.com/liijunwei
 Skills:     ruby/rails
 Lately:     coding/refactoring with domain knowledge & language
-            reading DDD
             reading & practicing "algorithms 4th edition"
-For Fun:    reading "Different Seasons"
+            fighting COVID-19
+For Fun:    reading "Dune"
             learning scheme
 Favorites:  https://github.com/liijunwei/favorites
 ```
