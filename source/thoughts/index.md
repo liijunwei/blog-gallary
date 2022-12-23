@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-12-23 11:07:35 [ruby/sample at master](https://github.com/ruby/ruby/tree/master/sample)
+
 - 2022-12-22 15:52:34 同事推荐 PLUTO https://book.douban.com/series/796
 
 - 2022-12-21 18:04:41 听到新名词: wifi gun
