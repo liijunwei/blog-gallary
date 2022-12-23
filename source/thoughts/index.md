@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-12-23 12:22:11 又自信看了一遍sidekiq的核心代码，明白的更多了，感觉优雅的代码其实很难存在，或者说不应该是一个需要花太多时间追求的事；外在看起来再好，产品再优秀，内部的复杂度也是很难避免；真正应该花精力的还是代码是否清晰，是否做好了它应该做的事，可维护性好不好...
+
 - 2022-12-23 11:07:35 [ruby/sample at master](https://github.com/ruby/ruby/tree/master/sample)
 
 - 2022-12-22 15:52:34 同事推荐 PLUTO https://book.douban.com/series/796
