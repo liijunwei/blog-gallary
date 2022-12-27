@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-12-27 20:22:55 if you need more than 3 levels of indentation, you're screwed anyway, and should fix your program
+
 - 2022-12-27 10:56:01 问题在没理清前，感觉乱是正常的，别抱怨
 
 - 2022-12-27 08:08:15 还是早睡早起舒服, 可惜两个都不容易做到
