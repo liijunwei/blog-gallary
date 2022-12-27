@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-12-27 08:08:15 还是早睡早起舒服, 可惜两个都不容易做到
+
 - 2022-12-26 21:54:30 talking trees --- The Lord of the Rings: The Two Towers
 
 - 2022-12-26 14:13:36 [lowlighter/metrics: 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!](https://github.com/lowlighter/metrics)
