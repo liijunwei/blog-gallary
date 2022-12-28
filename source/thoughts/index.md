@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-12-28 21:32:05 [the word "refactoring" NEVER appears on schedule, EVER. Because you're constantly refactoring, you're always refactoring, constantly improving things](https://youtu.be/l-gF0vDhJVI?list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj&t=4808)
+
 - 2022-12-28 15:41:48 事情做熟练了，做多了以后，简化，少做不必要的操作是很自然的事情; 可以反过来看一个人做事的方式，判断他对某样东西是否很熟悉
 
 - 2022-12-27 20:22:55 if you need more than 3 levels of indentation, you're screwed anyway, and should fix your program
