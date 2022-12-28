@@ -5,4 +5,9 @@ tags:
   - reading
 ---
 
-WIP
+- TODO algs4
+- TODO beyond feelings
+- TODO sicp
+- TODO gopl
+- TODO [optional]High-Performance-Browser-Networking
+- TODO [optional] clean code
