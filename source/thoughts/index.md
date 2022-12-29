@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-12-29 09:02:23 [recap: Avoid "Primitive Obsession"](https://youtu.be/2JB1_e5wZmU?t=1873), 第一次了解到这个概念是在读 "99 bottles of OOP" 的时候, 一下让我理解了很多OOP相关的概念, 以前很多看不懂的代码也一下清晰了起来
+
 - 2022-12-29 08:51:07 [A "type" is just a name for a set of things in functional programming](https://youtu.be/2JB1_e5wZmU?t=1257)
 
 - 2022-12-28 21:32:05 [the word "refactoring" NEVER appears on schedule, EVER. Because you're constantly refactoring, you're always refactoring, constantly improving things](https://youtu.be/l-gF0vDhJVI?list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj&t=4808)
