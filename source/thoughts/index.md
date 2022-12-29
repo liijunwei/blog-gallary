@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-12-29 09:31:55 talk & book: [Domain Driven Design | F# for fun and profit](https://fsharpforfunandprofit.com/ddd/)
+
 - 2022-12-29 09:30:29 Refactor towards deeper insight
 
 - 2022-12-29 09:28:41 [compare these two: "A contact must have an email or a postal address" vs "A contact must have at least one way of being contacted"](https://youtu.be/2JB1_e5wZmU?t=2923)
