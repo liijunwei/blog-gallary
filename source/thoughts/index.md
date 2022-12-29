@@ -3,7 +3,9 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
-- 2022-12-29 09:02:23 [recap: Avoid "Primitive Obsession"](https://youtu.be/2JB1_e5wZmU?t=1873), 第一次了解到这个概念是在读 "99 bottles of OOP" 的时候, 一下让我理解了很多OOP相关的概念, 以前很多看不懂的代码也一下清晰了起来
+- 2022-12-29 09:10:52 刚刚了解到函数式编程里不可变性的一个好处: 输入通过校验以后, 之后使用数据的程序可以信任数据, 无需反复的 检查输入是否有问题, 因为数据是不可变的
+
+- 2022-12-29 09:02:23 [recap: Avoid "Primitive Obsession"](https://youtu.be/2JB1_e5wZmU?t=1873), 第一次了解到这个概念是在读 "99 bottles of OOP" 的时候, 一下让我理解了很多OOP相关的概念(比如value object), 以前很多看不懂的代码也一下清晰了起来
 
 - 2022-12-29 08:51:07 [A "type" is just a name for a set of things in functional programming](https://youtu.be/2JB1_e5wZmU?t=1257)
 
