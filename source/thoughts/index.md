@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-12-29 17:35:36 handle tools... https://dev.to/n350071/model-table-name-conversions-in-rails-56hj
+
 - 2022-12-29 09:31:55 talk & book: [Domain Driven Design | F# for fun and profit](https://fsharpforfunandprofit.com/ddd/)
 
 - 2022-12-29 09:30:29 Refactor towards deeper insight
