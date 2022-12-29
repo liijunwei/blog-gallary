@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-12-29 09:28:41 [compare these two: "A contact must have an email or a postal address" vs "A contact must have at least one way of being contacted"](https://youtu.be/2JB1_e5wZmU?t=2923)
+
 - 2022-12-29 09:23:50 [什么意思??? "make illegal states unrepresentable!" --- Yaron Minsky](https://youtu.be/2JB1_e5wZmU?t=2783)
 
 - 2022-12-29 09:10:52 刚刚了解到函数式编程里不可变性的一个好处: 输入通过校验以后, 之后使用数据的程序可以信任数据, 无需反复的 检查输入是否有问题, 因为数据是不可变的
