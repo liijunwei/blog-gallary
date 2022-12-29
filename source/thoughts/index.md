@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-12-29 23:12:56 指环王里的精灵真好看
+
 - 2022-12-29 22:44:52 突然想起来 [席慕蓉《让步》](http://www.duanpian5.com/ximurong/1467.html), "那么 就这样忧伤以终老, 也没有什么不好", 好像一下回到了教室最后一排, 高中的时光
 
 - 2022-12-29 22:06:06 rubygems + MFA: https://guides.rubygems.org/setting-up-multifactor-authentication/
