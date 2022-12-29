@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2022-12-29 22:44:52 突然想起来 [席慕蓉《让步》](http://www.duanpian5.com/ximurong/1467.html), "那么 就这样忧伤以终老, 也没有什么不好", 好像一下回到了教室最后一排, 高中的时光
+
 - 2022-12-29 22:06:06 rubygems + MFA: https://guides.rubygems.org/setting-up-multifactor-authentication/
 
 - 2022-12-29 17:35:36 handle tools... https://dev.to/n350071/model-table-name-conversions-in-rails-56hj
