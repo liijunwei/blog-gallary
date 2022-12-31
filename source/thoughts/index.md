@@ -3,7 +3,7 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
-- 2022-12-31 10:38:08 收藏: [解决 Rails 项目容器化途中日志时差问题 · Ruby China](https://ruby-china.org/topics/42811)
+- 2022-12-31 10:38:08 收藏: [解决 Rails 项目容器化途中日志时差问题 · Ruby China](https://ruby-china.org/topics/42811) (keyword: docker timezone)
 
 - 2022-12-30 21:43:08 原来以前我也魔抗点满了, 看不懂指环王里魔戒到底有什么诱惑, 弗洛多到底承担了什么痛苦...
 
