@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-01-01 22:21:06 “Good developers know how things work. Great developers know why things work.”
+
 - 2023-01-01 15:56:33 [benchmark.fyi](https://ips.fastruby.io/)
 
 - 2023-01-01 15:18:01 代码基本都是人写的, 为啥有那么多我看不懂的...
