@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-01-01 15:56:33 [benchmark.fyi](https://ips.fastruby.io/)
+
 - 2023-01-01 15:18:01 代码基本都是人写的, 为啥有那么多我看不懂的...
 
 - 2022-12-31 10:38:08 收藏: [解决 Rails 项目容器化途中日志时差问题 · Ruby China](https://ruby-china.org/topics/42811) (keyword: docker timezone)
