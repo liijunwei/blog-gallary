@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-01-02 10:08:20 [The Magic Tricks of Testing by Sandi Metz](https://www.youtube.com/watch?v=URSWYvyc42M) 加深印象
+
 - 2023-01-01 22:21:06 “Good developers know how things work. Great developers know why things work.”
 
 - 2023-01-01 15:56:33 [benchmark.fyi](https://ips.fastruby.io/)
