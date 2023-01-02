@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-01-02 16:53:10 [Q: In the course of your Ruby development how much do you find yourself having to rely on the debugger?](https://www.infoq.com/interviews/Ryan-Davis/) --- A: Not that much. The reason is not the traditional reason. I don't litter my code with puts in order to debug and stuff like that. I don't use a debugger nearly as much, because I write a lot of tests. I do a lot of TDD, I look at my output and if I see something wrong, if I'm running a web app or Rails app and I see something wrong, I say "What test didn't I write?", and I go replicate it there. That lets me nail it down in such a way that I can figure out what the problem is and I can prevent it from ever regressing. That's a double win.
+
 - 2023-01-02 10:56:06 删代码也好费精力
 
 - 2023-01-02 10:08:20 [The Magic Tricks of Testing by Sandi Metz](https://www.youtube.com/watch?v=URSWYvyc42M) 加深印象
