@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-01-06 21:41:19 不亏就是赚
+
 - 2023-01-06 19:41:28 [tool: Run your GitHub Actions locally 🚀](https://github.com/nektos/act)
 
 - 2023-01-06 16:30:38 [Linking merged pull requests from commits | The GitHub Blog](https://github.blog/2014-10-13-linking-merged-pull-requests-from-commits/)
