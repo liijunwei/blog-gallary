@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-01-06 16:30:38 [Linking merged pull requests from commits | The GitHub Blog](https://github.blog/2014-10-13-linking-merged-pull-requests-from-commits/)
+
 - 2023-01-05 22:12:09 "想得多了全是问题，做得多了全是答案。"
 
 - 2023-01-05 17:59:48 [paper: How to Read Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
