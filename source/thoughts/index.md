@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-01-07 18:30:18 无论如何动起来
+
 - 2023-01-06 21:41:19 不亏就是赚
 
 - 2023-01-06 19:41:28 [tool: Run your GitHub Actions locally 🚀](https://github.com/nektos/act)
