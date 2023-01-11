@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-01-11 21:12:14 [这是一个招聘帖 | 庄周梦蝶](http://blog.fnil.net/posts/2019-05-01-zhe-shi--ge-zhao-pin-tie/) (希望有天我配得上这样的团队)
+
 - 2023-01-11 21:07:45 https://github.com/GreptimeTeam/greptimedb/pull/767 从pr里找大佬, 加油
 
 - 2023-01-10 22:57:32 什么是理性? 我真的该多读点书, 多实践一点; 感谢毅哥提出我的问题
