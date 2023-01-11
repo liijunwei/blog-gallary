@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-01-11 21:20:23 简单复习一遍: [Ruby元编程技术 - Dennis的知识库](http://wiki.fnil.net/index.php?title=Ruby%E5%85%83%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF)
+
 - 2023-01-11 21:12:14 [这是一个招聘帖 | 庄周梦蝶](http://blog.fnil.net/posts/2019-05-01-zhe-shi--ge-zhao-pin-tie/) (希望有天我配得上这样的团队)
 
 - 2023-01-11 21:07:45 https://github.com/GreptimeTeam/greptimedb/pull/767 从pr里找大佬, 加油
