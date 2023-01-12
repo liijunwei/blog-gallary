@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-01-12 23:02:33 [Factory Bot cheatsheet](https://devhints.io/factory_bot)
+
 - 2023-01-12 14:44:52 https://playphrase.me
 
 - 2023-01-11 21:36:30 收藏: [昨天、今天和明天 | 庄周梦蝶](http://blog.fnil.net/posts/2017-11-06-336803e827e03f737df1e0551ae70419/)
