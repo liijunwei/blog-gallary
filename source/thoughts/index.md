@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-01-12 23:33:14 blog of Samuel Williams: [codeotaku](https://www.codeotaku.com/index)
+
 - 2023-01-12 23:02:33 [Factory Bot cheatsheet](https://devhints.io/factory_bot)
 
 - 2023-01-12 14:44:52 https://playphrase.me
