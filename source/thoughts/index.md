@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-01-12 14:44:52 https://playphrase.me
+
 - 2023-01-11 21:36:30 收藏: [昨天、今天和明天 | 庄周梦蝶](http://blog.fnil.net/posts/2017-11-06-336803e827e03f737df1e0551ae70419/)
 
 - 2023-01-11 21:20:23 简单复习一遍: [Ruby元编程技术 - Dennis的知识库](http://wiki.fnil.net/index.php?title=Ruby%E5%85%83%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF)
