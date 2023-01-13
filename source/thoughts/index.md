@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-01-13 10:03:59 犯错后，难免后悔，但是不存在后悔药，也没法时光倒流；但是昨天意识到一个应对方案(以前被我忽略掉的): 从别人的错误中吸取经验。 真的不一定非要等问题发生在身上时才后悔
+
 - 2023-01-12 23:33:14 blog of Samuel Williams: [codeotaku](https://www.codeotaku.com/index)
 
 - 2023-01-12 23:02:33 [Factory Bot cheatsheet](https://devhints.io/factory_bot)
