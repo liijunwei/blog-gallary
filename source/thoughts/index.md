@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-01-16 11:31:40 delegate 是学习ruby里没法忽略的方法, 花时间搞定它
+
 - 2023-01-16 10:57:35 [All Articles - Code with Jason](https://www.codewithjason.com/articles/)
 
 - 2023-01-15 23:37:07 blog: [2 Types of Linux File Locking (Advisory, Mandatory Lock Examples)](https://www.thegeekstuff.com/2012/04/linux-file-locking-types/)
