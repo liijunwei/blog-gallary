@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-01-17 14:55:56 sublimelinter真好用
+
 - 2023-01-17 12:14:01 少/不 吃瓜，多做事
 
 - 2023-01-16 16:01:16 [Understanding Factory Bot syntax by coding your own Factory Bot - Code with Jason](https://www.codewithjason.com/understanding-factory-bot-syntax-coding-factory-bot/)
