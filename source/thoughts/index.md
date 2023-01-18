@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-01-18 14:03:14 doc: [CPU Flame Graphs](https://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html)
+
 - 2023-01-17 16:16:14 好烂的代码啊，加油给改好点
 
 - 2023-01-17 14:55:56 sublimelinter真好用
