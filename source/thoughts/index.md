@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-01-18 17:37:02 blog: [Blogposts - Xe Iaso](https://xeiaso.net/blog) (喜欢这个博客的简洁，抽空浏览一下)
+
 - 2023-01-18 14:03:14 doc: [CPU Flame Graphs](https://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html)
 
 - 2023-01-17 16:16:14 好烂的代码啊，加油给改好点
