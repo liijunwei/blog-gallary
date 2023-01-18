@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-01-18 18:06:28 ["Also, use the standard library more. It's there for a reason. It doesn't change much so the maintainers are assumed to be sane if you trust the stability of the language."](https://xeiaso.net/blog/dependency-hell-2014-11-20)
+
 - 2023-01-18 17:37:02 blog: [Blogposts - Xe Iaso](https://xeiaso.net/blog) (喜欢这个博客的简洁，抽空浏览一下)
 
 - 2023-01-18 14:03:14 doc: [CPU Flame Graphs](https://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html)
