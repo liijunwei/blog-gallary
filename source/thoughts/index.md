@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-01-20 10:50:23 book: 似乎是一本实用的书 ["Linux 101 Hacks eBook, by Ramesh Natarajan"](https://www.thegeekstuff.com/linux-101-hacks-ebook/)
+
 - 2023-01-19 21:43:37 mike哥强烈推荐的书(ruby-china里的一个帖子): ["Engineering Software as a Service: An Agile Approach Using Cloud Computing"](http://www.saasbook.info/)
 
 - 2023-01-19 18:23:55 又变得成熟了一点，遇到坑不会抱怨个不停了，我是builder，问题在我面前，我来想办法解决
