@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-01-21 11:51:56 blog: [去中心化加密货币钱包系统设计 - 简书](https://www.jianshu.com/p/f72ab2b3b77f) (最后关于 architecture 的漫画很有趣)
+
 - 2023-01-21 10:58:57 看了wenwei哥的博客和源码, 感觉动态网站搭建的博客的灵活性更强
 
 - 2023-01-20 22:40:39 jasl yyds https://ruby-china.org/topics/10834#reply-106430
