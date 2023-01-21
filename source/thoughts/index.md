@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-01-21 10:58:57 看了wenwei哥的博客和源码, 感觉动态网站搭建的博客的灵活性更强
+
 - 2023-01-20 22:40:39 jasl yyds https://ruby-china.org/topics/10834#reply-106430
 
 - 2023-01-20 10:50:23 book: 似乎是一本实用的书 ["Linux 101 Hacks eBook, by Ramesh Natarajan"](https://www.thegeekstuff.com/linux-101-hacks-ebook/)
