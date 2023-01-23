@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-01-23 17:10:55 之前什么时候看过美剧 康斯坦丁 呢? 过年这几天又看了一遍, 不能说很好看, 也不算烂吧; 相比而言, 感觉电影更好看一点
+
 - 2023-01-23 13:38:24 ["To avoid aliasing bugs I follow a simple but important rule: value objects should be immutable. If I want to change my party date, I create a new object instead."](https://martinfowler.com/bliki/ValueObject.html)
 
 - 2023-01-22 11:27:32 paper: ["What Every Programmer Should Know About Memory"](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) (too long...)
