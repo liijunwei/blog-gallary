@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-01-23 13:38:24 ["To avoid aliasing bugs I follow a simple but important rule: value objects should be immutable. If I want to change my party date, I create a new object instead."](https://martinfowler.com/bliki/ValueObject.html)
+
 - 2023-01-22 11:27:32 paper: ["What Every Programmer Should Know About Memory"](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) (too long...)
 
 - 2023-01-21 11:51:56 blog: [去中心化加密货币钱包系统设计 - 简书](https://www.jianshu.com/p/f72ab2b3b77f) (最后关于 architecture 的漫画很有趣)
