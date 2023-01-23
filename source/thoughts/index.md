@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-01-23 22:40:45 爱，死亡和机器人 这剧脑洞真大,以前只觉得动画片里rick and morty很神, 我是井底之蛙
+
 - 2023-01-23 22:26:07 helping hand 有点震撼
 
 - 2023-01-23 21:22:16 《Love, Death & Robots》里 "beyond the aquila rift" 有点震撼
