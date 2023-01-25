@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-01-25 22:41:13 查看某个用户的公钥 和 gpg key: https://github.com/username.keys ｜ https://github.com/username.gpg
+
 - 2023-01-25 20:53:52 doc: [An Introduction to the Z Shell - Table of Contents](https://zsh.sourceforge.io/Intro/intro_toc.html#SEC3)
 
 - 2023-01-25 17:30:50 Love, Death & Robots (2019) - Beyond the Aquila Rift 和 "living in the shadows" 配合的好呀
