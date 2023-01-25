@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-01-25 20:53:52 doc: [An Introduction to the Z Shell - Table of Contents](https://zsh.sourceforge.io/Intro/intro_toc.html#SEC3)
+
 - 2023-01-25 17:30:50 Love, Death & Robots (2019) - Beyond the Aquila Rift 和 "living in the shadows" 配合的好呀
 
 - 2023-01-25 15:31:12 "所以假如你失去了理性, 就会遇到大量令人诧异的新鲜事物, 从此迷失在万花筒里, 知道碰上了钉子" --- "积极的结论"
