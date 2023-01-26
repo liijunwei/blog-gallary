@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-01-26 09:54:05 https://github.com/bfrg/gpg-guide
+
 - 2023-01-26 09:52:26 doc: [GnuPG - ArchWiki](https://wiki.archlinux.org/title/GnuPG#top-page)
 
 - 2023-01-25 22:41:13 查看某个用户的公钥 和 gpg key: https://github.com/username.keys ｜ https://github.com/username.gpg
