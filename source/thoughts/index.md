@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-01-26 18:57:55 想用hash的时候，先想想能不能用数组来简化；实用map/reduce/filter 简化代码； lisp -> list processing; 最最关键的还是把问题想清楚
+
 - 2023-01-26 09:54:05 https://github.com/bfrg/gpg-guide
 
 - 2023-01-26 09:52:26 doc: [GnuPG - ArchWiki](https://wiki.archlinux.org/title/GnuPG#top-page)
