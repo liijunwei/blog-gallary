@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-01-27 15:48:56 [III. Config: The Twelve-Factor App](https://12factor.net/config)
+
 - 2023-01-27 15:11:09 毅哥提醒: "找借口这事儿太容易了"
 
 - 2023-01-27 09:39:36 [bash - How to determine where an environment variable came from?](https://unix.stackexchange.com/questions/813/how-to-determine-where-an-environment-variable-came-from): `zsh -xl`
