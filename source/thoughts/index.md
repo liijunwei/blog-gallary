@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-01-28 16:01:16 free book: [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+
 - 2023-01-28 14:14:54 多多实践: [Simplifying Tests by Extracting Side-Effects](https://thoughtbot.com/blog/simplify-tests-by-extracting-side-effects)
 
 - 2023-01-27 23:06:26 flaky test 果然是有解药的 https://relishapp.com/rspec/rspec-core/docs/command-line/bisect
