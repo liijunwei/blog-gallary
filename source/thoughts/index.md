@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-01-28 17:43:01 [A Simple Data Equation | Kris Jenkins' Blog](http://blog.jenkster.com/2013/02/a-simple-data-equation.html)
+
 - 2023-01-28 17:35:05 blog post: [What Is Functional Programming? | Kris Jenkins' Blog](http://blog.jenkster.com/2015/12/what-is-functional-programming.html)
 
 - 2023-01-28 16:01:16 free book: [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
