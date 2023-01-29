@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-01-29 22:48:42 Simple, Elegant, Flexible, Nothing...
+
 - 2023-01-29 16:56:38 blog post on singleton: [Ruby and the singleton pattern don't get along](https://practicingruby.com/articles/ruby-and-the-singleton-pattern-dont-get-along)
 
 - 2023-01-29 15:44:40 [GitHub CLI | Take GitHub to the command line](https://cli.github.com/manual/gh_config_set)

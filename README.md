@@ -1,38 +1,18 @@
-# blog-gallary
-
-### Welcome to my blog post
+#### Welcome
 
 http://blog.bxzy.top
 
-### my github page
-
-```bash
-echo "hello :-)"
-```
-
-### theme
-
-这几个挺好看的
-
-+ [clean-blog](https://github.com/klugjo/hexo-theme-clean-blog)
-+ [anodyne](https://github.com/klugjo/hexo-theme-anodyne)
-
-### deploy
-
-#### setup
+#### deployment
 ```sh
-# remote
-blog_bare_repo="/srv/www/blog-gallary.git"
+# setup ECS nginx config
+ll /etc/nginx/sites-enabled/production.blog.conf
 
-mkdir $blog_bare_repo
-cd $blog_bare_repo
-git init --bare
-
+# setup static file folder
+ssh webuser@xiaoli
 mkdir /srv/www/blog-gallary
-git remote add origin file://$blog_bare_repo
 
-# local
-rm -rf .deploy_git && hexo clean && hexo deploy
+# sync static files
+make sync
 ```
 
 #### afterwards
@@ -40,10 +20,8 @@ rm -rf .deploy_git && hexo clean && hexo deploy
 [thougut util](https://github.com/liijunwei/custom-omz-plugins/blob/main/thought/thought.plugin.zsh)
 
 ```sh
-bin/deploy
 thought
 thought -e
 thought "xxx"
 thought -i
 ```
-
