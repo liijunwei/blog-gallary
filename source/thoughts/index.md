@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-01-29 15:44:40 [GitHub CLI | Take GitHub to the command line](https://cli.github.com/manual/gh_config_set)
+
 - 2023-01-29 14:14:47 so many interesting posts: [Practicing Ruby](https://practicingruby.com/)
 
 - 2023-01-29 14:12:06 blog post: [Sustainable maintenance: Focus on quality first](https://practicingruby.com/articles/sustainable-foss-quality)
