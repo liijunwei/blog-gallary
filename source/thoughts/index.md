@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-01-30 08:52:42 "如果你无法清晰地写作，我认为你也不能清楚地思考。如果不能清楚地思考，你就会陷入麻烦。"
+
 - 2023-01-29 22:48:42 Simple, Elegant, Flexible, Nothing...
 
 - 2023-01-29 16:56:38 blog post on singleton: [Ruby and the singleton pattern don't get along](https://practicingruby.com/articles/ruby-and-the-singleton-pattern-dont-get-along)
