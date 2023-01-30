@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-01-30 23:47:13 喜欢 [thoughtbot/administrate](https://github.com/thoughtbot/administrate) 的简洁
+
 - 2023-01-30 21:28:01 issue再小也算一点微薄的贡献: https://github.com/rubocop/rubocop/issues/11517
 
 - 2023-01-30 21:24:43 在群里闲逛, 学到一条警句: 万丈高楼平地起,勿在浮沙筑高台
