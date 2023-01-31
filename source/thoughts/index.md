@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-01-31 08:55:12 tmx is incredible (?)
+
 - 2023-01-30 23:47:13 喜欢 [thoughtbot/administrate](https://github.com/thoughtbot/administrate) 的简洁
 
 - 2023-01-30 21:28:01 issue再小也算一点微薄的贡献: https://github.com/rubocop/rubocop/issues/11517
