@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-01-31 10:14:30 太多东西需要优化了，找到属于自己的，说不定是一个赚钱的方向
+
 - 2023-01-31 08:55:12 tmx is incredible (?)
 
 - 2023-01-30 23:47:13 喜欢 [thoughtbot/administrate](https://github.com/thoughtbot/administrate) 的简洁
