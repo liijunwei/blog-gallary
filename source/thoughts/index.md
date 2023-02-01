@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-02-01 23:59:13 毅哥说的对啊, "快"就是很多问题的解法
+
 - 2023-02-01 22:26:32 new word: side-effect-free
 
 - 2023-02-01 22:25:57 不得不赞叹歪果仁的表达方式真形象 ["Tree shaking is a term commonly used in the JavaScript context for dead-code elimination."]
