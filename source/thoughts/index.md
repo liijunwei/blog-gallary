@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-02-01 11:08:15 网易云音乐怎么了... 怎么歌单里那么多歌都下架了 x.x(ip原因)
+
 - 2023-01-31 19:53:59 try this in the future: https://github.com/sindresorhus/pure
 
 - 2023-01-31 10:14:30 太多东西需要优化了，找到属于自己的，说不定是一个赚钱的方向
