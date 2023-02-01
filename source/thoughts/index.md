@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-02-02 00:53:03 这是我一直想搞懂的一些东西: [sprockets/how_sprockets_works.md](https://github.com/rails/sprockets/blob/main/guides/how_sprockets_works.md#introduction)
+
 - 2023-02-01 23:59:13 毅哥说的对啊, "快"就是很多问题的解法
 
 - 2023-02-01 22:26:32 new word: side-effect-free
