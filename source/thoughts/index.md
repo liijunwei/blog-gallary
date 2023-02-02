@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-02-02 09:16:59 for reference: https://github.com/thoughtbot/dotfiles/blob/main/zsh/functions/envup
+
 - 2023-02-02 09:11:46 youtube video: ["If I could give advice to myself when starting as a software engineer: expand your horizon"](https://www.youtube.com/watch?v=QIyc6NKS5J0)
 
 - 2023-02-02 00:59:41 要不停的做减法,才知道自己真正需要什么,自己用的是什么,自己面对的是什么
