@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-02-03 09:37:51 掉进坑里才真正明白最佳实践为什么是最佳实践
+
 - 2023-02-02 14:16:42 omz 里我最喜欢的一个功能: ["up arrow completion"](https://github.com/ohmyzsh/ohmyzsh/issues/1720#issuecomment-16521410), 实际上不需要omz, 只需要 zsh
 
 - 2023-02-02 13:55:01 github projects 好像是个被我忽略的功能
