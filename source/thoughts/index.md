@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-02-03 19:08:08 TODO try this tool: [Business Intelligence on Rails With Blazer - Honeybadger Developer Blog](https://www.honeybadger.io/blog/blazer-business-intelligence-ruby-on-rails/)
+
 - 2023-02-03 18:40:44 blog post: [Code Smells: Null | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2017/08/code-smells-null/)
 
 - 2023-02-03 17:07:41 看到一句 【存款越多，情绪越稳定】，感觉有点道理
