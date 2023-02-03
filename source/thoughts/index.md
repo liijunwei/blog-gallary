@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-02-03 19:13:55 今天分享了个logger+block的小技巧，有同事指出用块和直接传入参数值有不同，用块可以享受`lazy evaluation`的好处，并且它用logger+logger level举了一个很好的例子，非常精彩，感谢～ 此外给我的感受是，多掌握一门函数式编程语言很重要，这位同事看起来至少掌握了ruby和elixir，向他学习；我也懂函数式里的闭包有`lazy evaluation`的好处，但是我却没意识到ruby+block可以又这种效果，学得浅了
+
 - 2023-02-03 19:08:08 TODO try this tool: [Business Intelligence on Rails With Blazer - Honeybadger Developer Blog](https://www.honeybadger.io/blog/blazer-business-intelligence-ruby-on-rails/)
 
 - 2023-02-03 18:40:44 blog post: [Code Smells: Null | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2017/08/code-smells-null/)
