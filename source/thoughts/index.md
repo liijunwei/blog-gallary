@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-02-04 09:47:12 可以开始用alacritty+tmux替换iterm2了；下一步准备用vim替换sublime
+
 - 2023-02-04 09:13:50 tmux 真香
 
 - 2023-02-04 08:59:03 读读列表也可以学到一些东西: [Increase Your Developer Productivity by Building a Toolchain | FEM](https://frontendmasters.com/courses/developer-productivity/)
