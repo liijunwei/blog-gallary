@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-02-04 08:59:03 读读列表也可以学到一些东西: [Increase Your Developer Productivity by Building a Toolchain | FEM](https://frontendmasters.com/courses/developer-productivity/)
+
 - 2023-02-03 23:20:39 用微信支付, 每周下载一次账单, 写个小脚本处理一下数据, 记账完成
 
 - 2023-02-03 19:16:05 这个repo解决了什么问题？ https://github.com/jhawthorn/pub_grub
