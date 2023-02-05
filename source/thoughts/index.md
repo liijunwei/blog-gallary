@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-02-05 10:01:09 "if we hear a story too good to be true, it ain't"
+
 - 2023-02-04 21:38:50 Alacritty+Hammerspoon(`hs.hotkey.bind({"cmd"},   "J",     function() openApp("Alacritty")  end)`)
 
 - 2023-02-04 16:48:10 要关注价格
