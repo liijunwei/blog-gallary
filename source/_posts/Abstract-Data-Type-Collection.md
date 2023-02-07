@@ -19,6 +19,7 @@ tags:
     - currency
     - souce_id
     - source_type
+- List
 - Stack
 - Queue
 - Bag
