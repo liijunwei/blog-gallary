@@ -25,3 +25,5 @@ tags:
 - Bag
 - Tree
 
+ref: [Reading 10: Abstract Data Types](https://web.mit.edu/6.031/www/sp21/classes/10-abstract-data-types/)
+
