@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-02-08 00:20:35 感觉httparty的那几个小的dsl用起来挺舒服的，代码其实也一般... 包含了不少多数情况下用不到的功能; 遇到异常的http code(400/500...) 默认情况下不抛异常，和rest-client类似，感觉好怪啊x.x
+
 - 2023-02-07 23:29:25 和ruby相比, java确实啰嗦的要命 [Reading 26: Map, Filter, Reduce](http://web.mit.edu/6.031/www/sp21/classes/26-map-filter-reduce/)
 
 - 2023-02-07 23:21:26 似乎十本不错的教科书: [6.031: Software Construction](http://web.mit.edu/6.031/www/sp21/)
