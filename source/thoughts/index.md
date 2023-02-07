@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-02-07 23:21:26 似乎十本不错的教科书: [6.031: Software Construction](http://web.mit.edu/6.031/www/sp21/)
+
 - 2023-02-07 22:45:08 我踩过的坑，肯定也有人踩过 哈哈哈 https://github.com/mperham/sidekiq/issues/5710
 
 - 2023-02-07 22:18:09 tally: a current score or amount.
