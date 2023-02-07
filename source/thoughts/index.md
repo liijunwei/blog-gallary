@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-02-07 16:37:09 我怎么才能学会如何评估价值，或者 怎么才能清晰得表达清楚物品或者所做的事或者人的价值？
+
 - 2023-02-07 14:53:30 review了好多代码，还是对写得不好对代码容忍度很低
 
 - 2023-02-07 14:28:55 use `find_each` instead of `find_in_batches` in simple situation
