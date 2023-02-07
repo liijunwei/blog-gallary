@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-02-07 14:53:30 review了好多代码，还是对写得不好对代码容忍度很低
+
 - 2023-02-07 14:28:55 use `find_each` instead of `find_in_batches` in simple situation
 
 - 2023-02-06 18:19:05 ["If it's worth saving to a logfile, it's worth showing in the user interface"](https://blog.codinghorror.com/the-problem-with-logging/)
