@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-02-07 14:28:55 use `find_each` instead of `find_in_batches` in simple situation
+
 - 2023-02-06 18:19:05 ["If it's worth saving to a logfile, it's worth showing in the user interface"](https://blog.codinghorror.com/the-problem-with-logging/)
 
 - 2023-02-06 16:13:13 CODING HORROR blog post: [Recommended Reading for Developers](https://blog.codinghorror.com/recommended-reading-for-developers/)
