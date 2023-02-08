@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-02-08 18:17:40 about health: ["Exercise Snacks: A Feasible Exercising Strategy for Office Workers"](https://github.com/yfractal/blog/issues/12)
+
 - 2023-02-08 15:52:18 Revert the file: `git checkout [commit ID] -- path/to/file`
 
 - 2023-02-08 00:20:35 感觉httparty的那几个小的dsl用起来挺舒服的，代码其实也一般... 包含了不少多数情况下用不到的功能; 遇到异常的http code(400/500...) 默认情况下不抛异常，和rest-client类似，感觉好怪啊x.x
