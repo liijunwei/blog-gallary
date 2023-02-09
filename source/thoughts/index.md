@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-02-09 10:17:04 fun blog system: https://github.com/tryghost/ghost/
+
 - 2023-02-09 10:09:11 blog: [How To Achieve Ultimate Blog Success In One Easy Step](https://blog.codinghorror.com/how-to-achieve-ultimate-blog-success-in-one-easy-step/)
 
 - 2023-02-09 10:03:40 [Steve McConnell](https://stevemcconnell.com/), Author of "Code Complete"
