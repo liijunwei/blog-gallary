@@ -14,7 +14,5 @@ GitHub:     https://github.com/liijunwei
 Skills:     ruby/rails
 Lately:     coding/refactoring with domain knowledge & language
             reading & practicing "algorithms 4th edition"
-For Fun:    learning scheme
 Favorites:  https://github.com/liijunwei/favorites
 ```
-

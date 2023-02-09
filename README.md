@@ -9,7 +9,7 @@ ll /etc/nginx/sites-enabled/production.blog.conf
 
 # setup static file folder
 ssh webuser@xiaoli
-mkdir /srv/www/blog-gallary
+mkdir -p /srv/www/blog-gallary
 
 # sync static files
 make sync
