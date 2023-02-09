@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-02-09 10:03:40 [Steve McConnell](https://stevemcconnell.com/), Author of "Code Complete"
+
 - 2023-02-08 18:17:40 about health: ["Exercise Snacks: A Feasible Exercising Strategy for Office Workers"](https://github.com/yfractal/blog/issues/12)
 
 - 2023-02-08 15:52:18 Revert the file: `git checkout [commit ID] -- path/to/file`
