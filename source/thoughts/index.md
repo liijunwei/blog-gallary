@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-02-09 13:54:32 前天晚上做梦，意识到两件事: 1. 凡事用常识判断一下，可疑的地方多查查 2. "验证码"可以帮忙避坑
+
 - 2023-02-09 10:17:04 fun blog system: https://github.com/tryghost/ghost/
 
 - 2023-02-09 10:09:11 blog: [How To Achieve Ultimate Blog Success In One Easy Step](https://blog.codinghorror.com/how-to-achieve-ultimate-blog-success-in-one-easy-step/)
