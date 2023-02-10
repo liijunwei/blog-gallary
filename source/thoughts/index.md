@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-02-10 14:44:19 quiz: [Test Yourself on Rails ActiveRecord API](https://www.vector-logic.com/blog/posts/test-yourself-on-rails-active-record-api) 基础不太稳当...
+
 - 2023-02-09 16:34:51 处理历史问题好痛苦，如果没有必要，还是让它跑着吧... 不要在上面耗费太多时间
 
 - 2023-02-09 13:56:20 "This feels too good to be true"
