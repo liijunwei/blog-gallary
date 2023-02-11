@@ -3,7 +3,7 @@ title: TM-code-review
 date: 2021-09-21 22:09:24
 tags:
   - expert
-  - code-review
+  - code review
 ---
 
 分享一篇内部CodeReview时的记录, 主讲是技术总监, 听讲的是公司新手村一众小菜鸡
@@ -15,10 +15,10 @@ tags:
 + "对代码要有敬畏之心"
 + "代码整洁"
 
-+ 书: 代码大全
-+ 书: 重构
-+ 书: 代码整洁之道
-+ 书: 敏捷软件开发: 原则、模式与实践
++ 书: 代码大全("Code Complete", 读过了, 推荐)
++ 书: 重构(["Refactoring"](https://martinfowler.com/books/refactoringRubyEd.html), , 读过了, 推荐)
++ 书: 代码整洁之道("Clean Code")
++ 书: 敏捷软件开发: 原则、模式与实践("Agile Software Development, Principles, Patterns, and Practices", 读过了, 推荐)
 
 + 重构
     + "代码写好以后, 需要反复重构" 直到 不需要重构为止
