@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-02-11 10:39:37 99 bottles of OOP 里的代码模式，其实可以用于日常开发
+
 - 2023-02-10 15:24:45 看大佬工作 https://github.com/ruby/logger/pull/85
 
 - 2023-02-10 14:44:19 quiz: [Test Yourself on Rails ActiveRecord API](https://www.vector-logic.com/blog/posts/test-yourself-on-rails-active-record-api) 基础不太稳当...
