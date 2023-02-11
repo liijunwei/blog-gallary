@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-02-11 12:13:00 [Gestimer - For those little reminders during the day](http://maddin.io/gestimer/), 很久前买了这个软件, 但是用得太少了, 捡起来, "Tadam.app" 相形见绌
+
 - 2023-02-11 10:53:45 [Linus torvalds talking about good taste | lijunwei | bxzy](http://blog.bxzy.top/2023/01/01/Linus-torvalds-talking-about-good-taste/), 这篇blog里记录的东西对我的产生了潜移默化的影响, 我能看到很多代码里的小问题, 但是似乎很多人都看不到. 这是微观的小问题, 我注意得到, 我觉得是好事; 不过希望以后我也能注意到更宏观层面的问题, 并且知道怎么处理
 
 - 2023-02-11 10:39:37 99 bottles of OOP 里的代码模式，其实可以用于日常开发
