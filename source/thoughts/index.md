@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-02-13 08:29:42 工具的力量太强啦
+
 - 2023-02-13 08:05:28 多线程的代码怎么debug呢
 
 - 2023-02-11 12:13:00 [Gestimer - For those little reminders during the day](http://maddin.io/gestimer/), 很久前买了这个软件, 但是用得太少了, 捡起来, "Tadam.app" 相形见绌
