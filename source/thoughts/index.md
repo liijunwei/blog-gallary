@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-02-14 21:53:02 多读代码，多读书，多学习领域知识，多沟通，理解的概念多了，深刻了，慢慢的起名字的能力就会提升
+
 - 2023-02-14 10:29:02 always hover over links, but don't click before confirmation
 
 - 2023-02-14 10:15:07 记录一本大佬推荐的书: "Your Money or Your Life"
