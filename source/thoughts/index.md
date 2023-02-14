@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-02-14 10:29:02 always hover over links, but don't click before confirmation
+
 - 2023-02-14 10:15:07 记录一本大佬推荐的书: "Your Money or Your Life"
 
 - 2023-02-14 09:35:59 我的记账方式原来叫做 【流水账】，我应该学习更加合理的记账方式； 此外 accounting 这项技能有助于我的工作，要学习一下
