@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-02-15 10:17:28 "A Philosophy of Software Design" software complexity: [Notes on A Philosophy of Software Design. | Irrational Exuberance](https://lethain.com/notes-philosophy-software-design/)
+
 - 2023-02-15 10:00:00 好的资源: [分类：开发者手册 - 阮一峰的网络日志](https://www.ruanyifeng.com/blog/developer/)
 
 - 2023-02-14 21:53:02 多读代码，多读书，多学习领域知识，多沟通，理解的概念多了，深刻了，慢慢的起名字的能力就会提升
