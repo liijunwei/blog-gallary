@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-02-16 11:28:09 ruby里array的map和collect是同一个东西，但总感觉collect好难懂
+
 - 2023-02-15 10:34:03 "Complexity is more apparent to readers than to writers. If other people think a piece of code is complex, it is."
 
 - 2023-02-15 10:17:28 "A Philosophy of Software Design" software complexity: [Notes on A Philosophy of Software Design. | Irrational Exuberance](https://lethain.com/notes-philosophy-software-design/)
