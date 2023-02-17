@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-02-17 15:52:57 [Why does 0.1 + 0.2 = 0.30000000000000004?](https://jvns.ca/blog/2023/02/08/why-does-0-1-plus-0-2-equal-0-30000000000000004/), 感觉这是基础知识，但就是提不起兴趣...
+
 - 2023-02-17 14:01:02 昨天晚上读了这篇，[Why limiting work-in-progress works. | Irrational Exuberance](https://lethain.com/limiting-wip/)，挺有体会的，WIP的数量得有限制，不然事情做着做着会突然失去兴趣或者动力
 
 - 2023-02-16 11:28:09 ruby里array的map和collect是同一个东西，但总感觉collect好难懂
