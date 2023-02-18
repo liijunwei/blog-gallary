@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-02-18 23:07:35 ["在自学这件事上，重视一切老生常谈"](https://github.com/selfteaching/the-craft-of-selfteaching/blob/master/markdown/01.preface.md)
+
 - 2023-02-18 18:18:00 快速排序更快 o.O
 
 - 2023-02-18 17:12:17 应用奥卡姆剃刀原理: 因为项目里工作分支太多了, 所以我才会有 快速rebase default分支的需求; 如果我结合前面的"limiting work-in-progress", 会发现我的需求直接会消失掉, 真实的什么都不做还能把时间省了; 想要识别出伪需求, 奥卡姆剃刀可以帮忙
