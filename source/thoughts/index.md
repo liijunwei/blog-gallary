@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-02-20 11:40:21 同事推荐的漫画: [PLUTO~冥王~01 (豆瓣)](https://book.douban.com/subject/2066941/)
+
 - 2023-02-19 11:57:41 "Unproductive pleasures pall eventually."
 
 - 2023-02-18 23:07:35 ["在自学这件事上，重视一切老生常谈"](https://github.com/selfteaching/the-craft-of-selfteaching/blob/master/markdown/01.preface.md)
