@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-02-20 22:00:22 快速排序的实现对我来说为什么这么难懂... 有种当时上线性代数课被秒杀的感觉
+
 - 2023-02-20 11:40:21 同事推荐的漫画: [PLUTO~冥王~01 (豆瓣)](https://book.douban.com/subject/2066941/)
 
 - 2023-02-19 11:57:41 "Unproductive pleasures pall eventually."
