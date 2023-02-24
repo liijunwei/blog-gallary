@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-02-24 18:13:01 useful tool: https://github.com/evilmartians/terraforming-rails
+
 - 2023-02-24 16:57:55 interesting tool? https://app.tactiq.io/#/setup
 
 - 2023-02-22 13:40:42 tool: https://obsproject.com/
