@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-02-24 16:57:55 interesting tool? https://app.tactiq.io/#/setup
+
 - 2023-02-22 13:40:42 tool: https://obsproject.com/
 
 - 2023-02-21 22:16:01 惰性: 总是想做自己做熟悉了的事
