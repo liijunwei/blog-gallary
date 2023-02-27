@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-02-27 10:05:30 book: [Getting Real](https://basecamp.com/gettingreal)
+
 - 2023-02-25 12:03:26 世上最可怕的不是眼前的刑罚，而是那无爱的未来 --- "血观音"
 
 - 2023-02-24 18:13:06 useful tool: https://github.com/troessner/reek
