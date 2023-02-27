@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-02-27 22:27:52 堆排序有点跟不上了，需要再耐心点多读几遍，多练几遍
+
 - 2023-02-27 11:25:33 从bob大叔的视频里学到用TDD的方法实现和理解数据结构 [Implementing a Priority Queue in Ruby](https://www.brianstorti.com/implementing-a-priority-queue-in-ruby/)
 
 - 2023-02-27 10:05:30 book: [Getting Real](https://basecamp.com/gettingreal)
