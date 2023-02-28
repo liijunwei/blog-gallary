@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-02-28 23:56:42 小目标: 我的go语言水平，应该做得出这种app才行(CRUD boy 多练习，一两周应该搞得定) https://github.com/elct9620/interview-gogolook-todo
+
 - 2023-02-28 22:11:29 插眼: https://github.com/aoeuidht/homework
 
 - 2023-02-28 14:49:40 插眼: https://github.com/ZPVIP/commitgpt
