@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-02-28 22:11:29 插眼: https://github.com/aoeuidht/homework
+
 - 2023-02-28 14:49:40 插眼: https://github.com/ZPVIP/commitgpt
 
 - 2023-02-28 14:27:19 没眼看... 这成堆的代码😯
