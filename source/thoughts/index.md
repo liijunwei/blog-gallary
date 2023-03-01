@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-01 13:54:16 [2023 年成為外商裁員的天選之人該做些什麼？ | 弦而時習之](https://blog.aotoki.me/posts/2023/01/16/if-you-be-layoff-in-2023-what-can-you-do/)
+
 - 2023-03-01 13:51:19 还没向大佬学习过，他却已经离开公司了... 好可惜. [寫程式最困難的地方｜方格子 vocus](https://vocus.cc/article/61cbf625fd8978000153f922)
 
 - 2023-02-28 23:56:42 小目标: 我的go语言水平，应该做得出这种app才行(CRUD boy 多练习，一两周应该搞得定) https://github.com/elct9620/interview-gogolook-todo
