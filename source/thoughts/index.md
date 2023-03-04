@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-04 19:03:51 [sumologic job description of "Senior Software Engineer"](https://boards.greenhouse.io/sumologic/jobs/4908889)
+
 - 2023-03-04 19:02:23 今天读公司的代码，发现trading-pair 是个很适合用value-object实现的实体，我们做的很好；trading-pair 对应的rate，是不是也应该是value-object? 还没想清楚
 
 - 2023-03-04 11:56:41 [Troubleshooting Sidekiq | GitLab](https://docs.gitlab.com/ee/administration/sidekiq/sidekiq_troubleshooting.html)
