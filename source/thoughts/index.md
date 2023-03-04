@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-04 11:56:41 [Troubleshooting Sidekiq | GitLab](https://docs.gitlab.com/ee/administration/sidekiq/sidekiq_troubleshooting.html)
+
 - 2023-03-02 23:18:24 糟糕的数据结构/数据关系 -> 奇形怪状的代码
 
 - 2023-03-02 14:33:45 don't judge, Morty
