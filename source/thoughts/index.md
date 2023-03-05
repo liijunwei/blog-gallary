@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-05 16:45:02 整理一波密码，发现PayPal的密码最大长度限制在了20位，其他很多账号的密码最大长度都限制在64-72位左右
+
 - 2023-03-04 19:03:51 [sumologic job description of "Senior Software Engineer"](https://boards.greenhouse.io/sumologic/jobs/4908889)
 
 - 2023-03-04 19:02:23 今天读公司的代码，发现trading-pair 是个很适合用value-object实现的实体，我们做的很好；trading-pair 对应的rate，是不是也应该是value-object? 还没想清楚
