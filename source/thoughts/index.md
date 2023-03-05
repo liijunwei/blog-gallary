@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-05 23:24:53 这代码写得太糟糕了...
+
 - 2023-03-05 19:04:02 wiki: [Transaction Processing](http://wiki.c2.com/?TransactionProcessing)
 
 - 2023-03-05 18:59:53 git是一个event driven system，会计记账(bookkeeping)也是
