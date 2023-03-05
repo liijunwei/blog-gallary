@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-05 18:59:53 git是一个event driven system，会计记账(bookkeeping)也是
+
 - 2023-03-05 18:55:29 文章里包含很多概括性很强的业务术语，值得仔细研究: [Separate Transaction Processing From Archival](http://wiki.c2.com/?SeparateTransactionProcessingFromArchival)
 
 - 2023-03-05 18:53:37 ["RobinBloor divides IT systems into TransactionProcessing, Analytics, and GroupWare categories:"](http://wiki.c2.com/?SeparateTransactionProcessingFromArchival)
