@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-05 18:53:37 ["RobinBloor divides IT systems into TransactionProcessing, Analytics, and GroupWare categories:"](http://wiki.c2.com/?SeparateTransactionProcessingFromArchival)
+
 - 2023-03-05 18:48:42 插眼: [Keynote: The Value of Values](https://www.infoq.com/presentations/Value-Values/)
 
 - 2023-03-05 16:45:02 整理一波密码，发现PayPal的密码最大长度限制在了20位，其他很多账号的密码最大长度都限制在64-72位左右
