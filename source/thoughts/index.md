@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-08 11:31:32 原来是你... [simplecov-html: HTML formatter for SimpleCov code coverage tool for ruby 1.9+](https://github.com/simplecov-ruby/simplecov-html)
+
 - 2023-03-06 22:43:29 不要迷信大佬review过后的代码...
 
 - 2023-03-06 18:30:08 回顾以前向雷哥学到的东西: 要记得 **短期方案和长期方案很可能是不冲突的**, 要解决问题, 及时反馈很重要
