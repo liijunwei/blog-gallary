@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-11 21:56:51 当大家review后都觉得没问题的时候，需要自己再仔细检查一下有没有低级错误；反过来说，最好自己确认没有低级错误之后再去找别人review
+
 - 2023-03-11 14:42:38 "Sometimes an approach that requires more lines of code is actually simpler, because it reduces cognitive load."
 
 - 2023-03-11 11:14:34 "Complexity is more apparent to readers than writers." --- "a philosophy of software design"
