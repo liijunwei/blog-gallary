@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-11 11:14:34 "Complexity is more apparent to readers than writers." --- "a philosophy of software design"
+
 - 2023-03-08 11:31:32 原来是你... [simplecov-html: HTML formatter for SimpleCov code coverage tool for ruby 1.9+](https://github.com/simplecov-ruby/simplecov-html)
 
 - 2023-03-06 22:43:29 不要迷信大佬review过后的代码...
