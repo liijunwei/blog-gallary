@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-12 23:30:20 这个代码写得不好懂, 如果是我来实现, 我会怎么做？ [leandromoreira/redlock-rb](https://github.com/leandromoreira/redlock-rb)
+
 - 2023-03-12 22:07:02 评论区和文章一样精彩: [量产型炮灰工程师 · Ruby China](https://ruby-china.org/topics/33036)
 
 - 2023-03-12 22:04:43 review一下加深印象: [Ruby-Functional-Programming/README-zhCN.md at master](https://github.com/JuanitoFatas/Ruby-Functional-Programming/blob/master/README-zhCN.md)
