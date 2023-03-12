@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-12 21:56:05 大概一两年前看到ruby-china上的帖子: ["看懂这个视频相当于学会了一半的 Ruby"](https://ruby-china.org/topics/23481), 然后认真学习了一下并且真正用起来以后，发现用好select/map/reduce以后，我写的代码真的变好了很多(写代码的思路和可读性)，而且发现身边掌握并且用这些工具的人并不多... 太可惜了。 (ref: [RubyConf 2014 - Enumerable for Fun & Profit](https://youtu.be/y4V9qVTkj3c))
+
 - 2023-03-12 18:47:16 大佬: [RailsCasts Retrospective Part 1: The Fuel](https://rbates.dev/railscasts-retrospective-part-1-the-fuel)
 
 - 2023-03-12 18:14:06 think before you click
