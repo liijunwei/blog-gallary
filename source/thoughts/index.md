@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-12 18:14:06 think before you click
+
 - 2023-03-11 23:57:10 [calibre - E-book management](https://calibre-ebook.com/)
 
 - 2023-03-11 21:56:51 当大家review后都觉得没问题的时候，需要自己再仔细检查一下有没有低级错误；反过来说，最好自己确认没有低级错误之后再去找别人review
