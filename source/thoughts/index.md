@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-12 18:47:16 大佬: [RailsCasts Retrospective Part 1: The Fuel](https://rbates.dev/railscasts-retrospective-part-1-the-fuel)
+
 - 2023-03-12 18:14:06 think before you click
 
 - 2023-03-11 23:57:10 [calibre - E-book management](https://calibre-ebook.com/)
