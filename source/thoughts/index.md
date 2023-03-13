@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-14 00:02:02 [Search Cheat Sheets | Sumo Logic Docs](https://help.sumologic.com/docs/search/search-cheat-sheets/)
+
 - 2023-03-13 18:50:42 [Avoid using allow_any_instance_of/expect_any_instance_of](https://rspec.rubystyle.guide/#any_instance_of)
 
 - 2023-03-13 10:45:37 [speedscope, an interactive flamegraph visualizer](https://www.speedscope.app/)
