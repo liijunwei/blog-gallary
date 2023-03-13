@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-13 10:45:37 [speedscope, an interactive flamegraph visualizer](https://www.speedscope.app/)
+
 - 2023-03-13 10:08:25 插眼: [A collective list of free APIs](https://github.com/public-apis/public-apis)
 
 - 2023-03-12 23:33:02 [Distributed Locks with Redis | Redis](https://redis.io/docs/manual/patterns/distributed-locks/)
