@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-15 15:01:13 我应该早点把这个工具写好，没那么难 https://github.com/liijunwei/omz-git/blob/main/Rakefile
+
 - 2023-03-14 10:46:21 大佬的背单词工具: https://github.com/StevenBaby/words
 
 - 2023-03-14 00:02:02 [Search Cheat Sheets | Sumo Logic Docs](https://help.sumologic.com/docs/search/search-cheat-sheets/)
