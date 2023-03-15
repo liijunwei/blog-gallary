@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-15 17:49:45 [mozilla/DeepSpeech: DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.](https://github.com/mozilla/DeepSpeech)
+
 - 2023-03-15 17:24:08 "not urgent"
 
 - 2023-03-15 17:09:56 hhhh sleep hurts(user core的组员真有意思啊) - from USCAR AWARDS 2023
