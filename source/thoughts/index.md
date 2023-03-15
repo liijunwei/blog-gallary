@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-15 17:09:56 hhhh sleep hurts(user core的组员真有意思啊)
+
 - 2023-03-15 16:51:09 fun to read: [PicoContainer - home page](http://picocontainer.com/)
 
 - 2023-03-15 15:01:13 我应该早点把这个工具写好，没那么难 https://github.com/liijunwei/omz-git/blob/main/Rakefile
