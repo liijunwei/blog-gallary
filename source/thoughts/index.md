@@ -3,7 +3,7 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
-- 2023-03-15 17:09:56 hhhh sleep hurts(user core的组员真有意思啊)
+- 2023-03-15 17:09:56 hhhh sleep hurts(user core的组员真有意思啊) - from USCAR AWARDS 2023
 
 - 2023-03-15 16:51:09 fun to read: [PicoContainer - home page](http://picocontainer.com/)
 
