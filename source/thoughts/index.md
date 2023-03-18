@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-18 13:30:56 教育片。。。 [all through the hourse - 爱，死亡和机器人 第二季](https://www.novipnoad.com/anime/134365.html)
+
 - 2023-03-17 09:09:20 tools: [Awesome Ruby](https://awesome-ruby.com/)
 
 - 2023-03-16 10:46:11 代码看多了，发现能一眼看出问题的代码都不算差
