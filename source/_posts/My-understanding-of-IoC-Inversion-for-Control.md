@@ -6,6 +6,8 @@ tags:
   - sharing
 ---
 
+20230322 free chat sharing notes
+
 ### Framework vs Library
 
 + our code calls library code
