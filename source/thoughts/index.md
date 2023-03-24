@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-24 13:57:50 发现一个可能并不是很客观的指标: 如果一个git仓库里，一个人的新增代码行数远超过删除的代码数，很可能表明他的业务能力强，但是代码质量的追求一般...
+
 - 2023-03-24 11:13:47 play with this: [Bitmap Matrix and Undirected Graphs in Ruby | Tenderlove Making](http://tenderlovemaking.com/2023/03/19/bitmap-matrix-and-undirected-graphs-in-ruby.html)
 
 - 2023-03-23 22:21:04 晚上去别人家看想买的旧物，看到他们家好干净整齐，真是羡慕。大家真的生活在同一个世界，又完全不同... 我的世界太狭窄了
