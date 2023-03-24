@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-24 11:13:47 play with this: [Bitmap Matrix and Undirected Graphs in Ruby | Tenderlove Making](http://tenderlovemaking.com/2023/03/19/bitmap-matrix-and-undirected-graphs-in-ruby.html)
+
 - 2023-03-23 22:21:04 晚上去别人家看想买的旧物，看到他们家好干净整齐，真是羡慕。大家真的生活在同一个世界，又完全不同... 我的世界太狭窄了
 
 - 2023-03-23 19:00:50 有数字，有指标来激励，做事更有动力(量化)
