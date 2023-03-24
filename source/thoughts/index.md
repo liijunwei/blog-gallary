@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-24 22:07:23 [Doctor Chris Seaton](https://chrisseaton.com/)
+
 - 2023-03-24 16:01:03 [We updated our RSA SSH host key | The GitHub Blog](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
 
 - 2023-03-24 13:57:50 发现一个可能并不是很客观的指标: 如果一个git仓库里，一个人的新增代码行数远超过删除的代码数，很可能表明他的业务能力强，但是代码质量的追求一般...
