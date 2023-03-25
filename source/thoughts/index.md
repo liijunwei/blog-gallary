@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-25 18:46:13 终于成了了解深度优先搜索和广度优先搜索的人之一(自豪)
+
 - 2023-03-24 22:07:23 [Doctor Chris Seaton](https://chrisseaton.com/)
 
 - 2023-03-24 16:01:03 [We updated our RSA SSH host key | The GitHub Blog](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/)
