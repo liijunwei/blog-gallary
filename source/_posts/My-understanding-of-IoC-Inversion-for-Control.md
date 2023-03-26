@@ -20,53 +20,11 @@ tags:
 > IoC is we as programmers write codes that are called by `Frameworks`
 
 + control structures: Sequence, Selection & Iteration
-
 + normally we write business logic as step1, step2, step3... using above control structures
-
 + but we will notice bolier templates as we getting more and more familar with them, for examples:
     + we always need to close an open file
     + we always need to declare an empty array if we're only interested in part of the elements in a list
     + some code only differs in the middle part
-    ```rb
-    class Demo
-      def perform_1
-        puts 1
-        puts 2
-        puts 3
-      end
-
-      def perform_2
-        puts 1
-        puts 4
-        puts 3
-      end
-    end
-
-    # solu.1
-    class Demo
-      def perform_n
-        puts 1
-        yield
-        puts 3
-      end
-    end
-
-
-
-    # solu.2
-    # DI (dependency injection)
-    class Demo
-      def initialize(operation_instance)
-        @operation_instance = operation_instance
-      end
-
-      def perform_n
-        puts 1
-        @operation_instance.execute
-        puts 3
-      end
-    end
-    ```
 
 ### Examples
 
