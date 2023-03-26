@@ -3,7 +3,7 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
-- 2023-03-26 23:59:01 好活跃的talker: Rich Hickey
+- 2023-03-26 23:59:01 好活跃的talker: Rich Hickey(https://clojure.org/index)
 
 - 2023-03-26 23:25:34 ["mutable things on queues convey nothing"](https://youtu.be/-I-VpPMzG7c?t=2174)
 
