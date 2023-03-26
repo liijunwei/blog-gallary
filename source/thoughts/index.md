@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-26 12:20:34 [pdb — The Python Debugger — Python 3.11.2 documentation](https://docs.python.org/3/library/pdb.html)
+
 - 2023-03-26 10:11:27 "This one seems to be low-hanging fruit"
 
 - 2023-03-25 18:46:13 终于成了了解深度优先搜索和广度优先搜索的人之一(自豪)
