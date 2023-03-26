@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-26 23:25:34 ["mutable things on queues convey nothing"](https://youtu.be/-I-VpPMzG7c?t=2174)
+
 - 2023-03-26 23:21:12 今天听jyy的课程，里面讲到的状态转/图结合model-checker，可以检查并发程序的正确性，一下让我意识到在学习的图相关算法和数据结构真有用
 
 - 2023-03-26 12:20:34 [pdb — The Python Debugger — Python 3.11.2 documentation](https://docs.python.org/3/library/pdb.html)
