@@ -3,11 +3,13 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
-- 2023-03-27 09:14:40 [dkubb/adamantium: Create immutable objects](https://github.com/dkubb/adamantium)
+- 2023-03-27 09:15:29 Immutability: [A Review Of Immutability In Ruby](https://www.rubypigeon.com/posts/a-review-of-immutability-in-ruby/)
 
-- 2023-03-27 09:13:17 [tcrayford/Values: Simple immutable value objects for ruby (the readme is longer than the code)](https://github.com/tcrayford/values)
+- 2023-03-27 09:14:40 Immutability: [dkubb/adamantium: Create immutable objects](https://github.com/dkubb/adamantium)
 
-- 2023-03-27 09:12:31 [dkubb/ice_nine: Deep Freeze Ruby Objects](https://github.com/dkubb/ice_nine)
+- 2023-03-27 09:13:17 Immutability: [tcrayford/Values: Simple immutable value objects for ruby (the readme is longer than the code)](https://github.com/tcrayford/values)
+
+- 2023-03-27 09:12:31 Immutability: [dkubb/ice_nine: Deep Freeze Ruby Objects](https://github.com/dkubb/ice_nine)
 
 - 2023-03-26 23:59:01 好活跃的talker: Rich Hickey(https://clojure.org/index)
 
