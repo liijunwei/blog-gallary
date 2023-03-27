@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-27 10:38:33 "Simplicity is a choice. We have a culture of complexity. Avoid tools (languages, constructs, etc.) that generate complex outputs. Simple != easy. Look for complexity and avoid it. Reliability tools - testing, refactoring, type systems - are good but secondary. They do not enforce simplicity. They are just a safety net."
+
 - 2023-03-27 10:31:38 "Programming is not about typing on a computer keyboard, it is about thinking."
 
 - 2023-03-27 10:24:36 "Having tests should not encourage someone to change code without being careful."
