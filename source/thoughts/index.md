@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-27 10:24:36 "Having tests should not encourage someone to change code without being careful."
+
 - 2023-03-27 10:12:45 talk: [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy/)
 
 - 2023-03-27 09:15:29 Immutability: [A Review Of Immutability In Ruby](https://www.rubypigeon.com/posts/a-review-of-immutability-in-ruby/)
