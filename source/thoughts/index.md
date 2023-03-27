@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-27 09:13:17 [tcrayford/Values: Simple immutable value objects for ruby (the readme is longer than the code)](https://github.com/tcrayford/values)
+
 - 2023-03-27 09:12:31 [dkubb/ice_nine: Deep Freeze Ruby Objects](https://github.com/dkubb/ice_nine)
 
 - 2023-03-26 23:59:01 好活跃的talker: Rich Hickey(https://clojure.org/index)
