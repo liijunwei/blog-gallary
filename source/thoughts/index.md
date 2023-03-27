@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-27 09:12:31 [dkubb/ice_nine: Deep Freeze Ruby Objects](https://github.com/dkubb/ice_nine)
+
 - 2023-03-26 23:59:01 好活跃的talker: Rich Hickey(https://clojure.org/index)
 
 - 2023-03-26 23:25:34 ["mutable things on queues convey nothing"](https://youtu.be/-I-VpPMzG7c?t=2174)
