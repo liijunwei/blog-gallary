@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-28 13:38:30 hhh 有个同事英文名叫 Goodspeed，有点意思呀
+
 - 2023-03-27 12:01:05 状态机里的 from_state,to_state,event 和 图里的概念怎么对应呢?
 
 - 2023-03-27 10:54:16 同事分享的repo, 我非常喜欢！！ [tallesl/Rich-Hickey-fanclub: "every time I watch one of his talks I feel like someone has gone in and organized my brain"](https://github.com/tallesl/Rich-Hickey-fanclub)
