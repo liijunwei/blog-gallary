@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-28 23:15:17 [Programming achievements: How to level up as a developer - jasonrudolph.com](https://jasonrudolph.com/blog/2011/08/09/programming-achievements-how-to-level-up-as-a-developer/)
+
 - 2023-03-28 14:16:37 [Coveralls Integrations | Coveralls Docs](https://docs.coveralls.io/integrations#official-integrations)
 
 - 2023-03-28 13:38:30 hhh 有个同事英文名叫 Goodspeed，有点意思呀
