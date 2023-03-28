@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-28 14:16:37 [Coveralls Integrations | Coveralls Docs](https://docs.coveralls.io/integrations#official-integrations)
+
 - 2023-03-28 13:38:30 hhh 有个同事英文名叫 Goodspeed，有点意思呀
 
 - 2023-03-27 12:01:05 状态机里的 from_state,to_state,event 和 图里的概念怎么对应呢?
