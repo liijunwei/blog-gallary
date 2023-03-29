@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-29 23:03:55 ["ChatGPT is at capacity right now""](https://chat.openai.com/auth/login)
+
 - 2023-03-29 22:19:17 今天听jyy老师的课程，并发同步，里面印象最深的是两点: 计算图(DAG) 和 有限状态机的本质就是from_state,event,to_state的一个数组；很好的思考模型 --- [9. 并发控制：同步 (1)](http://jyywiki.cn/OS/2023/build/lect9.ipynb) 感谢
 
 - 2023-03-29 16:38:59 是我的打开方式不对吗？为什么ruby这么慢...(除非是我打开方式不对，不然ruby实在太慢了吧...) --- https://github.com/liijunwei/practice/blob/HEAD/ruby/producer-consumer-model/Makefile
