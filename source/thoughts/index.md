@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-29 23:35:12 前几天听到一个人说他身边很多搞技术的人都后知后觉，我就是那个后知后觉的人... 意识到了就要有意识的改变
+
 - 2023-03-29 23:08:25 好生意啊... https://sms-activate.org/getNumber
 
 - 2023-03-29 23:03:55 ["ChatGPT is at capacity right now""](https://chat.openai.com/auth/login)
