@@ -3,7 +3,7 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
-- 2023-03-29 16:38:59 是我的打开方式不对吗？为什么ruby这么慢...
+- 2023-03-29 16:38:59 是我的打开方式不对吗？为什么ruby这么慢...(除非是我打开方式不对，不然ruby实在太慢了吧...) --- https://github.com/liijunwei/practice/blob/HEAD/ruby/producer-consumer-model/Makefile
 
 - 2023-03-29 14:02:33 插眼大佬主页: [Zihao Yu | Sashimi-yzh.GitHub.com](https://sashimi-yzh.github.io/)
 
