@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-29 14:02:33 插眼大佬主页: [Zihao Yu | Sashimi-yzh.GitHub.com](https://sashimi-yzh.github.io/)
+
 - 2023-03-29 12:25:37 计算图和拓扑排序还有并发，感觉知识开始串起来了，感觉真好
 
 - 2023-03-28 23:15:17 [Programming achievements: How to level up as a developer - jasonrudolph.com](https://jasonrudolph.com/blog/2011/08/09/programming-achievements-how-to-level-up-as-a-developer/)
