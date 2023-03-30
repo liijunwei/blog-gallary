@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-30 09:53:52 chatgpt: "teach me filter/map/reduce/lambda in [programming language]"
+
 - 2023-03-30 09:50:30 快速浏览了一遍"Automate The Boring Stuff With Python"这本书，简单
 
 - 2023-03-30 09:36:11 python: "But the main way that tuples are different from lists is that tuples, like strings, are immutable. Tuples cannot have their values modified, appended, or removed."
