@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-30 09:36:11 python: "But the main way that tuples are different from lists is that tuples, like strings, are immutable. Tuples cannot have their values modified, appended, or removed."
+
 - 2023-03-29 23:48:44 chatgpt给我的代码加的注释好准确
 
 - 2023-03-29 23:35:12 前几天听到一个人说他身边很多搞技术的人都后知后觉，我就是那个后知后觉的人... 意识到了就要有意识的改变
