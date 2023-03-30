@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-30 18:05:13 [Time Tab — nathan wentworth ✨](https://nathanwentworth.co/projects/time-tab/#help)
+
 - 2023-03-30 10:00:10 [Awesome Go | LibHunt](https://go.libhunt.com/)
 
 - 2023-03-30 09:53:52 chatgpt: "teach me filter/map/reduce/lambda in [programming language]"
