@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-31 17:16:58 没玩过刺客信条，电影是在是看不懂
+
 - 2023-03-31 13:02:24 似乎是本硬核的册子: [Ruby Hacking Guide](https://ruby-hacking-guide.github.io/)
 
 - 2023-03-31 09:54:19 ask chatGPT: "tell me the difference between simple and easy"
