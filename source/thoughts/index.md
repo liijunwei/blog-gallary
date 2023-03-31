@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-31 13:02:24 似乎是本硬核的册子: [Ruby Hacking Guide](https://ruby-hacking-guide.github.io/)
+
 - 2023-03-31 09:54:19 ask chatGPT: "tell me the difference between simple and easy"
 
 - 2023-03-30 18:05:13 [Time Tab — nathan wentworth ✨](https://nathanwentworth.co/projects/time-tab/#help)
