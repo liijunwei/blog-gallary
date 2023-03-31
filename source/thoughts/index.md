@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-03-31 09:54:19 ask chatGPT: "tell me the difference between simple and easy"
+
 - 2023-03-30 18:05:13 [Time Tab — nathan wentworth ✨](https://nathanwentworth.co/projects/time-tab/#help)
 
 - 2023-03-30 10:00:10 [Awesome Go | LibHunt](https://go.libhunt.com/)
