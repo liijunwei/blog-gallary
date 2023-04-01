@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-04-01 17:52:58 "Alignment with Business Objectives"
+
 - 2023-04-01 17:39:12 命令行里的spinner真好玩啊
 
 - 2023-04-01 17:22:54 [piotrmurach/tty-spinner: A terminal spinner for tasks that have non-deterministic time frame.](https://github.com/piotrmurach/tty-spinner)
