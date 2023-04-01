@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-04-01 17:54:18 blog: [What Being a Staff Developer Means at Shopify (2023)](https://shopify.engineering/what-being-a-staff-developer-means-at-shopify)
+
 - 2023-04-01 17:52:58 "Alignment with Business Objectives"
 
 - 2023-04-01 17:39:12 命令行里的spinner真好玩啊
