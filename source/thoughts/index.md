@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-04-03 22:36:34 haskell里的小函数真好用，表达性真强啊 http://learnyouahaskell.com/starting-out
+
 - 2023-04-03 20:57:14 有点奇怪的电影... -.- [绿巨人浩克](https://www.bilibili.com/bangumi/play/ss42760?t=3608)
 
 - 2023-04-02 20:33:27 一个c文件就能实现一个编辑器了吗... 我真是井底之蛙 https://github.com/mirror/busybox/blob/master/editors/vi.c
