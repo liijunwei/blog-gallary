@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-04-05 18:57:32 还差8个月就也["工作四周年" - Here comes the Sun](https://sunng.info/blog/gong-zuo-si-zhou-nian.html)了, 感觉很久没有太多成长了，又被OpenAI冲击, 不确定之后会是什么状态；无论如何，拖延是没法获得真实世界的反馈的，行动起来才有用
+
 - 2023-04-05 18:00:37 "Overall, the best way to reduce bugs is to make software simpler."
 
 - 2023-04-05 10:00:42 [Progress Bars vs. Spinners: When to Use Which](https://uxmovement.com/navigation/progress-bars-vs-spinners-when-to-use-which/)
