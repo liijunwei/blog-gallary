@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-04-05 22:03:06 tool/fun: [OpenStreetMap](https://www.openstreetmap.org/#map=4/32.84/131.66)
+
 - 2023-04-05 19:36:14 希望不久的将来能参与一个志同道合齐心协力（self-motivated）的团队一起做好一个产品
 
 - 2023-04-05 19:36:06 希望能主导去做成一点有始有终的事情
