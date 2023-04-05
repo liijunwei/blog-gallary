@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-04-05 19:36:14 希望不久的将来能参与一个志同道合齐心协力（self-motivated）的团队一起做好一个产品
+
 - 2023-04-05 19:36:06 希望能主导去做成一点有始有终的事情
 
 - 2023-04-05 19:24:08 看起来地图也挺有趣的 https://sunng.info/blog/openstreetmap-nanjing-a-year-of-edits.html
