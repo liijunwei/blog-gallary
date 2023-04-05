@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-04-05 19:36:06 希望能主导去做成一点有始有终的事情
+
 - 2023-04-05 19:24:08 看起来地图也挺有趣的 https://sunng.info/blog/openstreetmap-nanjing-a-year-of-edits.html
 
 - 2023-04-05 19:20:23 fun: https://www.aqee.net/docs/Quiz-Are-You-a-Brogrammer/
