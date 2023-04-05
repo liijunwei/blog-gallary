@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-04-05 18:00:37 "Overall, the best way to reduce bugs is to make software simpler."
+
 - 2023-04-05 10:00:42 [Progress Bars vs. Spinners: When to Use Which](https://uxmovement.com/navigation/progress-bars-vs-spinners-when-to-use-which/)
 
 - 2023-04-04 13:38:34 [matthiasn/talk-transcripts: Transcripts of Clojure-related talks](https://github.com/matthiasn/talk-transcripts)
