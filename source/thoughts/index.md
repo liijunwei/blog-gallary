@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-04-06 22:37:15 simple: [leiningen/TUTORIAL.md at stable - leiningen - Codeberg.org](https://codeberg.org/leiningen/leiningen/src/branch/stable/doc/TUTORIAL.md)
+
 - 2023-04-06 15:55:58 [“Playbook” is about How to Play](https://us.streetfighter.com/how-to-play/)
 
 - 2023-04-06 10:20:02 [algorithm - What is tail recursion? - Stack Overflow](https://stackoverflow.com/questions/33923/what-is-tail-recursion)
