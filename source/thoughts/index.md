@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-04-06 15:55:58 [“Playbook” is about How to Play](https://us.streetfighter.com/how-to-play/)
+
 - 2023-04-06 10:20:02 [algorithm - What is tail recursion? - Stack Overflow](https://stackoverflow.com/questions/33923/what-is-tail-recursion)
 
 - 2023-04-05 22:03:06 tool/fun: [OpenStreetMap](https://www.openstreetmap.org/#map=4/32.84/131.66)
