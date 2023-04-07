@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-04-07 14:02:11 插眼: [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN#免费的编程中文书籍索引)
+
 - 2023-04-07 11:29:04 [Templates to enrich your Ruby on Rails apps](https://railsbytes.com/)
 
 - 2023-04-06 22:37:15 simple: [leiningen/TUTORIAL.md at stable - leiningen - Codeberg.org](https://codeberg.org/leiningen/leiningen/src/branch/stable/doc/TUTORIAL.md)
