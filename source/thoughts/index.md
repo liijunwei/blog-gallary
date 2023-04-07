@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-04-07 11:29:04 [Templates to enrich your Ruby on Rails apps](https://railsbytes.com/)
+
 - 2023-04-06 22:37:15 simple: [leiningen/TUTORIAL.md at stable - leiningen - Codeberg.org](https://codeberg.org/leiningen/leiningen/src/branch/stable/doc/TUTORIAL.md)
 
 - 2023-04-06 15:55:58 [“Playbook” is about How to Play](https://us.streetfighter.com/how-to-play/)
