@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-04-08 21:38:42 好棒的网站：[OSS Insight](https://ossinsight.io/)
+
 - 2023-04-07 23:07:06 我终于把这部分业务理清楚了, 还得多沟通呀... ~我的队友们知识传递的意识真的太弱了，都得加油x.x~(别给自己找借口了)
 
 - 2023-04-07 14:02:11 插眼: [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN#免费的编程中文书籍索引)
