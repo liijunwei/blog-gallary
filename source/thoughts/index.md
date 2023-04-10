@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-04-10 09:45:05 原来[https://git-scm.com/](https://github.com/git/git-scm.com)官网是个rails项目
+
 - 2023-04-08 22:11:52 github events api: https://api.github.com/events
 
 - 2023-04-08 21:38:42 好棒的网站：[OSS Insight](https://ossinsight.io/)
