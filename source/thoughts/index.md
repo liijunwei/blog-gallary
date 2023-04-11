@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-04-11 23:32:45 起名字的话题真是有趣
+
 - 2023-04-11 23:26:34 老电影【江湖告急】挺不错的
 
 - 2023-04-10 09:45:05 原来[https://git-scm.com/](https://github.com/git/git-scm.com)官网是个rails项目
