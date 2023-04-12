@@ -2,7 +2,7 @@
 title: Mocks Aren't Stubs reading notes
 date: 2022-10-04 17:53:55
 tags:
-  - test
+  - testing
 ---
 
 [Original Post](https://martinfowler.com/articles/mocksArentStubs.html)
