@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-04-12 17:45:24 tool: [awehook/blink-mind-desktop: Cross-platform full-featured mind mapping and outline app based on electron.](https://github.com/awehook/blink-mind-desktop)
+
 - 2023-04-12 11:51:50 "Stay Safe, Stay Secure, Always Verify."
 
 - 2023-04-11 23:46:31 [redis-client/buffered_io.rb](https://github.com/redis-rb/redis-client/blob/master/lib/redis_client/ruby_connection/buffered_io.rb)
