@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-04-12 11:51:50 "Stay Safe, Stay Secure, Always Verify."
+
 - 2023-04-11 23:46:31 [redis-client/buffered_io.rb](https://github.com/redis-rb/redis-client/blob/master/lib/redis_client/ruby_connection/buffered_io.rb)
 
 - 2023-04-11 23:41:30 最简单的状态机就是一个数组，数组里的元素都是对象，每个对象包含3个属性: from,to,event
