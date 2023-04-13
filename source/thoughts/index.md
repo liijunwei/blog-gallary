@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-04-13 22:31:34 **If you’re not making the design better, you are probably making it worse.**
+
 - 2023-04-13 13:55:11 [What are microservices?](https://microservices.io/)
 
 - 2023-04-12 23:35:37 [circuit_breaker implementation in redis-client](https://github.com/redis-rb/redis-client/blob/5b928b47a75169fd8b4e9344b6988ee836d85bc2/lib/redis_client/circuit_breaker.rb)
