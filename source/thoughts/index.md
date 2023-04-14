@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-04-14 14:10:27 blogs: [A Rubyist's Walk Along the C-side - Peter Zhu](https://blog.peterzhu.ca/ruby-c-ext/)
+
 - 2023-04-13 22:31:34 **If you’re not making the design better, you are probably making it worse.**
 
 - 2023-04-13 13:55:11 [What are microservices?](https://microservices.io/)
