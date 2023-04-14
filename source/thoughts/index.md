@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-04-14 14:31:05 github repo: [jlevy/the-art-of-command-line: Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line)
+
 - 2023-04-14 14:10:27 blogs: [A Rubyist's Walk Along the C-side - Peter Zhu](https://blog.peterzhu.ca/ruby-c-ext/)
 
 - 2023-04-13 22:31:34 **If you’re not making the design better, you are probably making it worse.**
