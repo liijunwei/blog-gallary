@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-04-18 21:55:31 (Date.today - Date.parse("1996-02-01")).to_i # => 9938
+
 - 2023-04-16 22:47:42 最近状态不太好
 
 - 2023-04-15 18:16:28 加深印象：[How to Sort Arrays & Hashes in Ruby (Examples Included)](https://www.rubyguides.com/2017/07/ruby-sort/)
