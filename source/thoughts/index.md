@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-04-19 12:06:21 [Nested ActiveRecord transaction pitfalls - makandra dev](https://makandracards.com/makandra/42885-nested-activerecord-transaction-pitfalls)
+
 - 2023-04-18 23:06:11 "Code Should be Obvious"
 
 - 2023-04-18 22:52:51 多多关注别人的优点；最近和同事们交流的比较多，相应的也学习到了很多，非常感谢
