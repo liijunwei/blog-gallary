@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-04-21 22:05:31 20221107->20230207->20230421 终于硬着头皮读完了一本 算法第四版，之后要多多练习和应用，之后刷算法题也不再有借口了，加油
+
 - 2023-04-20 18:47:10 今天大佬教我 重要的业务改动，不能考猜，一定要想清楚，要能够验证；否则改动上线后，如果立即出问题，还算相对好处理的；如果过了很久之后才出问题，那就麻烦了; 要根据目的，选择适合的方式处理问题；但是对于重要的业务，一定要改掉想偷懒的习惯
 
 - 2023-04-19 12:06:21 [Nested ActiveRecord transaction pitfalls - makandra dev](https://makandracards.com/makandra/42885-nested-activerecord-transaction-pitfalls)
