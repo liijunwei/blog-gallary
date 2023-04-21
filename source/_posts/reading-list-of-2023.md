@@ -5,9 +5,11 @@ tags:
   - reading
 ---
 
-- TODO algs4
+- TODO learn you a haskell
+- TODO gopl
 - TODO beyond feelings
 - TODO sicp
-- TODO gopl
 - TODO [optional]High-Performance-Browser-Networking
 - TODO [optional] clean code
+- OK algs4 (20230421)
+- OK A philosophy of software design(20230421)
