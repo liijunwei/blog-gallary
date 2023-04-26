@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-04-26 23:23:17 想清楚目的是什么，自己想达成什么
+
 - 2023-04-24 21:35:27 ["Recursion is important to Haskell because unlike imperative languages, you do computations in Haskell by declaring what something is instead of declaring how you get it. That's why there are no while loops or for loops in Haskell and instead we many times have to use recursion to declare what something is."](http://learnyouahaskell.com/recursion)
 
 - 2023-04-22 17:53:12 敢死队 这种电影不适合我
