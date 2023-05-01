@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-05-01 12:48:18 ['ongoing' refers to when something isn't finished and will continue for some time. In progress refers to when a task is underway and will finish in the near future](https://english.stackexchange.com/questions/477937/when-i-should-use-ongoing-and-when-i-should-use-in-progress)
+
 - 2023-05-01 11:54:36 `git reset --merge HEAD~1`
 
 - 2023-04-29 19:15:21 发现一件有趣的事: 当我读不懂一段代码的时候，我对它的容忍度很低，觉得它这也不是那也不是；当我终于慢慢看懂了，对他的容忍度却提升了不少；这种感觉不像是我被这段烂代码给同化了，更像是经历丰富的人，终于可以“不争”了，好像都看淡了... 有点微妙; 虽然容忍度提升了，但是我仍希望自己有足够的能量和动力把它改好，容忍度的提升不该成为我跳过它的理由
