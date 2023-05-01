@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-05-01 20:43:05 xxx_pair 是一个很好的value object, from_xxx, to_xxx, 用好它
+
 - 2023-05-01 12:48:18 ['ongoing' refers to when something isn't finished and will continue for some time. In progress refers to when a task is underway and will finish in the near future](https://english.stackexchange.com/questions/477937/when-i-should-use-ongoing-and-when-i-should-use-in-progress)
 
 - 2023-05-01 11:54:36 `git reset --merge HEAD~1`
