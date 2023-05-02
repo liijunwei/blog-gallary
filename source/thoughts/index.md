@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-05-03 00:01:59 tool: [Emoji and 📖 Meanings 🤔😍🤯 The Complete List by Category (◕‿◕) SYMBL](https://symbl.cc/en/emoji/)
+
 - 2023-05-02 14:48:32 想做成事真不容易，但还是要全力以赴啊 “Where could you put the least amount of effort to improve the worst?”
 
 - 2023-05-01 20:43:05 xxx_pair 是一个很好的value object, from_xxx, to_xxx, 用好它
