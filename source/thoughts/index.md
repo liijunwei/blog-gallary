@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-05-03 18:27:20 再提醒自己一遍: [Rules Of Optimization](https://wiki.c2.com/?RulesOfOptimization)
+
 - 2023-05-03 17:39:05 "heuristic optimization"
 
 - 2023-05-03 00:01:59 tool: [Emoji and 📖 Meanings 🤔😍🤯 The Complete List by Category (◕‿◕) SYMBL](https://symbl.cc/en/emoji/)
