@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-05-03 18:30:32 Make it clear before you make it fast / Make it correct before you make it fast / The bottleneck isn't where you think it is.
+
 - 2023-05-03 18:27:20 再提醒自己一遍: [Rules Of Optimization](https://wiki.c2.com/?RulesOfOptimization)
 
 - 2023-05-03 17:39:05 "heuristic optimization"
