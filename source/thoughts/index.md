@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-05-04 14:48:27 [Tell Dont Ask](https://wiki.c2.com/?TellDontAsk)
+
 - 2023-05-04 14:47:48 启发 [Meta Heuristic](https://wiki.c2.com/?MetaHeuristic)
 
 - 2023-05-03 18:30:32 Make it clear before you make it fast / Make it correct before you make it fast / The bottleneck isn't where you think it is.
