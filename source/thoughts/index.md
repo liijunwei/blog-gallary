@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-05-04 22:43:39 自己逗自己真的不好玩；一定要知道自己想要什么
+
 - 2023-05-04 14:48:27 [Tell Dont Ask](https://wiki.c2.com/?TellDontAsk)
 
 - 2023-05-04 14:47:48 启发 [Meta Heuristic](https://wiki.c2.com/?MetaHeuristic)
