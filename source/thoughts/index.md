@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-05-07 23:43:49 最近梳理状态机的一个感悟: 如果业务需要状态机，尽早进入会让代码变得更清晰，更不容易变坏
+
 - 2023-05-07 23:25:14 要反复思考这个问题，尊重自己时间的价值 ["Where could you put the least amount of effort to improve the worst?"](https://www.zenspider.com/ruby/2018/03/continuous-conscious-self-improvement.html)
 
 - 2023-05-06 20:32:43 从北京回保定和快要研究生毕业的大学室友聚了聚，参观了下母校，泡了个澡，舒舒服服心满意足；祝一路顺风，前程似锦
