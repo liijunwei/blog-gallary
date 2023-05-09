@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-05-09 17:43:13 怎么到处都是没必要的复杂性呢... CRUD没这么难的呀
+
 - 2023-05-07 23:43:49 最近梳理状态机的一个感悟: 如果业务需要状态机，尽早进入会让代码变得更清晰，更不容易变坏
 
 - 2023-05-07 23:25:14 要反复思考这个问题，尊重自己时间的价值 ["Where could you put the least amount of effort to improve the worst?"](https://www.zenspider.com/ruby/2018/03/continuous-conscious-self-improvement.html)
