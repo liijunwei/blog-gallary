@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-05-10 22:07:18 遇到了同样的问题，到底是什么原因呢？ [Slow git pushes, 1 min in pack-objects](https://groups.google.com/g/git-users/c/5NrTSn63lrg?pli=1)
+
 - 2023-05-10 19:12:39 同事分享了 费曼物理学讲义，找来看看
 
 - 2023-05-09 17:43:13 怎么到处都是没必要的复杂性呢... CRUD没这么难的呀
