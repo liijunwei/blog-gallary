@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-05-10 23:06:20 真就无解嘛？ [Git push from every new branch takes too long (#392464) · Issues · GitLab.org / GitLab · GitLab](https://gitlab.com/gitlab-org/gitlab/-/issues/392464)
+
 - 2023-05-10 22:42:36 仍然没有结果... [why git is so slow for a tiny git push?](https://lore.kernel.org/all/YWRr9g32cMlIc37V@coredump.intra.peff.net/T/)
 
 - 2023-05-10 22:07:18 遇到了同样的问题，到底是什么原因呢？ [Slow git pushes, 1 min in pack-objects](https://groups.google.com/g/git-users/c/5NrTSn63lrg?pli=1)
