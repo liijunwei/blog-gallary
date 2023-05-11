@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-05-11 16:20:11 solution? [git - How do I remove all stale branches from Github? - Stack Overflow](https://stackoverflow.com/questions/39065544/how-do-i-remove-all-stale-branches-from-github)
+
 - 2023-05-10 23:06:20 真就无解嘛？ [Git push from every new branch takes too long (#392464) · Issues · GitLab.org / GitLab · GitLab](https://gitlab.com/gitlab-org/gitlab/-/issues/392464)
 
 - 2023-05-10 22:42:36 仍然没有结果... [why git is so slow for a tiny git push?](https://lore.kernel.org/all/YWRr9g32cMlIc37V@coredump.intra.peff.net/T/)
