@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-05-12 09:36:50 "Shopify finds it useful to talk about the difference between main quests and side quests internally. The main quest of the company is its mission, the reason for the company to exist. Side quests are everything else. Side quests are always distracting because the company has to split focus. Sometimes this can be worth it, especially when engaging the side quest creates the conditions by which the main quest can become more successful. "
+
 - 2023-05-12 09:35:26 shopify layoff... :( [Important team and business changes](https://news.shopify.com/important-team-and-business-changes)
 
 - 2023-05-11 23:09:13 [Applicative Functors](http://learnyouahaskell.com/functors-applicative-functors-and-monoids) 实在太难理解了，好在有大佬指导，希望尽快掌握
