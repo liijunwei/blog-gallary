@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-05-12 09:35:26 shopify layoff... :( [Important team and business changes](https://news.shopify.com/important-team-and-business-changes)
+
 - 2023-05-11 23:09:13 [Applicative Functors](http://learnyouahaskell.com/functors-applicative-functors-and-monoids) 实在太难理解了，好在有大佬指导，希望尽快掌握
 
 - 2023-05-11 16:20:11 solution? [git - How do I remove all stale branches from Github? - Stack Overflow](https://stackoverflow.com/questions/39065544/how-do-i-remove-all-stale-branches-from-github)
