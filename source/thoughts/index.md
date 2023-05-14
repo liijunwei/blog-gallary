@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-05-14 10:39:47 ["ssh-add -d" refused to remove identity because of gpg-agent daemon cache in `~/.gnupg/sshcontrol`](https://unix.stackexchange.com/a/652807)
+
 - 2023-05-13 21:49:23 用 :t 查看hashell里的类型真有趣啊
 
 - 2023-05-13 21:23:43 haskell对我来说很抽象，目前最大的收获是 理解了函数的柯里化(currying)
