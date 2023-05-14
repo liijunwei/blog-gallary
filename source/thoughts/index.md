@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-05-14 17:12:14 [tty-spinner](https://github.com/piotrmurach/tty-spinner) 里面的`on`和`emit`没有什么神奇的，和event_sourcing也没什么关系... 只是简单的pub-sub而已； 或许event_sourcing也没有我以为的那么复杂，只是我还没有抓到他的本质
+
 - 2023-05-14 16:58:15 业务代码有点不经读啊... 关键还是得能快速理解业务，理解了业务再谈复杂度，此前的指指点点没有任何意义
 
 - 2023-05-14 10:39:47 ["ssh-add -d" refused to remove identity because of gpg-agent daemon cache in `~/.gnupg/sshcontrol`](https://unix.stackexchange.com/a/652807)
