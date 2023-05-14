@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-05-14 19:28:53 没看明白为什么这个问题可以用 "网络流求解" 来求解... https://zhuanlan.zhihu.com/p/40568346
+
 - 2023-05-14 19:13:59 榜样+1 [JM233333 (JM233333)](https://github.com/JM233333)
 
 - 2023-05-14 17:12:14 [tty-spinner](https://github.com/piotrmurach/tty-spinner) 里面的`on`和`emit`没有什么神奇的，和event_sourcing也没什么关系... 只是简单的pub-sub而已； 或许event_sourcing也没有我以为的那么复杂，只是我还没有抓到他的本质
