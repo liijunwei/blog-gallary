@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-05-14 16:58:15 业务代码有点不经读啊... 关键还是得能快速理解业务，理解了业务再谈复杂度，此前的指指点点没有任何意义
+
 - 2023-05-14 10:39:47 ["ssh-add -d" refused to remove identity because of gpg-agent daemon cache in `~/.gnupg/sshcontrol`](https://unix.stackexchange.com/a/652807)
 
 - 2023-05-13 21:49:23 用 :t 查看hashell里的类型真有趣啊
