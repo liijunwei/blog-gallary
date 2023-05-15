@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-05-15 13:54:44 左耳朵耗子突发心梗去世，太可惜了... R.I.P
+
 - 2023-05-15 09:30:56 [metabase/zen.md](https://github.com/metabase/metabase/blob/0412b65747486667df28a6d4f9087794d9ea6c7f/zen.md)
 
 - 2023-05-15 09:19:59 tool: [metabase/metabase: The simplest, fastest way to get business intelligence and analytics to everyone in your company](https://github.com/metabase/metabase)
