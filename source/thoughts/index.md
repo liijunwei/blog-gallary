@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-05-16 22:23:51 ["When dealing with lists, the edge case is most often the empty list. If you're dealing with trees, the edge case is usually a node that doesn't have any children."](http://learnyouahaskell.com/recursion)
+
 - 2023-05-15 14:02:37 [❇️ DevOps Certification Roadmap ❇️ | by Ann Afamefuna | May, 2023 | Medium](https://medium.com/@AnnAfame/%EF%B8%8F-devops-certification-roadmap-%EF%B8%8F-75e38e9b8da1)
 
 - 2023-05-15 13:54:44 左耳朵耗子突发心梗去世，太可惜了... R.I.P
