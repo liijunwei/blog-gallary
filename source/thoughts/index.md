@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-05-17 22:41:04 准备啃这本书：[UNIX Network Programming](http://www.unpbook.com/)
+
 - 2023-05-17 22:13:22 即使是haskell这么抽象的语言... 也经不住我多看几遍, 多练几个例子 哈哈哈😂 (不是我不会，只是我欠练)
 
 - 2023-05-17 15:55:57 [git-sizer — Homebrew Formulae](https://formulae.brew.sh/formula/git-sizer)
