@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-05-17 08:34:56 原来我想学习的这些知识(socket编程/IO多路复用/非阻塞IO...) 都在 "unix网络编程卷一"里面... 找来学一下
+
 - 2023-05-16 22:26:57 ["Every function in Haskell officially only takes one parameter."](http://learnyouahaskell.com/higher-order-functions)
 
 - 2023-05-16 22:23:51 ["When dealing with lists, the edge case is most often the empty list. If you're dealing with trees, the edge case is usually a node that doesn't have any children."](http://learnyouahaskell.com/recursion)
