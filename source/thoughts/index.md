@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-05-18 22:33:07 [Threading and Code Execution in Rails — Ruby on Rails Guides](https://guides.rubyonrails.org/threading_and_code_execution.html)
+
 - 2023-05-18 11:46:51 [megaease/Remembering-Haoel: 记录您对左耳朵耗子（陈皓）的点滴回忆](https://github.com/megaease/Remembering-Haoel)
 
 - 2023-05-17 22:41:04 准备啃这本书：[UNIX Network Programming](http://www.unpbook.com/)
