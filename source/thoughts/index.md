@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-05-19 08:02:29 设计模式之观察者模式和pub-sub应该是同一个原理，没什么神秘的
+
 - 2023-05-18 22:33:07 [Threading and Code Execution in Rails — Ruby on Rails Guides](https://guides.rubyonrails.org/threading_and_code_execution.html)
 
 - 2023-05-18 11:46:51 [megaease/Remembering-Haoel: 记录您对左耳朵耗子（陈皓）的点滴回忆](https://github.com/megaease/Remembering-Haoel)
