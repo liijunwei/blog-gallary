@@ -11,8 +11,9 @@ tag:
 Name:       lijunwei
 Location:   beijing
 GitHub:     https://github.com/liijunwei
-Skills:     ruby/rails
-Lately:     coding/refactoring with domain knowledge & language
-            reading & practicing "algorithms 4th edition"
+Skills:     rails/go
+Lately:     coding/refactoring with domain knowledge & ruby/go
+            reviewing & practicing "algorithms 4th edition"
+            learning haskell for fun
 Favorites:  https://github.com/liijunwei/favorites
 ```
