@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-05-20 12:08:07 万万没想到在程序里多加一个调用api的线程竟然会在test case里产生死锁，到底锁了什么东西？
+
 - 2023-05-19 16:31:57 trouble shooting: [rspec hangs in the middle of testing](https://github.com/rspec/rspec-rails/issues/1353#issuecomment-93173691)
 
 - 2023-05-19 08:02:29 设计模式之观察者模式和pub-sub应该是同一个原理，没什么神秘的
