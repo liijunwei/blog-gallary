@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-05-24 08:54:18 把`type constructor`和`type constraint`放在一起看，就好理解多了
+
 - 2023-05-24 08:08:32 [K：单词查找树(Trie) - 林学徒 - 博客园](https://www.cnblogs.com/MyStringIsNotNull/p/9150103.html)
 
 - 2023-05-20 22:28:04 写代码好费精力...
