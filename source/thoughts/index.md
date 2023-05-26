@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-05-26 08:38:05 ["mutual recursion"](http://learnyouahaskell.com/making-our-own-types-and-typeclasses) 有点新鲜的词
+
 - 2023-05-25 15:22:57 在代码里加assert，debug效率一下就提升了...
 
 - 2023-05-24 08:54:18 把`type constructor`和`type constraint`放在一起看，就好理解多了
