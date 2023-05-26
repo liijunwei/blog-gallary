@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-05-26 22:14:10 [CRISP: Critical Path Analysis for Microservice Architectures | Uber Blog](https://www.uber.com/en-HK/blog/crisp-critical-path-analysis-for-microservice-architectures/)
+
 - 2023-05-26 08:38:05 ["mutual recursion"](http://learnyouahaskell.com/making-our-own-types-and-typeclasses) 有点新鲜的词
 
 - 2023-05-25 15:22:57 在代码里加assert，debug效率一下就提升了...
