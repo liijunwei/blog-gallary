@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-05-26 23:02:00 ["A node with an out-degree greater than one spawns children tasks and a node with an in-degree greater than one waits (syncs) for the children to finish. "](https://www.uber.com/en-HK/blog/crisp-critical-path-analysis-for-microservice-architectures/)
+
 - 2023-05-26 22:39:42 ["if you code does not scale, insufficient parallelism is not the cause"](https://youtu.be/mSmfBHugu7o?t=1194)
 
 - 2023-05-26 22:14:10 [CRISP: Critical Path Analysis for Microservice Architectures | Uber Blog](https://www.uber.com/en-HK/blog/crisp-critical-path-analysis-for-microservice-architectures/)
