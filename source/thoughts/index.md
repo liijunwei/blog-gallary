@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-05-31 17:44:58 https://www.amazon.sg/Beyond-Feelings-Guide-Critical-Thinking/dp/0078038189
+
 - 2023-05-31 17:35:38 [24 Cognitive Biases stuffing up your thinking](https://yourbias.is/)
 
 - 2023-05-30 07:55:39 无论migration的结果如何，过程一定都是伴随着痛苦的；最好能避免migration
