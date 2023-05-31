@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-05-31 17:35:38 [24 Cognitive Biases stuffing up your thinking](https://yourbias.is/)
+
 - 2023-05-30 07:55:39 无论migration的结果如何，过程一定都是伴随着痛苦的；最好能避免migration
 
 - 2023-05-26 23:02:00 ["A node with an out-degree greater than one spawns children tasks and a node with an in-degree greater than one waits (syncs) for the children to finish. "](https://www.uber.com/en-HK/blog/crisp-critical-path-analysis-for-microservice-architectures/)
