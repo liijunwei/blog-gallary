@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-06-01 12:10:37 `PGPASSWORD=mypassword psql -h localhost -U myuser mydatabase` to skip typing postgres password
+
 - 2023-05-31 22:58:41 好可爱的图 [stateless/stateless.svg at master · qmuntal/stateless · GitHub](https://github.com/qmuntal/stateless/blob/master/assets/stateless.svg)
 
 - 2023-05-31 17:44:58 https://www.amazon.sg/Beyond-Feelings-Guide-Critical-Thinking/dp/0078038189
