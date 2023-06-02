@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-06-02 08:29:17 "Buffering can help to optimize the performance of I/O operations by reducing the number of read or write operations that need to be performed."
+
 - 2023-06-01 22:43:43 妙啊 `main = interact $ unlines . filter ((<10) . length) . lines`
 
 - 2023-06-01 12:33:37 embrace immutability in software engineering
