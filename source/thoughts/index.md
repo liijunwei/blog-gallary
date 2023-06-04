@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-06-04 21:38:22 one ring to rule them all
+
 - 2023-06-03 08:57:56 没想到...内网穿透这么容易
 
 - 2023-06-02 10:43:22 chrome extension: Keyboard shortcuts to close Chrome tabs
