@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-06-06 11:09:07 [GitHub Copilot in VS-Code — Fixing the “self-signed certificate” error | by Jair Reina | Apr, 2023 | Medium](https://jaireina.medium.com/github-copilot-in-vs-code-fixing-the-self-signed-certificate-error-2c6ab7f1fa82)
+
 - 2023-06-05 22:23:04 [为什么感觉函数式编程学起来很困难？ - 小明的回答 - 知乎](https://www.zhihu.com/question/596624832/answer/2994944815)
 
 - 2023-06-04 21:38:22 one ring to rule them all
