@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-06-08 10:54:40 用进废退
+
 - 2023-06-07 22:40:27 "数据和程序(函数), 永远不要使用成员变量，用参数和返回值替换"
 
 - 2023-06-07 16:38:13 [A cloud platform to enrich services made with Ergo Framework.](https://cloud.ergo.services/#Framework)
