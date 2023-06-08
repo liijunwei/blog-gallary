@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-06-08 14:56:09 [Hexagonal architecture (software) - Wikipedia](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software))
+
 - 2023-06-08 10:54:40 用进废退
 
 - 2023-06-07 22:40:27 "数据和程序(函数), 永远不要使用成员变量，用参数和返回值替换"
