@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-06-13 14:08:09 review多少遍才能领会呢? [8 Things I Learned from Rich Hickey That Helped Me Write Better Software (Simple Made Easy)](https://paulrcook.com/blog/simple-made-easy)
+
 - 2023-06-13 10:18:59 As the cliche as "if you see something, say something"
 
 - 2023-06-08 14:56:09 [Hexagonal architecture (software) - Wikipedia](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software))
