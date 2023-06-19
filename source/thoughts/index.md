@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-06-19 14:03:39 不做咸鱼
+
 - 2023-06-16 14:02:23 This is exactly what I want: [Copy file name - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=nemesv.copy-file-name)
 
 - 2023-06-16 11:51:33 ["SQL is already a structured, typed language; we should be generating correct, type-safe code in every programming language from the source of truth: SQL itself."](https://conroy.org/introducing-sqlc)
