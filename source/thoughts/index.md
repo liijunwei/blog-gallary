@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-06-23 09:33:12 [adrienpoly/rubyvideo: Indexing all Ruby related videos](https://github.com/adrienpoly/rubyvideo)
+
 - 2023-06-20 09:26:48 [PostgreSQL reconsiders its process-based model [LWN.net]](https://lwn.net/SubscriberLink/934940/3abb2d4086680b78/)
 
 - 2023-06-19 14:03:39 不做咸鱼
