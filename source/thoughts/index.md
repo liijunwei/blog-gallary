@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-06-24 11:46:27 做正确的事，即使效率低一点也好
+
 - 2023-06-23 17:55:59 同事推荐了 "7周7并发模型", 我去读读开开眼儿
 
 - 2023-06-23 09:33:12 [adrienpoly/rubyvideo: Indexing all Ruby related videos](https://github.com/adrienpoly/rubyvideo)
