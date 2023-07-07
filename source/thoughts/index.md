@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-07-07 11:23:19 "There are two methods in software design. One is to make the program so simple, there are obviously no errors. The other is to make it so complicated, there are no obvious errors." --- Tony Hoare
+
 - 2023-07-07 10:21:41 "The cursor and offset pagination are the two most commonly used algorithms and they carry their respective tradeoffs."
 
 - 2023-06-28 15:15:45 "tip: if you are going as far as tuning the Garbage collector to optimize your application, it's time to use rust :)."
