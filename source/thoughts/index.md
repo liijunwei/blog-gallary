@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-07-11 22:25:51 [Understanding the Offset and Cursor Pagination | by Jason Ngan | Better Programming](https://betterprogramming.pub/understanding-the-offset-and-cursor-pagination-8ddc54d10d98)
+
 - 2023-07-08 08:22:29 "As a software developer, you are your own worst enemy. The sooner you realize that, the better off you’ll be." --- https://blog.codinghorror.com/the-best-code-is-no-code-at-all/
 
 - 2023-07-07 11:23:19 "There are two methods in software design. One is to make the program so simple, there are obviously no errors. The other is to make it so complicated, there are no obvious errors." --- Tony Hoare
