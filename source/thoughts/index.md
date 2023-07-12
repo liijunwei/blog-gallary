@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-07-12 22:20:23 这个问题确实挺困扰我的 x.x https://github.com/microsoft/vscode/issues/166118#issuecomment-1622317456
+
 - 2023-07-11 22:25:51 [Understanding the Offset and Cursor Pagination | by Jason Ngan | Better Programming](https://betterprogramming.pub/understanding-the-offset-and-cursor-pagination-8ddc54d10d98)
 
 - 2023-07-08 08:22:29 "As a software developer, you are your own worst enemy. The sooner you realize that, the better off you’ll be." --- https://blog.codinghorror.com/the-best-code-is-no-code-at-all/
