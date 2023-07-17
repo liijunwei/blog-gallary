@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-07-17 16:34:18 [4.0.0 — Homebrew](https://brew.sh/2023/02/16/homebrew-4.0.0/)
+
 - 2023-07-17 09:36:47 [LeBlanc's Law (a.k.a Later Equals Never) - Yiming Chen](https://yiming.dev/clipping/2019/03/21/le-blanc's-law-a-k-a-later-equals-never/)
 
 - 2023-07-12 22:20:23 这个问题确实挺困扰我的 x.x https://github.com/microsoft/vscode/issues/166118#issuecomment-1622317456
