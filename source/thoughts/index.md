@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-07-24 21:55:27 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+
 - 2023-07-20 17:55:01 kubectx kubens [ahmetb/kubectx: Faster way to switch between clusters and namespaces in kubectl](https://github.com/ahmetb/kubectx)
 
 - 2023-07-19 12:32:24 "如果你知道自己想要什么, 3层就够了, 如果不知道, 那17层也不管用..."
