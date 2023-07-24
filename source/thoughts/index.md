@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-07-24 22:11:22 fun: [btford/write-good: Naive linter for English prose](https://github.com/btford/write-good)
+
 - 2023-07-24 21:55:27 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
 - 2023-07-20 17:55:01 kubectx kubens [ahmetb/kubectx: Faster way to switch between clusters and namespaces in kubectl](https://github.com/ahmetb/kubectx)
