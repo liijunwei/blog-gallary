@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-07-25 14:27:35 [PAC file best practices](https://www.websense.com/content/support/library/web/v76/pac_file_best_practices/PAC_best_pract.aspx)
+
 - 2023-07-25 14:25:47 [Example PAC File | FindProxyForURL](http://findproxyforurl.com/example-pac-file/)
 
 - 2023-07-25 09:07:15 [ipvsadm(8): Virtual Server administration - Linux man page](https://linux.die.net/man/8/ipvsadm)
