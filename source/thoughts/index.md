@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-07-25 09:07:15 [ipvsadm(8): Virtual Server administration - Linux man page](https://linux.die.net/man/8/ipvsadm)
+
 - 2023-07-24 22:11:22 fun: [btford/write-good: Naive linter for English prose](https://github.com/btford/write-good)
 
 - 2023-07-24 21:55:27 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
