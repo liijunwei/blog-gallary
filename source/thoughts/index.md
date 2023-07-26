@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-07-26 16:59:24 公司有个超大的单体项目，大概几个月前开始push新分支变得超慢，上网查了一圈没什么收获，只发现可能是origin的无用分枝太多了，找admin清理了一波，发现没效果...后来就搁置了；直到最近大佬清理了一下项目里的一堆changelog文件，合并了一下migration文件，push新分支的速度才明显变得正常了，非常感谢；记录下这个小事
+
 - 2023-07-26 15:04:45 [101 is the code assigned for the “basics” lessons for any subject in schools and universities, 'xxx 101' means an introduction or beginner guide for 'xxx'](http://ixodoi.expertscolumn.com/article/101-definition-or-what-does-101-means)
 
 - 2023-07-25 14:27:35 [PAC file best practices](https://www.websense.com/content/support/library/web/v76/pac_file_best_practices/PAC_best_pract.aspx)
