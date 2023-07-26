@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-07-26 15:04:45 [101 is the code assigned for the “basics” lessons for any subject in schools and universities, 'xxx 101' means an introduction or beginner guide for 'xxx'](http://ixodoi.expertscolumn.com/article/101-definition-or-what-does-101-means)
+
 - 2023-07-25 14:27:35 [PAC file best practices](https://www.websense.com/content/support/library/web/v76/pac_file_best_practices/PAC_best_pract.aspx)
 
 - 2023-07-25 14:25:47 [Example PAC File | FindProxyForURL](http://findproxyforurl.com/example-pac-file/)
