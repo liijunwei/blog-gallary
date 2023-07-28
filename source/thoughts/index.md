@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-07-28 10:17:58 [Charles Proxy : Developer’s Guide | by Abhishek Ravi 🇮🇳 | Medium](https://medium.com/@greenSyntax/charles-proxy-developers-guide-81f59bb71466)
+
 - 2023-07-28 09:49:04 cheatsheet: [Kevin Newton | Ruby operators](https://kddnewton.com/2023/07/20/ruby-operators.html)
 
 - 2023-07-28 09:46:58 [dominikbraun/graph: A library for creating generic graph data structures and modifying, analyzing, and visualizing them.](https://github.com/dominikbraun/graph)
