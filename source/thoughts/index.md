@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-07-29 18:32:47 [Is there a way to have an indicator referring to the interface that a function implements and to see where an interface is implemented? · golang/vscode-go · Discussion #1735](https://github.com/golang/vscode-go/discussions/1735)
+
 - 2023-07-28 11:53:55 [Turn Off Your Applications Safely: Graceful Shut Down and Signals | by Steven Sim | Medium](https://medium.com/@stevensim226/turn-off-your-applications-safely-graceful-shut-down-and-signals-20ed084613ac)
 
 - 2023-07-28 10:17:58 [Charles Proxy : Developer’s Guide | by Abhishek Ravi 🇮🇳 | Medium](https://medium.com/@greenSyntax/charles-proxy-developers-guide-81f59bb71466)
