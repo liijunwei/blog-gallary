@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-07-31 00:02:33 我用得到吗？[snail007/goproxy](https://github.com/snail007/goproxy)
+
 - 2023-07-29 18:32:47 [Is there a way to have an indicator referring to the interface that a function implements and to see where an interface is implemented? · golang/vscode-go · Discussion #1735](https://github.com/golang/vscode-go/discussions/1735)
 
 - 2023-07-28 11:53:55 [Turn Off Your Applications Safely: Graceful Shut Down and Signals | by Steven Sim | Medium](https://medium.com/@stevensim226/turn-off-your-applications-safely-graceful-shut-down-and-signals-20ed084613ac)
