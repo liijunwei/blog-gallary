@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-08-01 15:54:48 what's this? [Flow Based Programming](https://wiki.c2.com/?FlowBasedProgramming)
+
 - 2023-07-31 00:26:54 "PII stands for Personally Identifiable Information, while SPII stands for Sensitive Personally Identifiable Information. "
 
 - 2023-07-31 00:07:32 [txthinking/socks5: SOCKS Protocol Version 5 Library in Go](https://github.com/txthinking/socks5)
