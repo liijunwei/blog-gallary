@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-08-02 21:03:02 [novel problems (i.e. “unknown unknowns”)](https://opentelemetry.io/docs/concepts/observability-primer/#what-is-observability)
+
 - 2023-08-02 19:15:19 从公司发版事故里学到几点: 1. cache里不要序列化和语言相关的复杂数据结构，简单的，稳定的，兼容的比较好 2. 如果一定要序列化复杂对象，在做系统升级或者数据迁移的时候，要注意在代码里里用新的cache_key，直接不去反序列化旧的数据结构
 
 - 2023-08-01 15:54:48 what's this? [Flow Based Programming](https://wiki.c2.com/?FlowBasedProgramming)
