@@ -1,5 +1,5 @@
 ---
-title: what must be clear while upgrading
+title: what must be clear while upgrading application/dependencies?
 date: 2023-08-02 22:43:38
 tags:
   - rollout
