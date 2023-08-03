@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-08-04 07:34:35 [準備好成為資深工程師 | 弦而時習之](https://blog.aotoki.me/posts/2023/04/19/get-ready-to-be-senior-engineer/)
+
 - 2023-08-02 21:07:54 [Jaeger documentation](https://www.jaegertracing.io/docs/1.47/)
 
 - 2023-08-02 21:03:02 [novel problems (i.e. “unknown unknowns”)](https://opentelemetry.io/docs/concepts/observability-primer/#what-is-observability)
