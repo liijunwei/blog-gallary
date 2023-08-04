@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-08-04 08:14:59 让负面的消极的情绪/欲望/念头*流经*自己，不要停留；专注于正面的积极的情绪和念头
+
 - 2023-08-04 08:13:15 "人要是想给自己找借口, 实在是太容易了"
 
 - 2023-08-04 08:11:27 个人更倾向于这种generate code的显式做法：[Compile-time Dependency Injection With Go Cloud's Wire - The Go Programming Language](https://go.dev/blog/wire) (有点害怕魔法)
