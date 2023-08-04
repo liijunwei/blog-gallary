@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-08-04 16:04:56 this drawing tool is open source and amazing: [excalidraw/excalidraw: Virtual whiteboard for sketching hand-drawn like diagrams](https://github.com/excalidraw/excalidraw)
+
 - 2023-08-04 11:18:29 tool: https://excalidraw.com/
 
 - 2023-08-04 08:14:59 让负面的消极的情绪/欲望/念头*流经*自己，不要停留；专注于正面的积极的情绪和念头
