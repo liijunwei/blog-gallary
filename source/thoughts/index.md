@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-08-04 08:13:15 "人要是想给自己找借口, 实在是太容易了"
+
 - 2023-08-04 08:11:27 个人更倾向于这种generate code的显式做法：[Compile-time Dependency Injection With Go Cloud's Wire - The Go Programming Language](https://go.dev/blog/wire) (有点害怕魔法)
 
 - 2023-08-04 07:43:57 learn: [google/wire: Compile-time Dependency Injection for Go](https://github.com/google/wire)
