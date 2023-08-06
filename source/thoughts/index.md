@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-08-06 18:14:52 [Gonum](https://www.gonum.org/)
+
 - 2023-08-04 16:04:56 this drawing tool is open source and amazing: [excalidraw/excalidraw: Virtual whiteboard for sketching hand-drawn like diagrams](https://github.com/excalidraw/excalidraw)
 
 - 2023-08-04 11:18:29 tool: https://excalidraw.com/
