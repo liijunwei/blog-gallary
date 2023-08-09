@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-08-09 13:50:31 "What I cannot create, I do not understand" --- by Richard Feynman
+
 - 2023-08-08 18:32:50 多写点代码没有什么搞不懂的...
 
 - 2023-08-06 18:14:52 [Gonum](https://www.gonum.org/)
