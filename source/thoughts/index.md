@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-08-12 21:35:49 有这好事？ [年度专享B币赠送](https://account.bilibili.com/account/big/myPackage)
+
 - 2023-08-12 09:24:33 loc stat: `wc -l **/*.go | grep -v _test.go | grep -v docs.go | grep -v /mock/ | grep -v .sql.go | sort --reverse | head -n50 | pbcopy`
 
 - 2023-08-12 00:51:29 find git tag by commit id: `git tag --points-at HEAD | cat`
