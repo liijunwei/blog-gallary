@@ -3,7 +3,7 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
-- 2023-08-13 11:31:23 task5 is ready...
+- 2023-08-13 11:31:41 [Visualizing Concurrency in Go · divan's blog](https://divan.dev/posts/go_concurrency_visualize/)
 
 - 2023-08-13 10:18:21 [Mermaid Cheat Sheet @ https://jojozhuang.github.io](https://jojozhuang.github.io/tutorial/mermaid-cheat-sheet/)
 
