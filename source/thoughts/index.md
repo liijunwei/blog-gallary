@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-08-13 11:31:23 task5 is ready...
+
 - 2023-08-13 10:18:21 [Mermaid Cheat Sheet @ https://jojozhuang.github.io](https://jojozhuang.github.io/tutorial/mermaid-cheat-sheet/)
 
 - 2023-08-12 21:35:49 有这好事？ [年度专享B币赠送](https://account.bilibili.com/account/big/myPackage)
