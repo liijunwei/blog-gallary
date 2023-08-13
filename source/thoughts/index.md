@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-08-13 12:03:33 "This program contains a particular kind of race condition called a data race. A data race occurs whenever two goroutines access the same variable concurrently and at least one of the accesses is a write." --- gopl ch9.1
+
 - 2023-08-13 11:31:41 [Visualizing Concurrency in Go · divan's blog](https://divan.dev/posts/go_concurrency_visualize/)
 
 - 2023-08-13 10:18:21 [Mermaid Cheat Sheet @ https://jojozhuang.github.io](https://jojozhuang.github.io/tutorial/mermaid-cheat-sheet/)
