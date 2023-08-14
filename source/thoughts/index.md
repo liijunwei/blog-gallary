@@ -3,7 +3,7 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
-- 2023-08-14 15:12:31 "过多的假设，正是奥卡姆剃刀所要砍掉的东西。"
+- 2023-08-14 15:12:31 ["过多的假设，正是奥卡姆剃刀所要砍掉的东西。"](https://mp.weixin.qq.com/s/enIbP-kMe7AqGqeACLM9Fw)
 
 - 2023-08-14 13:32:35 榜样: [geektutu (Dai Jie)](https://github.com/geektutu)
 
