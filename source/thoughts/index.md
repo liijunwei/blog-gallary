@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-08-14 13:32:35 榜样: [geektutu (Dai Jie)](https://github.com/geektutu)
+
 - 2023-08-13 18:18:03 go的类型系统和代码跳转让读代码变得轻松不少
 
 - 2023-08-13 12:03:33 "This program contains a particular kind of race condition called a data race. A data race occurs whenever two goroutines access the same variable concurrently and at least one of the accesses is a write." --- gopl ch9.1
