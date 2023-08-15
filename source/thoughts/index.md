@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-08-15 20:46:23 今天写testcase发现了个奇怪的现象，两个api handler的测试用例竟然会产生干涉，一度让我怀疑go的mock框架里加了魔法；最终在同事帮助下找到了原因(不够熟悉业务), 其中一个api handler里包含了一段有状态的代码，新的test case触发了这个隐藏已久的问题；或许go里没有什么魔法，而**状态**无论在哪个语言里，都是复杂性之一
+
 - 2023-08-14 22:33:17 "Stay Safe, Stay Secure, Always Verify." + "If in doubt, consult with our CISO."
 
 - 2023-08-14 15:12:31 ["过多的假设，正是奥卡姆剃刀所要砍掉的东西。"](https://mp.weixin.qq.com/s/enIbP-kMe7AqGqeACLM9Fw)
