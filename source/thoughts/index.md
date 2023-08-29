@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-08-29 20:53:35 生活大爆炸看多了会越来越喜欢谢尔顿，越来越不喜欢leonard(相对)
+
 - 2023-08-29 10:11:48 第一次意识到某个问题的时候，是自己能力范围内处理他的最早时机
 
 - 2023-08-23 10:26:27 [wangjohn/mit-courses: Repository of course notes and homework](https://github.com/wangjohn/mit-courses)
