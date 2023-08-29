@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-08-29 10:11:48 第一次意识到某个问题的时候，是自己能力范围内处理他的最早时机
+
 - 2023-08-23 10:26:27 [wangjohn/mit-courses: Repository of course notes and homework](https://github.com/wangjohn/mit-courses)
 
 - 2023-08-17 18:32:27 基础巩固: golang里如果函数的返回值类型是slice，函数返回的nil是有类型的，值是nil slice，可以遍历
