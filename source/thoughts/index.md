@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-09-01 14:56:52 [SQL Studies |  Live, Learn, Share](https://sqlstudies.com/)
+
 - 2023-08-31 10:14:23 用api获取信息 和 权限控制是两件事
 
 - 2023-08-31 10:06:25 [Ruby Outperforms C: Breaking the Catch-22 | Rails at Scale](https://railsatscale.com/2023-08-29-ruby-outperforms-c/)
