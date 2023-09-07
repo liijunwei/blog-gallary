@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-09-07 09:34:32 [Explaining The Postgres Meme](https://www.avestura.dev/blog/explaining-the-postgres-meme)
+
 - 2023-09-01 15:43:18 [Business Rule](https://wiki.c2.com/?BusinessRule)
 
 - 2023-09-01 14:56:52 [SQL Studies |  Live, Learn, Share](https://sqlstudies.com/)
