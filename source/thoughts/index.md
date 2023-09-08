@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-09-08 11:33:48 当我说想要喜欢静态语言的类型时，我希望如果有低级问题，能通过ide和类型系统尽早发现，我希望代码因为类型限制有更好的可读性，有更低的读/写/改代码时心智负担
+
 - 2023-09-07 22:22:58 our PM is explaining things so clear using figma
 
 - 2023-09-07 09:34:32 [Explaining The Postgres Meme](https://www.avestura.dev/blog/explaining-the-postgres-meme)
