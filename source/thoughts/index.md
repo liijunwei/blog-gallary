@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-09-09 18:37:40 [RoseDB Labs](https://github.com/rosedblabs)
+
 - 2023-09-08 16:49:38 use `gem list |grep default:` or https://stdgems.org to get default gems for specific ruby version
 
 - 2023-09-08 11:33:48 当我说想要喜欢静态语言的类型时，我希望如果有低级问题，能通过ide和类型系统尽早发现，我希望代码因为类型限制有更好的可读性，有更低的读/写/改代码时心智负担
