@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-09-14 16:46:06 "if something doesn't make sense, raise it"
+
 - 2023-09-12 23:35:36 用不同语言写一个比较熟悉的项目还是有点吃力，但是这种练习好有帮助
 
 - 2023-09-09 18:37:40 [RoseDB Labs](https://github.com/rosedblabs)
