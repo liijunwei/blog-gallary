@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-09-22 15:28:52 [ddollar/foreman: Manage Procfile-based applications](https://github.com/ddollar/foreman)
+
 - 2023-09-22 15:22:51 [The Go Blog - The Go Programming Language](https://go.dev/blog/)
 
 - 2023-09-19 11:37:18 "no nonsense people"
