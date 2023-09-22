@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-09-22 23:19:48 [join Search Operator | Sumo Logic Docs](https://help.sumologic.com/docs/search/search-query-language/search-operators/join/)
+
 - 2023-09-22 21:27:39 [KyleBanks/depth: Visualize Go Dependency Trees](https://github.com/KyleBanks/depth/) 使用了go标准库 [build package - go/build - Go Packages](https://pkg.go.dev/go/build) 分析依赖树，有趣🤔️
 
 - 2023-09-22 15:28:52 [ddollar/foreman: Manage Procfile-based applications](https://github.com/ddollar/foreman)
