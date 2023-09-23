@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-09-23 17:14:10 这种代码能写得简单点吗？怎么做呢？[src/go/build/build.go](https://cs.opensource.google/go/go/+/master:src/go/build/build.go;l=553-1060;drc=c8caad423cafcca7c39dbaf64b428aaf0e8ac80c)
+
 - 2023-09-23 10:02:04 hard problem? [algorithms - How to reduce the number of crossing edges in a diagram? - Computer Science Stack Exchange](https://cs.stackexchange.com/questions/14901/how-to-reduce-the-number-of-crossing-edges-in-a-diagram)
 
 - 2023-09-23 10:00:43 ["The `dot` layout algorithm aims edges in the same direction (top to bottom, or left to right) and then attempts to avoid edge crossings and reduce edge length."](https://graphviz.org/docs/layouts/dot/)
