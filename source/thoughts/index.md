@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-09-23 10:00:43 ["The `dot` layout algorithm aims edges in the same direction (top to bottom, or left to right) and then attempts to avoid edge crossings and reduce edge length."](https://graphviz.org/docs/layouts/dot/)
+
 - 2023-09-23 08:10:17 [antvis/G6: ♾ A Graph Visualization Framework in JavaScript](https://github.com/antvis/G6)
 
 - 2023-09-22 23:19:48 [join Search Operator | Sumo Logic Docs](https://help.sumologic.com/docs/search/search-query-language/search-operators/join/)
