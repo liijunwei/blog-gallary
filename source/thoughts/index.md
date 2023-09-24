@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-09-24 11:05:14 golang profiling [Importing from pprof (go) · jlfwong/speedscope Wiki](https://github.com/jlfwong/speedscope/wiki/Importing-from-pprof-(go))
+
 - 2023-09-23 18:58:35 用好dlv，go也能很好的受益与REPL
 
 - 2023-09-23 17:14:10 这种代码能写得简单点吗？怎么做呢？[src/go/build/build.go](https://cs.opensource.google/go/go/+/master:src/go/build/build.go;l=553-1060;drc=c8caad423cafcca7c39dbaf64b428aaf0e8ac80c)
