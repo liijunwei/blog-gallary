@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-09-24 11:21:44 cool lib: [emirpasic/gods: GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more](https://github.com/emirpasic/gods)
+
 - 2023-09-24 11:05:14 golang profiling [Importing from pprof (go) · jlfwong/speedscope Wiki](https://github.com/jlfwong/speedscope/wiki/Importing-from-pprof-(go))
 
 - 2023-09-23 18:58:35 用好dlv，go也能很好的受益与REPL
