@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-10-08 21:02:52 Harward copying Sheldon in "the big bang theory" S12E07 is so funny lol
+
 - 2023-10-04 11:35:47 突然理解了"迭代器模式"所表达的含义: "为调用者提供一组遍历元素的api，而隐藏内部存储这些元素的细节"
 
 - 2023-09-24 11:21:44 cool lib: [emirpasic/gods: GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more](https://github.com/emirpasic/gods)
