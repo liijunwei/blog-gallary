@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-10-10 21:42:31 "Curl Server Sent Event no output when pipe" -> `curl --no-buffer`
+
 - 2023-10-10 10:10:25 cool idea: https://github.com/fatkodima/columns_trace
 
 - 2023-10-08 21:02:52 Harward copying Sheldon in "the big bang theory" S12E07 is so funny lol
