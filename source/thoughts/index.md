@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-10-10 10:10:25 cool idea: https://github.com/fatkodima/columns_trace
+
 - 2023-10-08 21:02:52 Harward copying Sheldon in "the big bang theory" S12E07 is so funny lol
 
 - 2023-10-04 11:35:47 突然理解了"迭代器模式"所表达的含义: "为调用者提供一组遍历元素的api，而隐藏内部存储这些元素的细节"
