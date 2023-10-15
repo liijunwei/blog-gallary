@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-10-15 13:24:59 vscode ["graphviz interactive preview" plugin/extension](https://github.com/tintinweb/vscode-interactive-graphviz) is awesome!!!
+
 - 2023-10-11 08:57:44 practice makes habit, practice makes better understanding
 
 - 2023-10-10 21:42:31 "Curl Server Sent Event no output when pipe" -> `curl --no-buffer`
