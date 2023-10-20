@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-10-20 08:19:51 代码写的真好 [robfig/cron: a cron library for go](https://github.com/robfig/cron)
+
 - 2023-10-19 16:19:03 很好用啊 https://help.sumologic.com/docs/alerts/monitors/overview/
 
 - 2023-10-15 13:24:59 vscode ["graphviz interactive preview" plugin/extension](https://github.com/tintinweb/vscode-interactive-graphviz) is awesome!!!
