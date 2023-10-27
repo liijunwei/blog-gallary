@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-10-27 13:54:35 围城 - 钱钟书 | 献给阿尔吉侬的花束 - 丹尼尔·凯斯 | 斯通纳 - 黑塞 想起来前几年度过的印象很深的几本书
+
 - 2023-10-27 10:29:58 "Ad-hoc feedback is the feedback that can be given, shared, and requested 24/7 without constraints or limits. It's open to all employees, who can supply or receive feedback from anyone else within that company."
 
 - 2023-10-20 08:19:51 代码写的真好 [robfig/cron: a cron library for go](https://github.com/robfig/cron)
