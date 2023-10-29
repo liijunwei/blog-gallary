@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-10-29 13:34:05 how to use this in project? [Minimizing logic expressions — whitequark's lab notebook](https://lab.whitequark.org/notes/2020-04-06/minimizing-logic-expressions/)
+
 - 2023-10-29 12:53:34 this is coller than writing a blog post: [asciinema - Record and share your terminal sessions, the simple way](https://asciinema.org/)
 
 - 2023-10-29 12:44:40 [GitHub - bkuhlmann/archiver: Shell scripts for automated backup of UNIX-based operation systems.](https://github.com/bkuhlmann/archiver)
