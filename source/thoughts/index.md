@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-10-29 12:53:34 this is coller than writing a blog post: [asciinema - Record and share your terminal sessions, the simple way](https://asciinema.org/)
+
 - 2023-10-29 12:44:40 [GitHub - bkuhlmann/archiver: Shell scripts for automated backup of UNIX-based operation systems.](https://github.com/bkuhlmann/archiver)
 
 - 2023-10-27 13:54:35 围城 - 钱钟书 | 献给阿尔吉侬的花束 - 丹尼尔·凯斯 | 斯通纳 - 黑塞 想起来前几年度过的印象很深的几本书
