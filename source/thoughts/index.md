@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-11-02 08:24:33 netstat -nr -f inet
+
 - 2023-10-31 21:00:33 依赖越少 事情越容易做
 
 - 2023-10-30 14:50:50 [Online minimization of boolean functions](https://tma.main.jp/logic/index_en.html)
