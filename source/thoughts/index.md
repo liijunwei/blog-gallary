@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-11-09 16:46:16 [Shopify/limiter: Simple Ruby rate limiting mechanism.](https://github.com/Shopify/limiter)
+
 - 2023-11-02 08:24:33 netstat -nr -f inet
 
 - 2023-10-31 21:00:33 依赖越少 事情越容易做
