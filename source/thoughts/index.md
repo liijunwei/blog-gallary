@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2023-12-13 14:10:42 "An edge case occurs when a user finds themselves operating software under a unique condition that leads to a bug. A corner case is when multiple unique conditions are at play. "
+
 - 2023-11-21 20:33:24 minimal learning tool: [Matrix Calculator](https://www.calculator.net/matrix-calculator.html)
 
 - 2023-11-19 13:00:11 感觉X战警系列里有好多迷惑剧情 x.x
