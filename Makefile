@@ -2,7 +2,7 @@
 
 sync:
 	@hexo generate --silent
-	@rsync -azP public/ webuser@xiaoli:/srv/www/blog-gallary
+	@rsync -azP public/ me@xiaoli:/home/me/blog
 	@echo done
 
 commit:

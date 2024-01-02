@@ -2,26 +2,31 @@
 
 http://blog.bxzy.top
 
-#### deployment
-```sh
-# setup ECS nginx config
-ll /etc/nginx/sites-enabled/production.blog.conf
+#### nginx conf
 
-# setup static file folder
-ssh webuser@xiaoli
-mkdir -p /srv/www/blog-gallary
+```
+server {
+  listen 80;
+  listen [::]:80;
+  server_name blog.bxzy.top;
 
-# sync static files
-make sync
+  root /home/me/blog/;
+  index index.html index.htm;
+
+  location / {
+    try_files $uri $uri/ =404;
+  }
+}
 ```
 
-#### afterwards
+fix nginx permission issue
+```bash
+sudo tail -f /var/log/nginx/*.log
 
-[thougut util](https://github.com/liijunwei/custom-omz-plugins/blob/main/thought/thought.plugin.zsh)
+sudo -u www-data stat /home/me/blog
+sudo gpasswd -a www-data me
+sudo -u www-data stat /home/me/blog
+sudo nginx -s reload
 
-```sh
-thought
-thought -e
-thought "xxx"
-thought -i
+# visit domain again
 ```
