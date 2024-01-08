@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-01-08 14:59:22 read before write means some kind of dependency, optimze design is better than just adding a distributed lock
+
 - 2024-01-08 10:19:07 解决问题就是认识问题的过程
 
 - 2024-01-04 08:43:39 For me, "FoxyProxy" seems works better than "Proxy SwitchyOmega"
