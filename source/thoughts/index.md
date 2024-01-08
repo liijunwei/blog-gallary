@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-01-08 23:20:14 xcode
+
 - 2024-01-08 21:30:49 用ncdu清理磁盘真方便
 
 - 2024-01-08 14:59:22 read before write means some kind of dependency, optimze design is better than just adding a distributed lock
