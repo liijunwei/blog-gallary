@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-01-08 10:19:07 解决问题就是认识问题的过程
+
 - 2024-01-04 08:43:39 For me, "FoxyProxy" seems works better than "Proxy SwitchyOmega"
 
 - 2023-12-13 14:10:42 "An edge case occurs when a user finds themselves operating software under a unique condition that leads to a bug. A corner case is when multiple unique conditions are at play. "
