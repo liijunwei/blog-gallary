@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-01-09 10:25:38 "In computer networking, TUN and TAP are kernel virtual network devices"
+
 - 2024-01-08 23:20:14 xcode
 
 - 2024-01-08 21:30:49 用ncdu清理磁盘真方便
