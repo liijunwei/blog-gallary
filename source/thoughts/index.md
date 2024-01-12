@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-01-12 22:03:29 ask GTP: "what does flat/sum/cum means in go tool pprof result?"
+
 - 2024-01-12 18:39:31 [FreeKB - Linux Commands - tzselect (time zone select)](https://www.freekb.net/Article?id=1182)
 
 - 2024-01-09 10:25:38 "In computer networking, TUN and TAP are kernel virtual network devices"
