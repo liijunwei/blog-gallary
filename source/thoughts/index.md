@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-01-16 17:31:14 要养成检查空指针的好习惯
+
 - 2024-01-15 22:00:57 感觉开始对历史感兴趣了
 
 - 2024-01-12 22:03:29 ask GTP: "what does flat/sum/cum means in go tool pprof result?"
