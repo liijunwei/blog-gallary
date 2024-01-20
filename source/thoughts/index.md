@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-01-20 19:52:57 嚯 "落水狗"在b站上线啦
+
 - 2024-01-17 15:34:08 ["minimal, complete and verifiable example" (MCVE), a "minimal, workable example" (MWE)](https://stackoverflow.com/help/minimal-reproducible-example)
 
 - 2024-01-16 17:31:14 要养成检查空指针的好习惯
