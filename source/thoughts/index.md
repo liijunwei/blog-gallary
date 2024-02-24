@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-02-24 13:54:51 "This stuff isn’t limited to web companies, it’s just that web companies are already fully digital, so they are easier to instrument and measure. Financial data has long been event-centric." --- "I heart logs"
+
 - 2024-02-24 13:54:47 Simple, Elegant, Flexible, Nothing...
 
 - 2024-02-23 17:19:58 "数字是客观的，也是无情的。"
