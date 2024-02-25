@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-02-25 16:59:53 sqlite3 quick guide: https://www.sqlite.org/cli.html
+
 - 2024-02-25 16:49:47 SCM tool other than git: https://www.fossil-scm.org/home/doc/trunk/www/index.wiki
 
 - 2024-02-25 08:42:07 "This leaves the only real option: buffering. The log acts as a very, very large buffer that allows the process to be restarted or fail without slowing down other parts of the processing graph. This means that a consumer can come down entirely for long peri‐ ods of time without impacting any of the upstream graph; as long as it is able to catch up when it restarts, everything else is unaffected."
