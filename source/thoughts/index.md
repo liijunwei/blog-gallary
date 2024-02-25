@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-02-25 08:41:10 "Blocking sounds like an acceptable option at first, but in practice becomes a huge issue. Consider that what we want is not just to model the processing of a single application but to model the full data flow of the whole organization. This will inevi‐ tably be a very complex web of data flow between processors owned by different teams and run with different SLAs. In this complicated web of data processing, if any consumer fails or cannot keep up, upstream producers will block, and blocking will cascade up throughout the data-flow graph, grinding everything to a halt."
+
 - 2024-02-24 13:54:51 "This stuff isn’t limited to web companies, it’s just that web companies are already fully digital, so they are easier to instrument and measure. Financial data has long been event-centric." --- "I heart logs"
 
 - 2024-02-24 13:54:47 Simple, Elegant, Flexible, Nothing...
