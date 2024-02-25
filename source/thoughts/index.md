@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-02-25 16:49:47 SCM tool other than git: https://www.fossil-scm.org/home/doc/trunk/www/index.wiki
+
 - 2024-02-25 08:42:07 "This leaves the only real option: buffering. The log acts as a very, very large buffer that allows the process to be restarted or fail without slowing down other parts of the processing graph. This means that a consumer can come down entirely for long peri‐ ods of time without impacting any of the upstream graph; as long as it is able to catch up when it restarts, everything else is unaffected."
 
 - 2024-02-25 08:41:10 "Blocking sounds like an acceptable option at first, but in practice becomes a huge issue. Consider that what we want is not just to model the processing of a single application but to model the full data flow of the whole organization. This will inevi‐ tably be a very complex web of data flow between processors owned by different teams and run with different SLAs. In this complicated web of data processing, if any consumer fails or cannot keep up, upstream producers will block, and blocking will cascade up throughout the data-flow graph, grinding everything to a halt."
