@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-03-02 17:57:21 Tracer bullets - Ready, fire, aim... "feedback loop"
+
 - 2024-02-25 16:59:53 sqlite3 quick guide: https://www.sqlite.org/cli.html
 
 - 2024-02-25 16:49:47 SCM tool other than git: https://www.fossil-scm.org/home/doc/trunk/www/index.wiki
