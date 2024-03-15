@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-03-15 10:09:28 https://github.com/sindresorhus
+
 - 2024-03-07 12:49:20 [alefragnani/vscode-bookmarks: Bookmarks Extension for Visual Studio Code](https://github.com/alefragnani/vscode-bookmarks)
 
 - 2024-03-02 17:57:21 Tracer bullets - Ready, fire, aim... "feedback loop"
