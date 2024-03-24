@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-03-24 23:12:10 https://postmarketos.org/
+
 - 2024-03-18 23:55:47 "If you can’t describe what you are doing as a process, you don’t know what you’re doing." --- the pragmatic programmer topic#30
 
 - 2024-03-18 09:35:39 https://github.com/krahets/hello-algo
