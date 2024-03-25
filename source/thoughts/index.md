@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-03-25 14:06:22 seems I can just use bash instead of oh-my-zsh after I have ["Bash history search, partial + up-arrow"](https://askubuntu.com/questions/59846/bash-history-search-partial-up-arrow)
+
 - 2024-03-25 10:13:27 be aware of you assumptions, and try rely on simple, clear assumptions whenever possible
 
 - 2024-03-24 23:12:10 https://postmarketos.org/
