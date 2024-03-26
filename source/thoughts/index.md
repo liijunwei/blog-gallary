@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-03-26 23:44:04 [Armbian – Linux for ARM development boards](https://www.armbian.com/)
+
 - 2024-03-26 23:32:57 [arunelias/session-alive: Session Alive](https://github.com/arunelias/session-alive)
 
 - 2024-03-26 13:37:20 [Histograms - GCSE Maths - Steps, Examples & Worksheet](https://thirdspacelearning.com/gcse-maths/statistics/histogram/)
