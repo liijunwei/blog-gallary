@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-03-27 22:29:00 [Mapnik.org - the core of geospatial visualization & processing](https://mapnik.org/)
+
 - 2024-03-27 22:26:59 "Finding Bad Assumptions"
 
 - 2024-03-26 23:44:04 [Armbian – Linux for ARM development boards](https://www.armbian.com/)
