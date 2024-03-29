@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-03-29 11:38:10 [BUG: unable to install gRPC 1.48 with Ruby 3.1.2 · Issue #30947 · grpc/grpc](https://github.com/grpc/grpc/issues/30947)
+
 - 2024-03-29 11:26:21 做简单的假设, 依赖稳定的元素
 
 - 2024-03-27 22:29:00 [Mapnik.org - the core of geospatial visualization & processing](https://mapnik.org/)
