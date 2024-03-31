@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-03-31 23:42:40 [NATS.io – Cloud Native, Open Source, High-performance Messaging](https://nats.io/)
+
 - 2024-03-31 22:59:54 [Auto Refresh Plus - Refresh page automatically with page monitor](https://autorefresh.io/)
 
 - 2024-03-29 11:38:10 [BUG: unable to install gRPC 1.48 with Ruby 3.1.2 · Issue #30947 · grpc/grpc](https://github.com/grpc/grpc/issues/30947)
