@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-04-01 18:00:44 [The XZ Backdoor · benzblog](https://bentsukun.ch/posts/xz-backdoor/)
+
 - 2024-03-31 23:42:40 [NATS.io – Cloud Native, Open Source, High-performance Messaging](https://nats.io/)
 
 - 2024-03-31 22:59:54 [Auto Refresh Plus - Refresh page automatically with page monitor](https://autorefresh.io/)
