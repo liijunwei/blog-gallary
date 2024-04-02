@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-04-02 14:38:31 [khuedoan/homelab: Modern self-hosting framework, fully automated from empty disk to operating services with a single command.](https://github.com/khuedoan/homelab)
+
 - 2024-04-01 18:02:12 [XZ Utils backdoor](https://tukaani.org/xz-backdoor/)
 
 - 2024-04-01 18:00:44 [The XZ Backdoor · benzblog](https://bentsukun.ch/posts/xz-backdoor/)
