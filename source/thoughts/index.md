@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-04-03 14:15:29 Delaying xxx is a slippery slope...
+
 - 2024-04-02 21:09:55 [raboof/nethogs: Linux 'net top' tool](https://github.com/raboof/nethogs)
 
 - 2024-04-02 14:38:31 [khuedoan/homelab: Modern self-hosting framework, fully automated from empty disk to operating services with a single command.](https://github.com/khuedoan/homelab)
