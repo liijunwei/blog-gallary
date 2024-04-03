@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-04-03 23:26:45 dhclient -v | dhclient -r
+
 - 2024-04-03 18:07:06 乔哈里窗沟通法
 
 - 2024-04-03 14:15:45 [Onboarding roulette: deleting our employee accounts daily](https://graphite.dev/blog/onboarding-roulette)
