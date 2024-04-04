@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-04-04 10:25:11 [IP/DNS Detect - What is your IP, what is your DNS, what informations you send to websites.](https://ipleak.net/#webrtcleak)
+
 - 2024-04-03 23:26:45 dhclient -v | dhclient -r
 
 - 2024-04-03 18:07:06 乔哈里窗沟通法
