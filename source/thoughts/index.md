@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-04-06 11:52:15 非常好的背景音 [Wonders of the World 4K - Scenic Relaxation Film With Calming Music - YouTube](https://www.youtube.com/watch?v=n9LgeoJE4EI)
+
 - 2024-04-06 11:47:40 vscode user setting `"window.newWindowDimensions": "maximized",`
 
 - 2024-04-06 11:24:53 [flyingmutant/rapid: Rapid is a modern Go property-based testing library](https://github.com/flyingmutant/rapid?tab=readme-ov-file#what-about-fuzzing)
