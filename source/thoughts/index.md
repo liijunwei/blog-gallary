@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-04-06 11:24:53 [flyingmutant/rapid: Rapid is a modern Go property-based testing library](https://github.com/flyingmutant/rapid?tab=readme-ov-file#what-about-fuzzing)
+
 - 2024-04-06 11:21:49 "TOP 50 • Most Beautiful CITIES in the World 8K ULTRA HD"
 
 - 2024-04-06 11:16:04 [Fuzzing vs property testing](https://www.tedinski.com/2018/12/11/fuzzing-and-property-testing.html)
