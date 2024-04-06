@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-04-06 11:09:04 "when writing tests, make sure that alarms sound when they should"
+
 - 2024-04-05 09:54:13 [The TLA+ Home Page](https://lamport.azurewebsites.net/tla/tla.html)
 
 - 2024-04-04 10:25:11 [IP/DNS Detect - What is your IP, what is your DNS, what informations you send to websites.](https://ipleak.net/#webrtcleak)
