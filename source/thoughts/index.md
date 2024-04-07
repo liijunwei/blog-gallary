@@ -27,7 +27,7 @@ date: 2021-09-10 15:55:20
 
 - 2024-04-05 09:54:13 [The TLA+ Home Page](https://lamport.azurewebsites.net/tla/tla.html)
 
-- 2024-04-04 10:25:11 [IP/DNS Detect - What is your IP, what is your DNS, what informations you send to websites.](https://ipleak.net/#webrtcleak)
+- 2024-04-04 10:25:11 [IP/DNS Detect - What is your IP, what is your DNS, what informations you send to websites. - dns leak check](https://ipleak.net/#webrtcleak)
 
 - 2024-04-03 23:26:45 dhclient -v | dhclient -r
 
