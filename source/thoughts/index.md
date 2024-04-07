@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-04-07 09:51:16 [一份不负责任的机场使用手册（转载） - DuyaoSS-机场测速和简介](https://www.duyaoss.com/archives/1086/)
+
 - 2024-04-07 09:50:48 [查看我的 IP 地址 | 查询本机 IP 地址及归属地 | 查看 DNS 出口 IP | 测试 CDN 命中节点 | Sukka | https://ip.skk.moe](https://ip.skk.moe/)
 
 - 2024-04-06 11:52:15 非常好的背景音 [Wonders of the World 4K - Scenic Relaxation Film With Calming Music - YouTube](https://www.youtube.com/watch?v=n9LgeoJE4EI)
