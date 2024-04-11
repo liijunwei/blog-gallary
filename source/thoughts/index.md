@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-04-11 16:04:43 [Starship](https://starship.rs/)
+
 - 2024-04-07 10:00:08 [OpenEmu/OpenEmu: 🕹 Retro video game emulation for macOS](https://github.com/OpenEmu/OpenEmu)
 
 - 2024-04-07 09:51:16 [一份不负责任的机场使用手册（转载） - DuyaoSS-机场测速和简介](https://www.duyaoss.com/archives/1086/)
