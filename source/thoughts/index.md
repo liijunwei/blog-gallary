@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-04-12 22:00:44 echo "setw -g mouse on" >> ~/.tmux.conf
+
 - 2024-04-12 17:55:52 release plan key points: who/what/when/impact scope/how to verify
 
 - 2024-04-12 10:57:52 OpenWrt/LEDE: ["The name LEDE stood for Linux Embedded Development Environment."](https://openwrt.org/about)
