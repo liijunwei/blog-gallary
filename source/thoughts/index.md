@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-04-12 10:48:23 [git.openwrt.org Git - projects in 'project'](https://git.openwrt.org/?a=project_list;pf=project)
+
 - 2024-04-12 10:20:57 [[OpenWrt Wiki] uHTTPd Web Server Configuration](https://openwrt.org/docs/guide-user/services/webserver/uhttpd)
 
 - 2024-04-12 10:14:11 [uHTTPd [Old OpenWrt Wiki]](https://oldwiki.archive.openwrt.org/doc/howto/http.uhttpd)
