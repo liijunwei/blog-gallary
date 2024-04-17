@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-04-17 21:40:30 [Wolfgang's Blog - homelab HTTPS](https://notthebe.ee/blog/easy-ssl-in-homelab-dns01/)
+
 - 2024-04-17 09:34:30 [binwiederhier/ntfy: Send push notifications to your phone or desktop using PUT/POST](https://github.com/binwiederhier/ntfy)
 
 - 2024-04-15 12:21:53 [Free-Web-Books/book at master · anzhihe/Free-Web-Books](https://github.com/anzhihe/Free-Web-Books/tree/master/book)
