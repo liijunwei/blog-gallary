@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-04-20 00:10:03 [doc request: how to pass arguments to the running program? · Issue #178 · go-delve/delve](https://github.com/go-delve/delve/issues/178)
+
 - 2024-04-17 21:40:30 [Wolfgang's Blog - homelab HTTPS](https://notthebe.ee/blog/easy-ssl-in-homelab-dns01/)
 
 - 2024-04-17 09:34:30 [binwiederhier/ntfy: Send push notifications to your phone or desktop using PUT/POST](https://github.com/binwiederhier/ntfy)
