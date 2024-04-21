@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-04-21 11:49:38 [IBM/sarama: Sarama is a Go library for Apache Kafka.](https://github.com/IBM/sarama)
+
 - 2024-04-21 10:27:47 google: kafka+systemd
 
 - 2024-04-20 00:10:03 [doc request: how to pass arguments to the running program? · Issue #178 · go-delve/delve](https://github.com/go-delve/delve/issues/178)
