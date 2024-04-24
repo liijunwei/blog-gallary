@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-04-24 14:37:55 [Learn TLA+ — Learn TLA+](https://learntla.com/)
+
 - 2024-04-24 09:37:40 [The TLA+ Home Page](https://lamport.azurewebsites.net/tla/tla.html#:~:text=TLA%2B%20is%20a%20high%2Dlevel,precisely%20is%20with%20simple%20mathematics.)
 
 - 2024-04-22 12:10:25 [Installing · tonsky/FiraCode Wiki + "Enable Font Ligatures in VS Code"](https://github.com/tonsky/FiraCode/wiki/Installing)
