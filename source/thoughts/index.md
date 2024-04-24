@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-04-24 09:37:40 [The TLA+ Home Page](https://lamport.azurewebsites.net/tla/tla.html#:~:text=TLA%2B%20is%20a%20high%2Dlevel,precisely%20is%20with%20simple%20mathematics.)
+
 - 2024-04-22 12:10:25 [Installing · tonsky/FiraCode Wiki + "Enable Font Ligatures in VS Code"](https://github.com/tonsky/FiraCode/wiki/Installing)
 
 - 2024-04-21 11:49:38 [IBM/sarama: Sarama is a Go library for Apache Kafka.](https://github.com/IBM/sarama)
