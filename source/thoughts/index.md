@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-05-30 20:02:39 new term learned: MCVE [How to create a Minimal, Reproducible Example - Help Center - Stack Overflow](https://stackoverflow.com/help/minimal-reproducible-example)
+
 - 2024-05-25 11:52:42 心急就会失去阅读能力, 然后失去更多
 
 - 2024-05-10 18:08:17 [charmbracelet/gum: A tool for glamorous shell scripts 🎀](https://github.com/charmbracelet/gum)
