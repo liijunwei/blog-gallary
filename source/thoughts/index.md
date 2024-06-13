@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-06-14 00:15:10 什么时候改了这个sublime的配置... 真要命 (`"index_files": false`)
+
 - 2024-06-13 11:33:32 [IEEE 754 "Directed roundings"- Wikipedia](https://en.wikipedia.org/wiki/IEEE_754#Directed_roundings)
 
 - 2024-06-03 10:57:24 [crystal-lang/crystal: The Crystal Programming Language](https://github.com/crystal-lang/crystal)
