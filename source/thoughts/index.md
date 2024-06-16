@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-06-16 23:50:31 https://github.com/tintinweb/vscode-interactive-graphviz/blob/1074d8c264b05c9460aeacf1027fc5c61e43ac29/content/highlighting.js#L12
+
 - 2024-06-14 18:32:00 `unset PGPASSWORD && rails db` https://www.postgresql.org/docs/14/libpq-envars.html
 
 - 2024-06-14 00:15:10 什么时候改了这个sublime的配置... 真要命 (`"index_files": false`)
