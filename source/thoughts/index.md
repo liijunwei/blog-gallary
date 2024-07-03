@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-07-03 10:19:17 "Accountants Don’t Use Erasers"
+
 - 2024-06-28 09:58:30 [A categorized community-driven collection of awesome Ruby libraries, tools, frameworks and software. The essential Ruby to build modern Apps and Web Apps.](https://awesome-ruby.com/)
 
 - 2024-06-26 23:50:30 nice project: [mountainstorm/jquery.graphviz.svg: jquery plugin to make graphviz svg charts responsive](https://github.com/mountainstorm/jquery.graphviz.svg)
