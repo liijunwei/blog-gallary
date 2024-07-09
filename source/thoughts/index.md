@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-07-09 18:35:57 debug时打断点解决不了的问题，应该及时借助打log来处理，log有更多的上下文，学到了
+
 - 2024-07-03 10:19:17 "Accountants Don’t Use Erasers"
 
 - 2024-06-28 09:58:30 [A categorized community-driven collection of awesome Ruby libraries, tools, frameworks and software. The essential Ruby to build modern Apps and Web Apps.](https://awesome-ruby.com/)
