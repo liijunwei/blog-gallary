@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-07-25 22:09:00 russian-doll caching
+
 - 2024-07-22 23:13:54 "you can make the service freeze itself when it is ready"
 
 - 2024-07-19 15:46:06 网络问题排查顺序: local network -> dns -> upstream service
