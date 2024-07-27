@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-07-27 18:28:11 Why use event sourcing: It is not a new concept / Temporal aspect / No ORM mapping / Append-only / Intention / Audit log for free ("Domain Driven Rails" Chapter Event Sourcing)
+
 - 2024-07-27 17:54:36 [tabler/tabler: Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap](https://github.com/tabler/tabler)
 
 - 2024-07-27 14:11:53 leak
