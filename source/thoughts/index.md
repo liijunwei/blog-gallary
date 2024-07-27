@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-07-27 17:54:36 [tabler/tabler: Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap](https://github.com/tabler/tabler)
+
 - 2024-07-27 14:11:53 leak
 
 - 2024-07-25 23:58:38 [Eventide Project](https://eventide-project.org/)
