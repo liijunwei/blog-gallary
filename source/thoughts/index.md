@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-07-27 23:36:27 软件开发中，似乎一对一变一对多的场景反复出现，如何应对呢？
+
 - 2024-07-27 23:27:58 book: Component-Based Rails Applications
 
 - 2024-07-27 23:26:45 "No matter if you're using Hibernate or CQRS/ES, procedural programming or free monads, deliberate design with bounded contexts is a win." --- https://x.com/owickstrom/status/889819275820756992
