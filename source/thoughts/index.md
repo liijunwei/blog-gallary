@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-07-28 15:22:00 [blog: Oskar Wickström](https://wickstrom.tech/)
+
 - 2024-07-28 15:06:45 美剧 Narcos 确实魔幻...
 
 - 2024-07-27 23:49:11 "I think the solution is to go more granular." 细致
