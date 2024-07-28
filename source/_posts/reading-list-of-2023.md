@@ -6,11 +6,11 @@ tags:
 ---
 
 - TODO learn you a haskell
-- TODO gopl
+- OK gopl
 - TODO beyond feelings
 - TODO sicp
 - TODO unix network programming volume 1: the sockets networking api, 3rd edition
-- TODO [optional]High-Performance-Browser-Networking
-- TODO [optional] clean code
+- TODO [optional] High-Performance-Browser-Networking
+- OK [optional] clean code
 - OK algs4 (20230421)
 - OK A philosophy of software design(20230421)
