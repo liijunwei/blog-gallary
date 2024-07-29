@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-07-29 21:51:35 "Little’s Law"
+
 - 2024-07-29 21:46:34 "You should try to follow the rule first before breaking it."
 
 - 2024-07-28 15:22:00 [blog: Oskar Wickström](https://wickstrom.tech/)
