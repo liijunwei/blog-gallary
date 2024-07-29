@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-07-29 23:09:11 "benchmarks, like statistics, require context, otherwise you can make them say whatever you want."
+
 - 2024-07-29 22:59:57 "Experimentation over best practice. Best-practice-driven development allows lazy decision-making and usually does not lead to results, as each organization is a unique case. Instead, we can apply a more rigorous scientific process for determining the course of our performance work, using precise measurement and abundant experimentation."
 
 - 2024-07-29 21:51:35 "Little’s Law"
