@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-08-05 19:07:19 [Fix BigDecimal#precision for single DECDIG case by mrkn · Pull Request #206 · ruby/bigdecimal](https://github.com/ruby/bigdecimal/pull/206)
+
 - 2024-07-31 00:37:30 差点以为毒枭第三季要让我失望了... 看剧万万不可剧透啊
 
 - 2024-07-29 23:09:11 "benchmarks, like statistics, require context, otherwise you can make them say whatever you want."
