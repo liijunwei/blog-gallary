@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-08-06 23:40:50 "It will always be simpler (and more scalable) to not cache."
+
 - 2024-08-06 23:39:13 "Recently, I’ve been migrating a test suite from RSpec to Minitest. The Minitest suite is almost 10 times faster, and executes the tests in 0.5 seconds, compared to 5 seconds for RSpec. Abstraction is never free, so use it only where you have to. You may disagree, but in my opinion, testing is a poor place to spend your abstraction budget."
 
 - 2024-08-05 19:07:19 [Fix BigDecimal#precision for single DECDIG case by mrkn · Pull Request #206 · ruby/bigdecimal](https://github.com/ruby/bigdecimal/pull/206)
