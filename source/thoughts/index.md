@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-08-07 23:02:50 There are four major "buckets" of interaction speeds for your site. 0-100 ms: Instantaneous -> 100ms-1000ms: Perceivable delay -> 1 second - 10 seconds: User can perceive "slow" -> 10 seconds +: User loses attention.
+
 - 2024-08-07 08:56:34 ["Frequency first. Duration next. Then, quality. Make progress every day. Any progress counts, duration + quality should go unmeasured."](https://www.nateberkopec.com/blog/2020/01/02/growth-over-results.html)
 
 - 2024-08-06 23:46:25 "caches are essentially giant hashes"
