@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-08-09 21:27:17 "Instead, use connection pools, like ActiveRecord does, to interact with databases so that each thread can get their own connection."
+
 - 2024-08-09 08:59:29 "Request queue time is the time elapsed between a request entering your network (usually when it is first seen by the load balancer) and a request actually beginning to be served by your application (when the first Ruby code starts to run to process the request)."
 
 - 2024-08-07 23:24:40 [ioquatix/rack-freeze: A policy framework for implementing thread-safe rack middleware.](https://github.com/ioquatix/rack-freeze)
