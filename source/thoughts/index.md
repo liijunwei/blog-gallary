@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-08-11 18:39:41 [ASCIIFlow](https://asciiflow.com/#/)
+
 - 2024-08-11 18:09:25 [ASCII Diagrams](https://asciidiagrams.github.io/)
 
 - 2024-08-09 21:27:17 "Instead, use connection pools, like ActiveRecord does, to interact with databases so that each thread can get their own connection."
