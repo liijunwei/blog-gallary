@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-08-13 10:01:44 [free-programming-books/books/free-programming-books-langs.md at main · EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md)
+
 - 2024-08-11 18:39:41 [ASCIIFlow](https://asciiflow.com/#/)
 
 - 2024-08-11 18:09:25 [ASCII Diagrams](https://asciidiagrams.github.io/)
