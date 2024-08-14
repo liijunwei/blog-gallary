@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-08-15 07:55:43 "bombproof"
+
 - 2024-08-15 00:06:41 一些问题其实本质就是"序列化"(serialization), 比如可视化代码里的状态机, 本质就是把代码里的数据结构序列化成可视化工具可以解析的格式; tcp通信，是把信息序列化成网络流，流里的特定字段有特定的含义(RFC定义)...
 
 - 2024-08-15 00:01:08 [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
