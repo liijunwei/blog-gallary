@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-08-15 08:29:34 "The truth is, because of the way we humans learn, we have to discover something ourselves to really learn it. "
+
 - 2024-08-15 08:19:43 [The Speedshop Ruby on Rails Performance Blog](https://www.speedshop.co/blog/)
 
 - 2024-08-15 08:19:15 work -> clean -> fast
