@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-08-15 23:41:07 "However, any abstraction, be it a DSL or a model, always carries with it a danger—that of putting blinkers on your thinking. With a blinkered abstraction, you spend more effort on fitting the world into your abstraction than the other way around. You see this when you come across something that doesn’t fit in with the abstraction—and you burn time trying to make it fit, instead of changing the abstraction to easily absorb the new behavior."
+
 - 2024-08-15 22:03:59 音速索尼克 减速帕尼克
 
 - 2024-08-15 14:39:13 [Xavier Noria(zeitwerk author) - blog](https://hashref.com/reading)
