@@ -7,3 +7,4 @@ tags:
 
 - "Domain Driven Rails"
 - "I Heart Logs"
+- "The Ruby On Rails Performance Apocrypha" - Nate Berkopec
