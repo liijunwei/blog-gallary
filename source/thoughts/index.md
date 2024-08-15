@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-08-15 22:03:59 音速索尼克 减速帕尼克
+
 - 2024-08-15 14:39:13 [Xavier Noria(zeitwerk author) - blog](https://hashref.com/reading)
 
 - 2024-08-15 08:29:34 "The truth is, because of the way we humans learn, we have to discover something ourselves to really learn it. "
