@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-08-15 08:19:43 [The Speedshop Ruby on Rails Performance Blog](https://www.speedshop.co/blog/)
+
 - 2024-08-15 08:19:15 work -> clean -> fast
 
 - 2024-08-15 08:02:30 "if you want to save money, buy in bulk, not a-la-carte."
