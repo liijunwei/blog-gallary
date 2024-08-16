@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-08-16 08:38:44 parse就是反序列化
+
 - 2024-08-15 23:53:26 {"filepath":"foo","class_name":"Foo","public_methods":[{"level":"class_level","name":"bar","params":["a","b","c"]},{"level":"instance_level","name":"piu","params":["c","d"]}],"instance_variables":[{"level":"class_level","name":"fizz"},{"level":"instance_level","name":"buzz"}]}
 
 - 2024-08-15 23:41:07 "However, any abstraction, be it a DSL or a model, always carries with it a danger—that of putting blinkers on your thinking. With a blinkered abstraction, you spend more effort on fitting the world into your abstraction than the other way around. You see this when you come across something that doesn’t fit in with the abstraction—and you burn time trying to make it fit, instead of changing the abstraction to easily absorb the new behavior."
