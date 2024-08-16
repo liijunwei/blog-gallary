@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-08-16 19:46:17 [ai/nanoid: A tiny secure, URL-friendly, unique string ID generator for JavaScript](https://github.com/ai/nanoid)
+
 - 2024-08-16 11:23:41 [Ruby on Rails — Rails 7.2: Better production defaults, Dev containers, new guides design, and more!](https://rubyonrails.org/2024/8/10/Rails-7-2-0-has-been-released)
 
 - 2024-08-16 08:38:44 parse就是反序列化
