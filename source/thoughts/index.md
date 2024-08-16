@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-08-16 11:23:41 [Ruby on Rails — Rails 7.2: Better production defaults, Dev containers, new guides design, and more!](https://rubyonrails.org/2024/8/10/Rails-7-2-0-has-been-released)
+
 - 2024-08-16 08:38:44 parse就是反序列化
 
 - 2024-08-15 23:53:26 {"filepath":"foo","class_name":"Foo","public_methods":[{"level":"class_level","name":"bar","params":["a","b","c"]},{"level":"instance_level","name":"piu","params":["c","d"]}],"instance_variables":[{"level":"class_level","name":"fizz"},{"level":"instance_level","name":"buzz"}]}
