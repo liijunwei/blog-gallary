@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-08-19 22:37:10 [Ruby Conf 2011 - Powerful (but Easy) Data Visualization with the Graph Gem by Aja Hammerly](https://youtu.be/IxSSbUrgTBY?si=GkaA7XjdMmIWFR83)
+
 - 2024-08-19 08:57:59 http://docs.seattlerb.org/hoe/Hoe.pdf
 
 - 2024-08-18 14:09:58 [Ruby: SizedQueue/Queue](https://ruby-doc.org/core-3.0.0/SizedQueue.html)
