@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-08-19 08:57:59 http://docs.seattlerb.org/hoe/Hoe.pdf
+
 - 2024-08-18 14:09:58 [Ruby: SizedQueue/Queue](https://ruby-doc.org/core-3.0.0/SizedQueue.html)
 
 - 2024-08-16 19:46:17 [ai/nanoid: A tiny secure, URL-friendly, unique string ID generator for JavaScript](https://github.com/ai/nanoid)
