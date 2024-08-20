@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-08-20 08:30:29 [Ruby Language Reference Manual](https://ruby-doc.org/docs/ruby-doc-bundle/Manual/man-1.4/index.html)
+
 - 2024-08-19 22:37:10 [Ruby Conf 2011 - Powerful (but Easy) Data Visualization with the Graph Gem by Aja Hammerly](https://youtu.be/IxSSbUrgTBY?si=GkaA7XjdMmIWFR83)
 
 - 2024-08-19 08:57:59 http://docs.seattlerb.org/hoe/Hoe.pdf
