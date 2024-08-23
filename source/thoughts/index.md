@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-08-24 00:44:09 [LaunchDarkly: Feature Flags, Feature Management, and Experimentation](https://launchdarkly.com/)
+
 - 2024-08-22 18:01:16 从无到有的过程有点艰难，第一次做的时候先做个能用的垃圾出来，再一点点修补
 
 - 2024-08-20 08:30:29 [Ruby Language Reference Manual](https://ruby-doc.org/docs/ruby-doc-bundle/Manual/man-1.4/index.html)
