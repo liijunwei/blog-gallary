@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-08-26 23:51:42 [Computational model - Wikipedia](https://en.wikipedia.org/wiki/Computational_model)
+
 - 2024-08-26 23:38:36 "When we talk about ease of understanding, there are really two different kinds of understanding in play. The first is understanding the intent of the program—what are we trying to achieve with it. The second form of understand- ing is of the implementation—how the program works to satisfy the intent."
 
 - 2024-08-24 08:38:09 [Ruby on Rails Admin Panel Framework · Avo](https://avohq.io/)
