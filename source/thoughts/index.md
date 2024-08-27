@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-08-27 23:10:50 "As with most things involving programming, the moment you stop being thoughtful about what you are doing is the moment when you start making an unmaintainable mess."
+
 - 2024-08-27 22:50:23 "When generating a textual output, there are two main styles you can follow: Transformer Generation (533) and Templated Generation (539). "
 
 - 2024-08-26 23:51:42 [Computational model - Wikipedia](https://en.wikipedia.org/wiki/Computational_model)
