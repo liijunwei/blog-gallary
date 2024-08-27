@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-08-27 23:58:51 [seattlerb/seattlerb.org](https://github.com/seattlerb/seattlerb.org)
+
 - 2024-08-27 23:28:27 [seattlerb/gauntlet](https://github.com/seattlerb/gauntlet)
 
 - 2024-08-27 23:10:50 "As with most things involving programming, the moment you stop being thoughtful about what you are doing is the moment when you start making an unmaintainable mess."
