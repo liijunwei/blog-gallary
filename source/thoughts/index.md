@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-08-29 21:38:41 [Code Generation in Action - by Herrington](https://www.manning.com/books/code-generation-in-action)
+
 - 2024-08-28 14:00:12 Time.zone.now.rfc3339
 
 - 2024-08-27 23:58:51 [seattlerb/seattlerb.org](https://github.com/seattlerb/seattlerb.org)
