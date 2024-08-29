@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-08-29 22:00:42 "Semantic Model (159) schema defines the data structure of the Semantic Model, together with static semantics, usually by using a meta-model."
+
 - 2024-08-29 21:38:41 [Code Generation in Action - by Herrington](https://www.manning.com/books/code-generation-in-action)
 
 - 2024-08-28 14:00:12 Time.zone.now.rfc3339
