@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-08-30 06:55:01 "A common question is what is the difference between a schema definition language and a grammar. The short answer is that a grammar defines the concrete syntax of a (textual) language, while the schema definition language defines the structure of the schema of a Semantic Model. "
+
 - 2024-08-29 22:00:42 "Semantic Model (159) schema defines the data structure of the Semantic Model, together with static semantics, usually by using a meta-model."
 
 - 2024-08-29 21:38:41 [Code Generation in Action - by Herrington](https://www.manning.com/books/code-generation-in-action)
