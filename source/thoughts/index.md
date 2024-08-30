@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-08-30 11:24:46 [julienXX/terminal-notifier: Send User Notifications on macOS from the command-line.](https://github.com/julienXX/terminal-notifier)
+
 - 2024-08-30 09:56:28 s := "世界" ; utf8.RuneCountInString(s) = 2; len(s) = 6 (new golang api learned)
 
 - 2024-08-30 07:14:58 ["information is simple, don't ruin it by hiding it behind a micro-language. If you leave data alone, you can build things once that manipulate data, and you can reuse them all over the place, and you know they're right once and you're done. ... So represent data as data. Please start using maps and sets directly. Don't feel like I have to write a class now because I have a new piece of information." --- "simple made easy"](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/SimpleMadeEasy.md)
