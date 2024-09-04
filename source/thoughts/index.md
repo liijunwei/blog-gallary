@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-09-04 14:39:19 硬核大佬 [百分之九十 / 90 percent](https://90p.cn/)
+
 - 2024-09-04 09:45:21 [IP Address In CIDR Range Tool - TehnoBlog.org](https://tehnoblog.org/ip-tools/ip-address-in-cidr-range/)
 
 - 2024-08-30 19:41:45 kill dependencies in big monorepo is not quite realistic unless you have pretty good support from management (`cd #{Gem.dir}/gems && du -s * | sort -hr`)
