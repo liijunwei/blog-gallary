@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-09-04 09:45:21 [IP Address In CIDR Range Tool - TehnoBlog.org](https://tehnoblog.org/ip-tools/ip-address-in-cidr-range/)
+
 - 2024-08-30 19:41:45 kill dependencies in big monorepo is not quite realistic unless you have pretty good support from management (`cd #{Gem.dir}/gems && du -s * | sort -hr`)
 
 - 2024-08-30 11:24:46 [julienXX/terminal-notifier: Send User Notifications on macOS from the command-line.](https://github.com/julienXX/terminal-notifier)
