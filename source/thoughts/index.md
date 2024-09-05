@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-09-05 22:44:28 "I’ve often found that a good mental trick for API design is to assume that the model is, magically, already there, and then ask myself how I would use it."
+
 - 2024-09-04 14:39:19 硬核大佬 [百分之九十 / 90 percent](https://90p.cn/)
 
 - 2024-09-04 09:45:21 [IP Address In CIDR Range Tool - TehnoBlog.org](https://tehnoblog.org/ip-tools/ip-address-in-cidr-range/)
