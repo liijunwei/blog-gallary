@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-09-06 09:15:00 [A Packwerk Retrospective (2024) - Shopify](https://shopify.engineering/a-packwerk-retrospective)
+
 - 2024-09-05 23:52:29 [rest - Best practices for API versioning? - Stack Overflow](https://stackoverflow.com/questions/389169/best-practices-for-api-versioning)
 
 - 2024-09-05 23:06:31 目的/目标是什么？目标以外都是细节，都是诱惑
