@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-09-12 22:26:10 [TDOP Pratt](https://tdop.github.io/)
+
 - 2024-09-06 09:40:01 [Archive - JP Camara(ruby multi-thread)](https://jpcamara.com/archive/)
 
 - 2024-09-06 09:30:35 found you: `packwerk/lib/packwerk/package.rb@dependency?`
