@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-09-13 20:12:48 [Skim - A PDF Reader and Note-taker for OS X | SourceForge.net](https://sourceforge.net/projects/skim-app/)
+
 - 2024-09-12 22:26:10 [TDOP Pratt](https://tdop.github.io/)
 
 - 2024-09-06 09:40:01 [Archive - JP Camara(ruby multi-thread)](https://jpcamara.com/archive/)
