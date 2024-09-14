@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-09-14 10:21:38 vscode: "Go: Toggle Test Coverage ..."
+
 - 2024-09-14 10:09:48 <script src="https://gist.github.com/liijunwei/de1cb08a570ed10fac9ccf9b35cd499b.js"></script>
 
 - 2024-09-13 20:12:48 [Skim - A PDF Reader and Note-taker for OS X | SourceForge.net](https://sourceforge.net/projects/skim-app/)
