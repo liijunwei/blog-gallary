@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-09-14 17:20:00 [parse/lex.go - The Go Programming Language](https://go.dev/src/text/template/parse/lex.go)
+
 - 2024-09-14 11:58:40 [Wren is a small, fast, class-based concurrent scripting language](https://wren.io/)
 
 - 2024-09-14 10:21:38 vscode: "Go: Toggle Test Coverage ..."
