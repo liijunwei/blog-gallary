@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-09-15 22:09:04 "什么都无法舍弃的人 什么也改变不了" 舍弃游戏，拥抱其他
+
 - 2024-09-15 00:13:37 看完"毒枭"，感觉主角演得传神，看完精英部队1-2(BOPE), 才发现演员年轻时演技也是一流
 
 - 2024-09-14 17:20:00 [parse/lex.go - The Go Programming Language](https://go.dev/src/text/template/parse/lex.go)
