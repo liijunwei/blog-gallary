@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-09-16 11:52:51 [Justine Tunney's Web Page](https://justine.lol/)
+
 - 2024-09-16 08:50:35 [direnv/direnv: unclutter your .profile](https://github.com/direnv/direnv)
 
 - 2024-09-15 23:45:26 [Different approaches to HTTP routing in Go](https://benhoyt.com/writings/go-routing/) --- update: go stdlib already support good router
