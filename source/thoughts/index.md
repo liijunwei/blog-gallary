@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-09-17 10:08:57 [Mercurial SCM - git alternative](https://www.mercurial-scm.org/)
+
 - 2024-09-17 09:54:09 "Google Open Source"
 
 - 2024-09-16 11:52:51 [Justine Tunney's Web Page](https://justine.lol/)
