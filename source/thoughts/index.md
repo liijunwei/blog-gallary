@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-09-17 18:17:49 [matklad resume](https://matklad.github.io/resume.html)
+
 - 2024-09-17 10:38:29 worth reading: [Why Google stores billions of lines of code in a single repository](https://dl.acm.org/doi/pdf/10.1145/2854146)
 
 - 2024-09-17 10:08:57 [Mercurial SCM - git alternative](https://www.mercurial-scm.org/)
