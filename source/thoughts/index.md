@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-09-19 08:58:17 [Crafting Interpreters](http://www.craftinginterpreters.com/)
+
 - 2024-09-17 18:34:21 [tigerbeetle/tigerbeetle: The financial transactions database designed for mission critical safety and performance.](https://github.com/tigerbeetle/tigerbeetle)
 
 - 2024-09-17 18:17:49 [matklad resume](https://matklad.github.io/resume.html)
