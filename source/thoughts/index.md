@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-09-21 08:36:22 [blogs of Ted Kaminski](https://www.tedinski.com/archive/)
+
 - 2024-09-19 22:11:16 [Why is network-byte-order defined to be big-endian? - Stack Overflow](https://stackoverflow.com/questions/13514614/why-is-network-byte-order-defined-to-be-big-endian)
 
 - 2024-09-19 09:02:20 loop { get_problem; learn_code; code_solution; cleanup; }
