@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-09-21 23:00:05 [State Machine Compiler(SMC) project](https://smc.sourceforge.net/)
+
 - 2024-09-21 11:54:46 "the money in your bank account is an asset for you but it is a liability for the bank."
 
 - 2024-09-21 08:57:41 ["You should break the Law of Demeter" (eye-opening to me)](https://www.tedinski.com/2018/12/18/the-law-of-demeter.html)
