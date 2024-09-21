@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-09-21 23:53:34 [golang marshalJSON time.Time to RFC 3339 format](https://github.com/golang/go/blob/dd150176c3cc49da68c8179f740eadc79404d351/src/time/time.go#L1240)
+
 - 2024-09-21 23:00:05 [State Machine Compiler(SMC) project](https://smc.sourceforge.net/)
 
 - 2024-09-21 11:54:46 "the money in your bank account is an asset for you but it is a liability for the bank."
