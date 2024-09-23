@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-09-23 22:04:15 array and hash are easier to extend under different circumstances
+
 - 2024-09-22 10:38:56 ["JSON text exchanged between systems that are not part of a closed ecosystem MUST be encoded using UTF-8 [RFC3629]."](https://datatracker.ietf.org/doc/html/rfc8259#section-8.1)
 
 - 2024-09-21 23:53:34 [golang marshalJSON time.Time to RFC 3339 format](https://github.com/golang/go/blob/dd150176c3cc49da68c8179f740eadc79404d351/src/time/time.go#L1240)
