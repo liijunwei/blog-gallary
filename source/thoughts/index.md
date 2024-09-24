@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-09-24 09:42:00 [The lazy programmer's guide to writing thousands of tests(property based testing) - Scott Wlaschin - YouTube](https://www.youtube.com/watch?v=IYzDFHx6QPY&t=2917s)
+
 - 2024-09-24 09:01:39 ["Once the features are fully understood, the correct styles are obvious." --- "Let Over Lambda—50 Years of Lisp"](https://letoverlambda.com/index.cl/guest/chap1.html)
 
 - 2024-09-23 22:04:15 array and hash are easier to extend under different circumstances
