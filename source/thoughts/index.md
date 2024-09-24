@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-09-24 09:01:39 ["Once the features are fully understood, the correct styles are obvious." --- "Let Over Lambda—50 Years of Lisp"](https://letoverlambda.com/index.cl/guest/chap1.html)
+
 - 2024-09-23 22:04:15 array and hash are easier to extend under different circumstances
 
 - 2024-09-22 10:38:56 ["JSON text exchanged between systems that are not part of a closed ecosystem MUST be encoded using UTF-8 [RFC3629]."](https://datatracker.ietf.org/doc/html/rfc8259#section-8.1)
