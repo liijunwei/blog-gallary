@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-09-24 23:43:09 [Things Programmers Can Do in One Week | Blog | build-your-own.org](https://build-your-own.org/blog/20231108_1week/)
+
 - 2024-09-24 09:54:23 https://www.google.com/search?q=PBT+golang
 
 - 2024-09-24 09:42:00 [The lazy programmer's guide to writing thousands of tests(property based testing) - Scott Wlaschin - YouTube](https://www.youtube.com/watch?v=IYzDFHx6QPY&t=2917s)
