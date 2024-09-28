@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-09-28 08:33:24 [tools/refactor/importgraph/graph.go at master · golang/tools](https://github.com/golang/tools/blob/master/refactor/importgraph/graph.go)
+
 - 2024-09-25 00:06:37 [Catalog | CodeCrafters](https://app.codecrafters.io/catalog)
 
 - 2024-09-24 23:43:09 [Things Programmers Can Do in One Week | Blog | build-your-own.org](https://build-your-own.org/blog/20231108_1week/)
