@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-10-03 10:55:34 sqlc的核心流程是清晰的，不过实现看起来真的很复杂；认真学习和掌握sql很有必要啊
+
 - 2024-10-03 10:45:02 [How do I debug Go dependency packages? - Stack Overflow](https://stackoverflow.com/questions/56818094/how-do-i-debug-go-dependency-packages)
 
 - 2024-09-28 08:33:24 [tools/refactor/importgraph/graph.go at master · golang/tools](https://github.com/golang/tools/blob/master/refactor/importgraph/graph.go)
