@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-10-04 17:17:50 [ISO 22301:2019 - Security and resilience — Business continuity management systems](https://www.iso.org/standard/75106.html)
+
 - 2024-10-03 11:35:41 [眼前一亮 --- More modern aversions to deeply chaining method calls (e.g. “Law of Demeter”) are likewise attempts to meaningfully communicate what a function works with. I’m not a strong fan of these rules because they get misapplied. (Note to self: write a future post on this.) But there’s a solid kernel of a good idea here: a function should tend to operate on its actual stated arguments more than “literally anything it can possibly get to from its arguments.”](https://www.tedinski.com/2018/12/05/types-as-design-tool.html)
 
 - 2024-10-03 10:55:34 sqlc的核心流程是清晰的，不过实现看起来真的很复杂；认真学习和掌握sql很有必要啊
