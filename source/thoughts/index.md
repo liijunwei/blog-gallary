@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-10-05 09:10:21 [Someplace Else](https://someplace-else.neocities.org/)
+
 - 2024-10-05 09:05:03 "Deus Ex" game looks fun?
 
 - 2024-10-05 09:04:20 [the directional-brain on Imgur](https://imgur.com/AIpqUxQ)
