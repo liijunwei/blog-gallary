@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-10-05 09:04:20 [the directional-brain on Imgur](https://imgur.com/AIpqUxQ)
+
 - 2024-10-05 08:58:50 4chan.org
 
 - 2024-10-04 17:18:01 [ISO/IEC 27031 - Guidelines for information and communication technology readiness for business continuity](https://www.iso.org/standard/44374.html)
