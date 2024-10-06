@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-10-06 16:42:14 just realized that median is equivalent to 50th percentile
+
 - 2024-10-05 21:47:42 [xkcd: ISO 8601](https://xkcd.com/1179/)
 
 - 2024-10-05 21:00:33 [nice job! certbot](https://certbot.eff.org/instructions?ws=nginx&os=snap)
