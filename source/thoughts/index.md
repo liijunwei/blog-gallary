@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-10-07 20:24:41 [What are assertions good for? - Property-Based Testing(PBT)](https://www.tedinski.com/2019/01/24/assertions.html)
+
 - 2024-10-07 20:17:04 "If I’m handing out advice, I’m not sure that “consider using assertions more” is the message I want to convey here. What I’d like to encourage is: learn to property test. From my experiences, I think that increased use of property testing will naturally encourage some additional use of assertions of some kind, as their value becomes more obvious. Or even as their value actually increases as a result of adopting the practice, compared to conventional unit testing." --- [What are assertions good for?](https://www.tedinski.com/2019/01/24/assertions.html)
 
 - 2024-10-07 18:15:31 [How Complex Systems Fail](https://how.complexsystems.fail/)
