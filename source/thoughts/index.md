@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-10-07 18:15:31 [How Complex Systems Fail](https://how.complexsystems.fail/)
+
 - 2024-10-07 13:25:35 re-learn SQL and it looks so fun
 
 - 2024-10-06 16:42:14 just realized that median is equivalent to 50th percentile
