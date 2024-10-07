@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-10-07 21:32:53 rvm implode
+
 - 2024-10-07 20:50:23 [Excalidraw Blog](https://blog.excalidraw.com/)
 
 - 2024-10-07 20:36:46 [Excalidraw Slides](https://excalidraw-slides.netlify.app/)
