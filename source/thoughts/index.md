@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-10-07 23:23:58 [OpenAddresses](https://openaddresses.io/)
+
 - 2024-10-07 21:32:53 rvm implode
 
 - 2024-10-07 20:50:23 [Excalidraw Blog](https://blog.excalidraw.com/)
