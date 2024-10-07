@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-10-07 20:50:23 [Excalidraw Blog](https://blog.excalidraw.com/)
+
 - 2024-10-07 20:36:46 [Excalidraw Slides](https://excalidraw-slides.netlify.app/)
 
 - 2024-10-07 20:25:00 [PropEr Testing - Property-Based Testing(PBT)](https://propertesting.com/toc.html)
