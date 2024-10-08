@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-10-08 12:38:20 [How we found and fixed a rare race condition in our session handling - The GitHub Blog](https://github.blog/security/vulnerability-research/how-we-found-and-fixed-a-rare-race-condition-in-our-session-handling/)
+
 - 2024-10-08 12:35:56 [unicorn web server - allocate a new request for each client](https://yhbt.net/unicorn.git/9c4963c8b1f96fa6afcfa8ec61f81f9997e926e7/s/)
 
 - 2024-10-08 10:09:05 [Test.QuickCheck](https://hackage.haskell.org/package/QuickCheck-2.15.0.1/docs/Test-QuickCheck.html)
