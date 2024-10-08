@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-10-08 10:06:11 [net: add UnwrapErr field and Unwrap method to *DNSError · Issue #63116 · golang/go](https://github.com/golang/go/issues/63116)
+
 - 2024-10-07 23:23:58 [OpenAddresses](https://openaddresses.io/)
 
 - 2024-10-07 21:32:53 rvm implode
