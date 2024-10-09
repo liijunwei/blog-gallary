@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-10-09 20:25:14 `hyperfine --warmup 3 'tokei .' 'cloc .'`
+
 - 2024-10-09 20:22:53 [XAMPPRocky/tokei: Count your code, quickly.](https://github.com/XAMPPRocky/tokei) replace cloc
 
 - 2024-10-09 20:22:40 [sharkdp/hyperfine: A command-line benchmarking tool](https://github.com/sharkdp/hyperfine)
