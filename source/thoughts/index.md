@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-10-09 09:33:43 so cool! https://github.com/search?q=user%3Atidwall&type=repos
+
 - 2024-10-09 09:29:30 [RESP3 parser in redis-rb/redis-client](https://github.com/redis-rb/redis-client/blob/master/lib/redis_client/ruby_connection/resp3.rb)
 
 - 2024-10-09 09:19:50 "A Scalar Expression in Computer Science refers to an expression that returns a single value."
