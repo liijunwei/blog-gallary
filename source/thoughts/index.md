@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-10-09 09:19:50 "A Scalar Expression in Computer Science refers to an expression that returns a single value."
+
 - 2024-10-09 09:16:51 [tidwall/tinyqueue: Binary heap priority queues in Go](https://github.com/tidwall/tinyqueue)
 
 - 2024-10-08 12:38:20 [How we found and fixed a rare race condition in our session handling - The GitHub Blog](https://github.blog/security/vulnerability-research/how-we-found-and-fixed-a-rare-race-condition-in-our-session-handling/)
