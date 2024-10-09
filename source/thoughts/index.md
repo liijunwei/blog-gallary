@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-10-09 22:49:02 SQL is practical tool indeed! I suppose "Jupyter Notebook" + visualization libs is another one I should have dig deeper
+
 - 2024-10-09 20:25:14 `hyperfine --warmup 3 'tokei .' 'cloc .'`
 
 - 2024-10-09 20:22:53 [XAMPPRocky/tokei: Count your code, quickly.](https://github.com/XAMPPRocky/tokei) replace cloc
