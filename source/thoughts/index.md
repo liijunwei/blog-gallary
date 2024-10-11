@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-10-11 23:15:24 [Contributing to Ruby docs](https://nithinbekal.com/posts/contributing-ruby-docs/)
+
 - 2024-10-11 14:29:26 [dkorunic/betteralign: Make your Go programs use less memory (maybe)](https://github.com/dkorunic/betteralign)
 
 - 2024-10-11 10:20:57 [neondatabase/neon: Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.](https://github.com/neondatabase/neon)
