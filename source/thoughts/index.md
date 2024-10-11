@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-10-11 10:20:57 [neondatabase/neon: Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.](https://github.com/neondatabase/neon)
+
 - 2024-10-10 22:13:19 [implement rank() equivalent in golang](https://play.golang.com/p/qhS3RN-lLBO)
 
 - 2024-10-09 22:49:02 SQL is practical tool indeed! I suppose "Jupyter Notebook" + visualization libs is another one I should have dig deeper
