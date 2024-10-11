@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-10-11 23:47:03 ["move more of the core library to Ruby"](https://bugs.ruby-lang.org/issues/20182?tab=history) -> [Rewrite Array#each in Ruby using Primitive by k0kubun](https://github.com/ruby/ruby/pull/9533)
+
 - 2024-10-11 23:32:59 term: "Nearest neighbor search"
 
 - 2024-10-11 23:16:05 review [Career Advice](https://www.zenspider.com/ruby/2012/09/career-advice.html) more often...
