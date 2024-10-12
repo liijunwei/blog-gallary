@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-10-12 16:23:05 "join the CTE table" is nice
+
 - 2024-10-12 10:29:03 [HELLO | Docs](https://redis.io/docs/latest/commands/hello/)
 
 - 2024-10-12 10:12:41 [Build your own Kafka | CodeCrafters](https://app.codecrafters.io/courses/kafka/overview)
