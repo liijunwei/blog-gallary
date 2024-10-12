@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-10-12 10:04:09 go `byte` <=> `uint8` 怎么没反应过来啊 o o
+
 - 2024-10-11 23:47:03 ["move more of the core library to Ruby"](https://bugs.ruby-lang.org/issues/20182?tab=history) -> [Rewrite Array#each in Ruby using Primitive by k0kubun](https://github.com/ruby/ruby/pull/9533)
 
 - 2024-10-11 23:32:59 term: "Nearest neighbor search"
