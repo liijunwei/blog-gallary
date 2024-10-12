@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-10-12 10:29:03 [HELLO | Docs](https://redis.io/docs/latest/commands/hello/)
+
 - 2024-10-12 10:12:41 [Build your own Kafka | CodeCrafters](https://app.codecrafters.io/courses/kafka/overview)
 
 - 2024-10-12 10:04:09 go `byte` <=> `uint8` 怎么没反应过来啊 o o
