@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-10-12 17:37:09 [Latest version of Xcode stuck on installation (12.5) - Stack Overflow](https://stackoverflow.com/questions/67900692/latest-version-of-xcode-stuck-on-installation-12-5)
+
 - 2024-10-12 16:24:07 "You can convert the CTE to a scalar subquery if it makes the query more straightforward"
 
 - 2024-10-12 16:23:05 "join the CTE table" is nice
