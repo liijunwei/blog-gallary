@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-10-13 16:57:35 done reading "Practical SQL" book
+
 - 2024-10-13 09:55:59 [Event Sourcing in Go -](https://jen20.dev/post/event-sourcing-in-go/)
 
 - 2024-10-13 09:48:41 [A small sample of Event Sourcing in Go](https://github.com/jen20/go-event-sourcing-sample?tab=readme-ov-file) --- (`go generate` syntax is stale and need to `go install golang.org/x/tools/cmd/stringer` before using `go generate`
