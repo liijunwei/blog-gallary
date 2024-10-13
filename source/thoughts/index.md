@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-10-13 09:48:41 [A small sample of Event Sourcing in Go](https://github.com/jen20/go-event-sourcing-sample?tab=readme-ov-file) --- (`go generate` syntax is stale and need to `go install golang.org/x/tools/cmd/stringer` before using `go generate`
+
 - 2024-10-12 23:59:37 WORM (Write Once Read Many)
 
 - 2024-10-12 17:37:09 [Latest version of Xcode stuck on installation (12.5) - Stack Overflow](https://stackoverflow.com/questions/67900692/latest-version-of-xcode-stuck-on-installation-12-5)
