@@ -5,6 +5,9 @@ tags:
   - reading
 ---
 
-- "Domain Driven Rails"
-- "I Heart Logs"
-- "The Ruby On Rails Performance Apocrypha" - Nate Berkopec
+- WIP "Domain Specific Language"
+- WIP "The Kafka Definitive Guide"
+- OK "Domain Driven Rails"
+- OK "I Heart Logs"
+- OK "The Ruby On Rails Performance Apocrypha" - Nate Berkopec
+- OK "Practical SQL"
