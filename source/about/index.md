@@ -12,8 +12,7 @@ Name:       lijunwei
 Location:   beijing
 GitHub:     https://github.com/liijunwei
 Skills:     rails/go
-Lately:     coding/refactoring with domain knowledge & ruby/go
-            reviewing & practicing "algorithms 4th edition"
-            learning haskell for fun
+Lately:     read "The Kafka Definitive Guide"
+            more practices(tcp-server/redis-demo/e2e testing...)
 Favorites:  https://github.com/liijunwei/favorites
 ```
