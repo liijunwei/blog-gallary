@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-10-14 11:55:40 [traefik/traefik: The Cloud Native Application Proxy](https://github.com/traefik/traefik)
+
 - 2024-10-14 11:49:18 `iCalendar RFC` is a standard format used for *exchanging calendar and scheduling information* between different systems
 
 - 2024-10-13 16:57:35 done reading "Practical SQL" book
