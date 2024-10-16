@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-10-16 18:08:02 [SimpleMadeEasy - juggling balls](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/SimpleMadeEasy/00.12.14.jpg)
+
 - 2024-10-14 21:33:26 [riverqueue/river: Fast and reliable background jobs in Go](https://github.com/riverqueue/river)
 
 - 2024-10-14 11:55:40 [traefik/traefik: The Cloud Native Application Proxy](https://github.com/traefik/traefik)
