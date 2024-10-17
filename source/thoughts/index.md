@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-10-17 09:01:05 [PostgreSQL: The Path of a Query](https://www.postgresql.org/docs/devel/query-path.html)
+
 - 2024-10-16 18:08:02 [SimpleMadeEasy - juggling balls](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/SimpleMadeEasy/00.12.14.jpg)
 
 - 2024-10-14 21:33:26 [riverqueue/river: Fast and reliable background jobs in Go](https://github.com/riverqueue/river)
