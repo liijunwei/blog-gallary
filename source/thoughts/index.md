@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-10-17 09:33:52 学习过解释器和编译器的一个好处是，理解这份文档的难度降低了很多([PostgreSQL: The Parser Stage](https://www.postgresql.org/docs/devel/parser-stage.html))
+
 - 2024-10-17 09:01:05 [PostgreSQL: The Path of a Query](https://www.postgresql.org/docs/devel/query-path.html)
 
 - 2024-10-16 18:08:02 [SimpleMadeEasy - juggling balls](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/SimpleMadeEasy/00.12.14.jpg)
