@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-10-23 22:49:52 什么时候设置的wifi proxy...
+
 - 2024-10-23 11:24:06 nice api: [context.WithoutCancel](https://pkg.go.dev/context#WithoutCancel)
 
 - 2024-10-18 08:03:50 [The three available join strategies are: nested loop join / merge join / hash join](https://www.postgresql.org/docs/devel/planner-optimizer.html)
