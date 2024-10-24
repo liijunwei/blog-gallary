@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-10-24 08:51:22 [To fully understand a paper, particularly if you are reviewer, requires a third pass. The key to the third pass is to attempt to virtually re-implement the paper: that is, making the same assumptions as the authors, re-create the work.](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
+
 - 2024-10-23 22:49:52 什么时候设置的wifi proxy...
 
 - 2024-10-23 11:24:06 nice api: [context.WithoutCancel](https://pkg.go.dev/context#WithoutCancel)
