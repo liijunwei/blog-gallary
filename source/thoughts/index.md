@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-10-28 23:51:35 [PBT paper](https://web.archive.org/web/20230912215719/http://people.inf.elte.hu/center/fulltext.pdf)
+
 - 2024-10-28 23:44:05 [papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.](https://github.com/papers-we-love/papers-we-love)
 
 - 2024-10-28 23:30:48 [kkdai/project52: 52 weeks, 52 Go projects](https://github.com/kkdai/project52)
