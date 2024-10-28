@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-10-28 23:21:14 [kkdai/maglev: A Google Maglev Hashing Algorithm implement in Golang](https://github.com/kkdai/maglev)  https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44824.pdf
+
 - 2024-10-28 10:04:07 `python3 -m doctest tmp/tmp.py && echo $?`
 
 - 2024-10-27 19:23:18 [VladSaioc/common-goroutine-leak-patterns: A collection of common programming patterns that lead to goroutine leaks in Go](https://github.com/VladSaioc/common-goroutine-leak-patterns)
