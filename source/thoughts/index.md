@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-10-28 23:24:56 [Reflections from 52 weeks, 52 projects - Speaker Deck](https://speakerdeck.com/jeffersonlam/reflections-from-52-weeks-52-projects)
+
 - 2024-10-28 23:21:14 [kkdai/maglev: A Google Maglev Hashing Algorithm implement in Golang](https://github.com/kkdai/maglev)  https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44824.pdf
 
 - 2024-10-28 10:04:07 `python3 -m doctest tmp/tmp.py && echo $?`
