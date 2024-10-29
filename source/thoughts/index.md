@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-10-29 16:53:09 ["Round Half Even (Bankers' Rules)"](https://www.calculatorsoup.com/calculators/math/rounding-methods-calculator.php#halfEven)
+
 - 2024-10-29 09:11:17 "Static(global) data is often a problem because you can never be entirely sure who is using it, particularly with multithreading."
 
 - 2024-10-28 23:51:35 [PBT paper](https://web.archive.org/web/20230912215719/http://people.inf.elte.hu/center/fulltext.pdf)
