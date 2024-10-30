@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-10-30 09:22:36 [DataDog/orchestrion: Automatic compile-time instrumentation of Go code](https://github.com/DataDog/orchestrion)
+
 - 2024-10-29 17:32:35 [Principle of least privilege - Wikipedia](https://en.wikipedia.org/wiki/Principle_of_least_privilege)
 
 - 2024-10-29 16:53:09 ["Round Half Even (Bankers' Rules)"](https://www.calculatorsoup.com/calculators/math/rounding-methods-calculator.php#halfEven)
