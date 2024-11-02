@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-11-02 21:52:26 Yadira Guevara-Prip (Bow Lion in SEE)
+
 - 2024-11-02 21:25:38 看着看着就开始降降智...
 
 - 2024-11-02 18:48:15 [Shadow | See Wiki | Fandom](https://see.fandom.com/wiki/Shadow)
