@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-11-02 15:31:45 美剧"SEE"里好多文戏，baba voss的一对子女演技太出戏了 - -
+
 - 2024-10-31 09:38:55 [Integer partition - Wikipedia](https://en.wikipedia.org/wiki/Integer_partition)
 
 - 2024-10-30 09:22:36 [DataDog/orchestrion: Automatic compile-time instrumentation of Go code](https://github.com/DataDog/orchestrion)
