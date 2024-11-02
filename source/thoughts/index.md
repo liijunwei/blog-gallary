@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-11-02 21:25:38 看着看着就开始降降智...
+
 - 2024-11-02 18:48:15 [Shadow | See Wiki | Fandom](https://see.fandom.com/wiki/Shadow)
 
 - 2024-11-02 15:31:45 美剧"SEE"里好多文戏，baba voss的一对子女演技太出戏了 - -
