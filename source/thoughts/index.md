@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-11-04 11:51:15 [gtramontina/ooze: 🧬 Go Mutation Testing](https://github.com/gtramontina/ooze)
+
 - 2024-11-03 11:59:34 实在太拉垮了... SEE S03
 
 - 2024-11-02 22:02:13 和Trivantian比起来，Paya国看起来像过家家 =.=
