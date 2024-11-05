@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-11-05 10:21:26 [Simple trick to save environment and money when using GitHub Actions](https://turso.tech/blog/simple-trick-to-save-environment-and-money-when-using-github-actions)
+
 - 2024-11-04 11:51:15 [gtramontina/ooze: 🧬 Go Mutation Testing](https://github.com/gtramontina/ooze)
 
 - 2024-11-03 11:59:34 实在太拉垮了... SEE S03
