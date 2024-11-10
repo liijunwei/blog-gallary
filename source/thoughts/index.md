@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-11-10 22:36:08 "Inclusive/Additive" vs. "Exclusive/Reductive" filtering - How to differentiate?
+
 - 2024-11-09 13:26:21 [Low-Fi Usability Testing](https://blog.codinghorror.com/low-fi-usability-testing/)
 
 - 2024-11-08 09:32:19 "你必须避免做那些私下里已经成为惯例的毫无意义的事情"
