@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-11-12 00:29:48 ["Consider: what is a parser? Really, a parser is just a function that consumes less-structured input and produces more-structured output."](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
+
 - 2024-11-11 23:14:11 为什么身边的人似乎意识不到json格式的log的巨大优势呢
 
 - 2024-11-11 14:38:27 [Tell your story with Charts | Excalidraw Blog](https://blog.excalidraw.com/tell-your-story-with-charts/)
