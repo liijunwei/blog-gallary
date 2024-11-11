@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-11-11 23:14:11 为什么身边的人似乎意识不到json格式的log的巨大优势呢
+
 - 2024-11-11 14:38:27 [Tell your story with Charts | Excalidraw Blog](https://blog.excalidraw.com/tell-your-story-with-charts/)
 
 - 2024-11-10 22:49:55 寻找好问题，寻找好目标，寻找最少的依赖
