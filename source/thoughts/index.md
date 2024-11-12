@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-11-13 00:16:13 [the-pragmatic-logging-handbook.pdf](https://www.loggly.com/wp-content/uploads/2015/02/loggly_ebook_Pragmatic_Handbook_online.pdf)
+
 - 2024-11-12 23:09:00 brew install proctools
 
 - 2024-11-12 21:36:52 ["现在你应该猜到我对阅读入门的定义了吧？你的定义大概是识字，而我的定义是除了专业书籍和教科书，随意挑选一本书籍，无论是什么主题，无论是哪个类别，你都可以从第一页读到最后一页，有这样的本事才叫入门。只能读特定类型的书，那是在娇惯自己的胃口。都说读书能开拓眼界，而你的偏好限制了你拓展眼界的可能。你我永远都应该记住这个常识：一本历史书是从历史的角度去解释世界，一本经济学书是从经济的角度去解释世界，而这个世界如此丰富多彩，怎么可能靠单一角度就能完全解释清楚呢？"](https://mp.weixin.qq.com/s/Vb9wA2BUKwWdE5sbEvBqkQ)
