@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-11-12 20:36:16 ["看完这三本书，回去再看那些视频，天空中缓缓飘过两个大字：扯淡。之所以在各种短视频里每个人都言之凿凿地扯淡，原因就两点：1、所有矛盾和冲突之处，那是从逻辑和道理上而言才存在的矛盾和冲突，你要是站在纯生意的角度理解，那么任何一个结论都是合理的---全看他们家卖什么壶，什么泥，什么工；2、这些人敢于在视频里下那么多结论，主要靠的就是只学话术，不读书。如果读一下宜兴本地的制陶大师，矿业专家的任何一本专著，就不可能有这种勇气给网友科普，就不可能科普那些内容，因为颠倒定论的压力会很大。"](https://mp.weixin.qq.com/s?__biz=MjM5MjAzODU2MA==&mid=2652795054&idx=1&sn=2b8963c4cc88cfef3cf5eca13b043483&chksm=bd46bb618a3132777dfc6f04eb72cacbbe01e3ce32f4036b1cd3b639dd02cf8f2d1fecc4ab8e&cur_album_id=1883283321711820801&scene=189#wechat_redirect)
+
 - 2024-11-12 10:14:17 [golang.org/x/time/rate@latest](https://cs.opensource.google/go/x/time/+/master:README.md)
 
 - 2024-11-12 00:29:48 ["Consider: what is a parser? Really, a parser is just a function that consumes less-structured input and produces more-structured output."](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
