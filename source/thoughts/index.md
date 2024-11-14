@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-11-14 11:24:13 ["use generic constraint as enum" · golang/go · Discussion #63397](https://github.com/golang/go/discussions/63397#discussioncomment-11178577)
+
 - 2024-11-13 00:16:13 [the-pragmatic-logging-handbook.pdf](https://www.loggly.com/wp-content/uploads/2015/02/loggly_ebook_Pragmatic_Handbook_online.pdf)
 
 - 2024-11-12 23:09:00 brew install proctools
