@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-11-16 23:03:00 "tracer bullet" topic#12 in "the pragmatic programmer" book
+
 - 2024-11-16 22:12:17 [Error Reporting in Rails Applications — Ruby on Rails Guides](https://edgeguides.rubyonrails.org/error_reporting.html)
 
 - 2024-11-16 21:21:47 ["Zeal is an offline documentation browser for software developers."](https://zealdocs.org/) --- Dash for macOS Alternatives
