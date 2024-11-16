@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-11-16 11:14:51 "highly configurable means that there are lots of things you can get wrong"
+
 - 2024-11-15 18:28:06 "think it through" "I'm through" ...
 
 - 2024-11-14 23:18:55 今天才意识到 assertion 里的条件和validation里的条件是相反的
