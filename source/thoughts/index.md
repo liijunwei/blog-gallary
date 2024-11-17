@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-11-17 23:19:01 突然理解了`ssh -L`的用处和用法，和`kubectl port-forward`原理应该是类似的
+
 - 2024-11-17 23:17:14 [Home – Alex Edwards](https://www.alexedwards.net/)
 
 - 2024-11-17 22:31:42 "Let's Go Further" 很适合做练习，受益很多。是本好书
