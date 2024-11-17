@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-11-17 18:09:56 [google/gops: A tool to list and diagnose Go processes currently running on your system](https://github.com/google/gops)
+
 - 2024-11-16 23:04:43 "use tracer bullet to find the target"
 
 - 2024-11-16 23:03:00 "tracer bullet" topic#12 in "the pragmatic programmer" book
