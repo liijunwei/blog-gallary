@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-11-17 23:35:43 [Streamline Your Sublime Text + Go Workflow – Alex Edwards](https://www.alexedwards.net/blog/streamline-your-sublime-text-and-go-workflow)
+
 - 2024-11-17 23:29:19 [Which Go router should I use? (with flowchart) – Alex Edwards](https://www.alexedwards.net/blog/which-go-router-should-i-use)
 
 - 2024-11-17 23:22:54 [Quick tip: Implementing an in-memory cache in Go – Alex Edwards](https://www.alexedwards.net/blog/implementing-an-in-memory-cache-in-go)
