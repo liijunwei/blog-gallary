@@ -7,7 +7,10 @@ tags:
 
 - WIP "Domain Specific Language"
 - WIP "The Kafka Definitive Guide"
+- TODO "The accounting game"
 - OK "Domain Driven Rails"
 - OK "I Heart Logs"
 - OK "The Ruby On Rails Performance Apocrypha" - Nate Berkopec
 - OK "Practical SQL"
+- OK "人生算法"
+- OK "let's go further"
