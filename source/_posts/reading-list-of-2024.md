@@ -11,6 +11,8 @@ tags:
 - OK "Domain Driven Rails"
 - OK "I Heart Logs"
 - OK "The Ruby On Rails Performance Apocrypha" - Nate Berkopec
+- OK [Writing An Interpreter In Go](https://interpreterbook.com)
+- OK [Writing A Compiler In Go](https://compilerbook.com/)
 - OK "Practical SQL"
 - OK "人生算法"
-- OK "let's go further"
+- OK [let's go further](https://lets-go-further.alexedwards.net/)
