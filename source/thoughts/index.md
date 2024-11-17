@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-11-17 22:31:42 "Let's Go Further" 很适合做练习，受益很多。是本好书
+
 - 2024-11-17 22:12:53 看起来很棒呀 https://github.com/caddyserver/caddy
 
 - 2024-11-17 18:09:56 [google/gops: A tool to list and diagnose Go processes currently running on your system](https://github.com/google/gops)
