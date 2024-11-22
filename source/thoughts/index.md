@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-11-22 23:20:21 齐木楠雄的灾难 - - 好新奇的节奏
+
 - 2024-11-21 17:33:55 just realized “Learning pyramid” theory is outdated/flawed by reading wiki… 
 
 - 2024-11-20 08:39:11 [Getting things done](https://jvns.ca/blog/2016/09/19/getting-things-done/)
