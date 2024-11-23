@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-11-23 18:31:17 [mess with dns](https://messwithdns.net/)
+
 - 2024-11-23 18:28:02 ["some reasons I like making websites in Go: In general everything about it feels like it makes projects easy to work on for 5 days, abandon for 2 years, and then get back into writing code without a lot of problems."](https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/)
 
 - 2024-11-23 18:13:42 [Some Go web dev notes](https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/)
