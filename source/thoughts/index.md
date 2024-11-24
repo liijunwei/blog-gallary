@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-11-24 22:45:47 [SSE Framework from scratch(learn from teammate)](https://github.com/liijunwei/practice/commit/75dd2b3eba129636d19a0598c67e56970183b387)
+
 - 2024-11-24 16:48:08 [Asking questions is a superpower](https://jvns.ca/blog/2014/06/13/asking-questions-is-a-superpower/)
 
 - 2024-11-24 14:23:38 so practical `sqlite> .help .mode`
