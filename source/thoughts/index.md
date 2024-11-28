@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-11-28 21:16:41 `date --rfc-3339=seconds # 2024-11-28 21:15:54+08:00` vs `date --iso-8601=seconds # 2024-11-28T21:16:00+08:00`
+
 - 2024-11-28 10:56:41 [why-pgx/why-pgx.slide at master · jackc/why-pgx](https://github.com/jackc/why-pgx/blob/master/why-pgx.slide)
 
 - 2024-11-27 08:31:30 [fatih/gomodifytags: Go tool to modify struct field tags](https://github.com/fatih/gomodifytags)
