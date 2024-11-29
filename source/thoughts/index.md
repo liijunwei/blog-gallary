@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-11-29 11:21:12 "'frequent' restart force you have stateless design"
+
 - 2024-11-29 11:09:59 "daily restart" in "the ruby on rails performance apocrypha"
 
 - 2024-11-28 21:28:57 [vrana/adminer: Database management in a single PHP file](https://github.com/vrana/adminer)
