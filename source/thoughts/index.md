@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-11-29 11:09:59 "daily restart" in "the ruby on rails performance apocrypha"
+
 - 2024-11-28 21:28:57 [vrana/adminer: Database management in a single PHP file](https://github.com/vrana/adminer)
 
 - 2024-11-28 21:16:41 `date --rfc-3339=seconds # 2024-11-28 21:15:54+08:00` vs `date --iso-8601=seconds # 2024-11-28T21:16:00+08:00`
