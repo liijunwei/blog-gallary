@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-11-30 13:01:19 [eligrey/FileSaver.js: An HTML5 saveAs() FileSaver implementation](https://github.com/eligrey/FileSaver.js)
+
 - 2024-11-29 13:31:31 [call-with-current-continuation - Wikipedia](https://en.wikipedia.org/wiki/Call-with-current-continuation)
 
 - 2024-11-29 11:21:12 "'frequent' restart force you have stateless design"
