@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-11-30 13:35:07 "WebSocket for Live-Reloading"
+
 - 2024-11-30 13:09:45 要多练习问题拆分的能力，这样才能处理复杂问题；要多动手实践，这是对抗内耗的最佳手段
 
 - 2024-11-30 13:01:19 [eligrey/FileSaver.js: An HTML5 saveAs() FileSaver implementation](https://github.com/eligrey/FileSaver.js)
