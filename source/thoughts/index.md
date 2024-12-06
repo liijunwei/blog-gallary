@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-12-06 09:17:58 Inter- also came into English from Latin (from inter, meaning "among, between”) --- 从这角度看，interview的含义显得更清晰了
+
 - 2024-12-02 12:19:26 [encoding/json: the Decoder.Decode API lends itself to misuse · Issue #36225 · golang/go](https://github.com/golang/go/issues/36225)
 
 - 2024-12-01 16:26:13 vscode `"editor.formatOnSave": true`
