@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-12-08 20:30:45 the walking dumb
+
 - 2024-12-06 12:17:32 ["The truth is the log. The database is a cache of a subset of the log."](https://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf)
 
 - 2024-12-06 09:17:58 Inter- also came into English from Latin (from inter, meaning "among, between”) --- 从这角度看，interview的含义显得更清晰了
