@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-12-11 09:48:20 use `go vet ./...` to print import cycle details
+
 - 2024-12-08 20:30:45 the walking dumb
 
 - 2024-12-06 12:17:32 ["The truth is the log. The database is a cache of a subset of the log."](https://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf)
