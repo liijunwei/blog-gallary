@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-12-11 16:11:35 segment.com APIs: Identify: who is the customer? / Track: what are they doing? / Page: what web page are they on? / Screen: what app screen are they on? / Group: what account or organization are they part of? / Alias: what was their past identity?
+
 - 2024-12-11 10:18:31 短视频里提到的"时间赌徒" --- 在一定时间里只押注一件事，拼命把它完成，做好--- 和时间赌徒的含义似乎完全不同，"时间赌徒"通常指那些在赌博中抱有侥幸心理，希望能在极短的时间内获得高额回报的人。
 
 - 2024-12-11 09:48:20 use `go vet ./...` to print import cycle details
