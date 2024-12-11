@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-12-12 00:12:52 "To prevent cross-site scripting (XSS) attacks, HttpOnly cookies are inaccessible to JavaScript’s Document.cookie API; they are only sent to the server."
+
 - 2024-12-11 23:16:52 [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 
 - 2024-12-11 23:15:44 [How to export content in Chrome's local storage for a website](https://gist.github.com/shufengh/e331c3d9a91d142dc0786ba6ddc95872)
