@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-12-11 21:57:57 [Moment.js](https://github.com/moment)
+
 - 2024-12-11 16:56:09 "Rubber duck debugging"
 
 - 2024-12-11 16:11:35 segment.com APIs: Identify: who is the customer? / Track: what are they doing? / Page: what web page are they on? / Screen: what app screen are they on? / Group: what account or organization are they part of? / Alias: what was their past identity?
