@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-12-17 11:08:00 [Thread: Full table lock dropping a foreign key : Postgres Professional](https://postgrespro.com/list/thread-id/2403559)
+
 - 2024-12-12 00:13:34 [Protecting Your Cookies: HttpOnly](https://blog.codinghorror.com/protecting-your-cookies-httponly/)
 
 - 2024-12-12 00:12:52 "To prevent cross-site scripting (XSS) attacks, HttpOnly cookies are inaccessible to JavaScript’s Document.cookie API; they are only sent to the server."
