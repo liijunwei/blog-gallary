@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2024-12-24 22:28:45 [Package Control Is Missing On Sublime Text 4 On macOSX](https://blog.ssanj.net/posts/2023-11-01-package-control-is-missing-on-sublime-text-4-on-macos.html)
+
 - 2024-12-17 11:08:00 [Thread: Full table lock dropping a foreign key : Postgres Professional](https://postgrespro.com/list/thread-id/2403559)
 
 - 2024-12-12 00:13:34 [Protecting Your Cookies: HttpOnly](https://blog.codinghorror.com/protecting-your-cookies-httponly/)
