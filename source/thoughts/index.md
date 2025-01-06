@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-01-07 00:08:29 [我回来了，Ruby on Rails | WildCat's Blog](https://blog.wildcat.io/2024/08/i-m-back-rails-zh/) --- 体验过golang里的simple和原始以后，加之业务需求的不断变化，发现rails里的api和组件的确解决了很多问题，让开发者可以关注更多业务需求，少一些不必要的心智负担；优势的确很明显
+
 - 2025-01-06 23:54:21 [Secure and Anonymous Temp Mail Service - Temp Mail](https://tempmail100.com/)
 
 - 2025-01-04 20:25:36 [CodeRay](http://coderay.rubychan.de/)
