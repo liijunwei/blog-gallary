@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-01-07 09:08:25 [Getting Started with Dokku - Dokku Documentation](https://dokku.com/docs/getting-started/installation/)
+
 - 2025-01-07 09:03:08 好高的信息密度！ [穷人创业 1—搭建一个可持续交付的框架 · Ruby China](https://ruby-china.org/topics/42053)
 
 - 2025-01-07 09:01:10 I dont know I dont know [GOPROXY.IO - A Global Proxy for Go Modules](https://goproxy.io/)
