@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-01-07 08:29:06 "悲剧将人生的有价值的东西毁灭给人看，喜剧将那无价值的撕破给人看。"
+
 - 2025-01-07 00:31:12 [How to do distributed locking — Martin Kleppmann’s blog](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 
 - 2025-01-07 00:27:58 [2024 年了，我还在用薄荷 18 年分享的 10 条最差实践建功立业😂 · Ruby China](https://ruby-china.org/topics/43975)
