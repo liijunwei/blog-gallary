@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-01-07 09:01:10 I dont know I dont know [GOPROXY.IO - A Global Proxy for Go Modules](https://goproxy.io/)
+
 - 2025-01-07 08:29:06 "悲剧将人生的有价值的东西毁灭给人看，喜剧将那无价值的撕破给人看。"
 
 - 2025-01-07 00:31:12 [How to do distributed locking — Martin Kleppmann’s blog](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
