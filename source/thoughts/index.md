@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-01-08 23:48:39 better api now: https://pkg.go.dev/slices
+
 - 2025-01-08 23:19:06 [Convert git log output to JSON using jq | Simon Willison’s TILs](https://til.simonwillison.net/jq/git-log-json)
 
 - 2025-01-08 11:14:50 [add channels setting to sublime-package-control setting for sublimt4](https://github.com/wbond/package_control/issues/1673#issuecomment-2067651895) to fix broken libraries
