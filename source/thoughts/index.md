@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-01-08 11:14:50 [add channels setting to sublime-package-control setting for sublimt4](https://github.com/wbond/package_control/issues/1673#issuecomment-2067651895) to fix broken libraries
+
 - 2025-01-08 09:33:08 [What is advantage of Tini? · Issue #8 · krallin/tini](https://github.com/krallin/tini/issues/8)
 
 - 2025-01-07 09:08:25 [Getting Started with Dokku - Dokku Documentation](https://dokku.com/docs/getting-started/installation/)
