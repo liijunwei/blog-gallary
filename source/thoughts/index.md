@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-01-09 18:26:14 [Configuring VSCode to Use Build Tags in GoLang to Separate Integration and Unit Test Code – Ryan Chapin's Website](https://www.ryanchapin.com/configuring-vscode-to-use-build-tags-in-golang-to-separate-integration-and-unit-test-code/)
+
 - 2025-01-08 23:48:39 better api now: https://pkg.go.dev/slices
 
 - 2025-01-08 23:19:06 [Convert git log output to JSON using jq | Simon Willison’s TILs](https://til.simonwillison.net/jq/git-log-json)
