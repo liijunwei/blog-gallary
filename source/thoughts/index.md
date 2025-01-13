@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-01-13 10:00:43 对自己诚实是基本要求
+
 - 2025-01-10 15:47:54 docker context ls
 
 - 2025-01-09 18:26:14 [Configuring VSCode to Use Build Tags in GoLang to Separate Integration and Unit Test Code – Ryan Chapin's Website](https://www.ryanchapin.com/configuring-vscode-to-use-build-tags-in-golang-to-separate-integration-and-unit-test-code/)
