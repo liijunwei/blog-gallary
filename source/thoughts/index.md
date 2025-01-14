@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-01-14 09:35:09 [TabbyML/tabby: Self-hosted AI coding assistant](https://github.com/TabbyML/tabby)
+
 - 2025-01-13 10:00:43 对自己诚实是基本要求
 
 - 2025-01-10 15:47:54 docker context ls
