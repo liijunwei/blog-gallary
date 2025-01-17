@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-01-17 23:12:21 [public-apis/public-apis: A collective list of free APIs](https://github.com/public-apis/public-apis)
+
 - 2025-01-16 23:57:55 `select * from a cross join b;` <=> `select * from a,b;` cross join笛卡尔积
 
 - 2025-01-15 12:17:45 [samg/diffy: Easy Diffing in Ruby](https://github.com/samg/diffy)
