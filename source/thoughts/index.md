@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-01-20 18:31:05 [dalibo/pev2: Postgres Explain Visualizer 2](https://github.com/dalibo/pev2)
+
 - 2025-01-17 23:12:21 [public-apis/public-apis: A collective list of free APIs](https://github.com/public-apis/public-apis)
 
 - 2025-01-16 23:57:55 `select * from a cross join b;` <=> `select * from a,b;` cross join笛卡尔积
