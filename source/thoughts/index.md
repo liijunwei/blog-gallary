@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-01-25 09:57:36 [byroot’s blog | Optimizing Ruby's JSON, part x](https://byroot.github.io/)
+
 - 2025-01-21 09:30:34 不是我不会，只是我欠练
 
 - 2025-01-20 18:31:05 [dalibo/pev2: Postgres Explain Visualizer 2](https://github.com/dalibo/pev2)
