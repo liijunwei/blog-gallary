@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-02-03 18:49:40 Simple, Elegant, Flexible, Nothing...
+
 - 2025-01-25 11:28:14 fun: [记录第一次装机 | Lucia](https://luciaca.cn/posts/my-first-time-assembling-a-desktop-pc/)
 
 - 2025-01-25 09:57:36 [byroot’s blog | Optimizing Ruby's JSON, part x](https://byroot.github.io/)
