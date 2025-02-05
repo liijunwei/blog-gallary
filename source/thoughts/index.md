@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-02-05 12:59:01 TIL: flags for `go test`, `-p` controls how many test binary are ran concurrently. for example, -p 1 runs test packages one by one, inside each test process, there are multiple parallel test (t.Parallel). `-parallel` controls how many parallel test (t.Parallel) are run inside a test process. --- checkout go help testflag and go help build for detail
+
 - 2025-02-05 11:58:03 TIL: LIFO queue is similar to stack, but they're different ADT
 
 - 2025-02-05 10:55:56 "Always view urgent, unexpected requests with suspicion."
