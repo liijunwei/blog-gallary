@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-02-05 10:55:56 "Always view urgent, unexpected requests with suspicion."
+
 - 2025-02-05 10:54:23 "In the modern workplace, convenience must always be balanced with security"
 
 - 2025-02-05 07:44:28 FTS: Full-Text Search
