@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-02-06 17:33:55 [33 ways to find your next $10k/month startup idea:](https://x.com/gregisenberg/status/1845191285419933978)
+
 - 2025-02-06 14:45:11 [astral-sh/uv: An extremely fast Python package and project manager, written in Rust.](https://github.com/astral-sh/uv)
 
 - 2025-02-05 12:59:01 TIL: flags for `go test`, `-p` controls how many test binary are ran concurrently. for example, -p 1 runs test packages one by one, inside each test process, there are multiple parallel test (t.Parallel). `-parallel` controls how many parallel test (t.Parallel) are run inside a test process. --- checkout go help testflag and go help build for detail
