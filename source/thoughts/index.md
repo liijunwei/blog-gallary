@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-02-07 22:00:19 [go-resty/resty: Simple HTTP, REST, and SSE client library for Go](https://github.com/go-resty/resty)
+
 - 2025-02-06 19:04:33 "String prefixes are characters placed before string literals in Python that change how the string is interpreted. --- f: Formatted string literal (f-string) r: Raw string b: Byte string fr: Combined raw and formatted string literal"
 
 - 2025-02-06 17:33:55 [33 ways to find your next $10k/month startup idea:](https://x.com/gregisenberg/status/1845191285419933978)
