@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-02-10 22:33:09 突然很想认真学学C++
+
 - 2025-02-10 11:33:53 [Reflections from 52 weeks, 52 projects - Speaker Deck](https://speakerdeck.com/jeffersonlam/reflections-from-52-weeks-52-projects)
 
 - 2025-02-10 10:44:35 [Archived Problems - Project Euler](https://projecteuler.net/archives)
