@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-02-10 11:33:53 [Reflections from 52 weeks, 52 projects - Speaker Deck](https://speakerdeck.com/jeffersonlam/reflections-from-52-weeks-52-projects)
+
 - 2025-02-10 10:44:35 [Archived Problems - Project Euler](https://projecteuler.net/archives)
 
 - 2025-02-09 23:46:01 大话西游之月光宝盒里的春三十娘(蓝洁瑛)真耐看啊
