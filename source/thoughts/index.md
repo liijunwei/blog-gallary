@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-02-10 10:44:35 [Archived Problems - Project Euler](https://projecteuler.net/archives)
+
 - 2025-02-09 23:46:01 大话西游之月光宝盒里的春三十娘(蓝洁瑛)真耐看啊
 
 - 2025-02-07 22:00:19 [go-resty/resty: Simple HTTP, REST, and SSE client library for Go](https://github.com/go-resty/resty)
