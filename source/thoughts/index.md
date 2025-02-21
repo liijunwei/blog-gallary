@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-02-21 09:34:16 https://github.com/hashicorp
+
 - 2025-02-17 13:44:37 [Fish 4.0: The Fish Of Theseus](https://fishshell.com/blog/rustport/)
 
 - 2025-02-10 22:33:09 突然很想认真学学C++
