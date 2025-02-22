@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-02-22 18:25:03 "双向链表: Doubly Linked List" != "双向循环链表: Circular Doubly Linked List"
+
 - 2025-02-22 17:41:12 https://github.com/golang/groupcache/blob/master/lru/lru.go
 
 - 2025-02-22 17:09:30 [tools/cmd/digraph/digraph.go at master · golang/tools](https://github.com/golang/tools/blob/master/cmd/digraph/digraph.go)
