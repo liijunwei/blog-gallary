@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-02-22 17:09:30 [tools/cmd/digraph/digraph.go at master · golang/tools](https://github.com/golang/tools/blob/master/cmd/digraph/digraph.go)
+
 - 2025-02-21 09:34:16 https://github.com/hashicorp
 
 - 2025-02-17 13:44:37 [Fish 4.0: The Fish Of Theseus](https://fishshell.com/blog/rustport/)
