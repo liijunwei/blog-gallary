@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-02-24 09:09:38 test
+
 - 2025-02-24 08:55:49 ["A Bloom filter can guarantee the absence of an item from a set, but it can only give an estimation about its presence."](https://redis.io/docs/latest/develop/data-types/probabilistic/bloom-filter/)
 
 - 2025-02-24 08:55:24 Bloom filters may exhibit false positives, but they do not produce false negatives.
