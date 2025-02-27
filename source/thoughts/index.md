@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-02-27 08:30:51 [paper for timing wheels](https://dl.acm.org/doi/pdf/10.1145/37499.37504)
+
 - 2025-02-26 16:47:01 [PostgreSQL: Documentation: 17: 22.3. Template Databases](https://www.postgresql.org/docs/current/manage-ag-templatedbs.html)
 
 - 2025-02-24 11:29:47 [peterldowns/localias: custom local domain aliases for local dev servers](https://github.com/peterldowns/localias?tab=readme-ov-file)
