@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-02-28 12:00:36 [NeverSSL - helping you get online](https://majesticlushbrighttreasure.neverssl.com/online/)
+
 - 2025-02-27 10:20:53 [ajeetdsouza/zoxide: A smarter cd command. Supports all major shells.](https://github.com/ajeetdsouza/zoxide)
 
 - 2025-02-27 08:30:51 [paper for timing wheels](https://dl.acm.org/doi/pdf/10.1145/37499.37504)
