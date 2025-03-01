@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-03-01 23:19:26 CNAME: canonical name record
+
 - 2025-02-28 17:24:30 [If We Set Everything on Fire, We Save Many Intermediate Steps (#214)](https://suno.com/song/63a93f47-604f-438d-9b87-2652fe64ff4e)
 
 - 2025-02-28 12:00:36 [NeverSSL - helping you get online](https://majesticlushbrighttreasure.neverssl.com/online/)
