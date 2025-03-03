@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-03-03 18:40:48 "list item data is usually a subset of detail data"
+
 - 2025-03-03 09:20:33 不要自己打断自己
 
 - 2025-03-03 09:20:25 Simple, Elegant, Flexible, Nothing...
