@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-03-03 20:41:37 [tamatebako/tebako: Tebako: an executable packager (for Ruby programs)](https://github.com/tamatebako/tebako?tab=readme-ov-file#using-docker)
+
 - 2025-03-03 18:40:48 "list item data is usually a subset of detail data"
 
 - 2025-03-03 09:20:33 不要自己打断自己
