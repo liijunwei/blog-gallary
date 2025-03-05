@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-03-05 10:18:09 ["If We Set Everything on Fire, We Save Many Intermediate Steps. --- The patch fixes the bug. The patch creates another bug. The patch to fix the patch breaks a critical feature. The feature was never secure to begin with. Deploy. Repeat. Burn it all down."](https://suno.com/song/63a93f47-604f-438d-9b87-2652fe64ff4e)
+
 - 2025-03-05 08:58:51 `miniserve --upload-files . --qrcode -U .`
 
 - 2025-03-03 20:41:37 [tamatebako/tebako: Tebako: an executable packager (for Ruby programs)](https://github.com/tamatebako/tebako?tab=readme-ov-file#using-docker)
