@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-03-05 22:51:42 [Simple Flash Messages in Go – Alex Edwards](https://www.alexedwards.net/blog/simple-flash-messages-in-golang)
+
 - 2025-03-05 20:39:15 [Trendshift - Explore open-source repositories and find some insights](https://trendshift.io/)
 
 - 2025-03-05 10:18:09 ["If We Set Everything on Fire, We Save Many Intermediate Steps. --- The patch fixes the bug. The patch creates another bug. The patch to fix the patch breaks a critical feature. The feature was never secure to begin with. Deploy. Repeat. Burn it all down."](https://suno.com/song/63a93f47-604f-438d-9b87-2652fe64ff4e)
