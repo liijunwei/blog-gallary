@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-03-06 22:21:29 [Ruby 的快与慢 | PPT](https://www.slideshare.net/slideshow/ruby-speed/41048365)
+
 - 2025-03-05 22:51:42 [Simple Flash Messages in Go – Alex Edwards](https://www.alexedwards.net/blog/simple-flash-messages-in-golang)
 
 - 2025-03-05 20:39:15 [Trendshift - Explore open-source repositories and find some insights](https://trendshift.io/)
