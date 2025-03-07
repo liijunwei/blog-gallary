@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-03-07 22:38:05 [tiny-craft/tiny-rdm: Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.](https://github.com/tiny-craft/tiny-rdm)
+
 - 2025-03-07 10:18:00 [wailsapp/wails: Create beautiful applications using Go](https://github.com/wailsapp/wails)
 
 - 2025-03-06 22:21:29 [Ruby 的快与慢 | PPT](https://www.slideshare.net/slideshow/ruby-speed/41048365)
