@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-03-08 21:57:46 估算: redis 1000万个简单KV使用内存1GB
+
 - 2025-03-07 22:38:05 [tiny-craft/tiny-rdm: Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.](https://github.com/tiny-craft/tiny-rdm)
 
 - 2025-03-07 10:18:00 [wailsapp/wails: Create beautiful applications using Go](https://github.com/wailsapp/wails)
