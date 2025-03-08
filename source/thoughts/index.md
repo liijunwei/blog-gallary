@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-03-09 00:01:34 "A little copying is better than a little dependency." ?
+
 - 2025-03-08 23:21:25 loading 92256722 keys from RDB takes 233 seconds(load 400000 keys/second)
 
 - 2025-03-08 21:57:46 估算: redis 1000万个简单KV使用内存1GB, 1000万个hash KV使用内存1.3G
