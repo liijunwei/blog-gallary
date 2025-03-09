@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-03-09 23:56:06 单机kafka每秒写入50万条消息(done write messages: 100000000, took: 3m23.983108196s)
+
 - 2025-03-09 23:32:05 1G大概能存1000w条kafaka消息
 
 - 2025-03-09 00:05:15 [Go Proverbs](https://go-proverbs.github.io/)
