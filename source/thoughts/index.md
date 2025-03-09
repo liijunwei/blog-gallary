@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-03-09 23:32:05 1G大概能存1000w条kafaka消息
+
 - 2025-03-09 00:05:15 [Go Proverbs](https://go-proverbs.github.io/)
 
 - 2025-03-09 00:01:34 "A little copying is better than a little dependency." ?
