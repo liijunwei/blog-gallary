@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-03-11 13:06:06 pooling solution in go: [panjf2000/ants: 🐜🐜🐜 ants is the most powerful and reliable pooling solution for Go.](https://github.com/panjf2000/ants)
+
 - 2025-03-11 12:47:10 uniq: https://pkg.go.dev/slices#Compact
 
 - 2025-03-11 10:56:41 [General programming concepts - IBM Құжаттамасы](https://www.ibm.com/docs/kk/aix/7.2?topic=aix-general-programming-concepts)
