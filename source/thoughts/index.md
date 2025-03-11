@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-03-11 10:56:41 [General programming concepts - IBM Құжаттамасы](https://www.ibm.com/docs/kk/aix/7.2?topic=aix-general-programming-concepts)
+
 - 2025-03-10 14:05:34 [13 Years Later - Does Redis Need a New Architecture? - Redis](https://redis.io/blog/redis-architecture-13-years-later/)
 
 - 2025-03-10 14:03:11 [dragonflydb/dragonfly: A modern replacement for Redis and Memcached](https://github.com/dragonflydb/dragonfly)
