@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-03-11 16:43:10 database heleprs: [pkgsite/internal/database/database.go at master · golang/pkgsite](https://github.com/golang/pkgsite/blob/master/internal/database/database.go)
+
 - 2025-03-11 16:41:44 [Isolation (database systems) - Wikipedia](https://en.wikipedia.org/wiki/Isolation_(database_systems)#Isolation_levels)
 
 - 2025-03-11 13:06:06 pooling solution in go: [panjf2000/ants: 🐜🐜🐜 ants is the most powerful and reliable pooling solution for Go.](https://github.com/panjf2000/ants)
