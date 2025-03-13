@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-03-13 10:12:56 cursorrules
+
 - 2025-03-12 19:39:45 [Zero-copy deserialization (serde_json) - help - The Rust Programming Language Forum](https://users.rust-lang.org/t/zero-copy-deserialization-serde-json/117611)
 
 - 2025-03-11 16:43:10 database heleprs: [pkgsite/internal/database/database.go at master · golang/pkgsite](https://github.com/golang/pkgsite/blob/master/internal/database/database.go)
