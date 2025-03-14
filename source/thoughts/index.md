@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-03-14 22:31:43 https://www.mikeperham.com/2025/03/05/introducing-sidekiq-8.0/
+
 - 2025-03-14 22:31:18 valkey
 
 - 2025-03-14 09:37:30 ["As of Go 1.16, module-aware mode is enabled by default; Module-aware mode may be controlled with the GO111MODULE environment variable, which can be set to on, off, or auto"](https://go.dev/ref/mod#mod-commands)
