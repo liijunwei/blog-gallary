@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-03-14 09:32:14 [Efficient data transfer through zero copy - IBM Developer](https://developer.ibm.com/articles/j-zerocopy/)
+
 - 2025-03-13 22:49:12 [Zero Copy I: User-Mode Perspective | Linux Journal](https://www.linuxjournal.com/article/6345?page=0,0)
 
 - 2025-03-13 22:28:41 [focusMessages](https://github.com/plutov/ultrafocus/blob/0c2a6d7b98391703ccb644c79d445c732a1287e8/server/server.go#L16-L27)
