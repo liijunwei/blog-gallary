@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-03-14 22:45:40 https://guides.hanamirb.org/v2.2/introduction/getting-started/
+
 - 2025-03-14 22:45:35 # type(subsystem): short description
 
 - 2025-03-14 22:32:01 [Valkey: an open source, in-memory data store](https://github.com/valkey-io/valkey)
