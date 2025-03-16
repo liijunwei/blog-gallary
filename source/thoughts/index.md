@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-03-17 00:36:26 [SQLite Database Optimization and High-Traffic Usage Guide](https://loomloops.com/post/sqlite-for-high-traffic-websites/)
+
 - 2025-03-14 22:45:40 https://guides.hanamirb.org/v2.2/introduction/getting-started/
 
 - 2025-03-14 22:45:35 # type(subsystem): short description
