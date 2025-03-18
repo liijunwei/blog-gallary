@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-03-18 23:05:39 review: [Executing transactions - The Go Programming Language](https://go.dev/doc/database/execute-transactions)
+
 - 2025-03-18 23:02:37 [Managing connections - The Go Programming Language](https://go.dev/doc/database/manage-connections)
 
 - 2025-03-17 00:36:26 [SQLite Database Optimization and High-Traffic Usage Guide](https://loomloops.com/post/sqlite-for-high-traffic-websites/)
