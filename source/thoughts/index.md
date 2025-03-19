@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-03-19 08:33:06 [Isolation In SQLite](https://www.sqlite.org/isolation.html)
+
 - 2025-03-18 23:24:36 [sqlc/docs/howto/prepared_query.md at main · sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc/blob/main/docs/howto/prepared_query.md)
 
 - 2025-03-18 23:05:39 review: [Executing transactions - The Go Programming Language](https://go.dev/doc/database/execute-transactions)
