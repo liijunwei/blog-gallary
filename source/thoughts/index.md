@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-03-20 09:25:22 深度思考的好例子：[为什么要持续重构 - 编程一生 - 博客园](https://www.cnblogs.com/xiexj/p/8280135.html)
+
 - 2025-03-20 08:47:38 exactly what I'm looking for: [hex dumping tcp proxy](https://gist.github.com/dustin/5478818)
 
 - 2025-03-19 08:33:06 [Isolation In SQLite](https://www.sqlite.org/isolation.html)
