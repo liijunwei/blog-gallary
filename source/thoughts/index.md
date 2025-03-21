@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-03-21 08:24:06 [ASCII table - Table of ASCII codes, characters and symbols](https://www.ascii-code.com/)
+
 - 2025-03-20 09:38:10 blog: [Dustin Sallings](https://dustin.sallings.org/)
 
 - 2025-03-20 09:25:22 深度思考的好例子：[为什么要持续重构 - 编程一生 - 博客园](https://www.cnblogs.com/xiexj/p/8280135.html)
