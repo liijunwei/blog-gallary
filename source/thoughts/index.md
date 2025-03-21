@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-03-21 11:25:20 event driven examples: https://github.com/ThreeDotsLabs/watermill/tree/master/_examples
+
 - 2025-03-21 08:24:06 [ASCII table - Table of ASCII codes, characters and symbols](https://www.ascii-code.com/)
 
 - 2025-03-20 09:38:10 blog: [Dustin Sallings](https://dustin.sallings.org/)
