@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-03-25 23:07:00 “思考、等待、斋戒”
+
 - 2025-03-21 11:31:28 https://github.com/brianvoe/gofakeit
 
 - 2025-03-21 11:25:20 event driven examples: https://github.com/ThreeDotsLabs/watermill/tree/master/_examples
