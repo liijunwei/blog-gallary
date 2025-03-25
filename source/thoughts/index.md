@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-03-25 23:34:00 ["Simulating shitty network connections so you can build better systems."](https://github.com/tylertreat/Comcast)
+
 - 2025-03-25 23:32:33 https://github.com/lesismal/nbio
 
 - 2025-03-25 23:07:00 “思考、等待、斋戒”
