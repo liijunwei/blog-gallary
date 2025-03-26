@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-03-26 09:40:39 每天都有进步的含义是 以后的每一步都可以靠得住之前做的积累，而不用反复从头开始；和软件工程里的封装是类似的原理
+
 - 2025-03-26 00:11:44 http://go-database-sql.org/connection-pool.html
 
 - 2025-03-25 23:34:00 ["Simulating shitty network connections so you can build better systems."](https://github.com/tylertreat/Comcast)
