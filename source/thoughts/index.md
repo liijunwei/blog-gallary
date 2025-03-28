@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-03-29 00:11:33 `5000002 goroutines = (14.1-1.72) * 1024 * 1204 KB => 3.05KB / goroutine`
+
 - 2025-03-28 22:34:33 拥抱不可变性
 
 - 2025-03-26 23:16:15 [在层序遍历序列中显式地写出所有 None以唯一表示一棵二叉树](https://www.hello-algo.com/chapter_tree/array_representation_of_tree/#732)
