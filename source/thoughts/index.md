@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-03-28 22:34:33 拥抱不可变性
+
 - 2025-03-26 23:16:15 [在层序遍历序列中显式地写出所有 None以唯一表示一棵二叉树](https://www.hello-algo.com/chapter_tree/array_representation_of_tree/#732)
 
 - 2025-03-26 22:32:42 [金融IT保命丹：多端支付强一致性架构设计实践 - 架构 - dbaplus社群：围绕Data、Blockchain、AiOps的企业级专业社群。技术大咖、原创干货，每天精品原创文章推送，每周线上技术分享，每月线下技术沙龙。](https://dbaplus.cn/news-141-3925-1.html)
