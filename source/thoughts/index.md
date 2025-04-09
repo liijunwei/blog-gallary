@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-04-09 16:03:21 [Tournament Bracket Generator](https://challonge.com/tournament/bracket_generator)
+
 - 2025-04-08 22:27:13 关键在于积累，在于有进步
 
 - 2025-04-01 22:44:10 “Knowledge isn't free. You have to pay attention.”
