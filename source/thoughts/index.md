@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-04-10 08:46:35 [Minder: Faulty Machine Detection for Large-scale Distributed Model Training](https://arxiv.org/html/2411.01791v1)
+
 - 2025-04-09 17:30:24 prometheus blackbox exporter
 
 - 2025-04-09 16:03:21 [Tournament Bracket Generator](https://challonge.com/tournament/bracket_generator)
