@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-04-15 16:03:09 configuration over convention :|
+
 - 2025-04-10 23:55:04 "大规模的系统架构通常是应用特定的 —— 没有一招鲜吃遍天的通用可伸缩架构（不正式的叫法：万金油（magic scaling sauce） ）。应用的问题可能是读取量、写入量、要存储的数据量、数据的复杂度、响应时间要求、访问模式或者所有问题的大杂烩。" --- DDIA chapter1
 
 - 2025-04-10 08:46:35 [Minder: Faulty Machine Detection for Large-scale Distributed Model Training](https://arxiv.org/html/2411.01791v1)
