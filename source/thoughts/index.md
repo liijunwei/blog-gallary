@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-04-18 00:21:23 [Rei - GeekNote](https://geeknote.net/Rei)
+
 - 2025-04-16 09:33:38 ["This helps with engineering and product onboarding and setting 7/30/90 day expectations."](https://mikemcquaid.com/how-and-why-i-interview-engineers-for-workbrew/) (重要的时间点)
 
 - 2025-04-15 23:48:30 ddia读起来好过瘾
