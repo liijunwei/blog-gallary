@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-04-22 09:31:29 ["一个操作是否在另一个操作之前发生是定义并发含义的关键。"](https://vonng.gitbook.io/vonng/part-ii/ch5#kuan-song-de-fa-ding-ren-shu-yu-ti-shi-yi-jiao)
+
 - 2025-04-22 09:03:26 [Creating a quick PDF report from a DuckDB query - Sourcepole](https://blog.sourcepole.ch/2025/02/05/duckdb-query-report/)
 
 - 2025-04-22 08:59:26 [A simple ringbuffer for Ruby.](https://gist.github.com/rusch/4067823)
