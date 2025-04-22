@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-04-22 09:03:26 [Creating a quick PDF report from a DuckDB query - Sourcepole](https://blog.sourcepole.ch/2025/02/05/duckdb-query-report/)
+
 - 2025-04-22 08:59:26 [A simple ringbuffer for Ruby.](https://gist.github.com/rusch/4067823)
 
 - 2025-04-22 08:56:13 [ringbuffer example implementation](https://github.com/anthdm/hollywood/blob/c7a2c2b8162ee3bded91ace7f5192d5dbc507e2f/ringbuffer/ringbuffer.go#L13)
