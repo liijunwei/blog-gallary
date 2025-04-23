@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-04-23 08:45:21 [sqlite3_analyzer - SQLite Download Page](https://www.sqlite.org/download.html)
+
 - 2025-04-22 19:37:44 ["On the Internet, nobody knows you're a dog"](https://en.wikipedia.org/wiki/On_the_Internet,_nobody_knows_you%27re_a_dog)
 
 - 2025-04-22 09:32:31 "因此，只要有两个操作 A 和 B，就有三种可能性：A 在 B 之前发生，或者 B 在 A 之前发生，或者 A 和 B 并发。我们需要的是一个算法来告诉我们两个操作是否是并发的。如果一个操作发生在另一个操作之前，则后面的操作应该覆盖前面的操作，但是如果这些操作是并发的，则存在需要解决的冲突。"
