@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-04-26 16:51:26 [Linux / Unix Scripts](https://www.pixelbeat.org/scripts/)
+
 - 2025-04-23 08:45:21 [sqlite3_analyzer - SQLite Download Page](https://www.sqlite.org/download.html)
 
 - 2025-04-22 19:37:44 ["On the Internet, nobody knows you're a dog"](https://en.wikipedia.org/wiki/On_the_Internet,_nobody_knows_you%27re_a_dog)
