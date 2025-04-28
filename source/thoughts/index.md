@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-04-28 14:07:57 https://tableplus.com/
+
 - 2025-04-26 16:52:36 [ps_mem.py](https://raw.githubusercontent.com/pixelb/ps_mem/master/ps_mem.py)
 
 - 2025-04-26 16:51:26 [Linux / Unix Scripts](https://www.pixelbeat.org/scripts/)
