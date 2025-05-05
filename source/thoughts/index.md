@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-05-05 15:15:56 “我就是擦皮鞋的，从来都是擦一双，没有擦一只的道理，既然你把我的瘾勾上来了，你就得负责到底” ---  1993年春晚小品《擦皮鞋》
+
 - 2025-05-04 23:38:34 "坠落的审判"
 
 - 2025-04-30 07:48:35 [Code generator for Golang projects - Autostrada](https://autostrada.dev/) by "Alex Edwards"
