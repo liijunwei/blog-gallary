@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-05-05 17:05:09 [写给沐沐的信: 让我们一起来搞定应试教育 - 吕小荣](https://mednoter.com/change-the-strategy-based-on-environment.html)
+
 - 2025-05-05 16:50:36 ref: [2025 家庭财务计划 - 吕小荣](https://mednoter.com/financial-plan-for-2025.html)
 
 - 2025-05-05 15:15:56 “我就是擦皮鞋的，从来都是擦一双，没有擦一只的道理，既然你把我的瘾勾上来了，你就得负责到底” ---  1993年春晚小品《擦皮鞋》
