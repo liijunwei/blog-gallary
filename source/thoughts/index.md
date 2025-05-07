@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-05-07 10:27:31 [Programming With Assertions](https://docs.oracle.com/javase/8/docs/technotes/guides/language/assert.html)
+
 - 2025-05-07 10:01:32 [jorgemanrubia/solid_assert: Assert utility for ruby](https://github.com/jorgemanrubia/solid_assert)
 
 - 2025-05-05 17:05:09 [写给沐沐的信: 让我们一起来搞定应试教育 - 吕小荣](https://mednoter.com/change-the-strategy-based-on-environment.html)
