@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-06-02 22:52:20 [apple/foundationdb: FoundationDB - the open source, distributed, transactional key-value store](https://github.com/apple/foundationdb/)
+
 - 2025-05-13 08:13:49 1 * (1+0.05)**(60-20) # => 7.039988712124658
 
 - 2025-05-07 10:27:31 [Programming With Assertions](https://docs.oracle.com/javase/8/docs/technotes/guides/language/assert.html)
