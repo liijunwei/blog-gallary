@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-06-16 08:22:11 [Dollar Street - photos as data to kill country stereotypes](https://www.gapminder.org/dollar-street)
+
 - 2025-06-12 23:39:46 "当在恐惧中的时候，你会看到一个完全不同的世界。所以不要在恐惧中做决定。" From "事实" - 第四章 恐惧本能
 
 - 2025-06-12 23:39:37 "风险 = 危险程度 * 发生的可能性 --- 你面临的真实风险，并不取决于它看起来多么吓人，而在于两个因素：危险的程度和发生的概率" From "事实" - 第四章 恐惧本能
