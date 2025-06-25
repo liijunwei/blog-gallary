@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-06-25 08:37:37 [tldraw/tldraw: very good whiteboard SDK / infinite canvas SDK](https://github.com/tldraw/tldraw)
+
 - 2025-06-16 08:22:11 [Dollar Street - photos as data to kill country stereotypes](https://www.gapminder.org/dollar-street)
 
 - 2025-06-12 23:39:46 "当在恐惧中的时候，你会看到一个完全不同的世界。所以不要在恐惧中做决定。" From "事实" - 第四章 恐惧本能
