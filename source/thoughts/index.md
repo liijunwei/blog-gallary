@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-07-23 08:57:51 [pmezard/go-difflib: Partial port of Python difflib package to Go](https://github.com/pmezard/go-difflib)
+
 - 2025-07-23 08:57:12 [samg/diffy: Easy Diffing in Ruby](https://github.com/samg/diffy)
 
 - 2025-07-23 08:56:38 [difflib — Helpers for computing deltas — Python 3.13.5 documentation](https://docs.python.org/3/library/difflib.html)
