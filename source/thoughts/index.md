@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-07-23 08:56:38 [difflib — Helpers for computing deltas — Python 3.13.5 documentation](https://docs.python.org/3/library/difflib.html)
+
 - 2025-07-03 23:42:55 [Refactoring from the Imperative to the Functional Style - Dev.java](https://dev.java/learn/refactoring-to-functional-style/)
 
 - 2025-07-03 23:21:36 [Java Platform Evolution - Dev.java](https://dev.java/evolution/)
