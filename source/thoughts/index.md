@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-07-31 09:05:25 [Ben E. C. Boyter | Ben E. C. Boyter](https://boyter.org/)
+
 - 2025-07-23 08:57:51 [pmezard/go-difflib: Partial port of Python difflib package to Go](https://github.com/pmezard/go-difflib)
 
 - 2025-07-23 08:57:12 [samg/diffy: Easy Diffing in Ruby](https://github.com/samg/diffy)
