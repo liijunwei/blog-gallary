@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-08-01 20:46:35 马克进入灵犀子最后和冉冰告别的那段真是催泪
+
 - 2025-07-31 09:06:36 [simplecache/simplecache.go at main · boyter/simplecache](https://github.com/boyter/simplecache/blob/main/simplecache.go)
 
 - 2025-07-31 09:05:25 [Ben E. C. Boyter | Ben E. C. Boyter](https://boyter.org/)
