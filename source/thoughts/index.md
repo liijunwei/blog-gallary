@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-08-24 20:48:25 [GitHub - gravitycontained/HuffmanCodingVisualization](https://github.com/gravitycontained/HuffmanCodingVisualization)
+
 - 2025-08-24 20:48:12 [GitHub - JyotinderSingh/go-wal: A Write-Ahead-Log implementation in Go](https://github.com/JyotinderSingh/go-wal)
 
 - 2025-08-23 22:51:21 [GitHub - tsoding/zzzwe: zzzwe](https://github.com/tsoding/zzzwe)
