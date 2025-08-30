@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-08-30 22:40:06 云在青天，水在瓶。都是忠臣，没有奸臣
+
 - 2025-08-24 20:48:25 [GitHub - gravitycontained/HuffmanCodingVisualization](https://github.com/gravitycontained/HuffmanCodingVisualization)
 
 - 2025-08-24 20:48:12 [GitHub - JyotinderSingh/go-wal: A Write-Ahead-Log implementation in Go](https://github.com/JyotinderSingh/go-wal)
