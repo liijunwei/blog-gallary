@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-09-05 00:03:14 [Apache Projects List](https://projects.apache.org/projects.html)
+
 - 2025-09-04 23:39:13 [Dabeaz Courses](https://dabeaz.com/courses.html)
 
 - 2025-08-31 11:37:57 胡宗宪公忠体国
