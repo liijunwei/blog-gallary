@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-09-17 23:35:19 [27 bugs in 24 hours | David R. MacIver](https://www.drmaciver.com/2015/03/27-bugs-in-24-hours/)
+
 - 2025-09-17 22:50:14 [Property-based Testing Patterns](https://blog.ssanj.net/posts/2016-06-26-property-based-testing-patterns.html)
 
 - 2025-09-10 09:12:15 [jqwik](https://jqwik.net/)
