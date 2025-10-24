@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2025-10-24 08:38:07 `import pdb; pdb.set_trace()` --- https://docs.python.org/3/library/pdb.html
+
 - 2025-10-20 22:57:22 恭喜马总
 
 - 2025-10-12 00:11:12 回来吧
