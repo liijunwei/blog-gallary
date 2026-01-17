@@ -3,6 +3,8 @@ title: thoughts
 date: 2021-09-10 15:55:20
 ---
 
+- 2026-01-17 17:33:50 eTLD: https://publicsuffix.org/list/public_suffix_list.dat
+
 - 2025-10-28 22:37:45 我有希望吗
 
 - 2025-10-24 08:38:07 `import pdb; pdb.set_trace()` --- https://docs.python.org/3/library/pdb.html
